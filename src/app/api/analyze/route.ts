@@ -41,7 +41,7 @@ export async function POST(request: Request) {
     const silver = silverArtifactSchema.parse(
       await readJsonArtifact<SilverArtifact>(
         input.silverArtifact.pathname,
-        "public",
+        "private",
         input.silverArtifact.demo,
       ),
     );

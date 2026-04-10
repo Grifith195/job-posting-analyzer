@@ -61,14 +61,14 @@ export async function POST(request: Request) {
       "bronze",
       jsonPathname("bronze", runId),
       bronze,
-      "public",
+      "private",
       demo,
     );
     const silverArtifact = await saveJsonArtifact(
       "silver",
       jsonPathname("silver", runId),
       silver,
-      "public",
+      "private",
       demo,
     );
 

@@ -103,16 +103,6 @@ function StageCard({
 
       <div className="mt-5 space-y-2 border-t border-white/10 pt-4 text-xs text-neutral-400">
         <p className="font-mono break-all">{artifact?.pathname ?? "No artifact yet"}</p>
-        {artifact?.url && artifact.access === "public" && !artifact.demo ? (
-          <a
-            className="inline-flex font-semibold text-teal-200 underline-offset-4 hover:underline"
-            href={artifact.url}
-            target="_blank"
-            rel="noreferrer"
-          >
-            Open JSON artifact
-          </a>
-        ) : null}
         {artifact?.access === "private" ? (
           <p className="font-semibold text-rose-200">Private artifact path only</p>
         ) : null}
