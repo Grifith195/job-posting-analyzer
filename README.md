@@ -203,6 +203,48 @@ Run the production build:
 npm run build
 ```
 
+## Scheduled ETL Workflow
+
+The repo includes a GitHub Actions workflow that runs a scheduled Adzuna ETL job every day at 10:00 UTC. It can also be run manually from the Actions tab.
+
+The workflow searches Adzuna Canada for:
+
+- software developer
+- data analyst
+- product manager
+- frontend developer
+
+For each role, it fetches 10 postings, runs the same ETL normalization used by the app, and writes cleaned JSON output to:
+
+```txt
+data/scheduled-job-postings/
+```
+
+The generated files are:
+
+```txt
+software-developer.json
+data-analyst.json
+product-manager.json
+frontend-developer.json
+manifest.json
+```
+
+If the generated JSON changes, the workflow commits the updated files back to the repository with the GitHub Actions bot account.
+
+The scheduled workflow needs these GitHub repository secrets:
+
+```txt
+ADZUNA_APP_ID
+ADZUNA_APP_KEY
+```
+
+You can run the same ETL locally if those environment variables are available:
+
+```bash
+npm run etl:scheduled
+```
+
 ## Deployment
 
 The app is intended to deploy on Vercel.
