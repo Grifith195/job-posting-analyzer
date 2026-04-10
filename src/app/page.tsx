@@ -75,9 +75,13 @@ function StageCard({
       : title === "Silver"
         ? "bg-[linear-gradient(90deg,#a3e635,#2dd4bf)]"
         : "bg-[linear-gradient(90deg,#2dd4bf,#38bdf8)]";
+  const testId = `${title.toLowerCase()}-stage`;
 
   return (
-    <section className="group flex min-h-56 flex-col justify-between overflow-hidden rounded-lg border border-white/10 bg-white/[0.06] shadow-[0_18px_70px_rgba(0,0,0,0.26)] transition duration-300 hover:-translate-y-0.5 hover:border-white/20 hover:bg-white/[0.08]">
+    <section
+      className="group flex min-h-56 flex-col justify-between overflow-hidden rounded-lg border border-white/10 bg-white/[0.06] shadow-[0_18px_70px_rgba(0,0,0,0.26)] transition duration-300 hover:-translate-y-0.5 hover:border-white/20 hover:bg-white/[0.08]"
+      data-testid={testId}
+    >
       <div className={`h-1.5 ${railClass}`} />
       <div className="flex flex-1 flex-col justify-between p-5">
       <div className="space-y-3">
@@ -377,7 +381,10 @@ export default function Home() {
               </div>
               <div className="rounded-lg border border-rose-300/20 bg-rose-300/10 px-6 py-5 text-center">
                 <p className="text-xs font-semibold uppercase text-rose-200">Score</p>
-                <p className="mt-1 text-5xl font-semibold text-white">
+                <p
+                  className="mt-1 text-5xl font-semibold text-white"
+                  data-testid="role-fit-score"
+                >
                   {analysisResult.analysis.roleFitScore}
                 </p>
               </div>
