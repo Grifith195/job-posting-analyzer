@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-04-10T11:01:47.706Z",
+  "source": "Adzuna",
+  "country": "ca",
+  "resultsPerRole": 10,
+  "roles": [
+    "software developer",
+    "data analyst",
+    "product manager",
+    "frontend developer"
+  ],
+  "files": [
+    "software-developer.json",
+    "data-analyst.json",
+    "product-manager.json",
+    "frontend-developer.json"
+  ]
+}
