@@ -1,0 +1,183 @@
+{
+  "generatedAt": "2026-04-10T11:01:47.706Z",
+  "source": "Adzuna",
+  "country": "ca",
+  "query": {
+    "title": "frontend developer",
+    "resultsPerPage": 10
+  },
+  "jobs": [
+    {
+      "id": "5646943277",
+      "title": "Frontend Developer",
+      "company": "Initiate",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 90000,
+      "salaryMax": 100000,
+      "createdAt": "2026-02-26T23:44:53Z",
+      "descriptionSnippet": "Front End Developer We are partnering with a market leading, Canadian online sportsbook and casino to hire an experienced Front End Developer . Reporting to the Director of Development, you will play a key role in building and enhancing high-performance web applications used daily by a large and engaged customer base. This opportunity is ideal for a strong React-focused developer who thrives in Agile environments and is passionate about delivering scalable, maintainable, and high-quality user e…",
+      "redirectUrl": "https://www.adzuna.ca/details/5646943277?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Agile"
+      ]
+    },
+    {
+      "id": "5658759150",
+      "title": "Frontend Developer",
+      "company": "Ambyint",
+      "location": "Calgary, Calgary region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-08T16:18:21Z",
+      "descriptionSnippet": "As a Frontend Developer at Ambyint, you will report to the Head of Technology Operations and play a key role in designing and building scalable, cloud-native solutions that solve complex challenges in the oil and gas industry. You’ll work with modern technologies, mentor junior developers, and push the boundaries of what’s possible with cloud, AI, and IoT. We’re especially looking for someone who cares deeply about fostering a strong team culture, supporting team members, and driving meaningful…",
+      "redirectUrl": "https://www.adzuna.ca/details/5658759150?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5440765180",
+      "title": "Frontend Developer",
+      "company": "Ameresco",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-10-10T05:24:48Z",
+      "descriptionSnippet": "Ameresco, Inc. (NYSE:AMRC) is a leading energy solutions provider dedicated to helping customers reduce costs, enhance resilience, and decarbonize to net zero in the global energy transition. We are a trusted, full-service partner to public sector and government entities, K-12 schools, higher education, utilities, and healthcare customers across the U.S., Canada, the U.K., and Europe. At Ameresco, we show the way by developing, constructing and operating tailored smart energy efficiency solutio…",
+      "redirectUrl": "https://www.adzuna.ca/details/5440765180?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "4801408437",
+      "title": "Frontend Developer",
+      "company": "crescendo",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 65000,
+      "salaryMax": 85000,
+      "createdAt": "2024-07-30T17:33:26Z",
+      "descriptionSnippet": "Do you love bringing brilliant features to life? Are you a motivated developer with professional experience in React, Redux, and GraphQL? Do you crave a flexible environment where you can build amazing things with other passionate people? Then you might be Crescendo DEI’s next Frontend Engineer. About the team You will be one of the first members in a new cross-functional engineering division, and you will work closely with Product and UX to build amazing experiences for our users while using t…",
+      "redirectUrl": "https://www.adzuna.ca/details/4801408437?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "API"
+      ]
+    },
+    {
+      "id": "5689052853",
+      "title": "Frontend Developer",
+      "company": "Intellifi",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-03T16:30:34Z",
+      "descriptionSnippet": "Join nesto — proudly named Canadian Rocketship 2025*. A Deloitte Fast 50 company evolving alongside Canada’s top tech innovators and disrupting a 2.1 Trillion-dollar mortgage industry at light speed by building the mortgage ecosystem of the future. BUILD lending technology with the best developers, AI engineers, and mortgage experts in the country. Work on a modern tech stack and a development framework designed to unlock your full potential and accelerate your career. Why join us Hypergrowth: …",
+      "redirectUrl": "https://www.adzuna.ca/details/5689052853?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5669066493",
+      "title": "Senior Frontend Developer",
+      "company": "LOD Technologies Inc.",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-16T21:29:51Z",
+      "descriptionSnippet": "We’re looking for a Frontend Developer with strong TypeScript skills who is passionate about clean, maintainable code and thrives in a fast-paced, agile environment. You’ll join a focused and technical team solving real infrastructure problems where energy, AI, and compute intersect. You’ll be helping us transition to Next.js while building new apps and tools. We value strong coding principles (especially SOLID), GraphQL expertise, and awareness of frontend security best practices. Whether your…",
+      "redirectUrl": "https://www.adzuna.ca/details/5669066493?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "API",
+        "Agile"
+      ]
+    },
+    {
+      "id": "5694705354",
+      "title": "Senior Frontend Developer",
+      "company": "Jobgether",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-09T16:13:13Z",
+      "descriptionSnippet": "This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Senior Frontend Developer in Canada. We are seeking a talented and experienced Senior Frontend Developer to join a fast-paced, innovative environment where your work will have global impact. You will play a key role in designing, developing, and maintaining high-performance, secure, and scalable frontend applications. This role offers the opportunity to collaborate with a distributed team of top-…",
+      "redirectUrl": "https://www.adzuna.ca/details/5694705354?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5527428859",
+      "title": "Senior Frontend Developer",
+      "company": "Join Us at Loop",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-12-04T12:04:19Z",
+      "descriptionSnippet": "About the Role Hi, I'm Yan , Head of Engineering at Loop, and I’m hiring a Senior Frontend & Product Designer–Engineer to build the interfaces where businesses manage their money across borders. In this role, you’ll both design and implement a UI that handles real complexity—multi-currency balances, pending transactions, FX rates that shift—while making it feel calm, intuitive, and trustworthy. This role is an onsite position at our downtown Toronto office ( Bay and Bloor ). Why We Exist Small …",
+      "redirectUrl": "https://www.adzuna.ca/details/5527428859?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5664013799",
+      "title": "Angular Frontend Developer",
+      "company": "Tangentia",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-13T16:09:25Z",
+      "descriptionSnippet": "Role: Angular Frontend Developer Location: Toronto, ON 4 Days work from office and 1 day work from home Must Have B.S. degree in Computer Science or related technical field with equivalent practical experience. 2 years experience with JavaScript and TypeScript. Intermediate to advanced knowledge and experience with Angular 20, including standalone components, dependency injection, change detection, RxJS, and Angular CLI/Nx workspace management. Proficiency in NgRx (or Redux), signals, and react…",
+      "redirectUrl": "https://www.adzuna.ca/details/5664013799?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "5674058520",
+      "title": "Senior Frontend Developer",
+      "company": "LOD Technologies Inc.",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-21T04:58:39Z",
+      "descriptionSnippet": "Job Description Job Description We’re looking for a Frontend Developer with strong TypeScript skills who is passionate about clean, maintainable code and thrives in a fast-paced, agile environment. You’ll join a focused and technical team solving real infrastructure problems where energy, AI, and compute intersect. You’ll be helping us transition to Next.js while building new apps and tools. We value strong coding principles (especially SOLID), GraphQL expertise, and awareness of frontend secur…",
+      "redirectUrl": "https://www.adzuna.ca/details/5674058520?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "API",
+        "Agile"
+      ]
+    }
+  ]
+}
