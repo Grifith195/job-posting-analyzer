@@ -38,7 +38,7 @@ const keywordMatchers = [
   { label: "Docker", aliases: ["docker", "container"] },
   { label: "Git", aliases: ["git", "github"] },
   { label: "API", aliases: ["api", "apis", "rest", "graphql"] },
-  { label: "Testing", aliases: ["testing", "test", "jest", "playwright"] },
+  { label: "Testing", aliases: ["testing", "test", "tests", "jest", "playwright"] },
   { label: "Agile", aliases: ["agile", "scrum"] },
   { label: "Communication", aliases: ["communication", "stakeholder"] },
 ];
