@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T11:01:47.706Z",
+  "generatedAt": "2026-04-11T10:22:47.173Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-01T05:11:56Z",
       "descriptionSnippet": "The Customer Analytics team is looking for a curious and proactive Business Intelligence Analyst (BI Analyst) with a passion for connecting data to meaningful outcomes. In this role, you’ll play a key part in shaping the optimal customer experience by building the data foundation, measurement framework and self-serve analytics ecosystem that enable visibility, accountability and continuous improvement across the organization. Ultimately, you will play a key role in shaping a data-driven custome…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5685206395?se=xryvq8w08RGK-ec26Kq9hw&utm_medium=api&utm_source=3ebb75f8&v=3565F97D3C848E1D5CA877202A6CE36B2431DC76",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5685206395?se=_jwNY5A18RGJHdr7UbGXYA&utm_medium=api&utm_source=3ebb75f8&v=3565F97D3C848E1D5CA877202A6CE36B2431DC76",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -83,6 +83,24 @@
       "extractedKeywords": []
     },
     {
+      "id": "5686135063",
+      "title": "Data Analyst",
+      "company": "CGI",
+      "location": "Halifax region, Nova Scotia",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": 60000,
+      "salaryMax": 120000,
+      "createdAt": "2026-04-01T16:32:28Z",
+      "descriptionSnippet": "Position Description: At CGI, we are seeking an experienced and driven Data Analyst with strong data engineering and data platform capabilities. In this hybrid role, you will bridge the gap between business needs and technical solutions, focusing on data-centric initiatives. The ideal candidate will have hands-on experience in SQL, ETL processes, and modern Azure-based data platforms (including Databricks and Medallion architecture), along with strong skills in business requirement gathering, s…",
+      "redirectUrl": "https://www.adzuna.ca/details/5686135063?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Azure"
+      ]
+    },
+    {
       "id": "5658791211",
       "title": "Data Analyst",
       "company": "Amy Jensen",
@@ -141,21 +159,6 @@
       "createdAt": "2026-02-01T14:23:23Z",
       "descriptionSnippet": "Data Analyst Where Greatness Grows The greatest achievements in history are borne from the greatness within people – where human potential meets vision, and passion fuels evolution. Unlocking this potential is the most important thing we do at Bird. As a leader in Canadian construction for over 100 years, the impact of our team is etched deeply within the core of our legacy. Beyond Bird, this impact is felt in the fundamental aspects of our everyday lives. From the critical infrastructure we de…",
       "redirectUrl": "https://www.adzuna.ca/details/5609227776?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5081281067",
-      "title": "Data Analyst",
-      "company": "TheAppLabb",
-      "location": "Central Bay Street, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-03-07T12:07:09Z",
-      "descriptionSnippet": "About TheAILabb: TheAILabb is a leading innovation company specializing in AI-powered digital solutions, mobile app development, and emerging technologies. We leverage data-driven insights to enhance digital experiences and drive business growth. We are looking for a Data Analyst to help translate raw data into meaningful insights that drive strategic decision-making. Role Overview: As a Data Analyst at TheAILabb , you will analyze complex datasets, create interactive visualizations, and genera…",
-      "redirectUrl": "https://www.adzuna.ca/details/5081281067?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
