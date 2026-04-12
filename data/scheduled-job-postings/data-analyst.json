@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T10:22:47.173Z",
+  "generatedAt": "2026-04-12T10:28:02.287Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-01T05:11:56Z",
       "descriptionSnippet": "The Customer Analytics team is looking for a curious and proactive Business Intelligence Analyst (BI Analyst) with a passion for connecting data to meaningful outcomes. In this role, you’ll play a key part in shaping the optimal customer experience by building the data foundation, measurement framework and self-serve analytics ecosystem that enable visibility, accountability and continuous improvement across the organization. Ultimately, you will play a key role in shaping a data-driven custome…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5685206395?se=_jwNY5A18RGJHdr7UbGXYA&utm_medium=api&utm_source=3ebb75f8&v=3565F97D3C848E1D5CA877202A6CE36B2431DC76",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5685206395?se=Ak1ISVo28RGxboRaoq6V0w&utm_medium=api&utm_source=3ebb75f8&v=3565F97D3C848E1D5CA877202A6CE36B2431DC76",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -79,6 +79,21 @@
       "createdAt": "2026-02-28T15:07:40Z",
       "descriptionSnippet": "Junior Data Analyst Toronto, Ontario, Canada | 1-Year Contract | Hybrid (1–2 days/week in Downtown Toronto) Pay Rate: $38.18/hour (T4) | $46.60/hour (Incorporated) About the Role The Junior Data Analyst will support data-driven decision-making by collecting, analyzing, and transforming data into meaningful insights for stakeholders across the business. This role is ideal for a detail-oriented professional with strong technical skills in Excel and Power BI and demonstrated experience working wit…",
       "redirectUrl": "https://www.adzuna.ca/details/5648925676?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5696977340",
+      "title": "Data Analyst",
+      "company": "Stripe",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-11T16:41:30Z",
+      "descriptionSnippet": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of you…",
+      "redirectUrl": "https://www.adzuna.ca/details/5696977340?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -146,21 +161,6 @@
       "extractedKeywords": [
         "Python"
       ]
-    },
-    {
-      "id": "5609227776",
-      "title": "Data Analyst",
-      "company": "Bird Construction",
-      "location": "Calgary, Calgary region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-02-01T14:23:23Z",
-      "descriptionSnippet": "Data Analyst Where Greatness Grows The greatest achievements in history are borne from the greatness within people – where human potential meets vision, and passion fuels evolution. Unlocking this potential is the most important thing we do at Bird. As a leader in Canadian construction for over 100 years, the impact of our team is etched deeply within the core of our legacy. Beyond Bird, this impact is felt in the fundamental aspects of our everyday lives. From the critical infrastructure we de…",
-      "redirectUrl": "https://www.adzuna.ca/details/5609227776?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
