@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-15T10:51:24.960Z",
+  "generatedAt": "2026-04-16T10:53:49.901Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-24T12:46:15Z",
       "descriptionSnippet": "Software Development Team Manager Introduction I’m Robin Sionniere, Recruitment Advisor at FED, specializing in technology roles. I’m excited to share an outstanding opportunity for a Software Development Supervisor within a forward‑thinking organization where innovation drives every project and where your leadership truly makes an impact. Mission Your responsibilities Team leadership & management Oversee task prioritization and workload distribution within the development team. Lead Agile cere…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677044009?se=vkZuDLk48RGjYfOkuxQsqQ&utm_medium=api&utm_source=3ebb75f8&v=21EC778C0F28D507586E189D99506C9871143624",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5677044009?se=_A5AjYI58RGSJZce6-kbZw&utm_medium=api&utm_source=3ebb75f8&v=21EC778C0F28D507586E189D99506C9871143624",
       "source": "Adzuna",
       "extractedKeywords": [
         "Agile"
@@ -35,7 +35,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-27T00:55:31Z",
       "descriptionSnippet": "Job Description: C'est une période excitante pour rejoindre EXFO, car nous sommes en pleine transformation technologique notamment dans notre division d’Instruments Optiques - là où vous pourrez trouver tous les produits historiques qui font de nous le leader mondial depuis 40 ans! Au sein de l’équipe de développement logiciel de notre application embarqué « tech-hub » et en tant que développeur full-stack dans notre équipe Exchange chez EXFO, vous serez appelé à prendre en main l’évolution de …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5679992031?se=vkZuDLk48RGjYfOkuxQsqQ&utm_medium=api&utm_source=3ebb75f8&v=B4CF3EA6F1BED11FB8C75634B01348A82F2071F9",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5679992031?se=_A5AjYI58RGSJZce6-kbZw&utm_medium=api&utm_source=3ebb75f8&v=B4CF3EA6F1BED11FB8C75634B01348A82F2071F9",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -50,7 +50,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-27T00:55:31Z",
       "descriptionSnippet": "Description du poste : C'est une période excitante pour rejoindre EXFO, car nous sommes en pleine transformation technologique notamment dans notre division d’Instruments Optiques - là où vous pourrez trouver tous les produits historiques qui font de nous le leader mondial depuis 40 ans! Au sein de l’équipe de développement logiciel de notre application embarqué « tech-hub » et en tant que développeur full-stack dans notre équipe Exchange chez EXFO, vous serez appelé à prendre en main l’évoluti…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5679991997?se=vkZuDLk48RGjYfOkuxQsqQ&utm_medium=api&utm_source=3ebb75f8&v=A2E334DB9354E18BDB3F71666C3AAB9DCFCD7222",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5679991997?se=_A5AjYI58RGSJZce6-kbZw&utm_medium=api&utm_source=3ebb75f8&v=A2E334DB9354E18BDB3F71666C3AAB9DCFCD7222",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -106,6 +106,23 @@
       ]
     },
     {
+      "id": "5700306875",
+      "title": "Software Developer",
+      "company": "vTech Solution",
+      "location": "Ontario, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 176800,
+      "salaryMax": 197600,
+      "createdAt": "2026-04-15T12:32:52Z",
+      "descriptionSnippet": "Job Summary: The Senior Software Developer will be responsible for building a modern cloud-based digital information system and integrating it with other internal and external applications. This role involves application support, testing assistance, preparing deployment packages, and participating in knowledge transfer. Location:Ontario, Canada Responsibilities: - Provide application support. - Support the testing team during system and UAT testing. - Prepare deployment packages of code and ins…",
+      "redirectUrl": "https://www.adzuna.ca/details/5700306875?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
+      ]
+    },
+    {
       "id": "5694028175",
       "title": "Software Developer",
       "company": "Vention",
@@ -141,35 +158,22 @@
       "extractedKeywords": []
     },
     {
-      "id": "5686671971",
+      "id": "5700306873",
       "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
+      "company": "vTech Solution",
+      "location": "Ontario, Canada",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-01T21:12:44Z",
-      "descriptionSnippet": "Job Description This is a 1-year fix-term position Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for m…",
-      "redirectUrl": "https://www.adzuna.ca/details/5686671971?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5345231455",
-      "title": "Software Developer",
-      "company": "ProjectLine Solutions",
-      "location": "Saskatoon, Saskatchewan",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-08-09T05:32:31Z",
-      "descriptionSnippet": "Our Software Developers are strong programmers with demonstrated experience writing robust, maintainable code for challenging and stimulating projects. You'll have the opportunity to match your passion for software development with a diversity of challenging and exciting projects. Qualifications Demonstrated software development experience. A solid understanding of TypeScript and Reactive programming principles. Experience with Angular and Angular Material. Familiarity with common CSS framework…",
-      "redirectUrl": "https://www.adzuna.ca/details/5345231455?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 176800,
+      "salaryMax": 199680,
+      "createdAt": "2026-04-15T12:32:52Z",
+      "descriptionSnippet": "Job Summary: The Software Developer is responsible for designing, developing, testing, implementing, and troubleshooting data pipelines and complex data transformation procedures. This role involves working with Python and AWS services to build efficient data models and reusable code. The developer will also review existing code, assist junior team members, and propose technical solutions for new business requirements. Location:Ontario, Canada Responsibilities: - Design, develop, test, implemen…",
+      "redirectUrl": "https://www.adzuna.ca/details/5700306873?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "TypeScript"
+        "Python",
+        "AWS",
+        "Testing"
       ]
     }
   ]
