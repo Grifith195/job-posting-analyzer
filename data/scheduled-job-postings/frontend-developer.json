@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:53:49.901Z",
+  "generatedAt": "2026-04-17T10:45:39.718Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,24 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5646943277",
+      "title": "Frontend Developer",
+      "company": "Initiate",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 90000,
+      "salaryMax": 100000,
+      "createdAt": "2026-02-26T23:44:53Z",
+      "descriptionSnippet": "Front End Developer We are partnering with a market leading, Canadian online sportsbook and casino to hire an experienced Front End Developer . Reporting to the Director of Development, you will play a key role in building and enhancing high-performance web applications used daily by a large and engaged customer base. This opportunity is ideal for a strong React-focused developer who thrives in Agile environments and is passionate about delivering scalable, maintainable, and high-quality user e…",
+      "redirectUrl": "https://www.adzuna.ca/details/5646943277?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Agile"
+      ]
+    },
     {
       "id": "5658759150",
       "title": "Frontend Developer",
@@ -92,36 +110,6 @@
       ]
     },
     {
-      "id": "5694705354",
-      "title": "Senior Frontend Developer",
-      "company": "Jobgether",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-09T16:13:13Z",
-      "descriptionSnippet": "This position is posted by Jobgether on behalf of a partner company. We are currently looking for a Senior Frontend Developer in Canada. We are seeking a talented and experienced Senior Frontend Developer to join a fast-paced, innovative environment where your work will have global impact. You will play a key role in designing, developing, and maintaining high-performance, secure, and scalable frontend applications. This role offers the opportunity to collaborate with a distributed team of top-…",
-      "redirectUrl": "https://www.adzuna.ca/details/5694705354?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5527428859",
-      "title": "Senior Frontend Developer",
-      "company": "Join Us at Loop",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-12-04T12:04:19Z",
-      "descriptionSnippet": "About the Role Hi, I'm Yan , Head of Engineering at Loop, and I’m hiring a Senior Frontend & Product Designer–Engineer to build the interfaces where businesses manage their money across borders. In this role, you’ll both design and implement a UI that handles real complexity—multi-currency balances, pending transactions, FX rates that shift—while making it feel calm, intuitive, and trustworthy. This role is an onsite position at our downtown Toronto office ( Bay and Bloor ). Why We Exist Small …",
-      "redirectUrl": "https://www.adzuna.ca/details/5527428859?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5664013799",
       "title": "Angular Frontend Developer",
       "company": "Tangentia",
@@ -173,6 +161,21 @@
       "createdAt": "2025-12-12T14:04:27Z",
       "descriptionSnippet": "A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend solutions, crafting software products that fulfill expectations with high …",
       "redirectUrl": "https://www.adzuna.ca/details/5539959828?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5700420094",
+      "title": "Senior Frontend Developer",
+      "company": "Coveo",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-15T16:15:46Z",
+      "descriptionSnippet": "Build the admin experience that powers the backbone of our customers implementations What if your code could directly shape how users manage, monitor, and scale their Coveo experience? You’ll take ownership of complex frontend features in our admin platform, driving both usability and technical excellence. You’ll join a team that values autonomy, strong engineering practices, and thoughtful collaboration with UX and backend teams to deliver cohesive, high-impact features. As a Senior Frontend D…",
+      "redirectUrl": "https://www.adzuna.ca/details/5700420094?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

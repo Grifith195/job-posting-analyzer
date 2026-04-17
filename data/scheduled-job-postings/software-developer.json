@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T10:53:49.901Z",
+  "generatedAt": "2026-04-17T10:45:39.718Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5701578483",
+      "title": "Développeur principal de logiciels / Senior Software Developer",
+      "company": "Trane Technologies",
+      "location": "Westmount, Montréal",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-16T14:44:43Z",
+      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=Xpdtk0o68RGZ3L9kDetG3g&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5677044009",
       "title": "Software Development Team Manager",
@@ -18,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-24T12:46:15Z",
       "descriptionSnippet": "Software Development Team Manager Introduction I’m Robin Sionniere, Recruitment Advisor at FED, specializing in technology roles. I’m excited to share an outstanding opportunity for a Software Development Supervisor within a forward‑thinking organization where innovation drives every project and where your leadership truly makes an impact. Mission Your responsibilities Team leadership & management Oversee task prioritization and workload distribution within the development team. Lead Agile cere…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677044009?se=_A5AjYI58RGSJZce6-kbZw&utm_medium=api&utm_source=3ebb75f8&v=21EC778C0F28D507586E189D99506C9871143624",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5677044009?se=Xpdtk0o68RGZ3L9kDetG3g&utm_medium=api&utm_source=3ebb75f8&v=21EC778C0F28D507586E189D99506C9871143624",
       "source": "Adzuna",
       "extractedKeywords": [
         "Agile"
@@ -35,7 +50,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-27T00:55:31Z",
       "descriptionSnippet": "Job Description: C'est une période excitante pour rejoindre EXFO, car nous sommes en pleine transformation technologique notamment dans notre division d’Instruments Optiques - là où vous pourrez trouver tous les produits historiques qui font de nous le leader mondial depuis 40 ans! Au sein de l’équipe de développement logiciel de notre application embarqué « tech-hub » et en tant que développeur full-stack dans notre équipe Exchange chez EXFO, vous serez appelé à prendre en main l’évolution de …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5679992031?se=_A5AjYI58RGSJZce6-kbZw&utm_medium=api&utm_source=3ebb75f8&v=B4CF3EA6F1BED11FB8C75634B01348A82F2071F9",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5679992031?se=Xpdtk0o68RGZ3L9kDetG3g&utm_medium=api&utm_source=3ebb75f8&v=B4CF3EA6F1BED11FB8C75634B01348A82F2071F9",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -50,7 +65,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-27T00:55:31Z",
       "descriptionSnippet": "Description du poste : C'est une période excitante pour rejoindre EXFO, car nous sommes en pleine transformation technologique notamment dans notre division d’Instruments Optiques - là où vous pourrez trouver tous les produits historiques qui font de nous le leader mondial depuis 40 ans! Au sein de l’équipe de développement logiciel de notre application embarqué « tech-hub » et en tant que développeur full-stack dans notre équipe Exchange chez EXFO, vous serez appelé à prendre en main l’évoluti…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5679991997?se=_A5AjYI58RGSJZce6-kbZw&utm_medium=api&utm_source=3ebb75f8&v=A2E334DB9354E18BDB3F71666C3AAB9DCFCD7222",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5679991997?se=Xpdtk0o68RGZ3L9kDetG3g&utm_medium=api&utm_source=3ebb75f8&v=A2E334DB9354E18BDB3F71666C3AAB9DCFCD7222",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -156,25 +171,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5500257905?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5700306873",
-      "title": "Software Developer",
-      "company": "vTech Solution",
-      "location": "Ontario, Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 176800,
-      "salaryMax": 199680,
-      "createdAt": "2026-04-15T12:32:52Z",
-      "descriptionSnippet": "Job Summary: The Software Developer is responsible for designing, developing, testing, implementing, and troubleshooting data pipelines and complex data transformation procedures. This role involves working with Python and AWS services to build efficient data models and reusable code. The developer will also review existing code, assist junior team members, and propose technical solutions for new business requirements. Location:Ontario, Canada Responsibilities: - Design, develop, test, implemen…",
-      "redirectUrl": "https://www.adzuna.ca/details/5700306873?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Python",
-        "AWS",
-        "Testing"
-      ]
     }
   ]
 }
