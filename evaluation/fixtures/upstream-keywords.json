@@ -1,0 +1,102 @@
+[
+  {
+    "fixtureId": "up-1",
+    "label": "React frontend role",
+    "rawJob": {
+      "id": "up-1",
+      "title": "Frontend Developer",
+      "description": "Build React and TypeScript interfaces, integrate REST APIs, write tests, and collaborate in Agile ceremonies with designers."
+    },
+    "expectedKeywords": ["React", "TypeScript", "API", "Testing", "Agile"]
+  },
+  {
+    "fixtureId": "up-2",
+    "label": "Next.js frontend role",
+    "rawJob": {
+      "id": "up-2",
+      "title": "Senior Frontend Developer",
+      "description": "Use Next.js, TypeScript, GraphQL APIs, and frontend security best practices to ship maintainable apps."
+    },
+    "expectedKeywords": ["Next.js", "TypeScript", "API"]
+  },
+  {
+    "fixtureId": "up-3",
+    "label": "Backend platform role",
+    "rawJob": {
+      "id": "up-3",
+      "title": "Platform Developer",
+      "description": "Develop Node.js services, SQL workflows, Docker deployments, AWS integrations, and automated tests."
+    },
+    "expectedKeywords": ["Node.js", "SQL", "Docker", "AWS", "Testing"]
+  },
+  {
+    "fixtureId": "up-4",
+    "label": "Analyst dashboard role",
+    "rawJob": {
+      "id": "up-4",
+      "title": "Data Analyst",
+      "description": "Maintain dashboards, reports, and Power BI assets for stakeholders using Excel and SQL."
+    },
+    "expectedKeywords": ["Dashboarding", "Reporting", "Power BI", "Excel", "SQL", "Stakeholder Management"]
+  },
+  {
+    "fixtureId": "up-5",
+    "label": "Business intelligence role",
+    "rawJob": {
+      "id": "up-5",
+      "title": "Business Intelligence Analyst",
+      "description": "Create Tableau visualizations, measurement frameworks, and business reporting for cross-functional teams."
+    },
+    "expectedKeywords": ["Tableau", "Data Visualization", "Reporting", "Stakeholder Management"]
+  },
+  {
+    "fixtureId": "up-6",
+    "label": "PM roadmap role",
+    "rawJob": {
+      "id": "up-6",
+      "title": "Product Manager",
+      "description": "Own the roadmap, backlog prioritization, stakeholder communication, and product strategy for a B2B platform."
+    },
+    "expectedKeywords": ["Roadmapping", "Stakeholder Management", "Product Strategy", "Communication"]
+  },
+  {
+    "fixtureId": "up-7",
+    "label": "PM experimentation role",
+    "rawJob": {
+      "id": "up-7",
+      "title": "Principal Product Manager",
+      "description": "Run experimentation, define KPIs, improve funnels, and make metric-driven product decisions with engineering and design."
+    },
+    "expectedKeywords": ["Experimentation", "Metrics", "Stakeholder Management"]
+  },
+  {
+    "fixtureId": "up-8",
+    "label": "Junior analyst role",
+    "rawJob": {
+      "id": "up-8",
+      "title": "Junior Data Analyst",
+      "description": "Collect data, update spreadsheets, prepare reports, and communicate findings through dashboards and visualizations."
+    },
+    "expectedKeywords": ["Excel", "Reporting", "Dashboarding", "Data Visualization", "Communication"]
+  },
+  {
+    "fixtureId": "up-9",
+    "label": "Product discovery role",
+    "rawJob": {
+      "id": "up-9",
+      "title": "Product Manager",
+      "description": "Lead customer interviews, user research, roadmap planning, and go-to-market coordination across stakeholder groups."
+    },
+    "expectedKeywords": ["User Research", "Roadmapping", "Product Strategy", "Stakeholder Management"]
+  },
+  {
+    "fixtureId": "up-10",
+    "label": "Analytics engineer role",
+    "rawJob": {
+      "id": "up-10",
+      "title": "Analytics Engineer",
+      "description": "Build SQL models, reporting layers, dashboards, and Tableau assets to support stakeholder decisions."
+    },
+    "expectedKeywords": ["SQL", "Reporting", "Dashboarding", "Tableau", "Stakeholder Management"]
+  }
+]

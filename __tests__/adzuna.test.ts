@@ -67,4 +67,63 @@ describe("Adzuna ETL normalization", () => {
       extractedKeywords: ["Python", "SQL"],
     });
   });
+
+  it("extracts analyst and product-manager signals that were previously missing", () => {
+    const jobs = cleanAdzunaJobs({
+      results: [
+        {
+          id: "analyst-1",
+          title: "Data Analyst",
+          description:
+            "Build dashboards and reports in Excel, Tableau, and Power BI for stakeholders using SQL and data visualization best practices.",
+        },
+        {
+          id: "pm-1",
+          title: "Product Manager",
+          description:
+            "Own roadmap prioritization, product strategy, KPI reviews, customer interviews, and experimentation across cross-functional teams.",
+        },
+      ],
+    });
+
+    expect(jobs[0].extractedKeywords).toEqual(
+      expect.arrayContaining([
+        "SQL",
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "Dashboarding",
+        "Reporting",
+        "Data Visualization",
+        "Stakeholder Management",
+      ]),
+    );
+    expect(jobs[1].extractedKeywords).toEqual(
+      expect.arrayContaining([
+        "Roadmapping",
+        "Product Strategy",
+        "Metrics",
+        "User Research",
+        "Experimentation",
+        "Stakeholder Management",
+      ]),
+    );
+  });
+
+  it("does not infer JavaScript just because a role mentions Next.js or Node.js", () => {
+    const jobs = cleanAdzunaJobs({
+      results: [
+        {
+          id: "frontend-1",
+          title: "Frontend Developer",
+          description: "Use Next.js, TypeScript, and Node.js services with GraphQL APIs.",
+        },
+      ],
+    });
+
+    expect(jobs[0].extractedKeywords).toEqual(
+      expect.arrayContaining(["Next.js", "TypeScript", "Node.js", "API"]),
+    );
+    expect(jobs[0].extractedKeywords).not.toContain("JavaScript");
+  });
 });

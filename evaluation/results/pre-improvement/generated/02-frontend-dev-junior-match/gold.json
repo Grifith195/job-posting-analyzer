@@ -1,0 +1,75 @@
+{
+  "caseId": "02-frontend-dev-junior-match",
+  "source": "Gemini",
+  "analysis": {
+    "roleFitScore": 68,
+    "band": "Partial match",
+    "summary": "The resume shows a solid foundation in React and TypeScript, which are central to several Toronto-based roles like those at Crescendo and Initiate. While it aligns well with frontend-heavy requirements and accessibility, it lacks the specific backend, Next.js, or Angular experience required by higher-level or specialized postings in the market sample.",
+    "commonRequirements": [
+      "React",
+      "TypeScript",
+      "Agile methodologies",
+      "API integration",
+      "User accessibility",
+      "Component libraries"
+    ],
+    "matchedStrengths": [
+      "React expertise",
+      "TypeScript proficiency",
+      "Focus on accessibility",
+      "Experience with responsive CSS"
+    ],
+    "missingSignals": [
+      "Next.js (fe-3)",
+      "GraphQL (fe-2)",
+      "Angular and RxJS (fe-4)",
+      "Testing frameworks",
+      "Cloud-native deployment",
+      "Agile ceremony participation"
+    ],
+    "resumeSuggestions": [
+      "Add details on API integration or data fetching to match 'API' and 'GraphQL' signals found in fe-2 and fe-4",
+      "Specify any experience with Next.js or Angular to increase market coverage for Vancouver and specialized Toronto roles",
+      "Include mention of Agile tools or processes like Jira or Scrum to align with fe-1 and fe-3",
+      "Incorporate specific testing tools like Jest or Cypress to meet the 'Testing' value mentioned in fe-4"
+    ],
+    "jobMatches": [
+      {
+        "jobId": "fe-2",
+        "title": "Frontend Engineer",
+        "company": "Crescendo",
+        "score": 85,
+        "reason": "Strong alignment with React, TypeScript, and the specific focus on accessible user experiences."
+      },
+      {
+        "jobId": "fe-1",
+        "title": "Frontend Developer",
+        "company": "Initiate",
+        "score": 80,
+        "reason": "High overlap with React focus and reusable component quality requirements."
+      },
+      {
+        "jobId": "fe-3",
+        "title": "Senior Frontend Developer",
+        "company": "LOD Technologies",
+        "score": 55,
+        "reason": "Matches TypeScript foundation but lacks the required Next.js experience and senior-level seniority."
+      },
+      {
+        "jobId": "fe-4",
+        "title": "Angular Frontend Developer",
+        "company": "Tangentia",
+        "score": 45,
+        "reason": "Significant technical gap as the role requires Angular and RxJS rather than React."
+      },
+      {
+        "jobId": "fe-5",
+        "title": "Frontend Developer",
+        "company": "Ambyint",
+        "score": 50,
+        "reason": "Candidate lacks the cloud-native design and mentoring experience emphasized in the description."
+      }
+    ],
+    "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+  }
+}

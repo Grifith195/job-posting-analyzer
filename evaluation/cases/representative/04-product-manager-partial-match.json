@@ -1,0 +1,15 @@
+{
+  "caseId": "04-product-manager-partial-match",
+  "label": "Product manager partial match",
+  "jobFixture": "evaluation/fixtures/raw-jobs/product-manager-bundle.json",
+  "searchContext": {
+    "title": "product manager",
+    "location": "Toronto"
+  },
+  "resumeText": "Cross-functional coordinator who supported roadmap discussions, ran stakeholder interviews, tracked Jira tickets, wrote requirement notes, and participated in Agile ceremonies. Has some product metrics exposure and launch support, but no formal product manager title and limited ownership of strategy.",
+  "expectedBands": ["Partial match", "Good match"],
+  "expectedScoreRange": { "min": 60, "max": 78 },
+  "expectedStrengthThemes": ["roadmap", "stakeholders", "Agile", "communication", "metrics"],
+  "expectedGapThemes": ["product strategy", "ownership", "experimentation"],
+  "notes": "The resume has adjacent PM experience, but should still show clear gaps."
+}

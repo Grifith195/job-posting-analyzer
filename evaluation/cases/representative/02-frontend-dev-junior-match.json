@@ -1,0 +1,15 @@
+{
+  "caseId": "02-frontend-dev-junior-match",
+  "label": "Frontend developer junior match",
+  "jobFixture": "evaluation/fixtures/raw-jobs/frontend-developer-bundle.json",
+  "searchContext": {
+    "title": "frontend developer",
+    "location": "Toronto"
+  },
+  "resumeText": "Frontend-focused developer with React, responsive CSS, accessibility improvements, and component library work from an internship and school projects. Experience with TypeScript, design collaboration, and shipping user interface fixes, but only limited backend and deployment exposure.",
+  "expectedBands": ["Partial match", "Good match"],
+  "expectedScoreRange": { "min": 65, "max": 80 },
+  "expectedStrengthThemes": ["React", "TypeScript", "communication", "user experience", "Agile"],
+  "expectedGapThemes": ["backend", "deployment", "metrics"],
+  "notes": "Good UI alignment, but not a full senior frontend profile."
+}

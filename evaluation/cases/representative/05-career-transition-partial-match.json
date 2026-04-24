@@ -1,0 +1,15 @@
+{
+  "caseId": "05-career-transition-partial-match",
+  "label": "Career transition partial match",
+  "jobFixture": "evaluation/fixtures/raw-jobs/software-developer-bundle.json",
+  "searchContext": {
+    "title": "software developer",
+    "location": "Remote"
+  },
+  "resumeText": "Career switcher with a bootcamp and portfolio projects in JavaScript, REST APIs, SQL, Git, and frontend web development. Can show project work and teamwork, but has little professional software experience and limited testing depth.",
+  "expectedBands": ["Partial match"],
+  "expectedScoreRange": { "min": 55, "max": 72 },
+  "expectedStrengthThemes": ["JavaScript", "API", "SQL", "Git", "project experience"],
+  "expectedGapThemes": ["testing", "production experience", "quantified impact"],
+  "notes": "This case should stay in partial-match territory."
+}

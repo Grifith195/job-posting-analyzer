@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "id": "fe-1",
+      "title": "Frontend Developer",
+      "company": { "display_name": "Initiate" },
+      "location": { "display_name": "Toronto, Ontario" },
+      "category": { "label": "IT Jobs" },
+      "description": "Build high-performance React interfaces, collaborate in Agile ceremonies, and improve reusable component quality for a customer-facing web app."
+    },
+    {
+      "id": "fe-2",
+      "title": "Frontend Engineer",
+      "company": { "display_name": "Crescendo" },
+      "location": { "display_name": "Toronto, Ontario" },
+      "category": { "label": "IT Jobs" },
+      "description": "Create accessible user experiences with React, TypeScript, GraphQL APIs, and close partnership with product and UX."
+    },
+    {
+      "id": "fe-3",
+      "title": "Senior Frontend Developer",
+      "company": { "display_name": "LOD Technologies" },
+      "location": { "display_name": "Vancouver, British Columbia" },
+      "category": { "label": "IT Jobs" },
+      "description": "Use Next.js and TypeScript to ship secure frontend apps, write maintainable code, and work in a fast-paced Agile environment."
+    },
+    {
+      "id": "fe-4",
+      "title": "Angular Frontend Developer",
+      "company": { "display_name": "Tangentia" },
+      "location": { "display_name": "Toronto, Ontario" },
+      "category": { "label": "IT Jobs" },
+      "description": "Develop JavaScript and TypeScript frontends with Angular, RxJS, and component libraries. Testing and API integration experience are valued."
+    },
+    {
+      "id": "fe-5",
+      "title": "Frontend Developer",
+      "company": { "display_name": "Ambyint" },
+      "location": { "display_name": "Calgary, Alberta" },
+      "category": { "label": "IT Jobs" },
+      "description": "Design scalable cloud-native interfaces, mentor junior developers, and communicate progress across engineering and product teams."
+    }
+  ]
+}

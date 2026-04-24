@@ -11,7 +11,7 @@ import {
 } from "@/lib/pipeline";
 import { createDemoAnalysis } from "@/lib/server/demo-data";
 
-const analysisJsonSchema = {
+export const analysisJsonSchema = {
   type: "object",
   properties: {
     roleFitScore: { type: "integer", minimum: 0, maximum: 100 },
@@ -53,6 +53,50 @@ const analysisJsonSchema = {
   ],
 };
 
+export type AnalysisPromptVariant = "current" | "baseline";
+
+export type ThemeAliasMap = Record<string, string[]>;
+
+export const themeAliases: ThemeAliasMap = {
+  react: ["react"],
+  "next js": ["next.js", "nextjs", "next js"],
+  typescript: ["typescript"],
+  javascript: ["javascript", "js"],
+  "node js": ["node.js", "nodejs", "node js", "node"],
+  python: ["python"],
+  sql: ["sql", "postgres", "mysql"],
+  aws: ["aws", "amazon web services"],
+  azure: ["azure"],
+  docker: ["docker"],
+  git: ["git", "github"],
+  api: ["api", "apis", "rest", "graphql"],
+  testing: ["testing", "tests", "jest", "playwright", "unit test"],
+  agile: ["agile", "scrum"],
+  communication: ["communication", "communicate", "collaborate"],
+  excel: ["excel", "spreadsheet", "spreadsheets"],
+  tableau: ["tableau"],
+  "power bi": ["power bi", "powerbi"],
+  dashboarding: ["dashboard", "dashboards"],
+  reporting: ["report", "reports", "reporting"],
+  "data visualization": ["visualization", "visualisation", "visualizations", "visualisations"],
+  "stakeholder management": ["stakeholder", "stakeholders", "cross-functional", "cross functional"],
+  "product strategy": ["product strategy", "go to market", "go-to-market", "market research", "business value"],
+  roadmapping: ["roadmap", "roadmaps", "backlog", "prioritization", "prioritisation"],
+  experimentation: ["experimentation", "experiment", "a/b", "ab testing", "hypothesis"],
+  "user research": ["user research", "user interview", "customer interview", "customer interviews"],
+  metrics: ["metric", "metrics", "kpi", "kpis", "okr", "okrs"],
+  "quantified impact": ["quantified impact", "quantify", "measurable outcome"],
+  "production experience": ["production", "production support", "live environment"],
+  backend: ["backend", "server-side", "services"],
+  deployment: ["deploy", "deployment", "cloud"],
+  "project experience": ["project", "projects", "portfolio"],
+  ownership: ["ownership", "own", "owned", "lead"],
+  "user experience": ["user experience", "ux", "accessibility"],
+  frontend: ["frontend", "front end", "ui"],
+  statistics: ["statistics", "statistical"],
+  "data engineering": ["data engineering", "data pipeline", "pipelines"],
+};
+
 export function hasGeminiConfig() {
   return Boolean(process.env.GEMINI_API_KEY);
 }
@@ -63,6 +107,44 @@ export function geminiModel() {
 
 export function hashResume(resumeText: string) {
   return createHash("sha256").update(resumeText).digest("hex").slice(0, 16);
+}
+
+async function sleep(ms: number) {
+  await new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function shouldRetryGeminiError(error: unknown) {
+  if (!(error instanceof Error)) {
+    return false;
+  }
+
+  return (
+    "status" in error &&
+    (error.status === 429 || error.status === 500 || error.status === 503)
+  );
+}
+
+async function generateContentWithRetry(
+  ai: GoogleGenAI,
+  request: Parameters<GoogleGenAI["models"]["generateContent"]>[0],
+) {
+  let attempt = 0;
+  let delayMs = 1500;
+
+  while (true) {
+    try {
+      return await ai.models.generateContent(request);
+    } catch (error) {
+      attempt += 1;
+
+      if (attempt >= 4 || !shouldRetryGeminiError(error)) {
+        throw error;
+      }
+
+      await sleep(delayMs);
+      delayMs *= 2;
+    }
+  }
 }
 
 function normalizeScore(value: number) {
@@ -85,10 +167,40 @@ function normalizeAnalysis(analysis: AnalysisResult): AnalysisResult {
   };
 }
 
+function analysisPromptText(
+  variant: AnalysisPromptVariant,
+  resumeText: string,
+  analyzedJobs: CleanedJob[],
+) {
+  if (variant === "baseline") {
+    return [
+      "Compare this resume against these job postings and return JSON that matches the schema.",
+      "",
+      `Jobs JSON: ${JSON.stringify(analyzedJobs)}`,
+      "",
+      `Resume text: ${resumeText}`,
+    ].join("\n");
+  }
+
+  return [
+    "You are a resume coach. Compare the pasted resume against a small market sample of Canadian job postings.",
+    "Return only structured JSON that matches the schema.",
+    "Score fit as a coaching estimate, not a hiring decision.",
+    "Focus on concrete overlap, missing requirements, and specific resume improvements.",
+    "Ground every major point in the provided jobs and resume.",
+    "Do not claim certainty and do not store or repeat the full resume.",
+    "",
+    `Jobs JSON: ${JSON.stringify(analyzedJobs)}`,
+    "",
+    `Resume text: ${resumeText}`,
+  ].join("\n");
+}
+
 export async function analyzeResumeAgainstJobs(
   resumeText: string,
   jobs: CleanedJob[],
   demo: boolean,
+  variant: AnalysisPromptVariant = "current",
 ): Promise<AnalysisResult> {
   const analyzedJobs = jobs.slice(0, ANALYZED_JOB_LIMIT);
 
@@ -101,23 +213,14 @@ export async function analyzeResumeAgainstJobs(
   }
 
   const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-  const response = await ai.models.generateContent({
+  const response = await generateContentWithRetry(ai, {
     model: geminiModel(),
     contents: [
       {
         role: "user",
         parts: [
           {
-            text: [
-              "You are a resume coach. Compare the pasted resume against a small market sample of Canadian job postings.",
-              "Return only structured JSON that matches the schema.",
-              "Score fit as a coaching estimate, not a hiring decision.",
-              "Do not claim certainty and do not store or repeat the full resume.",
-              "",
-              `Jobs JSON: ${JSON.stringify(analyzedJobs)}`,
-              "",
-              `Resume text: ${resumeText}`,
-            ].join("\n"),
+            text: analysisPromptText(variant, resumeText, analyzedJobs),
           },
         ],
       },

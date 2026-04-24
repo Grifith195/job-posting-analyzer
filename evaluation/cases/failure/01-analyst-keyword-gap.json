@@ -1,0 +1,15 @@
+{
+  "caseId": "01-analyst-keyword-gap",
+  "label": "Failure case: analyst keyword gap",
+  "jobFixture": "evaluation/fixtures/raw-jobs/data-analyst-bundle.json",
+  "searchContext": {
+    "title": "data analyst",
+    "location": "Toronto"
+  },
+  "resumeText": "Analyst candidate with strong Excel, Tableau, Power BI, dashboarding, reporting, and stakeholder communication skills, but only light Python exposure.",
+  "expectedBands": ["Good match", "Strong match"],
+  "expectedScoreRange": { "min": 72, "max": 88 },
+  "expectedStrengthThemes": ["Excel", "Tableau", "Power BI", "dashboards", "reporting", "stakeholders"],
+  "expectedGapThemes": ["Python", "statistics"],
+  "failureHypothesis": "Before the keyword extraction improvement, analyst-specific signals are under-detected, so the analysis may skew generic or under-score the fit."
+}

@@ -1,0 +1,72 @@
+{
+  "caseId": "03-data-analyst-strong-match",
+  "source": "Gemini",
+  "analysis": {
+    "roleFitScore": 88,
+    "band": "Strong match",
+    "summary": "The candidate demonstrates a strong technical alignment with the core requirements of the Canadian market sample, specifically showing proficiency in the most frequently requested tools: SQL, Python, and BI software. While technical skills are a match, the profile leans toward junior or internship experience, which may require additional emphasis on business impact to secure more senior roles.",
+    "commonRequirements": [
+      "SQL for data retrieval",
+      "Data visualization (Tableau/Power BI)",
+      "Python for data analysis",
+      "Stakeholder reporting and communication",
+      "Dashboard creation and maintenance"
+    ],
+    "matchedStrengths": [
+      "Proficiency in the primary tech stack (SQL, Python, Excel)",
+      "Versatility in both Tableau and Power BI visualization tools",
+      "Direct experience communicating with Product and Operations teams",
+      "End-to-end data workflow experience from cleaning to reporting"
+    ],
+    "missingSignals": [
+      "Quantifiable business impact or metrics from projects",
+      "Exposure to data governance or data quality frameworks",
+      "Experience with 'source-of-truth' dataset curation or ETL pipelines",
+      "Professional/Industry experience beyond academic or internship settings"
+    ],
+    "resumeSuggestions": [
+      "Quantify the results of your dashboards (e.g., 'reduced manual reporting time by X hours')",
+      "Specify which Python libraries (Pandas, NumPy) were used to demonstrate technical depth",
+      "Detail a specific data cleaning challenge you solved to align with 'data governance' needs in Job da-4",
+      "Mention the scale of datasets handled to demonstrate capability for 'complex datasets' mentioned by TheAILabb"
+    ],
+    "jobMatches": [
+      {
+        "jobId": "da-1",
+        "title": "Data Analyst",
+        "company": "COSMO",
+        "score": 90,
+        "reason": "Direct overlap with SQL, dashboarding, and the requirement to partner with product/operations teams."
+      },
+      {
+        "jobId": "da-2",
+        "title": "Junior Data Analyst",
+        "company": "emergiTEL",
+        "score": 95,
+        "reason": "Strongest match for project-based experience and proficiency in Excel and Power BI for reporting."
+      },
+      {
+        "jobId": "da-3",
+        "title": "Business Intelligence Analyst",
+        "company": "BRP",
+        "score": 82,
+        "reason": "Matches the Tableau and reporting requirements, though candidate may need to prove ability to build 'self-serve' assets."
+      },
+      {
+        "jobId": "da-4",
+        "title": "Data Analyst",
+        "company": "Central Business Solutions",
+        "score": 88,
+        "reason": "Strong alignment with Python and SQL requirements, though governance experience is not explicitly stated."
+      },
+      {
+        "jobId": "da-5",
+        "title": "Data Analyst",
+        "company": "TheAILabb",
+        "score": 85,
+        "reason": "Fits the interactive visualization and cross-functional support requirements well."
+      }
+    ],
+    "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+  }
+}

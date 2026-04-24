@@ -19,7 +19,17 @@ This is a coaching tool for resume improvement. It is not a hiring decision tool
 
 ## Architecture
 
-The app uses a bronze/silver/gold data pipeline.
+The app uses a bronze/silver/gold data pipeline and is best classified as `prompt-first`.
+
+Why `prompt-first` fits this app:
+
+- The server cleans postings into a stable silver schema, then places the top cleaned jobs directly into the Gemini context.
+- The app does not retrieve from a vector store or document index, so it is not retrieval-first / RAG.
+- The model is not choosing among tools or functions, so it is not tool-first.
+
+The main alternative I did not choose is `retrieval-first / RAG`. For this project, the analyzed context is intentionally small: only the top 5 cleaned jobs are sent to Gemini. That keeps cost, operational overhead, and debugging complexity lower than adding embeddings, retrieval, and retrieval evaluation. If the app later needs to compare resumes against larger historical job corpora or many stored runs at once, RAG would become more attractive.
+
+One important capability not currently implemented is `RAG`. I would add it if the silver dataset grows beyond what is practical to place directly in context or if the app needs multi-run historical search.
 
 ### Bronze
 
@@ -80,6 +90,27 @@ gold/<run-id>.json
 ```
 
 All Blob artifacts are written with private access because the Vercel Blob store is configured as private.
+
+## Pipeline And Data Flow
+
+The system flow is:
+
+1. Raw user input: job title, optional location, and pasted resume text
+2. Ingestion: fetch raw Adzuna postings
+3. Bronze: save the raw response as the ingestion artifact
+4. Silver: normalize postings into a stable schema and extract deterministic keyword signals
+5. Gold: send the top 5 silver jobs plus the resume text to Gemini for structured analysis
+6. UI: show artifact paths, cleaned postings, score band, strengths, gaps, and resume suggestions
+
+For the live analysis stage, the silver artifact is the source of truth. The gold analysis is built from cleaned silver jobs, not directly from the raw bronze payload.
+
+Important failure points include:
+
+- Adzuna fetch failures or empty responses
+- ETL normalization or keyword extraction misses
+- Blob save or read failures
+- Gemini rate-limit or schema-shape failures
+- Resume text that is too short or mismatched with the selected run
 
 ## Tech Stack
 
@@ -202,6 +233,74 @@ Run the production build:
 ```bash
 npm run build
 ```
+
+## Assignment 6 Evaluation
+
+Assignment 6 artifacts live in [evaluation/README.md](/c:/Users/rosre/job-posting-analyzer/evaluation/README.md).
+
+The repo includes:
+
+- 5 representative cases in [evaluation/cases/representative](/c:/Users/rosre/job-posting-analyzer/evaluation/cases/representative)
+- 2 failure cases in [evaluation/cases/failure](/c:/Users/rosre/job-posting-analyzer/evaluation/cases/failure)
+- fixed raw job fixtures in [evaluation/fixtures](/c:/Users/rosre/job-posting-analyzer/evaluation/fixtures)
+- rubric definitions in [evaluation/rubrics](/c:/Users/rosre/job-posting-analyzer/evaluation/rubrics)
+- saved evaluation results in [evaluation/results](/c:/Users/rosre/job-posting-analyzer/evaluation/results)
+
+### What was evaluated
+
+The evaluation covers the three required areas:
+
+- `Output quality`: structured Gemini analysis on 5 representative cases
+- `End-to-end task success`: raw fixture -> bronze -> silver -> gold pipeline success
+- `One upstream component`: keyword extraction quality during ETL
+
+### Saved results
+
+Pre-improvement results:
+
+- output quality summary: [evaluation/results/pre-improvement/summary.md](/c:/Users/rosre/job-posting-analyzer/evaluation/results/pre-improvement/summary.md)
+- output quality current: [evaluation/results/pre-improvement/output-quality-current.json](/c:/Users/rosre/job-posting-analyzer/evaluation/results/pre-improvement/output-quality-current.json)
+- output quality baseline: [evaluation/results/pre-improvement/output-quality-baseline.json](/c:/Users/rosre/job-posting-analyzer/evaluation/results/pre-improvement/output-quality-baseline.json)
+- end-to-end: [evaluation/results/pre-improvement/end-to-end-current.json](/c:/Users/rosre/job-posting-analyzer/evaluation/results/pre-improvement/end-to-end-current.json)
+- failure analysis: [evaluation/results/pre-improvement/failure-analysis.md](/c:/Users/rosre/job-posting-analyzer/evaluation/results/pre-improvement/failure-analysis.md)
+
+Post-improvement results:
+
+- upstream rerun summary: [evaluation/results/post-improvement/summary.md](/c:/Users/rosre/job-posting-analyzer/evaluation/results/post-improvement/summary.md)
+- upstream rerun metrics: [evaluation/results/post-improvement/upstream-keyword-eval.json](/c:/Users/rosre/job-posting-analyzer/evaluation/results/post-improvement/upstream-keyword-eval.json)
+- before/after delta: [evaluation/results/improvement-delta.md](/c:/Users/rosre/job-posting-analyzer/evaluation/results/improvement-delta.md)
+
+### Key numbers
+
+From the saved artifacts:
+
+- pre-improvement output-quality average: `14.4 / 20`
+- pre-improvement baseline average: `15.8 / 20`
+- representative cases at acceptable or better: `4 / 5`
+- pre-improvement end-to-end task success: `5 / 5` cases, `100%`
+- pre-improvement upstream keyword F1: `50.0%`
+- post-improvement upstream keyword F1: `97.7%`
+
+### Improvement made
+
+The main evidence-based improvement was expanding keyword extraction in the silver ETL layer to better capture analyst and product-manager requirements and to reduce noisy aliases.
+
+This change was motivated by:
+
+- low upstream recall before the change
+- failure-case weakness on analyst and PM-style postings
+- the need for clearer silver-layer debugging signals
+
+To rerun the saved Assignment 6 evaluation commands:
+
+```bash
+npm run eval:assignment6:pre
+npm run eval:assignment6:post
+```
+
+Note:
+
+- The post-improvement rerun is upstream-only in this saved artifact set because the Gemini free-tier quota was exhausted after the pre-improvement full evaluation run. The strongest measured before/after evidence is therefore on the upstream component.
 
 ## Scheduled ETL Workflow
 

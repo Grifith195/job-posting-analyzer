@@ -1,0 +1,15 @@
+{
+  "caseId": "03-data-analyst-strong-match",
+  "label": "Data analyst strong match",
+  "jobFixture": "evaluation/fixtures/raw-jobs/data-analyst-bundle.json",
+  "searchContext": {
+    "title": "data analyst",
+    "location": "Toronto"
+  },
+  "resumeText": "Data analyst with experience using SQL, Python, Excel, Tableau, and Power BI to clean data, create dashboards, prepare reporting for stakeholders, and explain trends to product and operations teams. Built recurring metrics dashboards and ad hoc analyses for student and internship projects.",
+  "expectedBands": ["Good match", "Strong match"],
+  "expectedScoreRange": { "min": 75, "max": 90 },
+  "expectedStrengthThemes": ["SQL", "Python", "Excel", "Tableau", "Power BI", "dashboards", "reporting", "stakeholders"],
+  "expectedGapThemes": ["advanced statistics", "data engineering", "production scale"],
+  "notes": "This case should improve once analyst-oriented keyword extraction gets better."
+}

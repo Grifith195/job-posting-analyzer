@@ -1,0 +1,82 @@
+{
+  "caseId": "05-career-transition-partial-match",
+  "source": "evaluation-fixture",
+  "query": {
+    "title": "software developer",
+    "location": "Remote"
+  },
+  "raw": {
+    "results": [
+      {
+        "id": "sw-1",
+        "title": "Software Developer",
+        "company": {
+          "display_name": "Northstar Labs"
+        },
+        "location": {
+          "display_name": "Toronto, Ontario"
+        },
+        "category": {
+          "label": "IT Jobs"
+        },
+        "description": "Build React and TypeScript product features, integrate REST APIs, write unit tests, and collaborate with product and design teams using Git."
+      },
+      {
+        "id": "sw-2",
+        "title": "Full Stack Developer",
+        "company": {
+          "display_name": "Maple Systems"
+        },
+        "location": {
+          "display_name": "Ottawa, Ontario"
+        },
+        "category": {
+          "label": "IT Jobs"
+        },
+        "description": "Develop Node.js services and SQL-backed applications, maintain CI pipelines, and ship customer-facing features with Docker and AWS."
+      },
+      {
+        "id": "sw-3",
+        "title": "Software Developer",
+        "company": {
+          "display_name": "Prairie Digital"
+        },
+        "location": {
+          "display_name": "Remote, Canada"
+        },
+        "category": {
+          "label": "IT Jobs"
+        },
+        "description": "Deliver JavaScript and TypeScript application features, improve testing coverage, and communicate tradeoffs with stakeholders during Agile planning."
+      },
+      {
+        "id": "sw-4",
+        "title": "Platform Developer",
+        "company": {
+          "display_name": "Harbour Cloud"
+        },
+        "location": {
+          "display_name": "Vancouver, British Columbia"
+        },
+        "category": {
+          "label": "IT Jobs"
+        },
+        "description": "Own API integrations, cloud deployment workflows, and monitoring for a growing platform. Experience with Git, Docker, and SQL is required."
+      },
+      {
+        "id": "sw-5",
+        "title": "Backend Software Developer",
+        "company": {
+          "display_name": "Civic Data Works"
+        },
+        "location": {
+          "display_name": "Montreal, Quebec"
+        },
+        "category": {
+          "label": "IT Jobs"
+        },
+        "description": "Build backend services, data pipelines, and internal tools with Python, APIs, SQL, testing, and clear technical communication."
+      }
+    ]
+  }
+}

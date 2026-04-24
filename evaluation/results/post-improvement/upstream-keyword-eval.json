@@ -1,0 +1,270 @@
+{
+  "generatedAt": "2026-04-24T22:59:15.844Z",
+  "metrics": {
+    "precision": 97.7,
+    "recall": 97.7,
+    "f1": 97.7,
+    "counts": {
+      "correct": 43,
+      "predicted": 44,
+      "expected": 44
+    }
+  },
+  "cases": [
+    {
+      "fixtureId": "up-1",
+      "label": "React frontend role",
+      "expectedKeywords": [
+        "React",
+        "TypeScript",
+        "API",
+        "Testing",
+        "Agile"
+      ],
+      "predictedKeywords": [
+        "React",
+        "TypeScript",
+        "API",
+        "Testing",
+        "Agile",
+        "Communication"
+      ],
+      "correctPredictions": [
+        "React",
+        "TypeScript",
+        "API",
+        "Testing",
+        "Agile"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": [
+        "Communication"
+      ]
+    },
+    {
+      "fixtureId": "up-2",
+      "label": "Next.js frontend role",
+      "expectedKeywords": [
+        "Next.js",
+        "TypeScript",
+        "API"
+      ],
+      "predictedKeywords": [
+        "Next.js",
+        "TypeScript",
+        "API"
+      ],
+      "correctPredictions": [
+        "Next.js",
+        "TypeScript",
+        "API"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": []
+    },
+    {
+      "fixtureId": "up-3",
+      "label": "Backend platform role",
+      "expectedKeywords": [
+        "Node.js",
+        "SQL",
+        "Docker",
+        "AWS",
+        "Testing"
+      ],
+      "predictedKeywords": [
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Testing"
+      ],
+      "correctPredictions": [
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Testing"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": []
+    },
+    {
+      "fixtureId": "up-4",
+      "label": "Analyst dashboard role",
+      "expectedKeywords": [
+        "Dashboarding",
+        "Reporting",
+        "Power BI",
+        "Excel",
+        "SQL",
+        "Stakeholder Management"
+      ],
+      "predictedKeywords": [
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Dashboarding",
+        "Reporting",
+        "Stakeholder Management"
+      ],
+      "correctPredictions": [
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Dashboarding",
+        "Reporting",
+        "Stakeholder Management"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": []
+    },
+    {
+      "fixtureId": "up-5",
+      "label": "Business intelligence role",
+      "expectedKeywords": [
+        "Tableau",
+        "Data Visualization",
+        "Reporting",
+        "Stakeholder Management"
+      ],
+      "predictedKeywords": [
+        "Tableau",
+        "Reporting",
+        "Data Visualization",
+        "Stakeholder Management"
+      ],
+      "correctPredictions": [
+        "Tableau",
+        "Reporting",
+        "Data Visualization",
+        "Stakeholder Management"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": []
+    },
+    {
+      "fixtureId": "up-6",
+      "label": "PM roadmap role",
+      "expectedKeywords": [
+        "Roadmapping",
+        "Stakeholder Management",
+        "Product Strategy",
+        "Communication"
+      ],
+      "predictedKeywords": [
+        "Communication",
+        "Stakeholder Management",
+        "Product Strategy",
+        "Roadmapping"
+      ],
+      "correctPredictions": [
+        "Communication",
+        "Stakeholder Management",
+        "Product Strategy",
+        "Roadmapping"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": []
+    },
+    {
+      "fixtureId": "up-7",
+      "label": "PM experimentation role",
+      "expectedKeywords": [
+        "Experimentation",
+        "Metrics",
+        "Stakeholder Management"
+      ],
+      "predictedKeywords": [
+        "Experimentation",
+        "Metrics"
+      ],
+      "correctPredictions": [
+        "Experimentation",
+        "Metrics"
+      ],
+      "missedKeywords": [
+        "Stakeholder Management"
+      ],
+      "unexpectedKeywords": []
+    },
+    {
+      "fixtureId": "up-8",
+      "label": "Junior analyst role",
+      "expectedKeywords": [
+        "Excel",
+        "Reporting",
+        "Dashboarding",
+        "Data Visualization",
+        "Communication"
+      ],
+      "predictedKeywords": [
+        "Communication",
+        "Excel",
+        "Dashboarding",
+        "Reporting",
+        "Data Visualization"
+      ],
+      "correctPredictions": [
+        "Communication",
+        "Excel",
+        "Dashboarding",
+        "Reporting",
+        "Data Visualization"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": []
+    },
+    {
+      "fixtureId": "up-9",
+      "label": "Product discovery role",
+      "expectedKeywords": [
+        "User Research",
+        "Roadmapping",
+        "Product Strategy",
+        "Stakeholder Management"
+      ],
+      "predictedKeywords": [
+        "Stakeholder Management",
+        "Product Strategy",
+        "Roadmapping",
+        "User Research"
+      ],
+      "correctPredictions": [
+        "Stakeholder Management",
+        "Product Strategy",
+        "Roadmapping",
+        "User Research"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": []
+    },
+    {
+      "fixtureId": "up-10",
+      "label": "Analytics engineer role",
+      "expectedKeywords": [
+        "SQL",
+        "Reporting",
+        "Dashboarding",
+        "Tableau",
+        "Stakeholder Management"
+      ],
+      "predictedKeywords": [
+        "SQL",
+        "Tableau",
+        "Dashboarding",
+        "Reporting",
+        "Stakeholder Management"
+      ],
+      "correctPredictions": [
+        "SQL",
+        "Tableau",
+        "Dashboarding",
+        "Reporting",
+        "Stakeholder Management"
+      ],
+      "missedKeywords": [],
+      "unexpectedKeywords": []
+    }
+  ]
+}

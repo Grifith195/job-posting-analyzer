@@ -1,0 +1,102 @@
+{
+  "caseId": "02-frontend-dev-junior-match",
+  "source": "evaluation-fixture",
+  "query": {
+    "title": "frontend developer",
+    "location": "Toronto"
+  },
+  "jobs": [
+    {
+      "id": "fe-1",
+      "title": "Frontend Developer",
+      "company": "Initiate",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Build high-performance React interfaces, collaborate in Agile ceremonies, and improve reusable component quality for a customer-facing web app.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Agile"
+      ]
+    },
+    {
+      "id": "fe-2",
+      "title": "Frontend Engineer",
+      "company": "Crescendo",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Create accessible user experiences with React, TypeScript, GraphQL APIs, and close partnership with product and UX.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "API"
+      ]
+    },
+    {
+      "id": "fe-3",
+      "title": "Senior Frontend Developer",
+      "company": "LOD Technologies",
+      "location": "Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Use Next.js and TypeScript to ship secure frontend apps, write maintainable code, and work in a fast-paced Agile environment.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Agile"
+      ]
+    },
+    {
+      "id": "fe-4",
+      "title": "Angular Frontend Developer",
+      "company": "Tangentia",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Develop JavaScript and TypeScript frontends with Angular, RxJS, and component libraries. Testing and API integration experience are valued.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript",
+        "JavaScript",
+        "API",
+        "Testing"
+      ]
+    },
+    {
+      "id": "fe-5",
+      "title": "Frontend Developer",
+      "company": "Ambyint",
+      "location": "Calgary, Alberta",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Design scalable cloud-native interfaces, mentor junior developers, and communicate progress across engineering and product teams.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": []
+    }
+  ]
+}

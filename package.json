@@ -10,7 +10,9 @@
     "test": "jest --runInBand",
     "test:watch": "jest --watch --runInBand",
     "test:e2e": "playwright test",
-    "etl:scheduled": "tsx scripts/scheduled-etl.ts"
+    "etl:scheduled": "tsx scripts/scheduled-etl.ts",
+    "eval:assignment6:pre": "tsx scripts/evaluate-assignment6.ts --output-dir=evaluation/results/pre-improvement --include-baseline",
+    "eval:assignment6:post": "tsx scripts/evaluate-assignment6.ts --output-dir=evaluation/results/post-improvement --upstream-only"
   },
   "dependencies": {
     "@google/genai": "^1.49.0",

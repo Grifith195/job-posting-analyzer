@@ -1,0 +1,595 @@
+{
+  "generatedAt": "2026-04-24T22:54:34.964Z",
+  "variant": "baseline",
+  "averageRubricTotal": 15.8,
+  "cases": [
+    {
+      "caseId": "01-software-dev-strong-match",
+      "label": "Software developer strong match",
+      "searchContext": {
+        "title": "software developer",
+        "location": "Toronto"
+      },
+      "jobFixture": "evaluation/fixtures/raw-jobs/software-developer-bundle.json",
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "Git",
+        "API",
+        "Testing",
+        "JavaScript",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Agile",
+        "Python",
+        "Communication"
+      ],
+      "analysis": {
+        "roleFitScore": 85,
+        "band": "Strong match",
+        "summary": "The candidate demonstrates a robust alignment with modern software development roles, particularly those focused on TypeScript and React ecosystems. Their experience with APIs, testing, and version control matches the core requirements across the majority of the listed positions.",
+        "commonRequirements": [
+          "TypeScript",
+          "SQL",
+          "Git",
+          "API Integration",
+          "Software Testing"
+        ],
+        "matchedStrengths": [
+          "React and TypeScript development",
+          "REST API integration",
+          "Unit testing with Jest",
+          "Version control using Git",
+          "Experience with SQL and cloud deployments"
+        ],
+        "missingSignals": [
+          "Docker",
+          "Node.js",
+          "Python",
+          "CI/CD pipeline configuration",
+          "Specific cloud provider experience (e.g., AWS, Azure)"
+        ],
+        "resumeSuggestions": [
+          "Explicitly name the cloud platforms used (e.g., AWS, GCP) instead of using the general term 'cloud platforms'",
+          "Add experience with containerization tools like Docker if applicable",
+          "Highlight any backend-specific frameworks like Node.js or Python to improve matches for full-stack and backend roles"
+        ],
+        "jobMatches": [
+          {
+            "jobId": "sw-1",
+            "title": "Software Developer",
+            "company": "Northstar Labs",
+            "score": 95,
+            "reason": "Near-perfect match for the tech stack including React, TypeScript, Git, and REST APIs."
+          },
+          {
+            "jobId": "sw-3",
+            "title": "Software Developer",
+            "company": "Prairie Digital",
+            "score": 92,
+            "reason": "Matches TypeScript, JavaScript, and testing requirements, along with Agile experience."
+          },
+          {
+            "jobId": "sw-4",
+            "title": "Platform Developer",
+            "company": "Harbour Cloud",
+            "score": 78,
+            "reason": "Strong match for API, Git, and SQL, though missing specific Docker experience."
+          },
+          {
+            "jobId": "sw-5",
+            "title": "Backend Software Developer",
+            "company": "Civic Data Works",
+            "score": 72,
+            "reason": "Matches API, SQL, and testing needs, but lacks the requested Python proficiency."
+          },
+          {
+            "jobId": "sw-2",
+            "title": "Full Stack Developer",
+            "company": "Maple Systems",
+            "score": 65,
+            "reason": "Matches SQL and cloud deployment needs, but missing core requirements like Node.js and Docker."
+          }
+        ],
+        "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+      },
+      "rubric": {
+        "groundedness": 4,
+        "requirementCoverage": 4,
+        "actionability": 2,
+        "scoreCalibration": 5,
+        "total": 15,
+        "rating": "acceptable",
+        "failure": true
+      },
+      "expectedScoreRange": {
+        "min": 75,
+        "max": 90
+      },
+      "expectedBands": [
+        "Good match",
+        "Strong match"
+      ],
+      "expectedStrengthThemes": [
+        "React",
+        "TypeScript",
+        "API",
+        "Testing",
+        "Git",
+        "SQL"
+      ],
+      "expectedGapThemes": [
+        "AWS",
+        "Docker",
+        "quantified impact",
+        "production experience"
+      ],
+      "notes": "This is the best-aligned case and should land in the upper range."
+    },
+    {
+      "caseId": "02-frontend-dev-junior-match",
+      "label": "Frontend developer junior match",
+      "searchContext": {
+        "title": "frontend developer",
+        "location": "Toronto"
+      },
+      "jobFixture": "evaluation/fixtures/raw-jobs/frontend-developer-bundle.json",
+      "extractedKeywords": [
+        "React",
+        "Agile",
+        "TypeScript",
+        "API",
+        "Next.js",
+        "JavaScript",
+        "Testing"
+      ],
+      "analysis": {
+        "roleFitScore": 75,
+        "band": "Good match",
+        "summary": "The candidate is a junior-level frontend developer with a solid foundation in React, TypeScript, and accessibility. Their skills align well with modern frontend stacks, though they may lack the seniority or specific framework experience (like Angular) required for some roles.",
+        "commonRequirements": [
+          "React",
+          "TypeScript",
+          "Frontend Development",
+          "Accessibility",
+          "Component Libraries"
+        ],
+        "matchedStrengths": [
+          "Strong React and TypeScript foundations",
+          "Experience with web accessibility",
+          "Collaboration with design teams",
+          "Component-driven development"
+        ],
+        "missingSignals": [
+          "Agile methodology experience",
+          "Backend/API integration depth",
+          "Cloud-native deployment experience",
+          "Mentorship or leadership experience"
+        ],
+        "resumeSuggestions": [
+          "Include specific examples of Agile ceremony participation if applicable",
+          "Detail API integration projects to address the backend exposure gap",
+          "Quantify the impact of accessibility improvements on user metrics",
+          "List specific deployment tools or cloud platforms used in projects"
+        ],
+        "jobMatches": [
+          {
+            "jobId": "fe-2",
+            "title": "Frontend Engineer",
+            "company": "Crescendo",
+            "score": 92,
+            "reason": "Excellent alignment with React, TypeScript, and the candidate's specific focus on accessibility."
+          },
+          {
+            "jobId": "fe-1",
+            "title": "Frontend Developer",
+            "company": "Initiate",
+            "score": 85,
+            "reason": "Strong match for React and component library work, though candidate needs to demonstrate Agile experience."
+          },
+          {
+            "jobId": "fe-3",
+            "title": "Senior Frontend Developer",
+            "company": "LOD Technologies",
+            "score": 65,
+            "reason": "Tech stack matches well, but the 'Senior' requirement suggests a seniority gap for an internship-level candidate."
+          },
+          {
+            "jobId": "fe-5",
+            "title": "Frontend Developer",
+            "company": "Ambyint",
+            "score": 55,
+            "reason": "Matches UI design needs, but candidate lacks the mentioned mentorship experience and cloud-native depth."
+          },
+          {
+            "jobId": "fe-4",
+            "title": "Angular Frontend Developer",
+            "company": "Tangentia",
+            "score": 45,
+            "reason": "The role requires Angular and RxJS, while the candidate's experience is primarily React-based."
+          }
+        ],
+        "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+      },
+      "rubric": {
+        "groundedness": 4,
+        "requirementCoverage": 5,
+        "actionability": 2,
+        "scoreCalibration": 5,
+        "total": 16,
+        "rating": "acceptable",
+        "failure": true
+      },
+      "expectedScoreRange": {
+        "min": 65,
+        "max": 80
+      },
+      "expectedBands": [
+        "Partial match",
+        "Good match"
+      ],
+      "expectedStrengthThemes": [
+        "React",
+        "TypeScript",
+        "communication",
+        "user experience",
+        "Agile"
+      ],
+      "expectedGapThemes": [
+        "backend",
+        "deployment",
+        "metrics"
+      ],
+      "notes": "Good UI alignment, but not a full senior frontend profile."
+    },
+    {
+      "caseId": "03-data-analyst-strong-match",
+      "label": "Data analyst strong match",
+      "searchContext": {
+        "title": "data analyst",
+        "location": "Toronto"
+      },
+      "jobFixture": "evaluation/fixtures/raw-jobs/data-analyst-bundle.json",
+      "extractedKeywords": [
+        "SQL",
+        "Communication",
+        "Python"
+      ],
+      "analysis": {
+        "roleFitScore": 87,
+        "band": "Strong match",
+        "summary": "The candidate demonstrates a high level of technical alignment for Data Analyst and Business Intelligence roles, possessing a full stack of common industry tools including SQL, Python, and major BI platforms. Their experience spanning data cleaning, visualization, and stakeholder communication directly addresses the core requirements of the listed positions.",
+        "commonRequirements": [
+          "SQL",
+          "Data Visualization (Tableau/Power BI)",
+          "Stakeholder Reporting",
+          "Python",
+          "Excel",
+          "Data Cleaning"
+        ],
+        "matchedStrengths": [
+          "Proficiency in both Tableau and Power BI",
+          "Hands-on experience with SQL and Python for data workflows",
+          "Experience delivering insights to product and operations teams"
+        ],
+        "missingSignals": [
+          "Professional years of experience (vs. internship/academic)",
+          "Experience with specific data governance frameworks",
+          "Exposure to cloud-based data warehouses like Snowflake or BigQuery"
+        ],
+        "resumeSuggestions": [
+          "Include specific metrics and KPIs to quantify the impact of previous dashboards",
+          "Detail the scale of datasets handled in SQL or Python projects",
+          "Mention any experience with ETL processes or automated reporting pipelines"
+        ],
+        "jobMatches": [
+          {
+            "jobId": "da-1",
+            "title": "Data Analyst",
+            "company": "COSMO",
+            "score": 85,
+            "reason": "Strong match for the SQL and stakeholder reporting requirements with specific mention of product and operations teams."
+          },
+          {
+            "jobId": "da-2",
+            "title": "Junior Data Analyst",
+            "company": "emergiTEL",
+            "score": 92,
+            "reason": "Excellent fit as the candidate possesses all mentioned tools (Excel/Power BI) and the experience level aligns well with a junior role."
+          },
+          {
+            "jobId": "da-3",
+            "title": "Business Intelligence Analyst",
+            "company": "BRP",
+            "score": 80,
+            "reason": "Good match for Tableau reporting and self-serve analytics assets requirements."
+          },
+          {
+            "jobId": "da-4",
+            "title": "Data Analyst",
+            "company": "Central Business Solutions",
+            "score": 88,
+            "reason": "Direct alignment with the Python and SQL requirements for data governance and metrics reporting."
+          },
+          {
+            "jobId": "da-5",
+            "title": "Data Analyst",
+            "company": "TheAILabb",
+            "score": 89,
+            "reason": "Strong alignment with the requirements for interactive visualizations and strategic decision-making support."
+          }
+        ],
+        "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+      },
+      "rubric": {
+        "groundedness": 4,
+        "requirementCoverage": 4,
+        "actionability": 4,
+        "scoreCalibration": 5,
+        "total": 17,
+        "rating": "strong",
+        "failure": false
+      },
+      "expectedScoreRange": {
+        "min": 75,
+        "max": 90
+      },
+      "expectedBands": [
+        "Good match",
+        "Strong match"
+      ],
+      "expectedStrengthThemes": [
+        "SQL",
+        "Python",
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "dashboards",
+        "reporting",
+        "stakeholders"
+      ],
+      "expectedGapThemes": [
+        "advanced statistics",
+        "data engineering",
+        "production scale"
+      ],
+      "notes": "This case should improve once analyst-oriented keyword extraction gets better."
+    },
+    {
+      "caseId": "04-product-manager-partial-match",
+      "label": "Product manager partial match",
+      "searchContext": {
+        "title": "product manager",
+        "location": "Toronto"
+      },
+      "jobFixture": "evaluation/fixtures/raw-jobs/product-manager-bundle.json",
+      "extractedKeywords": [
+        "Communication"
+      ],
+      "analysis": {
+        "roleFitScore": 62,
+        "band": "Partial match",
+        "summary": "The candidate demonstrates strong foundational experience in product operations and coordination, specifically within Agile environments and stakeholder management. However, they lack a formal Product Manager title and the strategic ownership or P&L responsibility required for most of the senior-level positions listed.",
+        "commonRequirements": [
+          "Stakeholder communication",
+          "Agile/Scrum ceremonies",
+          "Roadmap planning",
+          "Jira management",
+          "Cross-functional collaboration",
+          "Product metrics analysis"
+        ],
+        "matchedStrengths": [
+          "Experience with Jira and requirement documentation",
+          "Familiarity with Agile methodologies",
+          "Background in stakeholder interviews and cross-functional coordination",
+          "Exposure to product metrics and launch processes"
+        ],
+        "missingSignals": [
+          "Formal Product Management title",
+          "Demonstrated experience in product strategy and vision",
+          "Full ownership of a product roadmap",
+          "Experience leading engineering teams directly"
+        ],
+        "resumeSuggestions": [
+          "Explicitly quantify the impact of the roadmap support provided using metrics",
+          "If possible, change title to 'Associate Product Manager' or 'Product Analyst' to better align with PM searches",
+          "Detail specific outcomes from stakeholder interviews, such as features defined or problems solved",
+          "Mention specific product analytics tools used (e.g., Google Analytics, Mixpanel, Amplitude)"
+        ],
+        "jobMatches": [
+          {
+            "jobId": "pm-4",
+            "title": "Product Manager",
+            "company": "UAP",
+            "score": 82,
+            "reason": "This role focuses on analysis, stakeholder coordination, and file maintenance, which aligns perfectly with the candidate's coordinator background."
+          },
+          {
+            "jobId": "pm-1",
+            "title": "Digital Product Manager",
+            "company": "Home Depot Canada",
+            "score": 70,
+            "reason": "Good match for roadmap prioritization and stakeholder input, though the candidate will need to prove they can own the roadmap rather than just support it."
+          },
+          {
+            "jobId": "pm-5",
+            "title": "Product Manager",
+            "company": "STAS",
+            "score": 65,
+            "reason": "Matches well with translating customer problems and roadmap priorities, but requires more engineering collaboration experience."
+          },
+          {
+            "jobId": "pm-2",
+            "title": "Senior Product Manager",
+            "company": "Xplore",
+            "score": 45,
+            "reason": "The candidate lacks the 'Senior' level strategy execution and product strategy definition required for this role."
+          },
+          {
+            "jobId": "pm-3",
+            "title": "Principal Product Manager",
+            "company": "Microsoft Canada",
+            "score": 30,
+            "reason": "This role requires leading large-scale experimentation and growth initiatives which exceed the candidate's current experience level."
+          }
+        ],
+        "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+      },
+      "rubric": {
+        "groundedness": 5,
+        "requirementCoverage": 5,
+        "actionability": 2,
+        "scoreCalibration": 5,
+        "total": 17,
+        "rating": "strong",
+        "failure": true
+      },
+      "expectedScoreRange": {
+        "min": 60,
+        "max": 78
+      },
+      "expectedBands": [
+        "Partial match",
+        "Good match"
+      ],
+      "expectedStrengthThemes": [
+        "roadmap",
+        "stakeholders",
+        "Agile",
+        "communication",
+        "metrics"
+      ],
+      "expectedGapThemes": [
+        "product strategy",
+        "ownership",
+        "experimentation"
+      ],
+      "notes": "The resume has adjacent PM experience, but should still show clear gaps."
+    },
+    {
+      "caseId": "05-career-transition-partial-match",
+      "label": "Career transition partial match",
+      "searchContext": {
+        "title": "software developer",
+        "location": "Remote"
+      },
+      "jobFixture": "evaluation/fixtures/raw-jobs/software-developer-bundle.json",
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "Git",
+        "API",
+        "Testing",
+        "JavaScript",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Agile",
+        "Python",
+        "Communication"
+      ],
+      "analysis": {
+        "roleFitScore": 62,
+        "band": "Partial match",
+        "summary": "The candidate is a bootcamp graduate with a strong foundation in core web technologies like JavaScript, SQL, and REST APIs. While they possess the baseline technical skills for junior development roles, they lack professional industry experience and specific modern tooling such as TypeScript, Docker, and cloud platforms mentioned across several job listings.",
+        "commonRequirements": [
+          "JavaScript",
+          "SQL",
+          "Git",
+          "REST APIs",
+          "Testing",
+          "Teamwork"
+        ],
+        "matchedStrengths": [
+          "Proficiency in JavaScript and frontend development basics",
+          "Experience with SQL and database interactions",
+          "Familiarity with Git version control",
+          "Understanding of REST API integration"
+        ],
+        "missingSignals": [
+          "Professional/commercial software development experience",
+          "Proficiency in TypeScript",
+          "Experience with containerization (Docker)",
+          "Cloud infrastructure knowledge (AWS)",
+          "Depth in automated testing frameworks"
+        ],
+        "resumeSuggestions": [
+          "Explicitly list any testing frameworks used in projects (e.g., Jest, Mocha, Cypress) to address testing requirements.",
+          "Detail specific React or frontend framework experience to better align with frontend-heavy roles.",
+          "Incorporate keywords related to Agile methodologies if practiced during the bootcamp.",
+          "Highlight any exposure to Python or Node.js to bridge the gap for backend-focused roles."
+        ],
+        "jobMatches": [
+          {
+            "jobId": "sw-4",
+            "title": "Platform Developer",
+            "company": "Harbour Cloud",
+            "score": 70,
+            "reason": "Strong match for core requirements including SQL, Git, and API integrations, though lacks Docker experience."
+          },
+          {
+            "jobId": "sw-1",
+            "title": "Software Developer",
+            "company": "Northstar Labs",
+            "score": 65,
+            "reason": "Matches Git and API requirements; however, the candidate needs to demonstrate React and TypeScript skills."
+          },
+          {
+            "jobId": "sw-3",
+            "title": "Software Developer",
+            "company": "Prairie Digital",
+            "score": 60,
+            "reason": "Aligns with JavaScript and teamwork requirements, but lacks the requested TypeScript and testing depth."
+          },
+          {
+            "jobId": "sw-5",
+            "title": "Backend Software Developer",
+            "company": "Civic Data Works",
+            "score": 58,
+            "reason": "Candidate has SQL and API skills, but the role requires Python and stronger testing experience."
+          },
+          {
+            "jobId": "sw-2",
+            "title": "Full Stack Developer",
+            "company": "Maple Systems",
+            "score": 50,
+            "reason": "Matches SQL needs, but candidate lacks professional experience with Node.js, AWS, and Docker."
+          }
+        ],
+        "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+      },
+      "rubric": {
+        "groundedness": 4,
+        "requirementCoverage": 4,
+        "actionability": 1,
+        "scoreCalibration": 5,
+        "total": 14,
+        "rating": "acceptable",
+        "failure": true
+      },
+      "expectedScoreRange": {
+        "min": 55,
+        "max": 72
+      },
+      "expectedBands": [
+        "Partial match"
+      ],
+      "expectedStrengthThemes": [
+        "JavaScript",
+        "API",
+        "SQL",
+        "Git",
+        "project experience"
+      ],
+      "expectedGapThemes": [
+        "testing",
+        "production experience",
+        "quantified impact"
+      ],
+      "notes": "This case should stay in partial-match territory."
+    }
+  ]
+}

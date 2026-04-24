@@ -1,0 +1,82 @@
+{
+  "caseId": "04-product-manager-partial-match",
+  "source": "evaluation-fixture",
+  "query": {
+    "title": "product manager",
+    "location": "Toronto"
+  },
+  "raw": {
+    "results": [
+      {
+        "id": "pm-1",
+        "title": "Digital Product Manager",
+        "company": {
+          "display_name": "Home Depot Canada"
+        },
+        "location": {
+          "display_name": "Toronto, Ontario"
+        },
+        "category": {
+          "label": "IT Jobs"
+        },
+        "description": "Own roadmap prioritization, partner with design and engineering, define metrics, and balance stakeholder input with business value."
+      },
+      {
+        "id": "pm-2",
+        "title": "Senior Product Manager",
+        "company": {
+          "display_name": "Xplore"
+        },
+        "location": {
+          "display_name": "Remote, Canada"
+        },
+        "category": {
+          "label": "Engineering Jobs"
+        },
+        "description": "Define and execute product strategy, run cross-functional planning, and launch new services with strong customer and market understanding."
+      },
+      {
+        "id": "pm-3",
+        "title": "Principal Product Manager",
+        "company": {
+          "display_name": "Microsoft Canada"
+        },
+        "location": {
+          "display_name": "Remote, Canada"
+        },
+        "category": {
+          "label": "IT Jobs"
+        },
+        "description": "Lead experimentation, product-led growth initiatives, user journey improvements, and KPI-driven product decisions across large teams."
+      },
+      {
+        "id": "pm-4",
+        "title": "Product Manager",
+        "company": {
+          "display_name": "UAP"
+        },
+        "location": {
+          "display_name": "Montreal, Quebec"
+        },
+        "category": {
+          "label": "Marketing Jobs"
+        },
+        "description": "Contribute analysis for marketing and product strategy, maintain product files, coordinate stakeholders, and support go-to-market planning."
+      },
+      {
+        "id": "pm-5",
+        "title": "Product Manager",
+        "company": {
+          "display_name": "STAS"
+        },
+        "location": {
+          "display_name": "Saguenay, Quebec"
+        },
+        "category": {
+          "label": "Engineering Jobs"
+        },
+        "description": "Translate customer problems into roadmap priorities, work with engineering, and communicate product direction to internal and external stakeholders."
+      }
+    ]
+  }
+}

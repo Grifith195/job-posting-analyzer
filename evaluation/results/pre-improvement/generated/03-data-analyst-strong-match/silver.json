@@ -1,0 +1,91 @@
+{
+  "caseId": "03-data-analyst-strong-match",
+  "source": "evaluation-fixture",
+  "query": {
+    "title": "data analyst",
+    "location": "Toronto"
+  },
+  "jobs": [
+    {
+      "id": "da-1",
+      "title": "Data Analyst",
+      "company": "COSMO",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Partner with product and operations teams to build source-of-truth dashboards, curate datasets, and deliver stakeholder reporting with SQL and data visualization.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Communication"
+      ]
+    },
+    {
+      "id": "da-2",
+      "title": "Junior Data Analyst",
+      "company": "emergiTEL",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Support business reporting with Excel and Power BI, clean data, maintain dashboards, and communicate findings to stakeholders.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "da-3",
+      "title": "Business Intelligence Analyst",
+      "company": "BRP",
+      "location": "Montreal, Quebec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Build measurement frameworks, self-serve analytics assets, and Tableau reporting for customer analytics teams across the business.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "da-4",
+      "title": "Data Analyst",
+      "company": "Central Business Solutions",
+      "location": "Montreal, Quebec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Create dashboards, report on critical metrics, and use Python plus SQL to support data governance and analytics workflows.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Python",
+        "SQL"
+      ]
+    },
+    {
+      "id": "da-5",
+      "title": "Data Analyst",
+      "company": "TheAILabb",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Analyze complex datasets, build interactive visualizations, create reports, and support strategic decision-making for cross-functional teams.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": []
+    }
+  ]
+}

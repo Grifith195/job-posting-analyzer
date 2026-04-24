@@ -1,0 +1,75 @@
+{
+  "caseId": "04-product-manager-partial-match",
+  "source": "Gemini",
+  "analysis": {
+    "roleFitScore": 45,
+    "band": "Needs work",
+    "summary": "The candidate shows strong foundational coordination and execution skills in Agile environments, which are relevant for Product Management roles. However, the lack of a formal Product Manager title and limited experience in high-level strategy and roadmap ownership creates a gap for the Senior and Principal levels in the provided job list.",
+    "commonRequirements": [
+      "Roadmap prioritization and ownership",
+      "Cross-functional leadership with engineering and design",
+      "Strategic planning and market understanding",
+      "KPI and metric-driven decision making",
+      "Stakeholder management and communication"
+    ],
+    "matchedStrengths": [
+      "Experience in Agile ceremonies and Jira ticket management",
+      "Direct experience conducting stakeholder interviews",
+      "Support for product launches and roadmap discussions",
+      "Documentation of requirement notes",
+      "Metric exposure for product performance"
+    ],
+    "missingSignals": [
+      "Formal Product Manager title history",
+      "Strategic ownership of product vision or business value",
+      "Experimentation and product-led growth leadership",
+      "Specific examples of market or competitive analysis",
+      "Experience leading large-scale cross-functional teams"
+    ],
+    "resumeSuggestions": [
+      "Quantify the results of launch support activities with specific percentages or revenue figures",
+      "Use stronger action verbs to describe 'support' roles, such as 'facilitated' or 'optimized'",
+      "Include a section on customer discovery or market research findings to address strategy gaps",
+      "Highlight specific metrics influenced during the coordination of product requirements",
+      "Clarify the scope of Jira management to show impact on engineering velocity"
+    ],
+    "jobMatches": [
+      {
+        "jobId": "pm-4",
+        "title": "Product Manager",
+        "company": "UAP",
+        "score": 68,
+        "reason": "Strongest match due to the focus on coordination, maintenance, and marketing support which aligns with coordinator experience."
+      },
+      {
+        "jobId": "pm-5",
+        "title": "Product Manager",
+        "company": "STAS",
+        "score": 55,
+        "reason": "Good alignment on translating customer problems and engineering collaboration, though it requires more roadmap ownership."
+      },
+      {
+        "jobId": "pm-1",
+        "title": "Digital Product Manager",
+        "company": "Home Depot Canada",
+        "score": 50,
+        "reason": "Covers roadmap and stakeholder input, but emphasizes 'owning' prioritization which is a gap in the current resume."
+      },
+      {
+        "jobId": "pm-2",
+        "title": "Senior Product Manager",
+        "company": "Xplore",
+        "score": 35,
+        "reason": "Seniority level and focus on strategy execution exceed the current profile's demonstrated experience."
+      },
+      {
+        "jobId": "pm-3",
+        "title": "Principal Product Manager",
+        "company": "Microsoft Canada",
+        "score": 20,
+        "reason": "Requires high-level experimentation and KPI leadership across large teams not present in the resume."
+      }
+    ],
+    "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+  }
+}

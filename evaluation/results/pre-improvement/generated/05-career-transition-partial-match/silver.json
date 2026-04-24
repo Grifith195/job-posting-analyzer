@@ -1,0 +1,113 @@
+{
+  "caseId": "05-career-transition-partial-match",
+  "source": "evaluation-fixture",
+  "query": {
+    "title": "software developer",
+    "location": "Remote"
+  },
+  "jobs": [
+    {
+      "id": "sw-1",
+      "title": "Software Developer",
+      "company": "Northstar Labs",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Build React and TypeScript product features, integrate REST APIs, write unit tests, and collaborate with product and design teams using Git.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "Git",
+        "API",
+        "Testing"
+      ]
+    },
+    {
+      "id": "sw-2",
+      "title": "Full Stack Developer",
+      "company": "Maple Systems",
+      "location": "Ottawa, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Develop Node.js services and SQL-backed applications, maintain CI pipelines, and ship customer-facing features with Docker and AWS.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "JavaScript",
+        "Node.js",
+        "SQL",
+        "AWS",
+        "Docker"
+      ]
+    },
+    {
+      "id": "sw-3",
+      "title": "Software Developer",
+      "company": "Prairie Digital",
+      "location": "Remote, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Deliver JavaScript and TypeScript application features, improve testing coverage, and communicate tradeoffs with stakeholders during Agile planning.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript",
+        "JavaScript",
+        "Testing",
+        "Agile"
+      ]
+    },
+    {
+      "id": "sw-4",
+      "title": "Platform Developer",
+      "company": "Harbour Cloud",
+      "location": "Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Own API integrations, cloud deployment workflows, and monitoring for a growing platform. Experience with Git, Docker, and SQL is required.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Docker",
+        "Git",
+        "API"
+      ]
+    },
+    {
+      "id": "sw-5",
+      "title": "Backend Software Developer",
+      "company": "Civic Data Works",
+      "location": "Montreal, Quebec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": null,
+      "descriptionSnippet": "Build backend services, data pipelines, and internal tools with Python, APIs, SQL, testing, and clear technical communication.",
+      "redirectUrl": null,
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Python",
+        "SQL",
+        "API",
+        "Testing",
+        "Communication"
+      ]
+    }
+  ]
+}

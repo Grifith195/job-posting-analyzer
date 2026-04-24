@@ -1,0 +1,15 @@
+{
+  "caseId": "01-software-dev-strong-match",
+  "label": "Software developer strong match",
+  "jobFixture": "evaluation/fixtures/raw-jobs/software-developer-bundle.json",
+  "searchContext": {
+    "title": "software developer",
+    "location": "Toronto"
+  },
+  "resumeText": "Software developer with internship and project experience building React and TypeScript web apps, integrating REST APIs, writing Jest tests, using Git and SQL, and deploying coursework projects to cloud platforms. Worked closely with product teammates and documented tradeoffs during sprint delivery.",
+  "expectedBands": ["Good match", "Strong match"],
+  "expectedScoreRange": { "min": 75, "max": 90 },
+  "expectedStrengthThemes": ["React", "TypeScript", "API", "Testing", "Git", "SQL"],
+  "expectedGapThemes": ["AWS", "Docker", "quantified impact", "production experience"],
+  "notes": "This is the best-aligned case and should land in the upper range."
+}

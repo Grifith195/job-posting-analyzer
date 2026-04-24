@@ -29,8 +29,8 @@ const keywordMatchers = [
   { label: "React", aliases: ["react"] },
   { label: "Next.js", aliases: ["next.js", "nextjs", "next js"] },
   { label: "TypeScript", aliases: ["typescript"] },
-  { label: "JavaScript", aliases: ["javascript", "js"] },
-  { label: "Node.js", aliases: ["node.js", "nodejs", "node js", "node"] },
+  { label: "JavaScript", aliases: ["javascript"] },
+  { label: "Node.js", aliases: ["node.js", "nodejs", "node js"] },
   { label: "Python", aliases: ["python"] },
   { label: "SQL", aliases: ["sql", "postgres", "mysql"] },
   { label: "AWS", aliases: ["aws", "amazon web services"] },
@@ -40,7 +40,37 @@ const keywordMatchers = [
   { label: "API", aliases: ["api", "apis", "rest", "graphql"] },
   { label: "Testing", aliases: ["testing", "test", "tests", "jest", "playwright"] },
   { label: "Agile", aliases: ["agile", "scrum"] },
-  { label: "Communication", aliases: ["communication", "stakeholder"] },
+  { label: "Communication", aliases: ["communication", "communicate", "collaborate", "collaboration"] },
+  { label: "Excel", aliases: ["excel", "spreadsheet", "spreadsheets"] },
+  { label: "Tableau", aliases: ["tableau"] },
+  { label: "Power BI", aliases: ["power bi", "powerbi"] },
+  { label: "Dashboarding", aliases: ["dashboard", "dashboards"] },
+  { label: "Reporting", aliases: ["report", "reports", "reporting"] },
+  {
+    label: "Data Visualization",
+    aliases: ["visualization", "visualisation", "visualizations", "visualisations"],
+  },
+  {
+    label: "Stakeholder Management",
+    aliases: ["stakeholder", "stakeholders", "cross-functional", "cross functional"],
+  },
+  {
+    label: "Product Strategy",
+    aliases: ["product strategy", "go-to-market", "go to market", "market research", "business value"],
+  },
+  {
+    label: "Roadmapping",
+    aliases: ["roadmap", "roadmaps", "backlog", "prioritization", "prioritisation"],
+  },
+  {
+    label: "Experimentation",
+    aliases: ["experiment", "experimentation", "hypothesis", "a/b", "ab testing"],
+  },
+  {
+    label: "User Research",
+    aliases: ["user research", "user interview", "user interviews", "customer interview", "customer interviews"],
+  },
+  { label: "Metrics", aliases: ["metric", "metrics", "kpi", "kpis", "okr", "okrs"] },
 ];
 
 function compactText(value: string | undefined, fallback = "Not provided") {

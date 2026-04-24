@@ -1,0 +1,120 @@
+{
+  "generatedAt": "2026-04-24T22:54:34.976Z",
+  "cases": [
+    {
+      "caseId": "01-software-dev-strong-match",
+      "label": "Software developer strong match",
+      "searchContext": {
+        "title": "software developer",
+        "location": "Toronto"
+      },
+      "checks": {
+        "loadedFixture": true,
+        "savedBronze": true,
+        "savedSilver": true,
+        "analysisSucceeded": true,
+        "savedGold": true
+      },
+      "score": 5,
+      "maxScore": 5,
+      "artifactPaths": {
+        "bronze": "evaluation/results/pre-improvement/generated/01-software-dev-strong-match/bronze.json",
+        "silver": "evaluation/results/pre-improvement/generated/01-software-dev-strong-match/silver.json",
+        "gold": "evaluation/results/pre-improvement/generated/01-software-dev-strong-match/gold.json"
+      }
+    },
+    {
+      "caseId": "02-frontend-dev-junior-match",
+      "label": "Frontend developer junior match",
+      "searchContext": {
+        "title": "frontend developer",
+        "location": "Toronto"
+      },
+      "checks": {
+        "loadedFixture": true,
+        "savedBronze": true,
+        "savedSilver": true,
+        "analysisSucceeded": true,
+        "savedGold": true
+      },
+      "score": 5,
+      "maxScore": 5,
+      "artifactPaths": {
+        "bronze": "evaluation/results/pre-improvement/generated/02-frontend-dev-junior-match/bronze.json",
+        "silver": "evaluation/results/pre-improvement/generated/02-frontend-dev-junior-match/silver.json",
+        "gold": "evaluation/results/pre-improvement/generated/02-frontend-dev-junior-match/gold.json"
+      }
+    },
+    {
+      "caseId": "03-data-analyst-strong-match",
+      "label": "Data analyst strong match",
+      "searchContext": {
+        "title": "data analyst",
+        "location": "Toronto"
+      },
+      "checks": {
+        "loadedFixture": true,
+        "savedBronze": true,
+        "savedSilver": true,
+        "analysisSucceeded": true,
+        "savedGold": true
+      },
+      "score": 5,
+      "maxScore": 5,
+      "artifactPaths": {
+        "bronze": "evaluation/results/pre-improvement/generated/03-data-analyst-strong-match/bronze.json",
+        "silver": "evaluation/results/pre-improvement/generated/03-data-analyst-strong-match/silver.json",
+        "gold": "evaluation/results/pre-improvement/generated/03-data-analyst-strong-match/gold.json"
+      }
+    },
+    {
+      "caseId": "04-product-manager-partial-match",
+      "label": "Product manager partial match",
+      "searchContext": {
+        "title": "product manager",
+        "location": "Toronto"
+      },
+      "checks": {
+        "loadedFixture": true,
+        "savedBronze": true,
+        "savedSilver": true,
+        "analysisSucceeded": true,
+        "savedGold": true
+      },
+      "score": 5,
+      "maxScore": 5,
+      "artifactPaths": {
+        "bronze": "evaluation/results/pre-improvement/generated/04-product-manager-partial-match/bronze.json",
+        "silver": "evaluation/results/pre-improvement/generated/04-product-manager-partial-match/silver.json",
+        "gold": "evaluation/results/pre-improvement/generated/04-product-manager-partial-match/gold.json"
+      }
+    },
+    {
+      "caseId": "05-career-transition-partial-match",
+      "label": "Career transition partial match",
+      "searchContext": {
+        "title": "software developer",
+        "location": "Remote"
+      },
+      "checks": {
+        "loadedFixture": true,
+        "savedBronze": true,
+        "savedSilver": true,
+        "analysisSucceeded": true,
+        "savedGold": true
+      },
+      "score": 5,
+      "maxScore": 5,
+      "artifactPaths": {
+        "bronze": "evaluation/results/pre-improvement/generated/05-career-transition-partial-match/bronze.json",
+        "silver": "evaluation/results/pre-improvement/generated/05-career-transition-partial-match/silver.json",
+        "gold": "evaluation/results/pre-improvement/generated/05-career-transition-partial-match/gold.json"
+      }
+    }
+  ],
+  "summary": {
+    "fullySuccessfulCases": 5,
+    "totalCases": 5,
+    "taskSuccessRate": 100
+  }
+}

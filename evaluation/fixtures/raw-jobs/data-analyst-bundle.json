@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "id": "da-1",
+      "title": "Data Analyst",
+      "company": { "display_name": "COSMO" },
+      "location": { "display_name": "Toronto, Ontario" },
+      "category": { "label": "IT Jobs" },
+      "description": "Partner with product and operations teams to build source-of-truth dashboards, curate datasets, and deliver stakeholder reporting with SQL and data visualization."
+    },
+    {
+      "id": "da-2",
+      "title": "Junior Data Analyst",
+      "company": { "display_name": "emergiTEL" },
+      "location": { "display_name": "Toronto, Ontario" },
+      "category": { "label": "IT Jobs" },
+      "description": "Support business reporting with Excel and Power BI, clean data, maintain dashboards, and communicate findings to stakeholders."
+    },
+    {
+      "id": "da-3",
+      "title": "Business Intelligence Analyst",
+      "company": { "display_name": "BRP" },
+      "location": { "display_name": "Montreal, Quebec" },
+      "category": { "label": "IT Jobs" },
+      "description": "Build measurement frameworks, self-serve analytics assets, and Tableau reporting for customer analytics teams across the business."
+    },
+    {
+      "id": "da-4",
+      "title": "Data Analyst",
+      "company": { "display_name": "Central Business Solutions" },
+      "location": { "display_name": "Montreal, Quebec" },
+      "category": { "label": "IT Jobs" },
+      "description": "Create dashboards, report on critical metrics, and use Python plus SQL to support data governance and analytics workflows."
+    },
+    {
+      "id": "da-5",
+      "title": "Data Analyst",
+      "company": { "display_name": "TheAILabb" },
+      "location": { "display_name": "Toronto, Ontario" },
+      "category": { "label": "IT Jobs" },
+      "description": "Analyze complex datasets, build interactive visualizations, create reports, and support strategic decision-making for cross-functional teams."
+    }
+  ]
+}

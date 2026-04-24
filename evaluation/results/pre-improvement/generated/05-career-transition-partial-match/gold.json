@@ -1,0 +1,74 @@
+{
+  "caseId": "05-career-transition-partial-match",
+  "source": "Gemini",
+  "analysis": {
+    "roleFitScore": 45,
+    "band": "Needs work",
+    "summary": "The candidate demonstrates a foundational stack (JavaScript, SQL, Git) that aligns with several entry-level technical requirements. However, the lack of professional experience and specific missing technical signals like TypeScript, automated testing, and cloud infrastructure (Docker/AWS) represents a significant gap for the current market sample.",
+    "commonRequirements": [
+      "JavaScript",
+      "SQL",
+      "Git",
+      "REST APIs",
+      "Testing",
+      "TypeScript"
+    ],
+    "matchedStrengths": [
+      "Proficiency in JavaScript and REST API integration",
+      "Experience with SQL database queries",
+      "Familiarity with Git for version control",
+      "Frontend development foundations"
+    ],
+    "missingSignals": [
+      "Professional software development experience",
+      "TypeScript proficiency",
+      "Automated testing frameworks (Jest, Cypress, or similar)",
+      "Cloud deployment and containerization (AWS, Docker)",
+      "Python for backend services"
+    ],
+    "resumeSuggestions": [
+      "Add a 'Testing' section to explicitly list frameworks used in projects, as 60% of these jobs require testing coverage.",
+      "Detail your specific role in team projects to demonstrate 'Agile' and 'Communication' skills found in the Prairie Digital and Civic Data Works postings.",
+      "Include any exposure to TypeScript or Node.js to bridge the gap for the Northstar Labs and Maple Systems roles.",
+      "Clarify your professional background to show transferable skills from your previous career to offset the 'career switcher' status."
+    ],
+    "jobMatches": [
+      {
+        "jobId": "sw-1",
+        "title": "Software Developer",
+        "company": "Northstar Labs",
+        "score": 50,
+        "reason": "Matches on Git, APIs, and frontend foundations, but misses TypeScript and explicit testing experience."
+      },
+      {
+        "jobId": "sw-3",
+        "title": "Software Developer",
+        "company": "Prairie Digital",
+        "score": 55,
+        "reason": "Strong JavaScript alignment, but lacks TypeScript and professional experience with Agile workflows."
+      },
+      {
+        "jobId": "sw-4",
+        "title": "Platform Developer",
+        "company": "Harbour Cloud",
+        "score": 40,
+        "reason": "Good overlap with SQL and Git, but lacks the required Docker and cloud deployment experience."
+      },
+      {
+        "jobId": "sw-2",
+        "title": "Full Stack Developer",
+        "company": "Maple Systems",
+        "score": 35,
+        "reason": "Matches on SQL, but lacks specific requirements for Node.js, AWS, and Docker."
+      },
+      {
+        "jobId": "sw-5",
+        "title": "Backend Software Developer",
+        "company": "Civic Data Works",
+        "score": 30,
+        "reason": "Alignment on SQL and APIs, but the candidate lacks Python which is central to this specific role."
+      }
+    ],
+    "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+  }
+}

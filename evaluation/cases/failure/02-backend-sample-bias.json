@@ -1,0 +1,15 @@
+{
+  "caseId": "02-backend-sample-bias",
+  "label": "Failure case: backend sample bias",
+  "jobFixture": "evaluation/fixtures/raw-jobs/software-developer-bundle.json",
+  "searchContext": {
+    "title": "software developer",
+    "location": "Remote"
+  },
+  "resumeText": "Backend-oriented engineer with Java, Spring Boot, SQL, AWS, Docker, CI/CD, and API development experience. Strong service ownership and production support, but almost no React experience.",
+  "expectedBands": ["Good match"],
+  "expectedScoreRange": { "min": 68, "max": 82 },
+  "expectedStrengthThemes": ["AWS", "Docker", "SQL", "API", "production experience"],
+  "expectedGapThemes": ["React", "frontend"],
+  "failureHypothesis": "The software bundle contains some frontend-heavy postings, so the analysis may over-penalize the missing UI stack instead of recognizing strong backend alignment."
+}

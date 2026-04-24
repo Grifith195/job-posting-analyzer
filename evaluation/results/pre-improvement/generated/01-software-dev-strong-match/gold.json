@@ -1,0 +1,73 @@
+{
+  "caseId": "01-software-dev-strong-match",
+  "source": "Gemini",
+  "analysis": {
+    "roleFitScore": 82,
+    "band": "Good match",
+    "summary": "The candidate presents a strong foundation for front-end and full-stack roles within the Canadian market, showing direct alignment with React and TypeScript requirements found in roles at Northstar Labs and Prairie Digital. While foundational skills in SQL and APIs are present, there is a lack of specific backend languages like Python or Node.js and DevOps tools like Docker that appear frequently in several postings.",
+    "commonRequirements": [
+      "TypeScript",
+      "SQL",
+      "API Integration",
+      "Testing (Jest/Unit Tests)",
+      "Git",
+      "Agile/Technical Communication"
+    ],
+    "matchedStrengths": [
+      "Modern front-end stack (React and TypeScript) matches Northstar Labs requirements.",
+      "Experience with Jest aligns with testing coverage needs at Prairie Digital.",
+      "SQL and Git usage meets requirements for Harbour Cloud and Maple Systems.",
+      "Experience documenting tradeoffs directly addresses soft skill requirements at Prairie Digital."
+    ],
+    "missingSignals": [
+      "Containerization experience (Docker) required by Harbour Cloud and Maple Systems.",
+      "Backend-specific languages such as Node.js (Maple Systems) or Python (Civic Data Works).",
+      "Specific Cloud provider names (e.g., AWS) referenced by Maple Systems.",
+      "CI/CD pipeline maintenance or monitoring experience."
+    ],
+    "resumeSuggestions": [
+      "Explicitly name the cloud platforms used (e.g., AWS, Azure, or Vercel) to better match the 'cloud deployment' requirements in Harbour Cloud.",
+      "Highlight any experience with Docker or containerization if applicable, as it is a recurring requirement for platform and full-stack roles.",
+      "Define the specific backend technologies used during API integration to bridge the gap toward Node.js or Python roles.",
+      "Quantify testing experience by mentioning code coverage percentages or the number of components tested."
+    ],
+    "jobMatches": [
+      {
+        "jobId": "sw-1",
+        "title": "Software Developer",
+        "company": "Northstar Labs",
+        "score": 95,
+        "reason": "Direct overlap with React, TypeScript, API, Testing, and Git requirements."
+      },
+      {
+        "jobId": "sw-3",
+        "title": "Software Developer",
+        "company": "Prairie Digital",
+        "score": 92,
+        "reason": "Strong match for TypeScript, Testing, and Agile tradeoff communication."
+      },
+      {
+        "jobId": "sw-4",
+        "title": "Platform Developer",
+        "company": "Harbour Cloud",
+        "score": 75,
+        "reason": "Matches SQL, Git, and API needs, but missing explicit Docker mention."
+      },
+      {
+        "jobId": "sw-2",
+        "title": "Full Stack Developer",
+        "company": "Maple Systems",
+        "score": 68,
+        "reason": "Matches SQL and deployment interest, but missing Node.js and Docker."
+      },
+      {
+        "jobId": "sw-5",
+        "title": "Backend Software Developer",
+        "company": "Civic Data Works",
+        "score": 62,
+        "reason": "Matches SQL, API, and Testing, but lacks the primary Python requirement."
+      }
+    ],
+    "disclaimer": "This is a coaching estimate for resume improvement, not a hiring decision or guarantee."
+  }
+}
