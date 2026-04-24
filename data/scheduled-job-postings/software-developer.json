@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T11:01:47.706Z",
+  "generatedAt": "2026-04-24T10:57:42.307Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,38 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5701578483",
+      "title": "Développeur principal de logiciels / Senior Software Developer",
+      "company": "Trane Technologies",
+      "location": "Westmount, Montréal",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-16T14:44:43Z",
+      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=PIoLa8w_8RGTn8VwZIa35w&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5706196598",
+      "title": "Embedded Software Developer",
+      "company": "Blitz TI",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-21T10:26:40Z",
+      "descriptionSnippet": "We are supporting a Quebec-based technology company specialized in the development of advanced solutions in the healthcare and embedded technologies space. The organization designs innovative electronic products aimed at significantly improving communication and the human experience in complex and demanding environments. Its environment stands out for its high level of technical expertise, particularly in embedded systems, signal processing, and connected technologies. In this context, the orga…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=PIoLa8w_8RGTn8VwZIa35w&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
     {
       "id": "5677066294",
       "title": "Senior Software Developer",
@@ -18,88 +50,9 @@
       "salaryMax": null,
       "createdAt": "2026-03-24T12:48:53Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. Role Summary We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our co…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=si6Oq8w08RGK-ec26Kq9hw&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=PIoLa8w_8RGTn8VwZIa35w&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5677044009",
-      "title": "Software Development Team Manager",
-      "company": "Fed IT",
-      "location": "Saint-Hubert, Champlain",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-03-24T12:46:15Z",
-      "descriptionSnippet": "Software Development Team Manager Introduction I’m Robin Sionniere, Recruitment Advisor at FED, specializing in technology roles. I’m excited to share an outstanding opportunity for a Software Development Supervisor within a forward‑thinking organization where innovation drives every project and where your leadership truly makes an impact. Mission Your responsibilities Team leadership & management Oversee task prioritization and workload distribution within the development team. Lead Agile cere…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677044009?se=si6Oq8w08RGK-ec26Kq9hw&utm_medium=api&utm_source=3ebb75f8&v=21EC778C0F28D507586E189D99506C9871143624",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Agile"
-      ]
-    },
-    {
-      "id": "5688873944",
-      "title": "Développeur d'applications / Software Developer",
-      "company": "Airbus Atlantique Canada Inc.",
-      "location": "Sainte-Marthe-sur-le-Lac, Deux-Montagnes",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-03T14:22:35Z",
-      "descriptionSnippet": "Job Description: Développeur d'applications / Software developer English job description follows Description de l'emploi: Vous avez une expérience en développement logiciel, vous avez travaillé comme développeur et vous souhaitez évoluer et développer de nouvelles compétences? Ce poste est pour vous ! Le programme d'avions commerciaux A220 recherche un Développeur d’applications pour rejoindre notre équipe Digital Solutions basée à Mirabel (Québec, Canada), où vous travaillerez à développer et …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5688873944?se=si6Oq8w08RGK-ec26Kq9hw&utm_medium=api&utm_source=3ebb75f8&v=D0B2723F05BBC6EE699AF58E3C04B98E0094C8F3",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5679991997",
-      "title": "Concepteur(trice) logiciel / Software Developer",
-      "company": "EXFO inc",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-03-27T00:55:31Z",
-      "descriptionSnippet": "Description du poste : C'est une période excitante pour rejoindre EXFO, car nous sommes en pleine transformation technologique notamment dans notre division d’Instruments Optiques - là où vous pourrez trouver tous les produits historiques qui font de nous le leader mondial depuis 40 ans! Au sein de l’équipe de développement logiciel de notre application embarqué « tech-hub » et en tant que développeur full-stack dans notre équipe Exchange chez EXFO, vous serez appelé à prendre en main l’évoluti…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5679991997?se=si6Oq8w08RGK-ec26Kq9hw&utm_medium=api&utm_source=3ebb75f8&v=A2E334DB9354E18BDB3F71666C3AAB9DCFCD7222",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5679992031",
-      "title": "Concepteur(trice) logiciel / Software Developer",
-      "company": "EXFO inc",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-03-27T00:55:31Z",
-      "descriptionSnippet": "Job Description: C'est une période excitante pour rejoindre EXFO, car nous sommes en pleine transformation technologique notamment dans notre division d’Instruments Optiques - là où vous pourrez trouver tous les produits historiques qui font de nous le leader mondial depuis 40 ans! Au sein de l’équipe de développement logiciel de notre application embarqué « tech-hub » et en tant que développeur full-stack dans notre équipe Exchange chez EXFO, vous serez appelé à prendre en main l’évolution de …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5679992031?se=si6Oq8w08RGK-ec26Kq9hw&utm_medium=api&utm_source=3ebb75f8&v=B4CF3EA6F1BED11FB8C75634B01348A82F2071F9",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5681064154",
-      "title": "Software Developer",
-      "company": "ADGA Group Consultants Inc",
-      "location": "Victoria, Capital",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-03-28T03:03:23Z",
-      "descriptionSnippet": "Job Description ADGA is currently seeking to connect with Software Developers for an anticipated upcoming project. This is a proactive recruitment initiative, with potential start dates in the coming weeks or months, contingent on contract award. In this role, successful candidates will be responsible for all stages of development, application/database design, programming, testing, and related documentation. This role will work within a collaborative team environment to design, develop, and del…",
-      "redirectUrl": "https://www.adzuna.ca/details/5681064154?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing"
-      ]
     },
     {
       "id": "5681064168",
@@ -119,17 +72,17 @@
       ]
     },
     {
-      "id": "5684676611",
+      "id": "5681064154",
       "title": "Software Developer",
-      "company": "Vention",
-      "location": "Montréal, Québec",
+      "company": "ADGA Group Consultants Inc",
+      "location": "Victoria, Capital",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-03-31T21:11:44Z",
-      "descriptionSnippet": "Job Description As a Software Developer at Vention… You will be part of our Machine Apps Team as a core contributor to our software development efforts, responsible for delivering features and maintaining the health of our production systems. You will own the full product life cycle, which includes developing new features, building robust test automation, and fixing bugs across our applications and deployment pipelines. Working in a highly collaborative environment, you will partner with produc…",
-      "redirectUrl": "https://www.adzuna.ca/details/5684676611?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-03-28T03:03:23Z",
+      "descriptionSnippet": "Job Description ADGA is currently seeking to connect with Software Developers for an anticipated upcoming project. This is a proactive recruitment initiative, with potential start dates in the coming weeks or months, contingent on contract award. In this role, successful candidates will be responsible for all stages of development, application/database design, programming, testing, and related documentation. This role will work within a collaborative team environment to design, develop, and del…",
+      "redirectUrl": "https://www.adzuna.ca/details/5681064154?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
         "Testing"
@@ -169,6 +122,55 @@
       "redirectUrl": "https://www.adzuna.ca/details/5500257905?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5345231455",
+      "title": "Software Developer",
+      "company": "ProjectLine Solutions",
+      "location": "Saskatoon, Saskatchewan",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-08-09T05:32:31Z",
+      "descriptionSnippet": "Our Software Developers are strong programmers with demonstrated experience writing robust, maintainable code for challenging and stimulating projects. You'll have the opportunity to match your passion for software development with a diversity of challenging and exciting projects. Qualifications Demonstrated software development experience. A solid understanding of TypeScript and Reactive programming principles. Experience with Angular and Angular Material. Familiarity with common CSS framework…",
+      "redirectUrl": "https://www.adzuna.ca/details/5345231455?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "5695999635",
+      "title": "Software Developer",
+      "company": "J.D. Irving",
+      "location": "Saint John, Saint John region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-10T16:36:25Z",
+      "descriptionSnippet": "Description Software Developer Location: Saint John, NB The Software developer is responsible for delivering quality products and support services In our collaborative and driven team, software developers are a critical member. They take pride in seeing how they are impacting project success, bottom lines and scorecards. This is an opportunity to create something new with like-minded people. Now is your chance to join our team to make a lasting impact as a Software Developer. This position requ…",
+      "redirectUrl": "https://www.adzuna.ca/details/5695999635?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5662789176",
+      "title": "Software Developer",
+      "company": "Duke",
+      "location": "Ontario, Canada",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-12T16:17:44Z",
+      "descriptionSnippet": "Job Title: Software Developer On-site/ Remote/ Hybrid: On Site Location: Trenton, ON Job Type: Contract A highly skilled and experienced Senior Software Developer to join our client’s team. This role requires a strong technical background in C, C++, or Python, as well as a deep understanding of software development principles and methodologies. The ideal candidate will be a self-starter, capable of working independently and leading technical projects. Job Responsibilities: Technical Leadership:…",
+      "redirectUrl": "https://www.adzuna.ca/details/5662789176?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Python"
+      ]
     }
   ]
 }
