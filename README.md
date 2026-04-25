@@ -344,33 +344,4 @@ You can run the same ETL locally if those environment variables are available:
 npm run etl:scheduled
 ```
 
-## Deployment
 
-The app is intended to deploy on Vercel.
-
-Set these environment variables in the Vercel project settings:
-
-- `ADZUNA_APP_ID`
-- `ADZUNA_APP_KEY`
-- `GEMINI_API_KEY`
-- `BLOB_READ_WRITE_TOKEN`
-
-Optional:
-
-- `GEMINI_MODEL`
-- `DEMO_MODE`
-
-The browser only calls internal Next.js API routes. Adzuna, Gemini, and Vercel Blob credentials stay on the server.
-
-## Video Walkthrough Notes
-
-A simple walkthrough can follow this order:
-
-1. Search for a Canadian job title.
-2. Point out the bronze artifact path for the raw Adzuna response.
-3. Point out the silver artifact path and cleaned postings preview.
-4. Paste resume text.
-5. Run the Gemini analysis.
-6. Point out the gold artifact path.
-7. Explain that the gold artifact stores a resume hash, not the full resume text.
-8. Show the Role Fit Score, strengths, gaps, and resume suggestions.
