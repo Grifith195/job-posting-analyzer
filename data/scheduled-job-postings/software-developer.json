@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T11:30:20.036Z",
+  "generatedAt": "2026-04-29T11:23:01.892Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,23 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5713608857",
+      "title": "Backend Software Developer - Remote",
+      "company": "Outlier AI",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-29T06:12:02Z",
+      "descriptionSnippet": "Job Description Outlier helps the worlds most innovative companies improve their AI agents by providing human feedback. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows. Whether you are a passionate orchestration guru or ex…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5713608857?se=tmDqyL1D8RGLLrIe10BuwQ&utm_medium=api&utm_source=3ebb75f8&v=B5B08334FE7CC7512596AA8D2B4375308C07BB1E",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
     {
       "id": "5706196598",
       "title": "Embedded Software Developer",
@@ -18,7 +35,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T10:26:40Z",
       "descriptionSnippet": "We are supporting a Quebec-based technology company specialized in the development of advanced solutions in the healthcare and embedded technologies space. The organization designs innovative electronic products aimed at significantly improving communication and the human experience in complex and demanding environments. Its environment stands out for its high level of technical expertise, particularly in embedded systems, signal processing, and connected technologies. In this context, the orga…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=ROuro_VC8RGTZuZighoWZw&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=tmDqyL1D8RGLLrIe10BuwQ&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
@@ -35,7 +52,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-24T12:48:53Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. Role Summary We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our co…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=ROuro_VC8RGTZuZighoWZw&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=tmDqyL1D8RGLLrIe10BuwQ&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -151,23 +168,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5680492867?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "4687956892",
-      "title": "Software Developer",
-      "company": "US Tech Solutions",
-      "location": "Ottawa, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2024-05-10T15:30:30Z",
-      "descriptionSnippet": "Ottawa, ON Contract Responsibilities Assist the team with the design and implementation of automation tests for component, integration, and system testing Assist the team with new approaches to existing/planned testing in relations to automation framework Provide detailed configuration and descriptions for passing and failing tests Ensure quality of routine operations process by monitoring and improving the health of the test automation systems and their integration Support continuous testing p…",
-      "redirectUrl": "https://www.adzuna.ca/details/4687956892?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing"
-      ]
     }
   ]
 }
