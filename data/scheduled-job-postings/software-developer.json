@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T11:23:01.892Z",
+  "generatedAt": "2026-04-30T11:22:13.315Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,24 @@
       "salaryMax": null,
       "createdAt": "2026-04-29T06:12:02Z",
       "descriptionSnippet": "Job Description Outlier helps the worlds most innovative companies improve their AI agents by providing human feedback. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows. Whether you are a passionate orchestration guru or ex…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5713608857?se=tmDqyL1D8RGLLrIe10BuwQ&utm_medium=api&utm_source=3ebb75f8&v=B5B08334FE7CC7512596AA8D2B4375308C07BB1E",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5713608857?se=tD1g1oZE8RGvraQAws-LVw&utm_medium=api&utm_source=3ebb75f8&v=B5B08334FE7CC7512596AA8D2B4375308C07BB1E",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "5713608863",
+      "title": "AI Agent Software Developer - Remote",
+      "company": "Outlier AI",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-29T06:12:03Z",
+      "descriptionSnippet": "Job Description Outlier helps the worlds most innovative companies improve their AI agents by providing human feedback. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows. Whether you are a passionate orchestration guru or ex…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5713608863?se=tD1g1oZE8RGvraQAws-LVw&utm_medium=api&utm_source=3ebb75f8&v=C648FD26BF17D9B3721DB75D7F60822CD4A3323C",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
@@ -35,7 +52,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T10:26:40Z",
       "descriptionSnippet": "We are supporting a Quebec-based technology company specialized in the development of advanced solutions in the healthcare and embedded technologies space. The organization designs innovative electronic products aimed at significantly improving communication and the human experience in complex and demanding environments. Its environment stands out for its high level of technical expertise, particularly in embedded systems, signal processing, and connected technologies. In this context, the orga…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=tmDqyL1D8RGLLrIe10BuwQ&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=tD1g1oZE8RGvraQAws-LVw&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
@@ -52,7 +69,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-24T12:48:53Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. Role Summary We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our co…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=tmDqyL1D8RGLLrIe10BuwQ&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=tD1g1oZE8RGvraQAws-LVw&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -151,21 +168,6 @@
       "createdAt": "2026-04-18T16:37:28Z",
       "descriptionSnippet": "Promise Robotics is a rapidly growing venture-backed technology startup with a mission to help the building industry to harness automation toward producing more affordable and sustainable buildings. Our world-class team combines AI, Industrialized Robotics, and construction under one roof to develop the most advanced robotic products for the construction of highly efficient and sustainable buildings. We’re looking for an Software Developer to join our team and contribute to developing cutting-e…",
       "redirectUrl": "https://www.adzuna.ca/details/5703960826?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5680492867",
-      "title": "Software Developer",
-      "company": "Autodesk",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 88000,
-      "salaryMax": 128700,
-      "createdAt": "2026-03-27T16:14:16Z",
-      "descriptionSnippet": "Job Requisition ID 26WD95771 Does working in a fast-paced environment excite you? Do you enjoy building resilient, scalable distributed systems? Do you enjoy helping others with the software you make? If so, the Autodesk Developer Enablement team is seeking a highly motivated Software Developer to help build and operate Autodesk’s distributed computing platform. If you are a software developer proficient in backend service development and eager to be part of a team of talented engineers, we wo…",
-      "redirectUrl": "https://www.adzuna.ca/details/5680492867?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
