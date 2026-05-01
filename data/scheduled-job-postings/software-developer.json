@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T11:22:13.315Z",
+  "generatedAt": "2026-05-01T10:59:52.697Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -8,38 +8,19 @@
   },
   "jobs": [
     {
-      "id": "5713608857",
-      "title": "Backend Software Developer - Remote",
-      "company": "Outlier AI",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
+      "id": "5701916391",
+      "title": "Software Developer",
+      "company": "Nord Quantique",
+      "location": "Anjou, Montréal",
+      "category": "Engineering Jobs",
+      "contractType": "permanent",
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-04-29T06:12:02Z",
-      "descriptionSnippet": "Job Description Outlier helps the worlds most innovative companies improve their AI agents by providing human feedback. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows. Whether you are a passionate orchestration guru or ex…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5713608857?se=tD1g1oZE8RGvraQAws-LVw&utm_medium=api&utm_source=3ebb75f8&v=B5B08334FE7CC7512596AA8D2B4375308C07BB1E",
+      "createdAt": "2026-04-16T19:05:05Z",
+      "descriptionSnippet": "Software Developer (permanent position, 40 hour per week) Working at Nord Quantique At Nord Quantique, you will be part of something special: working in a highly dynamic environment at the forefront of quantum technology development while benefiting from a vibrant ecosystem located at the heart of the Quantum Innovation Zone of the picturesque city of Sherbrooke. Our interdisciplinary team is laser-focused on solving grand challenges and making quantum computing a reality. Nord Quantique is an …",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=akux4UxF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5713608863",
-      "title": "AI Agent Software Developer - Remote",
-      "company": "Outlier AI",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-29T06:12:03Z",
-      "descriptionSnippet": "Job Description Outlier helps the worlds most innovative companies improve their AI agents by providing human feedback. Do you want to shape the future of autonomous agents like OpenClaw? We collaborate with leading AI organizations to train Large Language Models (LLMs) to function as proactive, multi-step agents. Our projects focus on teaching these systems how to design, coordinate, and optimize complex, real-world architectural workflows. Whether you are a passionate orchestration guru or ex…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5713608863?se=tD1g1oZE8RGvraQAws-LVw&utm_medium=api&utm_source=3ebb75f8&v=C648FD26BF17D9B3721DB75D7F60822CD4A3323C",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
+      "extractedKeywords": []
     },
     {
       "id": "5706196598",
@@ -52,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T10:26:40Z",
       "descriptionSnippet": "We are supporting a Quebec-based technology company specialized in the development of advanced solutions in the healthcare and embedded technologies space. The organization designs innovative electronic products aimed at significantly improving communication and the human experience in complex and demanding environments. Its environment stands out for its high level of technical expertise, particularly in embedded systems, signal processing, and connected technologies. In this context, the orga…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=tD1g1oZE8RGvraQAws-LVw&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=akux4UxF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
@@ -69,7 +50,37 @@
       "salaryMax": null,
       "createdAt": "2026-03-24T12:48:53Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. Role Summary We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our co…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=tD1g1oZE8RGvraQAws-LVw&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=akux4UxF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5709957359",
+      "title": "Front-End Software Developer Job Details | Purolator",
+      "company": "Purolator",
+      "location": "Kitchener, Waterloo region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-24T22:40:54Z",
+      "descriptionSnippet": "It’s not a package. It’s a promise®. As Canada’s leading integrated freight, package, and logistics provider, we’ve been helping promises get where they need to be for more than 60 years. How does the magic happen? The journey starts with you . The places we go, the elements we brave, the promises we deliver - it’s all possible because of our people. So, whether you’re looking to build new skills, make an impact in your community, or inspire your team, we go there for you. Description Purolator…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5709957359?se=akux4UxF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=3ebb75f8&v=E82E1E494B6012A3DA029561EEE5E57603819707",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5713757610",
+      "title": "Software Developer",
+      "company": "vTech Solution",
+      "location": "Ontario, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 156000,
+      "salaryMax": 166400,
+      "createdAt": "2026-04-29T12:43:51Z",
+      "descriptionSnippet": "Job Summary: The Software Developer is responsible for designing, implementing, and maintaining data pipelines, translating technical specifications into working applications, and resolving technical issues. The role involves collaborating with IT professionals throughout the software development lifecycle, supporting release and infrastructure solutions, and participating in sustainment activities. The developer must be proficient in both front-end and back-end development, with a focus on bui…",
+      "redirectUrl": "https://www.adzuna.ca/details/5713757610?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -155,21 +166,6 @@
       "extractedKeywords": [
         "Python"
       ]
-    },
-    {
-      "id": "5703960826",
-      "title": "Software Developer",
-      "company": "Promise Robotics",
-      "location": "Calgary, Calgary region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-18T16:37:28Z",
-      "descriptionSnippet": "Promise Robotics is a rapidly growing venture-backed technology startup with a mission to help the building industry to harness automation toward producing more affordable and sustainable buildings. Our world-class team combines AI, Industrialized Robotics, and construction under one roof to develop the most advanced robotic products for the construction of highly efficient and sustainable buildings. We’re looking for an Software Developer to join our team and contribute to developing cutting-e…",
-      "redirectUrl": "https://www.adzuna.ca/details/5703960826?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
