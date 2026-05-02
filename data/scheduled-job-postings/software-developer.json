@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T10:59:52.697Z",
+  "generatedAt": "2026-05-02T10:40:19.990Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5701578483",
+      "title": "Développeur principal de logiciels / Senior Software Developer",
+      "company": "Trane Technologies",
+      "location": "Westmount, Montréal",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-16T14:44:43Z",
+      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=AgIdURNG8RGJlN0MJ63G5Q&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5701916391",
       "title": "Software Developer",
@@ -18,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T19:05:05Z",
       "descriptionSnippet": "Software Developer (permanent position, 40 hour per week) Working at Nord Quantique At Nord Quantique, you will be part of something special: working in a highly dynamic environment at the forefront of quantum technology development while benefiting from a vibrant ecosystem located at the heart of the Quantum Innovation Zone of the picturesque city of Sherbrooke. Our interdisciplinary team is laser-focused on solving grand challenges and making quantum computing a reality. Nord Quantique is an …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=akux4UxF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=AgIdURNG8RGJlN0MJ63G5Q&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +48,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T10:26:40Z",
       "descriptionSnippet": "We are supporting a Quebec-based technology company specialized in the development of advanced solutions in the healthcare and embedded technologies space. The organization designs innovative electronic products aimed at significantly improving communication and the human experience in complex and demanding environments. Its environment stands out for its high level of technical expertise, particularly in embedded systems, signal processing, and connected technologies. In this context, the orga…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=akux4UxF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=AgIdURNG8RGJlN0MJ63G5Q&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
@@ -50,37 +65,7 @@
       "salaryMax": null,
       "createdAt": "2026-03-24T12:48:53Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. Role Summary We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our co…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=akux4UxF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5709957359",
-      "title": "Front-End Software Developer Job Details | Purolator",
-      "company": "Purolator",
-      "location": "Kitchener, Waterloo region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-24T22:40:54Z",
-      "descriptionSnippet": "It’s not a package. It’s a promise®. As Canada’s leading integrated freight, package, and logistics provider, we’ve been helping promises get where they need to be for more than 60 years. How does the magic happen? The journey starts with you . The places we go, the elements we brave, the promises we deliver - it’s all possible because of our people. So, whether you’re looking to build new skills, make an impact in your community, or inspire your team, we go there for you. Description Purolator…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5709957359?se=akux4UxF8RGpIOVQbdgqYQ&utm_medium=api&utm_source=3ebb75f8&v=E82E1E494B6012A3DA029561EEE5E57603819707",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5713757610",
-      "title": "Software Developer",
-      "company": "vTech Solution",
-      "location": "Ontario, Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 156000,
-      "salaryMax": 166400,
-      "createdAt": "2026-04-29T12:43:51Z",
-      "descriptionSnippet": "Job Summary: The Software Developer is responsible for designing, implementing, and maintaining data pipelines, translating technical specifications into working applications, and resolving technical issues. The role involves collaborating with IT professionals throughout the software development lifecycle, supporting release and infrastructure solutions, and participating in sustainment activities. The developer must be proficient in both front-end and back-end development, with a focus on bui…",
-      "redirectUrl": "https://www.adzuna.ca/details/5713757610?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5677066294?se=AgIdURNG8RGJlN0MJ63G5Q&utm_medium=api&utm_source=3ebb75f8&v=68BF065DDFBE69319E9F1BD7949321E3B861C9D1",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -119,6 +104,24 @@
       "extractedKeywords": []
     },
     {
+      "id": "5714950507",
+      "title": "Software Developer",
+      "company": "PolicyAdvisor Brokerage Inc.",
+      "location": "Oakville, Halton",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": 60000,
+      "salaryMax": 60000,
+      "createdAt": "2026-04-30T20:20:14Z",
+      "descriptionSnippet": "Responsibilities Design, build, and deploy AI solutions that improve user experience and automate insurance workflows Leverage technologies like RAG, semantic search, and speech AI for real-time advisor-client interactions Collaborate across teams to integrate features, analyze data, and improve platform performance Ensure code quality, cloud scalability, cybersecurity, and data privacy compliance Stay up to date with the latest in AI/ML, and contribute to documentation, testing, and system opt…",
+      "redirectUrl": "https://www.adzuna.ca/details/5714950507?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing",
+        "Communication"
+      ]
+    },
+    {
       "id": "5345231455",
       "title": "Software Developer",
       "company": "ProjectLine Solutions",
@@ -136,21 +139,6 @@
       ]
     },
     {
-      "id": "5695999635",
-      "title": "Software Developer",
-      "company": "J.D. Irving",
-      "location": "Saint John, Saint John region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-10T16:36:25Z",
-      "descriptionSnippet": "Description Software Developer Location: Saint John, NB The Software developer is responsible for delivering quality products and support services In our collaborative and driven team, software developers are a critical member. They take pride in seeing how they are impacting project success, bottom lines and scorecards. This is an opportunity to create something new with like-minded people. Now is your chance to join our team to make a lasting impact as a Software Developer. This position requ…",
-      "redirectUrl": "https://www.adzuna.ca/details/5695999635?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5662789176",
       "title": "Software Developer",
       "company": "Duke",
@@ -166,6 +154,21 @@
       "extractedKeywords": [
         "Python"
       ]
+    },
+    {
+      "id": "5703960826",
+      "title": "Software Developer",
+      "company": "Promise Robotics",
+      "location": "Calgary, Calgary region",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-18T16:37:28Z",
+      "descriptionSnippet": "Promise Robotics is a rapidly growing venture-backed technology startup with a mission to help the building industry to harness automation toward producing more affordable and sustainable buildings. Our world-class team combines AI, Industrialized Robotics, and construction under one roof to develop the most advanced robotic products for the construction of highly efficient and sustainable buildings. We’re looking for an Software Developer to join our team and contribute to developing cutting-e…",
+      "redirectUrl": "https://www.adzuna.ca/details/5703960826?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }

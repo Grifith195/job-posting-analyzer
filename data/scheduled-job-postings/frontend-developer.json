@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T10:59:52.697Z",
+  "generatedAt": "2026-05-02T10:40:19.990Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -112,6 +112,21 @@
       ]
     },
     {
+      "id": "5702854460",
+      "title": "Intermediate Frontend Developer",
+      "company": "Best Buy Canada",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 75000,
+      "salaryMax": 100000,
+      "createdAt": "2026-04-17T16:29:19Z",
+      "descriptionSnippet": "As an intermediate frontend developer , which at Best Buy we call it a software developer II, you'll play a vital role in enhancing customer and associate experiences by developing innovative applications that directly contribute to the success and growth of Best Buy Canada. We are currently hiring for a 12-month fixed-term opportunity within our Technology Team. We practice a remote first working model, leveraging in person interactions at our head office, in beautiful Vancouver, BC, for strat…",
+      "redirectUrl": "https://www.adzuna.ca/details/5702854460?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5707020863",
       "title": "Frontend Developer (3D)",
       "company": "NearSource",
@@ -126,6 +141,25 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Data Visualization"
+      ]
+    },
+    {
+      "id": "5664013799",
+      "title": "Angular Frontend Developer",
+      "company": "Tangentia",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-13T16:09:25Z",
+      "descriptionSnippet": "Role: Angular Frontend Developer Location: Toronto, ON 4 Days work from office and 1 day work from home Must Have B.S. degree in Computer Science or related technical field with equivalent practical experience. 2 years experience with JavaScript and TypeScript. Intermediate to advanced knowledge and experience with Angular 20, including standalone components, dependency injection, change detection, RxJS, and Angular CLI/Nx workspace management. Proficiency in NgRx (or Redux), signals, and react…",
+      "redirectUrl": "https://www.adzuna.ca/details/5664013799?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "JavaScript"
       ]
     },
     {
@@ -146,38 +180,6 @@
         "TypeScript",
         "API",
         "Agile"
-      ]
-    },
-    {
-      "id": "5539959828",
-      "title": "Frontend Developer (Angular)",
-      "company": "A-CX",
-      "location": "Chaldecutt, Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 88764,
-      "salaryMax": 109812,
-      "createdAt": "2025-12-12T14:04:27Z",
-      "descriptionSnippet": "A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend solutions, crafting software products that fulfill expectations with high …",
-      "redirectUrl": "https://www.adzuna.ca/details/5539959828?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5700420094",
-      "title": "Senior Frontend Developer",
-      "company": "Coveo",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-15T16:15:46Z",
-      "descriptionSnippet": "Build the admin experience that powers the backbone of our customers implementations What if your code could directly shape how users manage, monitor, and scale their Coveo experience? You’ll take ownership of complex frontend features in our admin platform, driving both usability and technical excellence. You’ll join a team that values autonomy, strong engineering practices, and thoughtful collaboration with UX and backend teams to deliver cohesive, high-impact features. As a Senior Frontend D…",
-      "redirectUrl": "https://www.adzuna.ca/details/5700420094?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
       ]
     }
   ]
