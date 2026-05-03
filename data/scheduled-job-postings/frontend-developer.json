@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T10:40:19.990Z",
+  "generatedAt": "2026-05-03T10:42:49.268Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -60,21 +60,6 @@
         "API",
         "Stakeholder Management"
       ]
-    },
-    {
-      "id": "5689052853",
-      "title": "Frontend Developer",
-      "company": "Intellifi",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-03T16:30:34Z",
-      "descriptionSnippet": "Join nesto — proudly named Canadian Rocketship 2025*. A Deloitte Fast 50 company evolving alongside Canada’s top tech innovators and disrupting a 2.1 Trillion-dollar mortgage industry at light speed by building the mortgage ecosystem of the future. BUILD lending technology with the best developers, AI engineers, and mortgage experts in the country. Work on a modern tech stack and a development framework designed to unlock your full potential and accelerate your career. Why join us Hypergrowth: …",
-      "redirectUrl": "https://www.adzuna.ca/details/5689052853?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5440765180",
@@ -181,6 +166,21 @@
         "API",
         "Agile"
       ]
+    },
+    {
+      "id": "5539959828",
+      "title": "Frontend Developer (Angular)",
+      "company": "A-CX",
+      "location": "Chaldecutt, Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 88764,
+      "salaryMax": 109812,
+      "createdAt": "2025-12-12T14:04:27Z",
+      "descriptionSnippet": "A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend solutions, crafting software products that fulfill expectations with high …",
+      "redirectUrl": "https://www.adzuna.ca/details/5539959828?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
