@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T11:08:52.725Z",
+  "generatedAt": "2026-05-06T11:42:30.275Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -112,6 +112,24 @@
       ]
     },
     {
+      "id": "5717436804",
+      "title": "Frontend Developer - Remote",
+      "company": "YO HR Consultancy",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 104000,
+      "salaryMax": 145600,
+      "createdAt": "2026-05-02T20:55:45Z",
+      "descriptionSnippet": "Job Title: Frontend Engineer Job Type: Contract, Part time Location: Remote Job Summary: We are seeking a Frontend Engineer who will be instrumental in crafting seamless, intuitive, and robust web applications. As an expert in frontend technologies, you will play a key role in delivering delightful user experiences and collaborating within a high-performing, remote-first environment. Key Responsibilities: Architect, develop, and maintain scalable web interfaces using JavaScript and TypeScript. …",
+      "redirectUrl": "https://www.adzuna.ca/details/5717436804?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript",
+        "JavaScript"
+      ]
+    },
+    {
       "id": "5702854460",
       "title": "Intermediate Frontend Developer",
       "company": "Best Buy Canada",
@@ -160,26 +178,6 @@
         "React",
         "TypeScript",
         "JavaScript"
-      ]
-    },
-    {
-      "id": "5705176908",
-      "title": "Senior Frontend Developer",
-      "company": "LOD Technologies Inc.",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-20T06:08:16Z",
-      "descriptionSnippet": "Job Description Job Description We’re looking for a Frontend Developer with strong TypeScript skills who is passionate about clean, maintainable code and thrives in a fast-paced, agile environment. You’ll join a focused and technical team solving real infrastructure problems where energy, AI, and compute intersect. You’ll be helping us transition to Next.js while building new apps and tools. We value strong coding principles (especially SOLID), GraphQL expertise, and awareness of frontend secur…",
-      "redirectUrl": "https://www.adzuna.ca/details/5705176908?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Next.js",
-        "TypeScript",
-        "API",
-        "Agile"
       ]
     }
   ]
