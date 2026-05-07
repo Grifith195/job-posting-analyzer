@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T11:42:30.275Z",
+  "generatedAt": "2026-05-07T11:31:08.926Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T14:44:43Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=bMtBqkBJ8RGnOcTcG3SWIw&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=enmIPghK8RGFzpAGHjVmWw&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T19:05:05Z",
       "descriptionSnippet": "Software Developer (permanent position, 40 hour per week) Working at Nord Quantique At Nord Quantique, you will be part of something special: working in a highly dynamic environment at the forefront of quantum technology development while benefiting from a vibrant ecosystem located at the heart of the Quantum Innovation Zone of the picturesque city of Sherbrooke. Our interdisciplinary team is laser-focused on solving grand challenges and making quantum computing a reality. Nord Quantique is an …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=bMtBqkBJ8RGnOcTcG3SWIw&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=enmIPghK8RGFzpAGHjVmWw&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -48,29 +48,10 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T10:26:40Z",
       "descriptionSnippet": "We are supporting a Quebec-based technology company specialized in the development of advanced solutions in the healthcare and embedded technologies space. The organization designs innovative electronic products aimed at significantly improving communication and the human experience in complex and demanding environments. Its environment stands out for its high level of technical expertise, particularly in embedded systems, signal processing, and connected technologies. In this context, the orga…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=bMtBqkBJ8RGnOcTcG3SWIw&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=enmIPghK8RGFzpAGHjVmWw&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
-      ]
-    },
-    {
-      "id": "5694028175",
-      "title": "Software Developer",
-      "company": "Vention",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-08T21:46:20Z",
-      "descriptionSnippet": "Job Description As a Software Developer at Vention… You will be a key contributor to the architecture and development of internal tools, system integrations, and new platform features — from initial concept to production deployment. What You’ll Do: Improve website performance and maintain high-quality standards by writing robust TypeScript code. Architect, build, and deploy internal and customer-facing features using React.js, React Native, and Node.js. Develop and maintain unit, integration, a…",
-      "redirectUrl": "https://www.adzuna.ca/details/5694028175?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "TypeScript",
-        "Node.js"
       ]
     },
     {
@@ -169,6 +150,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5680492867?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5717278025",
+      "title": "Software Developer",
+      "company": "Price Industries",
+      "location": "Winnipeg region, Manitoba",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-02T16:42:26Z",
+      "descriptionSnippet": "Software Developer Are you a motivated Full Stack Software Developer passionate about crafting robust and scalable web applications? We are searching for a talented developer who will be encouraged to increase their expertise in Angular, C#.NET, and SQL. As a Full Stack Software Developer at Price Industries, you will have the opportunity to enhance your skills and contribute to projects that push the boundaries of technology. You will work alongside experienced developers, receiving mentorship…",
+      "redirectUrl": "https://www.adzuna.ca/details/5717278025?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL"
+      ]
     }
   ]
 }
