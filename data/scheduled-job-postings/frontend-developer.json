@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T11:45:44.180Z",
+  "generatedAt": "2026-05-13T11:53:20.904Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -62,21 +62,6 @@
       ]
     },
     {
-      "id": "5718144060",
-      "title": "Frontend Developer",
-      "company": "nesto",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-03T16:38:49Z",
-      "descriptionSnippet": "Join nesto — proudly named Canadian Rocketship 2025*. A Deloitte Fast 50 company evolving alongside Canada’s top tech innovators and disrupting a 2.1 Trillion-dollar mortgage industry at light speed by building the mortgage ecosystem of the future. BUILD lending technology with the best developers, AI engineers, and mortgage experts in the country. Work on a modern tech stack and a development framework designed to unlock your full potential and accelerate your career. Why join us Hypergrowth: …",
-      "redirectUrl": "https://www.adzuna.ca/details/5718144060?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5722072343",
       "title": "Frontend Developer",
       "company": "WallStreetBets",
@@ -88,6 +73,21 @@
       "createdAt": "2026-05-07T16:42:47Z",
       "descriptionSnippet": "About Us WallStreetBets is the largest finance community in the world. With over 20 million users, we’re the movement that helped redefine retail investing and put power back into the hands of everyday traders. From our humble beginnings on Reddit to becoming a global household name during the GameStop saga, our influence has shaped markets, culture, and the future of finance. And we’re just getting started. Today, our mission is stronger than ever: minimize the gap between retail and instituti…",
       "redirectUrl": "https://www.adzuna.ca/details/5722072343?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5718144060",
+      "title": "Frontend Developer",
+      "company": "nesto",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-03T16:38:49Z",
+      "descriptionSnippet": "Join nesto — proudly named Canadian Rocketship 2025*. A Deloitte Fast 50 company evolving alongside Canada’s top tech innovators and disrupting a 2.1 Trillion-dollar mortgage industry at light speed by building the mortgage ecosystem of the future. BUILD lending technology with the best developers, AI engineers, and mortgage experts in the country. Work on a modern tech stack and a development framework designed to unlock your full potential and accelerate your career. Why join us Hypergrowth: …",
+      "redirectUrl": "https://www.adzuna.ca/details/5718144060?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
