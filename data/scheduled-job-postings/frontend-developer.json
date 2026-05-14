@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T11:53:20.904Z",
+  "generatedAt": "2026-05-14T11:42:03.621Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -92,6 +92,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5440765180",
+      "title": "Frontend Developer",
+      "company": "Ameresco",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-10-10T05:24:48Z",
+      "descriptionSnippet": "Ameresco, Inc. (NYSE:AMRC) is a leading energy solutions provider dedicated to helping customers reduce costs, enhance resilience, and decarbonize to net zero in the global energy transition. We are a trusted, full-service partner to public sector and government entities, K-12 schools, higher education, utilities, and healthcare customers across the U.S., Canada, the U.K., and Europe. At Ameresco, we show the way by developing, constructing and operating tailored smart energy efficiency solutio…",
+      "redirectUrl": "https://www.adzuna.ca/details/5440765180?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5669066493",
       "title": "Senior Frontend Developer",
       "company": "LOD Technologies Inc.",
@@ -156,25 +171,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Data Visualization"
-      ]
-    },
-    {
-      "id": "5664013799",
-      "title": "Angular Frontend Developer",
-      "company": "Tangentia",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-03-13T16:09:25Z",
-      "descriptionSnippet": "Role: Angular Frontend Developer Location: Toronto, ON 4 Days work from office and 1 day work from home Must Have B.S. degree in Computer Science or related technical field with equivalent practical experience. 2 years experience with JavaScript and TypeScript. Intermediate to advanced knowledge and experience with Angular 20, including standalone components, dependency injection, change detection, RxJS, and Angular CLI/Nx workspace management. Proficiency in NgRx (or Redux), signals, and react…",
-      "redirectUrl": "https://www.adzuna.ca/details/5664013799?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "TypeScript",
-        "JavaScript"
       ]
     }
   ]
