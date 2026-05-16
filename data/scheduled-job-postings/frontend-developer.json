@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T11:45:56.575Z",
+  "generatedAt": "2026-05-16T10:53:09.581Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -109,21 +109,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5440765180",
-      "title": "Frontend Developer",
-      "company": "Ameresco",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-10-10T05:24:48Z",
-      "descriptionSnippet": "Ameresco, Inc. (NYSE:AMRC) is a leading energy solutions provider dedicated to helping customers reduce costs, enhance resilience, and decarbonize to net zero in the global energy transition. We are a trusted, full-service partner to public sector and government entities, K-12 schools, higher education, utilities, and healthcare customers across the U.S., Canada, the U.K., and Europe. At Ameresco, we show the way by developing, constructing and operating tailored smart energy efficiency solutio…",
-      "redirectUrl": "https://www.adzuna.ca/details/5440765180?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5669066493",
       "title": "Senior Frontend Developer",
       "company": "LOD Technologies Inc.",
@@ -172,6 +157,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5725054654?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5707020863",
+      "title": "Frontend Developer (3D)",
+      "company": "NearSource",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-22T05:46:02Z",
+      "descriptionSnippet": "Job Description Job Description Job Title: Frontend Developer (3D) Job Location: Hybrid (3 days remote), Toronto, Canada Experience: 5 to 7 Years Rate: 46 to 52 CAD PH Role Summary: NearSource is looking for a Frontend Developer (3D) to contribute to a next-generation dynamic user interface platform focused on construction project intelligence. The role involves building modular, data-driven UI components that integrate with 3D building visualization, knowledge graphs, and real-time project dat…",
+      "redirectUrl": "https://www.adzuna.ca/details/5707020863?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Data Visualization"
+      ]
     }
   ]
 }
