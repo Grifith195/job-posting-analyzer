@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T11:03:03.016Z",
+  "generatedAt": "2026-05-24T11:05:11.969Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -111,21 +111,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5718144060",
-      "title": "Frontend Developer",
-      "company": "nesto",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-03T16:38:49Z",
-      "descriptionSnippet": "Join nesto — proudly named Canadian Rocketship 2025*. A Deloitte Fast 50 company evolving alongside Canada’s top tech innovators and disrupting a 2.1 Trillion-dollar mortgage industry at light speed by building the mortgage ecosystem of the future. BUILD lending technology with the best developers, AI engineers, and mortgage experts in the country. Work on a modern tech stack and a development framework designed to unlock your full potential and accelerate your career. Why join us Hypergrowth: …",
-      "redirectUrl": "https://www.adzuna.ca/details/5718144060?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5723869444",
       "title": "Intermediate Frontend Developer",
       "company": "Tech Talent International",
@@ -177,6 +162,21 @@
         "TypeScript",
         "JavaScript"
       ]
+    },
+    {
+      "id": "5702854460",
+      "title": "Intermediate Frontend Developer",
+      "company": "Best Buy Canada",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 75000,
+      "salaryMax": 100000,
+      "createdAt": "2026-04-17T16:29:19Z",
+      "descriptionSnippet": "As an intermediate frontend developer , which at Best Buy we call it a software developer II, you'll play a vital role in enhancing customer and associate experiences by developing innovative applications that directly contribute to the success and growth of Best Buy Canada. We are currently hiring for a 12-month fixed-term opportunity within our Technology Team. We practice a remote first working model, leveraging in person interactions at our head office, in beautiful Vancouver, BC, for strat…",
+      "redirectUrl": "https://www.adzuna.ca/details/5702854460?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }

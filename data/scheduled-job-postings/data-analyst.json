@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T11:03:03.016Z",
+  "generatedAt": "2026-05-24T11:05:11.969Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T14:44:43Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578477?se=ugrK-ZZW8RGTDdJK-7cL6w&utm_medium=api&utm_source=3ebb75f8&v=1C0079C7D5B4D4367B795D404DA811F418FFE7B3",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578477?se=snmvb2BX8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=1C0079C7D5B4D4367B795D404DA811F418FFE7B3",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-05-20T21:51:12Z",
       "descriptionSnippet": "The Customer Analytics team is seeking a Data Analyst with a strong curiosity for consumer behavior and a proven ability to leverage data to drive strategic business decisions. In this role, you will contribute to a wide range of business and analytics initiatives by building robust measurement frameworks, conducting deep-dive analyses, and partnering closely with data science and business teams. You will help shape consumer-centric KPIs, support predictive modeling efforts, and deliver actiona…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5735837522?se=ugrK-ZZW8RGTDdJK-7cL6w&utm_medium=api&utm_source=3ebb75f8&v=C0E5B9CEB06F72309FF84B94D06A8839F135DD7D",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5735837522?se=snmvb2BX8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=C0E5B9CEB06F72309FF84B94D06A8839F135DD7D",
       "source": "Adzuna",
       "extractedKeywords": [
         "Metrics"
@@ -50,7 +50,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T16:29:16Z",
       "descriptionSnippet": "Mission Does playing a key role in optimizing our data management processes appeal to you? Your mission will be to ensure the accuracy and integrity of product data across our various internal systems. You will help drive this process forward by analyzing and identifying opportunities for improvement, proposing potential solutions, and creating and developing tools within the context of AI development. Through your attention to detail and the quality of the information you maintain, you will di…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=ugrK-ZZW8RGTDdJK-7cL6w&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=snmvb2BX8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -81,21 +81,6 @@
       "createdAt": "2026-04-18T07:11:31Z",
       "descriptionSnippet": "JOB OPENING - Data Analyst ADF Medical Services Inc. We're seeking a results-driven and detail-oriented Data Analyst to join our growing analytics team. If you have a strong analytical mindset, love working with data, and want to make a real impact in the healthcare industry — this role is for you. Role: Data Analyst Department: Analytics & Business Intelligence Location: Fully Remote Type: Full-Time / Part-Time What You'll Do: Analyze and interpret complex healthcare and operational datasets D…",
       "redirectUrl": "https://www.adzuna.ca/details/5703538140?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5735709060",
-      "title": "Data Analyst",
-      "company": "Upstaff",
-      "location": "Kaskitayo, Edmonton",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-20T20:44:54Z",
-      "descriptionSnippet": "Job Title: Data Product Analyst / Data Analyst Requisition ID: GOAPRDJP00000927 Client: Government of Alberta – Technology & Innovation Program: Digital Regulatory Assurance System (DRAS) Location: Remote within Canada (Onsite Edmonton, AB as required) Duration: Long-term Contract (Extension Possible) Job Summary The Government of Alberta is seeking a Data Product Analyst / Data Analyst to support the Digital Regulatory Assurance System (DRAS) program. This role is responsible for building and …",
-      "redirectUrl": "https://www.adzuna.ca/details/5735709060?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -162,6 +147,21 @@
       "createdAt": "2026-05-12T16:34:49Z",
       "descriptionSnippet": "Data Analyst This position is with the Enterprise System Management (ESM) department. The position is with a team responsible to manage our company IT inventory and assets data. This data is critical for regulatory, operational, and efficiency purposes .As part of a team focused on rationalizing different legacy hardware asset and configuration management solutions into a single strategic platform, we are looking for a data analyst. The candidate will work closely with a broad range of stakehol…",
       "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5717281586",
+      "title": "Data Analyst",
+      "company": "Westland Insurance",
+      "location": "Surrey, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 62400,
+      "salaryMax": 78000,
+      "createdAt": "2026-05-02T16:43:29Z",
+      "descriptionSnippet": "We’re searching for a Data Analyst. Are you searching for new possibilities? Westland Insurance Group Ltd is growing and has an exciting opportunity for an Data Analyst to join our growing team. This hybrid role is based out of our Head Office in Surrey, BC. Expected Compensation: The expected hiring range for this role is $62,400- $78,000 with a 37.5-hour work week. Your rate of pay will be determined based on your individual qualifications and experience, while considering internal equity. We…",
+      "redirectUrl": "https://www.adzuna.ca/details/5717281586?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
