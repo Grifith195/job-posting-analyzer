@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T11:05:11.969Z",
+  "generatedAt": "2026-05-25T12:54:51.581Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,21 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5701578477",
-      "title": "Analyste de données – M&V/ Data Analyst - M&V",
-      "company": "Trane Technologies",
-      "location": "Westmount, Montréal",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-16T14:44:43Z",
-      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578477?se=snmvb2BX8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=1C0079C7D5B4D4367B795D404DA811F418FFE7B3",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5735837522",
       "title": "Data Analyst, Customer Analytics",
@@ -33,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-05-20T21:51:12Z",
       "descriptionSnippet": "The Customer Analytics team is seeking a Data Analyst with a strong curiosity for consumer behavior and a proven ability to leverage data to drive strategic business decisions. In this role, you will contribute to a wide range of business and analytics initiatives by building robust measurement frameworks, conducting deep-dive analyses, and partnering closely with data science and business teams. You will help shape consumer-centric KPIs, support predictive modeling efforts, and deliver actiona…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5735837522?se=snmvb2BX8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=C0E5B9CEB06F72309FF84B94D06A8839F135DD7D",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5735837522?se=NGWC7DhY8RG0xbglmQWG4g&utm_medium=api&utm_source=3ebb75f8&v=C0E5B9CEB06F72309FF84B94D06A8839F135DD7D",
       "source": "Adzuna",
       "extractedKeywords": [
         "Metrics"
@@ -50,7 +35,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T16:29:16Z",
       "descriptionSnippet": "Mission Does playing a key role in optimizing our data management processes appeal to you? Your mission will be to ensure the accuracy and integrity of product data across our various internal systems. You will help drive this process forward by analyzing and identifying opportunities for improvement, proposing potential solutions, and creating and developing tools within the context of AI development. Through your attention to detail and the quality of the information you maintain, you will di…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=snmvb2BX8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=NGWC7DhY8RG0xbglmQWG4g&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -104,23 +89,6 @@
       ]
     },
     {
-      "id": "5731549169",
-      "title": "Data Analyst",
-      "company": "CYNET SYSTEMS",
-      "location": "Edmonton, Edmonton region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 114400,
-      "salaryMax": 114400,
-      "createdAt": "2026-05-16T12:55:17Z",
-      "descriptionSnippet": "Job Overview: Requirement/Must Have: Degree or diploma in Business, Information Technology, or related field; OR Certified Business Analysis Professional (CBAP) certification. Minimum 3 years of direct experience with data manipulation, transformation, cleansing, and data wrangling. Minimum 3 years of direct hands-on experience designing, developing, and optimizing advanced Power BI solutions. Strong analytical and problem-solving skills. Ability to work with complex and regulated datasets. Str…",
-      "redirectUrl": "https://www.adzuna.ca/details/5731549169?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Power BI"
-      ]
-    },
-    {
       "id": "5727240710",
       "title": "Data Analyst",
       "company": "Jose Merciline",
@@ -164,6 +132,40 @@
       "redirectUrl": "https://www.adzuna.ca/details/5717281586?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5615854538",
+      "title": "Data Analyst",
+      "company": "LayerZero Labs",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-02-05T13:51:37Z",
+      "descriptionSnippet": "LayerZero The Future is Omnichain. Founded in 2021, LayerZero’s vision is to create a community of cross-chain developers, building dApps that are no longer constrained by individual blockchain capabilities. With LayerZero's simple, generic messaging protocol, builders will develop cross-chain dApps designed to unify the power of individual blockchains. We are funded by the best investors in the world including: a16z, Sequoia, PayPal, Binance Ventures, Coinbase Ventures, Uniswap Labs, Circle Ve…",
+      "redirectUrl": "https://www.adzuna.ca/details/5615854538?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5648925676",
+      "title": "Data Analyst",
+      "company": "emergiTEL",
+      "location": "Trinity, City of Toronto",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-02-28T15:07:40Z",
+      "descriptionSnippet": "Junior Data Analyst Toronto, Ontario, Canada | 1-Year Contract | Hybrid (1–2 days/week in Downtown Toronto) Pay Rate: $38.18/hour (T4) | $46.60/hour (Incorporated) About the Role The Junior Data Analyst will support data-driven decision-making by collecting, analyzing, and transforming data into meaningful insights for stakeholders across the business. This role is ideal for a detail-oriented professional with strong technical skills in Excel and Power BI and demonstrated experience working wit…",
+      "redirectUrl": "https://www.adzuna.ca/details/5648925676?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Excel",
+        "Power BI",
+        "Stakeholder Management"
+      ]
     }
   ]
 }
