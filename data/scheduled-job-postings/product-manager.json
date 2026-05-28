@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:54:51.581Z",
+  "generatedAt": "2026-05-28T13:00:21.491Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -8,67 +8,17 @@
   },
   "jobs": [
     {
-      "id": "5729456487",
-      "title": "Product Manager, Data",
-      "company": "Air Canada",
-      "location": "Dorval, Montréal",
-      "category": "IT Jobs",
+      "id": "5711920223",
+      "title": "Chef de Produits (Product Manager)",
+      "company": "Opsun Systèmes inc.",
+      "location": "Québec, Canada",
+      "category": "Engineering Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-05-14T15:30:34Z",
-      "descriptionSnippet": "Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your career take flight by joining our diverse and vibrant team at the leading edge of passenger aviation. The Data Product Manager defines, prioritizes, and oversees data product roadmaps for their respective domain, with a strong emphasis on enterprise data warehouse assets. This key role drives our data product vision with a focus on a continuous product delivery mo…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5729456487?se=xgPU7DhY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=510C8CB0E1212E3277E26FDB2497DD59275CE9F2",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
-    },
-    {
-      "id": "5677068261",
-      "title": "Sr. Product Manager",
-      "company": "Microsoft Canada",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-03-24T12:49:08Z",
-      "descriptionSnippet": "Overview Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Microsoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. Th…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5677068261?se=xgPU7DhY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=B9BA3FD3BC140604562F71DAE9174AB2AFDEAFB7",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Azure",
-        "Communication"
-      ]
-    },
-    {
-      "id": "5713080256",
-      "title": "ASSISTANT PRODUCT MANAGER – Student Position",
-      "company": "HLC",
-      "location": "Lévis, Desjardins",
-      "category": "Admin Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-28T20:06:16Z",
-      "descriptionSnippet": "WHO ARE WE? HLC is Canada’s largest distributor of internationally renowned products for the bicycle industry. Our head office is located in Lévis, Quebec, and we have a team of employees who are passionate about sports. As a distributor of leading brands, HLC is the preferred partner for bicycle retailers seeking solutions that are both simple and effective. In addition to setting high standards in customer service, the company stands out through its commitment to innovation, performance, and …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5713080256?se=xgPU7DhY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=32CC3CA6F45719F12AE5A745747F3AA73E8EF47A",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5715836606",
-      "title": "Senior Product Manager - Agentic Platform",
-      "company": "Microsoft Canada",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-01T08:17:22Z",
-      "descriptionSnippet": "Overview Are you a Product Manager who builds? We're looking for someone with real experience using AI developer tools, shipping products in fast-moving spaces, and turning ambiguity into things that work. You'll use the platform yourself every day and build for engineers who give you direct, immediate feedback. Our AI team sits within ES365 (Microsoft 365 Engineering Systems), and we own the Agentic Engineering platform being adopted across all of Microsoft. ES365 owns the tools and systems us…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5715836606?se=xgPU7DhY8RGWQvEe2bTbLw&utm_medium=api&utm_source=3ebb75f8&v=E5895DF946B4EA22C338A710C2750F1203732331",
+      "createdAt": "2026-04-27T14:08:20Z",
+      "descriptionSnippet": "Contexte de l'entreprise Opsun est un leader canadien dans la conception, l'ingénierie et la fabrication de structures de montage solaires en aluminium. Nous desservons l'ensemble de l'Amérique du Nord — Canada, États-Unis, Mexique et Caraïbes — avec un siège social à Québec et des installations de production à Cornwall (Ontario) et High Point (Caroline du Nord). Notre gamme couvre toutes les applications du marché commercial et résidentiel : toits plats, montages au sol, abris d'auto, toits in…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5711920223?se=FszDMJVa8RGmotIi3l1NfQ&utm_medium=api&utm_source=3ebb75f8&v=9D7D3AE59AE6C2176654881125B9D33071A812AE",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -86,6 +36,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5698308429?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5741331664",
+      "title": "Product Manager",
+      "company": "Cleo Consulting",
+      "location": "Regent Park, City of Toronto",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 208000,
+      "salaryMax": 228800,
+      "createdAt": "2026-05-26T13:03:39Z",
+      "descriptionSnippet": "Assignment: RQ11107 - Product Manager - Senior Job Title: Product Manager Requisition (SS): RQ11107 Start Date: 2026-05-25 Client: Government Services Integration Cluster End Date: 2027-03-31 Office Location: 222 Jarvis St., Toronto Organization: Government Services Integration Cluster Ministry: Ministry of Public and Business Service Delivery and Procurement Business Days: 246.00 5 days onsite Must Have: Extensive experience developing and owning product vision, strategy and roadmap for compl…",
+      "redirectUrl": "https://www.adzuna.ca/details/5741331664?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Roadmapping"
+      ]
     },
     {
       "id": "5738623546",
@@ -135,23 +102,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5705560458",
-      "title": "Product Manager",
-      "company": "TalentMinded",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-20T19:24:52Z",
-      "descriptionSnippet": "The opportunity Our client, a growing organization in the Health Tech industry, is hiring a Product Manager. In this leadership role, you will own the full product function – strategy, roadmap, and execution with a mandate to transform the business from a service-led model into a scalable, SaaS-enabled, AI-driven platform. You will turn deep operational expertise into repeatable, revenue-generating products, including leading the development and scale of an AI-powered Billing Bot designed to au…",
-      "redirectUrl": "https://www.adzuna.ca/details/5705560458?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
-    },
-    {
       "id": "5678562477",
       "title": "Product Manager",
       "company": "SWTCH Energy Inc.",
@@ -165,6 +115,61 @@
       "redirectUrl": "https://www.adzuna.ca/details/5678562477?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5669166764",
+      "title": "Product Manager",
+      "company": "Traction Complete",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-17T00:19:59Z",
+      "descriptionSnippet": "Preference will be given to candidates located in Vancouver Lower Mainland. About the Role We are looking for an externally facing, market-driven Product Manager to help shape the future of Traction Complete's Go-To-Market automation suite on Salesforce. This is not a purely delivery-focused PM role. We are looking for someone who is deeply curious about market problems, motivated by customer outcomes, and driven to build validated roadmap initiatives that increase revenue, adoption, and produc…",
+      "redirectUrl": "https://www.adzuna.ca/details/5669166764?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Product Strategy",
+        "Roadmapping"
+      ]
+    },
+    {
+      "id": "5718877715",
+      "title": "Product Manager",
+      "company": "GenBio",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-04T17:54:19Z",
+      "descriptionSnippet": "We are looking for a Product Manager to lead product planning and development. You will work with design, engineering, and marketing teams to deliver products that meet customer needs and business goals. Responsibilities: Define product strategy and roadmap Coordinate with cross-functional teams Analyze customer feedback and market trends Manage product development and releases Requirements: Experience in product management or similar role Strong communication and problem-solving skills Ability…",
+      "redirectUrl": "https://www.adzuna.ca/details/5718877715?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication",
+        "Stakeholder Management",
+        "Product Strategy",
+        "Roadmapping"
+      ]
+    },
+    {
+      "id": "5605179524",
+      "title": "Product Manager",
+      "company": "Other World Computing",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-01-29T14:13:22Z",
+      "descriptionSnippet": "Senior Product Manager – Storage & Docks The Senior Product Manager will lead the strategy, planning, and execution of OWC’s product lines across multiple categories. This role is responsible for defining what we build and why, ensuring every product aligns with customer needs, business goals, and market direction. You will work closely with the SVP of Product to shape the strategic direction of your assigned category or categories, build a clear roadmap, and drive products forward through ever…",
+      "redirectUrl": "https://www.adzuna.ca/details/5605179524?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Roadmapping"
+      ]
     }
   ]
 }
