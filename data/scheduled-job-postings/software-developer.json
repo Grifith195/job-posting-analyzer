@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T13:00:21.491Z",
+  "generatedAt": "2026-05-29T12:38:18.074Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,53 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5701916391",
-      "title": "Software Developer",
-      "company": "Nord Quantique",
-      "location": "Anjou, Montréal",
-      "category": "Engineering Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-16T19:05:05Z",
-      "descriptionSnippet": "Software Developer (permanent position, 40 hour per week) Working at Nord Quantique At Nord Quantique, you will be part of something special: working in a highly dynamic environment at the forefront of quantum technology development while benefiting from a vibrant ecosystem located at the heart of the Quantum Innovation Zone of the picturesque city of Sherbrooke. Our interdisciplinary team is laser-focused on solving grand challenges and making quantum computing a reality. Nord Quantique is an …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=9MiPL5Va8RG3Y4O20ufYOQ&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5706196598",
-      "title": "Embedded Software Developer",
-      "company": "Blitz TI",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-21T10:26:40Z",
-      "descriptionSnippet": "We are supporting a Quebec-based technology company specialized in the development of advanced solutions in the healthcare and embedded technologies space. The organization designs innovative electronic products aimed at significantly improving communication and the human experience in complex and demanding environments. Its environment stands out for its high level of technical expertise, particularly in embedded systems, signal processing, and connected technologies. In this context, the orga…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706196598?se=9MiPL5Va8RG3Y4O20ufYOQ&utm_medium=api&utm_source=3ebb75f8&v=8A06CFA18EF844C6CBE4AFB726D4E6D0CED1B4F1",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5729260123",
-      "title": "Concepteur(trice) logiciel / Software Developer",
-      "company": "EXFO inc",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-14T09:14:51Z",
-      "descriptionSnippet": "Description du poste : C'est une période excitante pour rejoindre EXFO, car nous sommes en pleine transformation technologique notamment dans notre division d’Instruments Optiques - là où vous pourrez trouver tous les produits historiques qui font de nous le leader mondial depuis 40 ans! Au sein de l’équipe de développement logiciel de notre application embarqué « tech-hub » et en tant que développeur full-stack dans notre équipe Exchange chez EXFO, vous serez appelé à prendre en main l’évoluti…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5729260123?se=9MiPL5Va8RG3Y4O20ufYOQ&utm_medium=api&utm_source=3ebb75f8&v=2A50A0B4974BA151BB3F3F0922E1A655E635AB0F",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "4687956892",
       "title": "Software Developer",
@@ -65,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2024-05-10T15:30:30Z",
       "descriptionSnippet": "Ottawa, ON Contract Responsibilities Assist the team with the design and implementation of automation tests for component, integration, and system testing Assist the team with new approaches to existing/planned testing in relations to automation framework Provide detailed configuration and descriptions for passing and failing tests Ensure quality of routine operations process by monitoring and improving the health of the test automation systems and their integration Support continuous testing p…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/4687956892?se=9MiPL5Va8RG3Y4O20ufYOQ&utm_medium=api&utm_source=3ebb75f8&v=F2FE42F95A57D70326BD6D2E0C2900DCFF3F3DDA",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/4687956892?se=cjwmRVtb8RGF1Z3WuYCncQ&utm_medium=api&utm_source=3ebb75f8&v=F2FE42F95A57D70326BD6D2E0C2900DCFF3F3DDA",
       "source": "Adzuna",
       "extractedKeywords": [
         "Testing"
@@ -169,6 +122,56 @@
       "createdAt": "2026-05-13T16:49:41Z",
       "descriptionSnippet": "Promise Robotics is a rapidly growing venture-backed technology startup with a mission to help the building industry to harness automation toward producing more affordable and sustainable buildings. Our world-class team combines AI, Industrialized Robotics, and construction under one roof to develop the most advanced robotic products for the construction of highly efficient and sustainable buildings. We’re looking for an Software Developer to join our team and contribute to developing cutting-e…",
       "redirectUrl": "https://www.adzuna.ca/details/5728350815?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5732570134",
+      "title": "Software Developer",
+      "company": "Pason Career",
+      "location": "Parkhill, Calgary",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-17T16:36:36Z",
+      "descriptionSnippet": "Pason is seeking a Software Developer for the Enterprise Applications team (EA) with a strong background in building web and mobile applications. This role will be responsible for developing, testing, deploying, maintaining, and supporting the various products maintained by the Enterprise Applications team, primarily within our asset management web and mobile applications. You will work closely with our stakeholders, team members and other departments to document requirements and build solution…",
+      "redirectUrl": "https://www.adzuna.ca/details/5732570134?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "id": "5717278025",
+      "title": "Software Developer",
+      "company": "Price Industries",
+      "location": "Winnipeg region, Manitoba",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-02T16:42:26Z",
+      "descriptionSnippet": "Software Developer Are you a motivated Full Stack Software Developer passionate about crafting robust and scalable web applications? We are searching for a talented developer who will be encouraged to increase their expertise in Angular, C#.NET, and SQL. As a Full Stack Software Developer at Price Industries, you will have the opportunity to enhance your skills and contribute to projects that push the boundaries of technology. You will work alongside experienced developers, receiving mentorship…",
+      "redirectUrl": "https://www.adzuna.ca/details/5717278025?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL"
+      ]
+    },
+    {
+      "id": "5740028768",
+      "title": "Software Developer",
+      "company": "CPSA",
+      "location": "Downtown, Edmonton",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-24T16:48:35Z",
+      "descriptionSnippet": "The Software Developer provides innovative and creative solutions in the technical development of new, reliable applications and software services at CPSA. The Software Developer analyzes business requirements, complex business problems, and processes, and creates effective software solutions. The Software Developer maintains critical CPSA applications while also supporting the modernization of legacy systems and processes, using AI-assisted development to support solution design, implementatio…",
+      "redirectUrl": "https://www.adzuna.ca/details/5740028768?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

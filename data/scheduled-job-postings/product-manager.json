@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T13:00:21.491Z",
+  "generatedAt": "2026-05-29T12:38:18.074Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,21 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5711920223",
-      "title": "Chef de Produits (Product Manager)",
-      "company": "Opsun Systèmes inc.",
-      "location": "Québec, Canada",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-27T14:08:20Z",
-      "descriptionSnippet": "Contexte de l'entreprise Opsun est un leader canadien dans la conception, l'ingénierie et la fabrication de structures de montage solaires en aluminium. Nous desservons l'ensemble de l'Amérique du Nord — Canada, États-Unis, Mexique et Caraïbes — avec un siège social à Québec et des installations de production à Cornwall (Ontario) et High Point (Caroline du Nord). Notre gamme couvre toutes les applications du marché commercial et résidentiel : toits plats, montages au sol, abris d'auto, toits in…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5711920223?se=FszDMJVa8RGmotIi3l1NfQ&utm_medium=api&utm_source=3ebb75f8&v=9D7D3AE59AE6C2176654881125B9D33071A812AE",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5698308429",
       "title": "Product Manager",
@@ -36,23 +21,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5698308429?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5741331664",
-      "title": "Product Manager",
-      "company": "Cleo Consulting",
-      "location": "Regent Park, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 208000,
-      "salaryMax": 228800,
-      "createdAt": "2026-05-26T13:03:39Z",
-      "descriptionSnippet": "Assignment: RQ11107 - Product Manager - Senior Job Title: Product Manager Requisition (SS): RQ11107 Start Date: 2026-05-25 Client: Government Services Integration Cluster End Date: 2027-03-31 Office Location: 222 Jarvis St., Toronto Organization: Government Services Integration Cluster Ministry: Ministry of Public and Business Service Delivery and Procurement Business Days: 246.00 5 days onsite Must Have: Extensive experience developing and owning product vision, strategy and roadmap for compl…",
-      "redirectUrl": "https://www.adzuna.ca/details/5741331664?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
     },
     {
       "id": "5738623546",
@@ -169,6 +137,42 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Roadmapping"
+      ]
+    },
+    {
+      "id": "5624622734",
+      "title": "Product Manager",
+      "company": "Guidepoint",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 120000,
+      "salaryMax": 140000,
+      "createdAt": "2026-02-11T14:50:34Z",
+      "descriptionSnippet": "Overview: The Product Manager on Guidepoint’s Product team will support the External team’s execution of the product roadmap. This individual needs to be highly motivated, a self starter that can work independently and in teams. This role will engage with senior product managers, designers, engineers, and business stakeholders. You will gain hands-on product lifecycle experience and have direct impact on project execution. This position is a hybrid position out of our Toronto office. What You'l…",
+      "redirectUrl": "https://www.adzuna.ca/details/5624622734?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management",
+        "Roadmapping"
+      ]
+    },
+    {
+      "id": "5740038372",
+      "title": "Product Manager",
+      "company": "AOT Technologies",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 100000,
+      "salaryMax": 120000,
+      "createdAt": "2026-05-24T16:59:12Z",
+      "descriptionSnippet": "Do you get energized by owning a product end-to-end — from the first discovery conversation to the metrics that prove it's working? Are you the connective tissue between engineering, design, sales, and leadership? Do you believe a strong product vision is what separates a team that ships from a team that builds something that matters? AOT Technologies is looking for a Product Manager to join our Product Engineering & Innovation team and drive product strategy and execution across our growing po…",
+      "redirectUrl": "https://www.adzuna.ca/details/5740038372?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Product Strategy",
+        "Metrics"
       ]
     }
   ]

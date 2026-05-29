@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T13:00:21.491Z",
+  "generatedAt": "2026-05-29T12:38:18.074Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -36,25 +36,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5703538140?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5691595044",
-      "title": "Data Analyst",
-      "company": "COSMO",
-      "location": "Church and Wellesley, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 110000,
-      "salaryMax": 140000,
-      "createdAt": "2026-04-06T18:35:43Z",
-      "descriptionSnippet": "About the Role We are seeking a Data Analyst/Scientist to help drive data-informed decision making across product, customer experience, and operations. This role partners closely with cross-functional teams to build trusted analytics foundations, deliver insights and support strategic initiatives through data. Requirements Responsibilities Partner with cross-functional teams to define data requirements and build source-of-truth dashboards, curated datasets, and reporting assets used in day-to-d…",
-      "redirectUrl": "https://www.adzuna.ca/details/5691595044?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Dashboarding",
-        "Reporting",
-        "Stakeholder Management"
-      ]
     },
     {
       "id": "5742776640",
@@ -164,6 +145,21 @@
         "Power BI",
         "Stakeholder Management"
       ]
+    },
+    {
+      "id": "5696977340",
+      "title": "Data Analyst",
+      "company": "Stripe",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-11T16:41:30Z",
+      "descriptionSnippet": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of you…",
+      "redirectUrl": "https://www.adzuna.ca/details/5696977340?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
