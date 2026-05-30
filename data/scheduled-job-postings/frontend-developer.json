@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T12:38:18.074Z",
+  "generatedAt": "2026-05-30T11:10:12.978Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -96,21 +96,6 @@
       ]
     },
     {
-      "id": "5722072343",
-      "title": "Frontend Developer",
-      "company": "WallStreetBets",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-07T16:42:47Z",
-      "descriptionSnippet": "About Us WallStreetBets is the largest finance community in the world. With over 20 million users, we’re the movement that helped redefine retail investing and put power back into the hands of everyday traders. From our humble beginnings on Reddit to becoming a global household name during the GameStop saga, our influence has shaped markets, culture, and the future of finance. And we’re just getting started. Today, our mission is stronger than ever: minimize the gap between retail and instituti…",
-      "redirectUrl": "https://www.adzuna.ca/details/5722072343?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5723869444",
       "title": "Intermediate Frontend Developer",
       "company": "Tech Talent International",
@@ -164,19 +149,36 @@
       ]
     },
     {
-      "id": "5702854460",
+      "id": "5725054654",
       "title": "Intermediate Frontend Developer",
-      "company": "Best Buy Canada",
-      "location": "Canada",
+      "company": "Tech Talent International",
+      "location": "Montréal, Québec",
       "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 75000,
-      "salaryMax": 100000,
-      "createdAt": "2026-04-17T16:29:19Z",
-      "descriptionSnippet": "As an intermediate frontend developer , which at Best Buy we call it a software developer II, you'll play a vital role in enhancing customer and associate experiences by developing innovative applications that directly contribute to the success and growth of Best Buy Canada. We are currently hiring for a 12-month fixed-term opportunity within our Technology Team. We practice a remote first working model, leveraging in person interactions at our head office, in beautiful Vancouver, BC, for strat…",
-      "redirectUrl": "https://www.adzuna.ca/details/5702854460?utm_medium=api&utm_source=3ebb75f8",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-10T05:39:31Z",
+      "descriptionSnippet": "Job Description Job Description Tech Talent International (SI) supplies technical talent to a variety of clients ranging from Fortune 100/500/1000 companies to small and mid-sized organizations in Canada/US and Europe. We currently have a role as a Intermediate Frontend Developer with our large consulting client working for a major financial services client in the downtown Montreal area. Role: Intermediate Frontend Developer Type: Fulltime, Perm Location: Downtown Montreal, QC - Hybrid (roles s…",
+      "redirectUrl": "https://www.adzuna.ca/details/5725054654?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5737480344",
+      "title": "Frontend Developer (3D)",
+      "company": "NearSource",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-22T05:36:38Z",
+      "descriptionSnippet": "Job Description Job Description Job Title: Frontend Developer (3D) Job Location: Hybrid (3 days remote), Toronto, Canada Experience: 5 to 7 Years Rate: 46 to 52 CAD PH Role Summary: NearSource is looking for a Frontend Developer (3D) to contribute to a next-generation dynamic user interface platform focused on construction project intelligence. The role involves building modular, data-driven UI components that integrate with 3D building visualization, knowledge graphs, and real-time project dat…",
+      "redirectUrl": "https://www.adzuna.ca/details/5737480344?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Data Visualization"
+      ]
     }
   ]
 }
