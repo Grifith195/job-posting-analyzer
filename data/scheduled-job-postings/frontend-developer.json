@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T11:10:12.978Z",
+  "generatedAt": "2026-05-31T11:24:18.412Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -131,24 +131,6 @@
       ]
     },
     {
-      "id": "5717436804",
-      "title": "Frontend Developer - Remote",
-      "company": "YO HR Consultancy",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 104000,
-      "salaryMax": 145600,
-      "createdAt": "2026-05-02T20:55:45Z",
-      "descriptionSnippet": "Job Title: Frontend Engineer Job Type: Contract, Part time Location: Remote Job Summary: We are seeking a Frontend Engineer who will be instrumental in crafting seamless, intuitive, and robust web applications. As an expert in frontend technologies, you will play a key role in delivering delightful user experiences and collaborating within a high-performing, remote-first environment. Key Responsibilities: Architect, develop, and maintain scalable web interfaces using JavaScript and TypeScript. …",
-      "redirectUrl": "https://www.adzuna.ca/details/5717436804?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript",
-        "JavaScript"
-      ]
-    },
-    {
       "id": "5725054654",
       "title": "Intermediate Frontend Developer",
       "company": "Tech Talent International",
@@ -178,6 +160,25 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Data Visualization"
+      ]
+    },
+    {
+      "id": "5664013799",
+      "title": "Angular Frontend Developer",
+      "company": "Tangentia",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-13T16:09:25Z",
+      "descriptionSnippet": "Role: Angular Frontend Developer Location: Toronto, ON 4 Days work from office and 1 day work from home Must Have B.S. degree in Computer Science or related technical field with equivalent practical experience. 2 years experience with JavaScript and TypeScript. Intermediate to advanced knowledge and experience with Angular 20, including standalone components, dependency injection, change detection, RxJS, and Angular CLI/Nx workspace management. Proficiency in NgRx (or Redux), signals, and react…",
+      "redirectUrl": "https://www.adzuna.ca/details/5664013799?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "JavaScript"
       ]
     }
   ]

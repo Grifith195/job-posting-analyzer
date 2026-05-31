@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T11:10:12.978Z",
+  "generatedAt": "2026-05-31T11:24:18.412Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2024-05-10T15:30:30Z",
       "descriptionSnippet": "Ottawa, ON Contract Responsibilities Assist the team with the design and implementation of automation tests for component, integration, and system testing Assist the team with new approaches to existing/planned testing in relations to automation framework Provide detailed configuration and descriptions for passing and failing tests Ensure quality of routine operations process by monitoring and improving the health of the test automation systems and their integration Support continuous testing p…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/4687956892?se=bgByIRhc8RGF_uoLgKvTnQ&utm_medium=api&utm_source=3ebb75f8&v=F2FE42F95A57D70326BD6D2E0C2900DCFF3F3DDA",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/4687956892?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=F2FE42F95A57D70326BD6D2E0C2900DCFF3F3DDA",
       "source": "Adzuna",
       "extractedKeywords": [
         "Testing"
@@ -35,7 +35,7 @@
       "salaryMax": null,
       "createdAt": "2026-05-27T01:25:26Z",
       "descriptionSnippet": "Job Requisition ID 25WD90979 Senior SDE Does working in a fast-paced environment excite you? Do you enjoy building resilient, scalable distributed systems? Do you enjoy helping others with the software you make? If so, the Autodesk Developer Enablement team is seeking a highly motivated and experienced Senior Software Developer to help build and operate Autodesk's distributed computing platform. You will help establish quality standards, frameworks, and automation for Autodesk's orchestration …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5741972658?se=bgByIRhc8RGF_uoLgKvTnQ&utm_medium=api&utm_source=3ebb75f8&v=0C8A25A44B6D8A52EE759AE740D1E45BF96488CC",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5741972658?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=0C8A25A44B6D8A52EE759AE740D1E45BF96488CC",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -50,7 +50,7 @@
       "salaryMax": null,
       "createdAt": "2024-02-24T15:04:46Z",
       "descriptionSnippet": "Job Description Insight Global is seeking a Software Development Manager to join a large client in the GTA/Mississauga area (Hybrid schedule). The Software Development Manager will be responsible for leading the teams' projects, from gathering requirements to delivery to market, working towards communicated timelines. They will be managing a small team of Developers in Ontario, in designing, developing, and evolving software to support the changing business functions and client requirements. Th…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/4581374769?se=bgByIRhc8RGF_uoLgKvTnQ&utm_medium=api&utm_source=3ebb75f8&v=8B2847BF377576346F69AD4FA5C8F3622D2C0E99",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/4581374769?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=8B2847BF377576346F69AD4FA5C8F3622D2C0E99",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -65,7 +65,7 @@
       "salaryMax": null,
       "createdAt": "2026-05-29T01:29:49Z",
       "descriptionSnippet": "_Welcome to Warner Bros. Discovery the stuff dreams are made of._ Who We Are When we say, \"the stuff dreams are made of,\" we're not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD's vast portfolio of iconic content and beloved brands, are the _storytellers_ bringing our characters to life, the _creators_ bringing them to your living rooms and the _dreamers_ creating what's next From brilliant creatives, to technology trailblaze…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5744300849?se=bgByIRhc8RGF_uoLgKvTnQ&utm_medium=api&utm_source=3ebb75f8&v=B24A5159DDF48651F84B0E4D0ADDDC6420BC7A52",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5744300849?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=B24A5159DDF48651F84B0E4D0ADDDC6420BC7A52",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -80,10 +80,29 @@
       "salaryMax": null,
       "createdAt": "2026-05-28T01:27:12Z",
       "descriptionSnippet": "At Stantec, we have some of the world's leading professionals passionate about enabling our business to be its best. Our business teams include finance, procurement, human resources, information technology, marketing, corporate development, HSSE, real estate, legal, and practice services. We bring diverse backgrounds, skills, and expertise and create a caring culture where everyone can thrive. Through teamwork and collaboration, we're building a stronger, more resilient Stantec every day. We ar…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5743134998?se=bgByIRhc8RGF_uoLgKvTnQ&utm_medium=api&utm_source=3ebb75f8&v=39DAA6E504E9E6DF4912D11B3FCABE240D76269F",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5743134998?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=39DAA6E504E9E6DF4912D11B3FCABE240D76269F",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
+      ]
+    },
+    {
+      "id": "5744696191",
+      "title": "Software Developer",
+      "company": "vTech Solution",
+      "location": "Ontario, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 156000,
+      "salaryMax": 166400,
+      "createdAt": "2026-05-29T13:06:21Z",
+      "descriptionSnippet": "Job Summary: A Full Stack Software Developer is needed to design, implement, and maintain scalable web applications and data pipelines. This role involves translating technical specifications into functional software, developing both front-end and back-end architectures, and ensuring seamless API integration. The developer will collaborate with stakeholders throughout the software development life cycle, troubleshoot technical issues, and ensure applications meet performance, security, and acce…",
+      "redirectUrl": "https://www.adzuna.ca/details/5744696191?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "API",
+        "Communication",
+        "Stakeholder Management"
       ]
     },
     {
@@ -100,24 +119,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5686531752?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5730918375",
-      "title": "Software Developer",
-      "company": "PolicyAdvisor Brokerage Inc.",
-      "location": "Oakville, Halton",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": 60000,
-      "salaryMax": 60000,
-      "createdAt": "2026-05-15T20:38:58Z",
-      "descriptionSnippet": "Responsibilities Design, build, and deploy AI solutions that improve user experience and automate insurance workflows Leverage technologies like RAG, semantic search, and speech AI for real-time advisor-client interactions Collaborate across teams to integrate features, analyze data, and improve platform performance Ensure code quality, cloud scalability, cybersecurity, and data privacy compliance Stay up to date with the latest in AI/ML, and contribute to documentation, testing, and system opt…",
-      "redirectUrl": "https://www.adzuna.ca/details/5730918375?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing",
         "Communication"
       ]
     },
