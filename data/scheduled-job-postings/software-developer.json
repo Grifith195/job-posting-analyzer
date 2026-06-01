@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T11:24:18.412Z",
+  "generatedAt": "2026-06-01T15:45:43.574Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -8,49 +8,17 @@
   },
   "jobs": [
     {
-      "id": "4687956892",
-      "title": "Software Developer",
-      "company": "US Tech Solutions",
-      "location": "Ottawa, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2024-05-10T15:30:30Z",
-      "descriptionSnippet": "Ottawa, ON Contract Responsibilities Assist the team with the design and implementation of automation tests for component, integration, and system testing Assist the team with new approaches to existing/planned testing in relations to automation framework Provide detailed configuration and descriptions for passing and failing tests Ensure quality of routine operations process by monitoring and improving the health of the test automation systems and their integration Support continuous testing p…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/4687956892?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=F2FE42F95A57D70326BD6D2E0C2900DCFF3F3DDA",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing"
-      ]
-    },
-    {
-      "id": "5741972658",
+      "id": "5734558913",
       "title": "Senior Software Developer",
-      "company": "Autodesk",
-      "location": "Greater Vancouver, British Columbia",
+      "company": "Trane Technologies",
+      "location": "Westmount, Montréal",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-05-27T01:25:26Z",
-      "descriptionSnippet": "Job Requisition ID 25WD90979 Senior SDE Does working in a fast-paced environment excite you? Do you enjoy building resilient, scalable distributed systems? Do you enjoy helping others with the software you make? If so, the Autodesk Developer Enablement team is seeking a highly motivated and experienced Senior Software Developer to help build and operate Autodesk's distributed computing platform. You will help establish quality standards, frameworks, and automation for Autodesk's orchestration …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5741972658?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=0C8A25A44B6D8A52EE759AE740D1E45BF96488CC",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "4581374769",
-      "title": "Software Development Manager",
-      "company": "Insight Global",
-      "location": "Mississauga, Peel region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2024-02-24T15:04:46Z",
-      "descriptionSnippet": "Job Description Insight Global is seeking a Software Development Manager to join a large client in the GTA/Mississauga area (Hybrid schedule). The Software Development Manager will be responsible for leading the teams' projects, from gathering requirements to delivery to market, working towards communicated timelines. They will be managing a small team of Developers in Ontario, in designing, developing, and evolving software to support the changing business functions and client requirements. Th…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/4581374769?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=8B2847BF377576346F69AD4FA5C8F3622D2C0E99",
+      "createdAt": "2026-05-19T20:09:29Z",
+      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5734558913?se=KulF89Bd8RGBK8_SYvQaYA&utm_medium=api&utm_source=3ebb75f8&v=FB673E7F1B040501F0D48DD4697690397BF92335",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -65,26 +33,9 @@
       "salaryMax": null,
       "createdAt": "2026-05-29T01:29:49Z",
       "descriptionSnippet": "_Welcome to Warner Bros. Discovery the stuff dreams are made of._ Who We Are When we say, \"the stuff dreams are made of,\" we're not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD's vast portfolio of iconic content and beloved brands, are the _storytellers_ bringing our characters to life, the _creators_ bringing them to your living rooms and the _dreamers_ creating what's next From brilliant creatives, to technology trailblaze…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5744300849?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=B24A5159DDF48651F84B0E4D0ADDDC6420BC7A52",
+      "redirectUrl": "https://www.adzuna.ca/details/5744300849?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5743134998",
-      "title": "Senior Software Developer",
-      "company": "Stantec",
-      "location": "Edmonton, Edmonton region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-28T01:27:12Z",
-      "descriptionSnippet": "At Stantec, we have some of the world's leading professionals passionate about enabling our business to be its best. Our business teams include finance, procurement, human resources, information technology, marketing, corporate development, HSSE, real estate, legal, and practice services. We bring diverse backgrounds, skills, and expertise and create a caring culture where everyone can thrive. Through teamwork and collaboration, we're building a stronger, more resilient Stantec every day. We ar…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5743134998?se=gFW9Q-Nc8RGUJNJexxfy6Q&utm_medium=api&utm_source=3ebb75f8&v=39DAA6E504E9E6DF4912D11B3FCABE240D76269F",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
     },
     {
       "id": "5744696191",
@@ -171,6 +122,58 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
+      ]
+    },
+    {
+      "id": "5732570134",
+      "title": "Software Developer",
+      "company": "Pason Career",
+      "location": "Parkhill, Calgary",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-17T16:36:36Z",
+      "descriptionSnippet": "Pason is seeking a Software Developer for the Enterprise Applications team (EA) with a strong background in building web and mobile applications. This role will be responsible for developing, testing, deploying, maintaining, and supporting the various products maintained by the Enterprise Applications team, primarily within our asset management web and mobile applications. You will work closely with our stakeholders, team members and other departments to document requirements and build solution…",
+      "redirectUrl": "https://www.adzuna.ca/details/5732570134?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "id": "5717278025",
+      "title": "Software Developer",
+      "company": "Price Industries",
+      "location": "Winnipeg region, Manitoba",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-02T16:42:26Z",
+      "descriptionSnippet": "Software Developer Are you a motivated Full Stack Software Developer passionate about crafting robust and scalable web applications? We are searching for a talented developer who will be encouraged to increase their expertise in Angular, C#.NET, and SQL. As a Full Stack Software Developer at Price Industries, you will have the opportunity to enhance your skills and contribute to projects that push the boundaries of technology. You will work alongside experienced developers, receiving mentorship…",
+      "redirectUrl": "https://www.adzuna.ca/details/5717278025?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL"
+      ]
+    },
+    {
+      "id": "4687956892",
+      "title": "Software Developer",
+      "company": "US Tech Solutions",
+      "location": "Ottawa, Ottawa region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2024-05-10T15:30:30Z",
+      "descriptionSnippet": "Ottawa, ON Contract Responsibilities Assist the team with the design and implementation of automation tests for component, integration, and system testing Assist the team with new approaches to existing/planned testing in relations to automation framework Provide detailed configuration and descriptions for passing and failing tests Ensure quality of routine operations process by monitoring and improving the health of the test automation systems and their integration Support continuous testing p…",
+      "redirectUrl": "https://www.adzuna.ca/details/4687956892?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
       ]
     }
   ]

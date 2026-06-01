@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T11:24:18.412Z",
+  "generatedAt": "2026-06-01T15:45:43.574Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,71 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5741316218",
+      "title": "Data Analyst - M&V",
+      "company": "Trane Technologies",
+      "location": "Westmount, Montréal",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-26T12:08:57Z",
+      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5741316218?se=QK1w89Bd8RGLwJSGqSIW5A&utm_medium=api&utm_source=3ebb75f8&v=DDE89A49039A461151F06EA1803070BE3C59F425",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5701578477",
+      "title": "Analyste de données – M&V/ Data Analyst - M&V",
+      "company": "Trane Technologies",
+      "location": "Westmount, Montréal",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-16T14:44:43Z",
+      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578477?se=QK1w89Bd8RGLwJSGqSIW5A&utm_medium=api&utm_source=3ebb75f8&v=1C0079C7D5B4D4367B795D404DA811F418FFE7B3",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5741973622",
+      "title": "Data Analyst",
+      "company": "Insight Global",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-27T01:26:44Z",
+      "descriptionSnippet": "Job Description We are seeking a motivated and detail-oriented Junior Data Analyst to support our innovative Generative AI (GenAI) initiatives within a leading financial institution. This role is ideal for someone early in their data career who has a strong interest in data analysis, reporting, and data quality, and is eager to grow their skills in a dynamic and collaborative environment. As a Junior Data Analyst on the GenAI team, you will work closely with data engineers and AI researchers to…",
+      "redirectUrl": "https://www.adzuna.ca/details/5741973622?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5741973651",
+      "title": "Market Data Analyst",
+      "company": "Manulife",
+      "location": "Toronto, Ontario",
+      "category": "Accounting & Finance Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-27T01:26:49Z",
+      "descriptionSnippet": "The Chief Data Office in close partnership with key business stakeholders will support the transformation of the organization to ensure data is leveraged as a strategic asset supporting our business goals. The group's objectives include: A single, central source for data which is easy to access and describes how the data was obtained Data quality continually monitored and accuracy improved Common standards and policies for data governance Flexible reporting tools to access data and adapt to…",
+      "redirectUrl": "https://www.adzuna.ca/details/5741973651?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting",
+        "Stakeholder Management"
+      ]
+    },
     {
       "id": "5703538141",
       "title": "Data Analyst",
@@ -94,70 +159,6 @@
       "createdAt": "2026-05-12T16:34:49Z",
       "descriptionSnippet": "Data Analyst This position is with the Enterprise System Management (ESM) department. The position is with a team responsible to manage our company IT inventory and assets data. This data is critical for regulatory, operational, and efficiency purposes .As part of a team focused on rationalizing different legacy hardware asset and configuration management solutions into a single strategic platform, we are looking for a data analyst. The candidate will work closely with a broad range of stakehol…",
       "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5717281586",
-      "title": "Data Analyst",
-      "company": "Westland Insurance",
-      "location": "Surrey, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 62400,
-      "salaryMax": 78000,
-      "createdAt": "2026-05-02T16:43:29Z",
-      "descriptionSnippet": "We’re searching for a Data Analyst. Are you searching for new possibilities? Westland Insurance Group Ltd is growing and has an exciting opportunity for an Data Analyst to join our growing team. This hybrid role is based out of our Head Office in Surrey, BC. Expected Compensation: The expected hiring range for this role is $62,400- $78,000 with a 37.5-hour work week. Your rate of pay will be determined based on your individual qualifications and experience, while considering internal equity. We…",
-      "redirectUrl": "https://www.adzuna.ca/details/5717281586?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5615854538",
-      "title": "Data Analyst",
-      "company": "LayerZero Labs",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-02-05T13:51:37Z",
-      "descriptionSnippet": "LayerZero The Future is Omnichain. Founded in 2021, LayerZero’s vision is to create a community of cross-chain developers, building dApps that are no longer constrained by individual blockchain capabilities. With LayerZero's simple, generic messaging protocol, builders will develop cross-chain dApps designed to unify the power of individual blockchains. We are funded by the best investors in the world including: a16z, Sequoia, PayPal, Binance Ventures, Coinbase Ventures, Uniswap Labs, Circle Ve…",
-      "redirectUrl": "https://www.adzuna.ca/details/5615854538?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5648925676",
-      "title": "Data Analyst",
-      "company": "emergiTEL",
-      "location": "Trinity, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-02-28T15:07:40Z",
-      "descriptionSnippet": "Junior Data Analyst Toronto, Ontario, Canada | 1-Year Contract | Hybrid (1–2 days/week in Downtown Toronto) Pay Rate: $38.18/hour (T4) | $46.60/hour (Incorporated) About the Role The Junior Data Analyst will support data-driven decision-making by collecting, analyzing, and transforming data into meaningful insights for stakeholders across the business. This role is ideal for a detail-oriented professional with strong technical skills in Excel and Power BI and demonstrated experience working wit…",
-      "redirectUrl": "https://www.adzuna.ca/details/5648925676?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Excel",
-        "Power BI",
-        "Stakeholder Management"
-      ]
-    },
-    {
-      "id": "5696977340",
-      "title": "Data Analyst",
-      "company": "Stripe",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-11T16:41:30Z",
-      "descriptionSnippet": "About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of you…",
-      "redirectUrl": "https://www.adzuna.ca/details/5696977340?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

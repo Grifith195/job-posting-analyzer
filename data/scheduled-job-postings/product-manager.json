@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T11:24:18.412Z",
+  "generatedAt": "2026-06-01T15:45:43.574Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,24 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5741973404",
-      "title": "Intern, Product Management",
-      "company": "Autodesk",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-27T01:26:19Z",
-      "descriptionSnippet": "Job Requisition ID 26WD96785 Explore the Future of How Millions Create with Autodesk As an Intern Product Manager for Product Access, you'll get hands-on exposure to the licensing services that power every Autodesk product-from desktop software to cloud APIs and AI-driven automation. You'll work alongside a team of experienced product managers and cross-functional partners to learn how world-class products are discovered, built, and shipped. This internship is designed to give you a real-world…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5741973404?se=nucRRONc8RG1g60cORqbZQ&utm_medium=api&utm_source=3ebb75f8&v=C40A7D2B7579BBD03798DD3F56B5F162C88DB5DE",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "API",
-        "Stakeholder Management"
-      ]
-    },
     {
       "id": "5738623546",
       "title": "Product Manager",
@@ -175,6 +157,21 @@
       "createdAt": "2025-07-31T07:40:04Z",
       "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
       "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5743312818",
+      "title": "Product Manager",
+      "company": "Starboard Recruitment",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 249600,
+      "salaryMax": 280800,
+      "createdAt": "2026-05-28T05:42:01Z",
+      "descriptionSnippet": "Job Description Job Description Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard -recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs …",
+      "redirectUrl": "https://www.adzuna.ca/details/5743312818?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
