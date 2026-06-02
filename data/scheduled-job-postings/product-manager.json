@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T15:45:43.574Z",
+  "generatedAt": "2026-06-02T13:45:47.162Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5711920223",
+      "title": "Chef de Produits (Product Manager)",
+      "company": "Opsun Systèmes inc.",
+      "location": "Québec, Canada",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-27T14:08:20Z",
+      "descriptionSnippet": "Contexte de l'entreprise Opsun est un leader canadien dans la conception, l'ingénierie et la fabrication de structures de montage solaires en aluminium. Nous desservons l'ensemble de l'Amérique du Nord — Canada, États-Unis, Mexique et Caraïbes — avec un siège social à Québec et des installations de production à Cornwall (Ontario) et High Point (Caroline du Nord). Notre gamme couvre toutes les applications du marché commercial et résidentiel : toits plats, montages au sol, abris d'auto, toits in…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5711920223?se=rjivXIle8RGTX8tJCl0NqA&utm_medium=api&utm_source=3ebb75f8&v=9D7D3AE59AE6C2176654881125B9D33071A812AE",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5738623546",
       "title": "Product Manager",
@@ -157,21 +172,6 @@
       "createdAt": "2025-07-31T07:40:04Z",
       "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
       "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5743312818",
-      "title": "Product Manager",
-      "company": "Starboard Recruitment",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 249600,
-      "salaryMax": 280800,
-      "createdAt": "2026-05-28T05:42:01Z",
-      "descriptionSnippet": "Job Description Job Description Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard -recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs …",
-      "redirectUrl": "https://www.adzuna.ca/details/5743312818?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
