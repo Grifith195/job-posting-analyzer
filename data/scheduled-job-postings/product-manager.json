@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T14:19:12.438Z",
+  "generatedAt": "2026-06-04T12:36:04.820Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,9 +18,26 @@
       "salaryMax": null,
       "createdAt": "2026-04-27T14:08:20Z",
       "descriptionSnippet": "Contexte de l'entreprise Opsun est un leader canadien dans la conception, l'ingénierie et la fabrication de structures de montage solaires en aluminium. Nous desservons l'ensemble de l'Amérique du Nord — Canada, États-Unis, Mexique et Caraïbes — avec un siège social à Québec et des installations de production à Cornwall (Ontario) et High Point (Caroline du Nord). Notre gamme couvre toutes les applications du marché commercial et résidentiel : toits plats, montages au sol, abris d'auto, toits in…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5711920223?se=0E09Mldf8RGgWaH0hYb5sw&utm_medium=api&utm_source=3ebb75f8&v=9D7D3AE59AE6C2176654881125B9D33071A812AE",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5711920223?se=4FyR9BFg8RGQloke_EFv6Q&utm_medium=api&utm_source=3ebb75f8&v=9D7D3AE59AE6C2176654881125B9D33071A812AE",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5701106455",
+      "title": "Product Manager, Security Product Management",
+      "company": "BlackBerry Corporation",
+      "location": "Waterloo region, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-16T01:45:02Z",
+      "descriptionSnippet": "Worker Sub-Type: Regular Job Description: Job Summary We are seeking an experienced Product Manager to drive the planning, execution, and delivery of secure communications solutions in a highly regulated, security-sensitive environment. This role partners closely with Product, Engineering, Security, and Go-To-Market teams across the full product lifecycle-from competitive intelligence and requirements definition through release readiness, customer enablement, and field adoption. The ideal cand…",
+      "redirectUrl": "https://www.adzuna.ca/details/5701106455?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Product Strategy"
+      ]
     },
     {
       "id": "5738623546",
@@ -88,7 +105,7 @@
       ]
     },
     {
-      "id": "5718877715",
+      "id": "5751209490",
       "title": "Product Manager",
       "company": "GenBio",
       "location": "Greater Vancouver, British Columbia",
@@ -96,9 +113,9 @@
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-05-04T17:54:19Z",
+      "createdAt": "2026-06-03T18:02:29Z",
       "descriptionSnippet": "We are looking for a Product Manager to lead product planning and development. You will work with design, engineering, and marketing teams to deliver products that meet customer needs and business goals. Responsibilities: Define product strategy and roadmap Coordinate with cross-functional teams Analyze customer feedback and market trends Manage product development and releases Requirements: Experience in product management or similar role Strong communication and problem-solving skills Ability…",
-      "redirectUrl": "https://www.adzuna.ca/details/5718877715?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/details/5751209490?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication",
@@ -155,21 +172,6 @@
       "createdAt": "2025-07-31T07:40:04Z",
       "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
       "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5743312818",
-      "title": "Product Manager",
-      "company": "Starboard Recruitment",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 249600,
-      "salaryMax": 280800,
-      "createdAt": "2026-05-28T05:42:01Z",
-      "descriptionSnippet": "Job Description Job Description Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard -recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs …",
-      "redirectUrl": "https://www.adzuna.ca/details/5743312818?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
