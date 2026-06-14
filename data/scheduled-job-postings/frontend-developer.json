@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T11:45:10.155Z",
+  "generatedAt": "2026-06-14T11:47:58.841Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -40,23 +40,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Data Visualization"
-      ]
-    },
-    {
-      "id": "5730213953",
-      "title": "Frontend Developer",
-      "company": "Builders Tech",
-      "location": "Calgary, Calgary region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 85000,
-      "salaryMax": 105000,
-      "createdAt": "2026-05-15T05:41:25Z",
-      "descriptionSnippet": "Job Description Job Description We are seeking a Frontend Developer to join a mature but expanding energy software company. This is an opportunity to solve challenging problems, deliver impactful solutions, and tailored software configurations. The Role Build UI interfaces using Angular and TypeScript, managing complex business logic directly in the frontend to support offline application capabilities Provide application support and dive into complex issues to engineer long-term fixes. Ensure t…",
-      "redirectUrl": "https://www.adzuna.ca/details/5730213953?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript"
       ]
     },
     {
@@ -171,6 +154,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5740337675?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5721951138",
+      "title": "Senior Frontend Developer",
+      "company": "iubenda",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-07T16:26:26Z",
+      "descriptionSnippet": "At Poka, we’re transforming how frontline teams operate, learn, and solve problems. Our connected worker platform is purpose-built for manufacturing, empowering frontline workers to share knowledge, collaborate in real-time, and drive continuous improvement. Think of it as the missing digital link, bringing the human interface into the stack of the Smart Factory, generating the right data and insights that drive entirely new scales of process improvements. We’re proud to support global leaders …",
+      "redirectUrl": "https://www.adzuna.ca/details/5721951138?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
     }
   ]
 }
