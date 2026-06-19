@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T12:44:21.880Z",
+  "generatedAt": "2026-06-19T13:25:41.499Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T16:29:16Z",
       "descriptionSnippet": "Mission Does playing a key role in optimizing our data management processes appeal to you? Your mission will be to ensure the accuracy and integrity of product data across our various internal systems. You will help drive this process forward by analyzing and identifying opportunities for improvement, proposing potential solutions, and creating and developing tools within the context of AI development. Through your attention to detail and the quality of the information you maintain, you will di…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=HuVibhNr8RG-3u-VZx24QQ&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=KMLUXuJr8RGqkq8MIospWg&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -50,7 +50,7 @@
       "salaryMax": null,
       "createdAt": "2026-05-29T04:27:15Z",
       "descriptionSnippet": "Automotive glass technology is helping transform how we experience the road. At Belron Canada , the home office of Speedy Glass, Lebeau vitres d’auto and Vanfax we take this seriously, which is why we invest tirelessly on developing our people can realize their full potential. We welcome applications from everyone, and are firmly committed to diversity, equity and inclusion in the workplace, and take pride in ensuring every member of our team feels empowered. Under the supervision of the Manage…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=HuVibhNr8RG-3u-VZx24QQ&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=KMLUXuJr8RGqkq8MIospWg&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -83,6 +83,24 @@
       "redirectUrl": "https://www.adzuna.ca/details/5703538140?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5765742401",
+      "title": "Data Analyst",
+      "company": "Tek Ninjas",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-16T13:44:50Z",
+      "descriptionSnippet": "Role: Data Analyst Location: Toronto (Hybrid) Duration: 6-12 Months Job Description: Data Discovery & Analysis Analyze all Netezza database tables to identify: Business-critical and frequently used tables Redundant and unused data assets Perform data profiling and quality analysis to understand structure, patterns, and anomalies Assess data dependencies and relationships across systems Migration Assessment (Netezza Azure) Evaluate and report: Number of tables already migrated to Azure Tables pe…",
+      "redirectUrl": "https://www.adzuna.ca/details/5765742401?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Azure",
+        "Reporting"
+      ]
     },
     {
       "id": "5757856672",
@@ -150,21 +168,6 @@
         "Reporting",
         "Data Visualization"
       ]
-    },
-    {
-      "id": "5727144132",
-      "title": "Data Analyst",
-      "company": "Jose Merciline",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-12T16:34:49Z",
-      "descriptionSnippet": "Data Analyst This position is with the Enterprise System Management (ESM) department. The position is with a team responsible to manage our company IT inventory and assets data. This data is critical for regulatory, operational, and efficiency purposes .As part of a team focused on rationalizing different legacy hardware asset and configuration management solutions into a single strategic platform, we are looking for a data analyst. The candidate will work closely with a broad range of stakehol…",
-      "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
