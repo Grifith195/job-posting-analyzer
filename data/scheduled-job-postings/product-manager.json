@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T13:25:41.499Z",
+  "generatedAt": "2026-06-20T11:49:16.709Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,22 @@
       "salaryMax": null,
       "createdAt": "2026-06-08T15:36:13Z",
       "descriptionSnippet": "Bilingue FR/EN. The sky's the limit. A seat at the table, with the people who can actually move things, in a business that's already working. Now we're levelling up to what's next. If that landed, keep reading. Who we are It started with two founders, a basement, and a phone book. Two years of cold calls before there was even an office to make them from. The people running this floor today are the ones who did that work. They remember what it takes. Which is why product judgment carries real we…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5756525349?se=UHgAX-Jr8RGULPBEAAZkWw&utm_medium=api&utm_source=3ebb75f8&v=4125E6E3C67F138DFC22D26FC317EAD08E4A03EC",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5756525349?se=XD5HEZ5s8RGJe8gKxAvXaw&utm_medium=api&utm_source=3ebb75f8&v=4125E6E3C67F138DFC22D26FC317EAD08E4A03EC",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5769972726",
+      "title": "Director, Product Management, Internet Services",
+      "company": "Xplore Inc.",
+      "location": "Canada",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-19T21:32:41Z",
+      "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. The Director, Product Development – Internet Services is accountable for defining and executing the company’s broadband product and netw…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5769972726?se=XD5HEZ5s8RGJe8gKxAvXaw&utm_medium=api&utm_source=3ebb75f8&v=37FBB485D9DB703DE915089A53651DF55BE54D2E",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,22 +48,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-27T14:08:20Z",
       "descriptionSnippet": "Contexte de l'entreprise Opsun est un leader canadien dans la conception, l'ingénierie et la fabrication de structures de montage solaires en aluminium. Nous desservons l'ensemble de l'Amérique du Nord — Canada, États-Unis, Mexique et Caraïbes — avec un siège social à Québec et des installations de production à Cornwall (Ontario) et High Point (Caroline du Nord). Notre gamme couvre toutes les applications du marché commercial et résidentiel : toits plats, montages au sol, abris d'auto, toits in…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5711920223?se=UHgAX-Jr8RGULPBEAAZkWw&utm_medium=api&utm_source=3ebb75f8&v=9D7D3AE59AE6C2176654881125B9D33071A812AE",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5767001771",
-      "title": "Product Manager fiduciary services and Pricing Strategy",
-      "company": "National Bank",
-      "location": "Canada",
-      "category": "Accounting & Finance Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-17T16:30:40Z",
-      "descriptionSnippet": "A career as a Product Manager within the National Bank Trust team means playing a strategic role at the heart of defining and executing strategies related to fiduciary products and the sector’s pricing strategy. In this key role, you contribute to the development and evolution of high value-added solutions-specifically our offering in estates, trusts, and philanthropy-by guiding decisions related to innovation, pricing, distribution, and product lifecycle management. You also ensure regulatory …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5767001771?se=UHgAX-Jr8RGULPBEAAZkWw&utm_medium=api&utm_source=3ebb75f8&v=451C86C96B506BC0CA847A358D593F0107E23A10",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5711920223?se=XD5HEZ5s8RGJe8gKxAvXaw&utm_medium=api&utm_source=3ebb75f8&v=9D7D3AE59AE6C2176654881125B9D33071A812AE",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -85,23 +85,6 @@
       ]
     },
     {
-      "id": "5738623546",
-      "title": "Product Manager",
-      "company": "UAP HV",
-      "location": "Longueuil, Champlain",
-      "category": "Accounting & Finance Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-23T04:57:16Z",
-      "descriptionSnippet": "Job Description Are you looking to grow in a strategic role where your analytical skills and coordination abilities directly contribute to sales growth? Join our dynamic Product Management team! As a Product Manager , you will work closely with Senior Market Managers to support the management and development of specific product lines. You will actively contribute to the implementation of effective go-to-market strategies in a collaborative and stimulating environment. Your Day-to-Day Responsibi…",
-      "redirectUrl": "https://www.adzuna.ca/details/5738623546?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Product Strategy"
-      ]
-    },
-    {
       "id": "5508567386",
       "title": "Product Manager",
       "company": "Ndax Canada Inc.",
@@ -115,6 +98,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5508567386?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5768245643",
+      "title": "Product Manager",
+      "company": "VDart Inc",
+      "location": "Canada",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-18T13:27:00Z",
+      "descriptionSnippet": "Role: Product Manager Location: Canada Remote Mode: Full-time Job Description: Manage end to end campaign execution across IVR, SMS, outbound calling, and agent supported channels. Coordinate cross functional readiness with IT, Compliance, Legal, Marketing, Operations, and vendors. Ensure regulatory and compliance approval for scripts, messaging, consent, and outreach rules. Oversee campaign data readiness and curation in Databricks, ensuring clean, accurate, and timely datasets for execution. …",
+      "redirectUrl": "https://www.adzuna.ca/details/5768245643?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management"
+      ]
     },
     {
       "id": "5766126496",
