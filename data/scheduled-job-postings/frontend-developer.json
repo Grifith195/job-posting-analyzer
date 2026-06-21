@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T11:49:16.709Z",
+  "generatedAt": "2026-06-21T12:03:32.946Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -23,40 +23,6 @@
       "extractedKeywords": [
         "React",
         "TypeScript"
-      ]
-    },
-    {
-      "id": "5705857173",
-      "title": "Frontend Developer",
-      "company": "NearSource",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-21T01:19:24Z",
-      "descriptionSnippet": "Job Title: Frontend Developer (3D) Job Location: Hybrid (3 days remote), Toronto, Canada Experience: 5 to 7 Years Rate: 46 to 52 CAD PH Role Summary: NearSource is looking for a Frontend Developer (3D) to contribute to a next-generation dynamic user interface platform focused on construction project intelligence. The role involves building modular, data-driven UI components that integrate with 3D building visualization, knowledge graphs, and real-time project data. The selected candidate will c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5705857173?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Data Visualization"
-      ]
-    },
-    {
-      "id": "5658759150",
-      "title": "Frontend Developer",
-      "company": "Ambyint",
-      "location": "Calgary, Calgary region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-03-08T16:18:21Z",
-      "descriptionSnippet": "As a Frontend Developer at Ambyint, you will report to the Head of Technology Operations and play a key role in designing and building scalable, cloud-native solutions that solve complex challenges in the oil and gas industry. You’ll work with modern technologies, mentor junior developers, and push the boundaries of what’s possible with cloud, AI, and IoT. We’re especially looking for someone who cares deeply about fostering a strong team culture, supporting team members, and driving meaningful…",
-      "redirectUrl": "https://www.adzuna.ca/details/5658759150?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
       ]
     },
     {
@@ -109,6 +75,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5771083269",
+      "title": "Intermediate Frontend Developer",
+      "company": "Citi",
+      "location": "Mississauga, Peel region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-20T18:30:42Z",
+      "descriptionSnippet": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview The Intermediate Frontend Developer is an intermediate level position responsible for the design, development, and implementation of new or revised user-facing application systems and programs, collabora…",
+      "redirectUrl": "https://www.adzuna.ca/details/5771083269?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5539959828",
       "title": "Frontend Developer (Angular)",
       "company": "A-CX",
@@ -156,20 +137,35 @@
       ]
     },
     {
-      "id": "5760346897",
+      "id": "5739118577",
       "title": "Senior Frontend Developer",
-      "company": "CGI",
-      "location": "Toronto, Ontario",
+      "company": "ScalePad",
+      "location": "Canada Place, Vancouver",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 80000,
-      "salaryMax": 130000,
-      "createdAt": "2026-06-11T16:54:40Z",
-      "descriptionSnippet": "Position Description: This role is hybrid and requires you to be at our downtown Toronto and/or Client office at a minimum 4 days per week - subject to change at any time. ________________________________________ Key Responsibilities ________________________________________ Your future duties and responsibilities: Frontend Development . Strong hands-on experience with Angular for building scalable, enterprise-grade web applications . Excellent proficiency in TypeScript, HTML, and CSS for develo…",
-      "redirectUrl": "https://www.adzuna.ca/details/5760346897?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 115000,
+      "salaryMax": 140000,
+      "createdAt": "2026-05-23T16:47:45Z",
+      "descriptionSnippet": "Who We’re Looking For At ScalePad, we hire thoughtful builders who want their work to matter. Our roles are designed for people who thrive on driving impact, see ambiguity as an opportunity, and believe that raising the bar is a team sport. We don’t bring people in to run playbooks. We hire people who want to rewrite them . And in this role, you’ll get to do that, while shaping the future of managed services for our global partners. (That’s what we call our customers.) What is ScalePad At Scale…",
+      "redirectUrl": "https://www.adzuna.ca/details/5739118577?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5753572779",
+      "title": "Senior Frontend Developer",
+      "company": "Tempo",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-05T16:52:50Z",
+      "descriptionSnippet": "With over 30,000 customers, including a third of Fortune 500 companies, Tempo is trusted by organizations across the globe to make their workflows work better. We create a suite of integrated solutions for time management, resource planning, budget management, roadmapping, program management, reporting and more. We create the tech that enables the modern team to deliver – for every step from first vision to value. Since our beginning in 2007 as a project to make a time-tracking tool to help a c…",
+      "redirectUrl": "https://www.adzuna.ca/details/5753572779?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "TypeScript"
+        "Reporting"
       ]
     }
   ]
