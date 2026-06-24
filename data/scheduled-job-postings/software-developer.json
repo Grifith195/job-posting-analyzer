@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T12:27:03.257Z",
+  "generatedAt": "2026-06-24T12:12:32.385Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T19:05:05Z",
       "descriptionSnippet": "Software Developer (permanent position, 40 hour per week) Contact: (819) 975-4654, career@nordquantique.ca Working at Nord Quantique At Nord Quantique, you will be part of something special: working in a highly dynamic environment at the forefront of quantum technology development while benefiting from a vibrant ecosystem located at the heart of the Quantum Innovation Zone of the picturesque city of Sherbrooke. Our interdisciplinary team is laser-focused on solving grand challenges and making q…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=rnAw1_5u8RGdmJIKldoZug&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=knGS-sVv8RGJ16KxFPmyxA&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -51,23 +51,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5752736995?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5686531752",
-      "title": "Software Developer",
-      "company": "iQmetrix",
-      "location": "Winnipeg region, Manitoba",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-01T20:13:02Z",
-      "descriptionSnippet": "About the Team: The Professional Services Delivery team is focused on building and maintaining integrations and project-based solutions that help our clients meet their goals. Whether it's developing custom workflows or supporting incoming requests, we aim to provide reliable, efficient, and client-centered solutions. About the Role: We are seeking developers with strong C# development and communication skills. Successful candidates will take ownership of solving tough problems, communicating s…",
-      "redirectUrl": "https://www.adzuna.ca/details/5686531752?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
     },
     {
       "id": "5758295168",
@@ -167,6 +150,24 @@
       "redirectUrl": "https://www.adzuna.ca/details/5696832828?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5761675911",
+      "title": "Software Developer",
+      "company": "Helm Operations Software",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-12T16:44:43Z",
+      "descriptionSnippet": "Job Summary: As a Full Stack Software Developer at Helm, you design and implement innovative features for our products for the marine industry. You develop, test, and maintain .NET applications, enhance our Vue.js front-end for intuitive UI/UX, and optimize PostgreSQL and SQL Server databases. Collaborating closely with PMs, QA, and fellow developers, you ensure high-quality solutions that meet business needs. You perform code reviews, troubleshoot issues, and support your fellow developers, al…",
+      "redirectUrl": "https://www.adzuna.ca/details/5761675911?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Testing"
+      ]
     }
   ]
 }
