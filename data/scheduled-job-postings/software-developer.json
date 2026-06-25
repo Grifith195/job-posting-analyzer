@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T12:12:32.385Z",
+  "generatedAt": "2026-06-25T12:10:25.005Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T19:05:05Z",
       "descriptionSnippet": "Software Developer (permanent position, 40 hour per week) Contact: (819) 975-4654, career@nordquantique.ca Working at Nord Quantique At Nord Quantique, you will be part of something special: working in a highly dynamic environment at the forefront of quantum technology development while benefiting from a vibrant ecosystem located at the heart of the Quantum Innovation Zone of the picturesque city of Sherbrooke. Our interdisciplinary team is laser-focused on solving grand challenges and making q…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=knGS-sVv8RGJ16KxFPmyxA&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=Ak0N2Y5w8RGCZa1JrHVjmg&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -87,21 +87,34 @@
       ]
     },
     {
-      "id": "4687956892",
+      "id": "5776088736",
       "title": "Software Developer",
-      "company": "US Tech Solutions",
-      "location": "Ottawa, Ottawa region",
+      "company": "Company not listed",
+      "location": "Havelock, Peterborough region",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2024-05-10T15:30:30Z",
-      "descriptionSnippet": "Ottawa, ON Contract Responsibilities Assist the team with the design and implementation of automation tests for component, integration, and system testing Assist the team with new approaches to existing/planned testing in relations to automation framework Provide detailed configuration and descriptions for passing and failing tests Ensure quality of routine operations process by monitoring and improving the health of the test automation systems and their integration Support continuous testing p…",
-      "redirectUrl": "https://www.adzuna.ca/details/4687956892?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-06-25T06:00:11Z",
+      "descriptionSnippet": "Employer: DECISION TREE TECHNOLOGY Location: Havelock, Ontario Position: Software Developer NOC: 21232 – Software Developers and Programmers Job Type: Permanent, Full-Time Hours of Work: 30 hours per week (approximately 6 hours per day, Monday to Friday) Wage: CAD $47.57 per hour About Us DECISION TREE TECHNOLOGY is a technology solutions company specializing in the design, development, and deployment of modern business software applications. We are committed to delivering innovative, scalable,…",
+      "redirectUrl": "https://www.adzuna.ca/details/5776088736?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing"
-      ]
+      "extractedKeywords": []
+    },
+    {
+      "id": "5776088596",
+      "title": "Software Developer",
+      "company": "Exioms Canada",
+      "location": "Mississauga, Peel region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-25T06:00:11Z",
+      "descriptionSnippet": "Title: - Software Developer Number of Positions- 1 Salary: - $47 per hour Hours: - Minimum 30 to 40 hours per week Employment Requirements: - • Experience- minimum 2 years of Experience • Education- College/CEGEP- Diploma or Bachelors in Computer Science • Computer and Technology Knowledge- Internet, MS Windows, MS Office, .NET Work Location- 77 City Centre Drive East Tower suite 501, Mississauga, ON About us: Contributing to build a better future by Technology and Arts. We discover trends and …",
+      "redirectUrl": "https://www.adzuna.ca/details/5776088596?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5761806703",
@@ -119,55 +132,34 @@
       "extractedKeywords": []
     },
     {
-      "id": "5767156748",
+      "id": "5776085610",
       "title": "Software Developer",
-      "company": "Equitable Bank",
-      "location": "Toronto, Ontario",
+      "company": "XYZ STUDIO LTD",
+      "location": "Greater Vancouver, British Columbia",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-17T17:46:02Z",
-      "descriptionSnippet": "Job Title: Software Developer Department: Digital Banking & Channel Technology Reports To: Director, Development Purpose of Job The Software Developer will be a part of Equitable Bank’s strategic, digital initiatives. Primary responsibilities include designing, developing and supporting RESTful/SOAP APIs and ETLs solutions for web and mobile online channels. Main Activities: Assess and clarify user experience and requirements (10%) Support experience design, functional requirements and digital …",
-      "redirectUrl": "https://www.adzuna.ca/details/5767156748?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "API",
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5696832828",
-      "title": "Software Developer",
-      "company": "D2L",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-11T16:16:04Z",
-      "descriptionSnippet": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and deliver improved retention, engagement, satisfaction, and results for learners of all ages – in schools, campuses, and companies. D2L is disrupting the way the world learn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5696832828?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 95888,
+      "salaryMax": 95888,
+      "createdAt": "2026-06-25T05:59:54Z",
+      "descriptionSnippet": "Salary: $46.10/hr Job Type: Permanent Employment Full Time Language: English Start Date of Employment (Approx.): As soon as possible Minimum Education: Bachelor's degree Positions Available: 2 NOC Group: 21232 - Software developers and programmers NOC Job Title: Software Developer ________________________________________ Employer's name: XYZ STUDIO LTD ______________________________________ Job Location(s) 515 west pender street suite 245 Vancouver, British Columbia V6B 1V5 ____________________…",
+      "redirectUrl": "https://www.adzuna.ca/details/5776085610?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
     {
-      "id": "5761675911",
+      "id": "5776080975",
       "title": "Software Developer",
-      "company": "Helm Operations Software",
-      "location": "Canada",
+      "company": "Sapphiretech",
+      "location": "Fergus, Wellington region",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-06-12T16:44:43Z",
-      "descriptionSnippet": "Job Summary: As a Full Stack Software Developer at Helm, you design and implement innovative features for our products for the marine industry. You develop, test, and maintain .NET applications, enhance our Vue.js front-end for intuitive UI/UX, and optimize PostgreSQL and SQL Server databases. Collaborating closely with PMs, QA, and fellow developers, you ensure high-quality solutions that meet business needs. You perform code reviews, troubleshoot issues, and support your fellow developers, al…",
-      "redirectUrl": "https://www.adzuna.ca/details/5761675911?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-06-25T05:59:29Z",
+      "descriptionSnippet": "Sapphiretech Title: - Software Developer Number of Positions- 1 Salary: - $49 per hour Hours: - Minimum 30 to 40 hours per week Employment Requirements: - • Experience- minimum 2 years of Experience • Education- College/CEGEP- Diploma or Bachelors in Computer Science • Computer and Technology Knowledge- Internet, MS Windows, MS Office, .NET Work Location- 305 Tower Street South, Fergus, Ontario, N1M 2P5 About us: Sapphire Tech empowers businesses with tailored technology and consulting solution…",
+      "redirectUrl": "https://www.adzuna.ca/details/5776080975?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL",
-        "Testing"
-      ]
+      "extractedKeywords": []
     }
   ]
 }

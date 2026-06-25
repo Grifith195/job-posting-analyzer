@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T12:12:32.385Z",
+  "generatedAt": "2026-06-25T12:10:25.005Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -105,6 +105,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5774628551",
+      "title": "Frontend Developer (Angular)",
+      "company": "A-CX",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-24T05:58:26Z",
+      "descriptionSnippet": "Job Description Job Description Salary: $88,764 $109,812 CAD / year A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend soluti…",
+      "redirectUrl": "https://www.adzuna.ca/details/5774628551?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5739118577",
       "title": "Senior Frontend Developer",
       "company": "ScalePad",
@@ -149,23 +164,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
-      ]
-    },
-    {
-      "id": "5757706487",
-      "title": "Senior Frontend developer",
-      "company": "Royal Bank of Canada",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-09T17:29:29Z",
-      "descriptionSnippet": "Job Description What is the Opportunity? RBC's Investment Mega Journey (IMJ) application development team is responsible for developing, enhancing, and maintaining web applications & microservices to enable and empower RBC online banking clients to navigate, find answers, open and fund both registered & non-registered investment accounts via the self-serve channel, leading to a positive overall customer experience. As a Software Developer operating within an Agile product team, your primary rol…",
-      "redirectUrl": "https://www.adzuna.ca/details/5757706487?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Agile"
       ]
     }
   ]
