@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T12:10:25.005Z",
+  "generatedAt": "2026-06-26T12:05:15.040Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -43,21 +43,6 @@
         "API",
         "Stakeholder Management"
       ]
-    },
-    {
-      "id": "5723869444",
-      "title": "Intermediate Frontend Developer",
-      "company": "Tech Talent International",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-09T01:17:58Z",
-      "descriptionSnippet": "Tech Talent International (SI) supplies technical talent to a variety of clients ranging from Fortune 100/500/1000 companies to small and mid-sized organizations in Canada/US and Europe. We currently have a role as a Intermediate Frontend Developer with our large consulting client working for a major financial services client in the downtown Montreal area. Role: Intermediate Frontend Developer Type: Fulltime, Perm Location: Downtown Montreal, QC - Hybrid (roles starts off 5 days in office for 1…",
-      "redirectUrl": "https://www.adzuna.ca/details/5723869444?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5757061282",
@@ -118,6 +103,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5774628551?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5761807853",
+      "title": "Senior Frontend Developer",
+      "company": "CGI",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 80000,
+      "salaryMax": 130000,
+      "createdAt": "2026-06-12T17:13:43Z",
+      "descriptionSnippet": "Position Description: This role is hybrid and requires you to be at our downtown Toronto and/or Client office at a minimum 4 days per week - subject to change at any time. ________________________________________ Key Responsibilities ________________________________________ Your future duties and responsibilities: Frontend Development . Strong hands-on experience with Angular for building scalable, enterprise-grade web applications . Excellent proficiency in TypeScript, HTML, and CSS for develo…",
+      "redirectUrl": "https://www.adzuna.ca/details/5761807853?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript"
+      ]
     },
     {
       "id": "5739118577",
