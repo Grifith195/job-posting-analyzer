@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T11:17:51.043Z",
+  "generatedAt": "2026-06-28T11:29:54.125Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T19:05:05Z",
       "descriptionSnippet": "Software Developer (permanent position, 40 hour per week) Contact: (819) 975-4654, career@nordquantique.ca Working at Nord Quantique At Nord Quantique, you will be part of something special: working in a highly dynamic environment at the forefront of quantum technology development while benefiting from a vibrant ecosystem located at the heart of the Quantum Innovation Zone of the picturesque city of Sherbrooke. Our interdisciplinary team is laser-focused on solving grand challenges and making q…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=sGbp1Rly8RG03p_b2NRIZw&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=MvpHr-Ry8RGaefP1LH-1Hg&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-06-26T09:09:00Z",
       "descriptionSnippet": "Job Description Summary The Technical Lead Engineer will be supporting the I&C team with Embedded Software Development for proprietary systems and programs relevant to GE Vernova Hitachi Nuclear Energy’s (GVH) BWRX-300 Small Module Reactor. Ensuring that the project is properly managed, resourced, and progressing per scope. This individual will work closely with leadership teams to plan and execute engineering projects and lead program reviews to ensure milestones are being met. The Technical l…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754079?se=sGbp1Rly8RG03p_b2NRIZw&utm_medium=api&utm_source=3ebb75f8&v=3786363E3890637499EC31A9582FEEDA8C7646AB",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754079?se=MvpHr-Ry8RGaefP1LH-1Hg&utm_medium=api&utm_source=3ebb75f8&v=3786363E3890637499EC31A9582FEEDA8C7646AB",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -134,6 +134,23 @@
       "extractedKeywords": []
     },
     {
+      "id": "5779474412",
+      "title": "Software Developer",
+      "company": "Tempo",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-27T17:13:55Z",
+      "descriptionSnippet": "With over 30,000 customers, including a third of Fortune 500 companies, Tempo is trusted by organizations across the globe to make their workflows work better. We create a suite of integrated solutions for time management, resource planning, budget management, roadmapping, program management, reporting and more. We create the tech that enables the modern team to deliver – for every step from first vision to value. Since our beginning in 2007 as a project to make a time-tracking tool to help a c…",
+      "redirectUrl": "https://www.adzuna.ca/details/5779474412?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
       "id": "5776088596",
       "title": "Software Developer",
       "company": "Exioms Canada",
@@ -145,21 +162,6 @@
       "createdAt": "2026-06-25T06:00:11Z",
       "descriptionSnippet": "Title: - Software Developer Number of Positions- 1 Salary: - $47 per hour Hours: - Minimum 30 to 40 hours per week Employment Requirements: - • Experience- minimum 2 years of Experience • Education- College/CEGEP- Diploma or Bachelors in Computer Science • Computer and Technology Knowledge- Internet, MS Windows, MS Office, .NET Work Location- 77 City Centre Drive East Tower suite 501, Mississauga, ON About us: Contributing to build a better future by Technology and Arts. We discover trends and …",
       "redirectUrl": "https://www.adzuna.ca/details/5776088596?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5776085610",
-      "title": "Software Developer",
-      "company": "XYZ STUDIO LTD",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 95888,
-      "salaryMax": 95888,
-      "createdAt": "2026-06-25T05:59:54Z",
-      "descriptionSnippet": "Salary: $46.10/hr Job Type: Permanent Employment Full Time Language: English Start Date of Employment (Approx.): As soon as possible Minimum Education: Bachelor's degree Positions Available: 2 NOC Group: 21232 - Software developers and programmers NOC Job Title: Software Developer ________________________________________ Employer's name: XYZ STUDIO LTD ______________________________________ Job Location(s) 515 west pender street suite 245 Vancouver, British Columbia V6B 1V5 ____________________…",
-      "redirectUrl": "https://www.adzuna.ca/details/5776085610?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
