@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T13:56:47.597Z",
+  "generatedAt": "2026-06-30T12:03:24.586Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -102,6 +102,23 @@
       "extractedKeywords": []
     },
     {
+      "id": "5761807853",
+      "title": "Senior Frontend Developer",
+      "company": "CGI",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 80000,
+      "salaryMax": 130000,
+      "createdAt": "2026-06-12T17:13:43Z",
+      "descriptionSnippet": "Position Description: This role is hybrid and requires you to be at our downtown Toronto and/or Client office at a minimum 4 days per week - subject to change at any time. ________________________________________ Key Responsibilities ________________________________________ Your future duties and responsibilities: Frontend Development . Strong hands-on experience with Angular for building scalable, enterprise-grade web applications . Excellent proficiency in TypeScript, HTML, and CSS for develo…",
+      "redirectUrl": "https://www.adzuna.ca/details/5761807853?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript"
+      ]
+    },
+    {
       "id": "5739118577",
       "title": "Senior Frontend Developer",
       "company": "ScalePad",
@@ -130,23 +147,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5771655767?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5753572779",
-      "title": "Senior Frontend Developer",
-      "company": "Tempo",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-05T16:52:50Z",
-      "descriptionSnippet": "With over 30,000 customers, including a third of Fortune 500 companies, Tempo is trusted by organizations across the globe to make their workflows work better. We create a suite of integrated solutions for time management, resource planning, budget management, roadmapping, program management, reporting and more. We create the tech that enables the modern team to deliver – for every step from first vision to value. Since our beginning in 2007 as a project to make a time-tracking tool to help a c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5753572779?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
     },
     {
       "id": "5757706487",
