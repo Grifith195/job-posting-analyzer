@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T12:25:56.695Z",
+  "generatedAt": "2026-07-03T11:58:32.942Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T16:29:16Z",
       "descriptionSnippet": "Mission Does playing a key role in optimizing our data management processes appeal to you? Your mission will be to ensure the accuracy and integrity of product data across our various internal systems. You will help drive this process forward by analyzing and identifying opportunities for improvement, proposing potential solutions, and creating and developing tools within the context of AI development. Through your attention to detail and the quality of the information you maintain, you will di…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=itTjAkh18RG4KvsvFcTNXw&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=FvgihNZ28RGMOORbIvsj-A&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-05-29T04:27:15Z",
       "descriptionSnippet": "Automotive glass technology is helping transform how we experience the road. At Belron Canada , the home office of Speedy Glass, Lebeau vitres d’auto and Vanfax we take this seriously, which is why we invest tirelessly on developing our people can realize their full potential. We welcome applications from everyone, and are firmly committed to diversity, equity and inclusion in the workplace, and take pride in ensuring every member of our team feels empowered. Under the supervision of the Manage…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=itTjAkh18RG4KvsvFcTNXw&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=FvgihNZ28RGMOORbIvsj-A&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -81,6 +81,21 @@
       "createdAt": "2026-04-18T07:11:31Z",
       "descriptionSnippet": "JOB OPENING - Data Analyst ADF Medical Services Inc. We're seeking a results-driven and detail-oriented Data Analyst to join our growing analytics team. If you have a strong analytical mindset, love working with data, and want to make a real impact in the healthcare industry — this role is for you. Role: Data Analyst Department: Analytics & Business Intelligence Location: Fully Remote Type: Full-Time / Part-Time What You'll Do: Analyze and interpret complex healthcare and operational datasets D…",
       "redirectUrl": "https://www.adzuna.ca/details/5703538140?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5745311400",
+      "title": "Data Analyst",
+      "company": "BRIGHTER STAFFING AGENCY",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": 68640,
+      "salaryMax": 87360,
+      "createdAt": "2026-05-30T01:35:26Z",
+      "descriptionSnippet": "Data Analyst Brighter Staffing Agency About Us Brighter Staffing Agency is a leading recruitment firm dedicated to connecting exceptional talent with organizations across a wide range of industries. Our mission is to deliver outstanding staffing solutions that help businesses grow while supporting professionals in advancing their careers. We pride ourselves on building strong partnerships, maintaining high standards, and creating opportunities for success. Position Summary Brighter Staffing Age…",
+      "redirectUrl": "https://www.adzuna.ca/details/5745311400?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -147,21 +162,6 @@
       "createdAt": "2026-06-30T11:07:39Z",
       "descriptionSnippet": "Overview We are looking for a Data Analyst in Ottawa. Our client is based in Ottawa, Canada and is seeking a Data Analyst to join their team on a full-time basis. Responsibilities Perform data analysis to support business decisions (responsibilities to be detailed by the employer). Qualifications At least 3 years of experience in a similar role. A valid Canada driver’s license. Fluency in English is preferred but not required. Deal Details / Benefits Full-time position with a competitive wage a…",
       "redirectUrl": "https://www.adzuna.ca/details/5782242486?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5760424531",
-      "title": "Data Analyst",
-      "company": "NorthLake Financial Corp",
-      "location": "Barrie, Simcoe region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-11T17:08:26Z",
-      "descriptionSnippet": "About Northlake Financial Northlake Financial team is growing! If you are a committed and collaborative professional looking to contribute to a hard-working, innovative team, this opportunity is for you. Why Work for us? Northlake understands the needs of its employees. Northlake Financial is revolutionizing the Canadian automotive finance industry with a full spectrum of dynamic rates and services for dealers. We specialize in the acquisition and servicing of prime and subprime automotive fina…",
-      "redirectUrl": "https://www.adzuna.ca/details/5760424531?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
