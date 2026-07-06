@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T11:21:03.032Z",
+  "generatedAt": "2026-07-06T13:36:14.027Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T16:29:16Z",
       "descriptionSnippet": "Mission Does playing a key role in optimizing our data management processes appeal to you? Your mission will be to ensure the accuracy and integrity of product data across our various internal systems. You will help drive this process forward by analyzing and identifying opportunities for improvement, proposing potential solutions, and creating and developing tools within the context of AI development. Through your attention to detail and the quality of the information you maintain, you will di…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=2vcXnGN48RGzsb4CM2L8uw&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=CqjVqD958RG8vtKmDcbJ5Q&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-05-29T04:27:15Z",
       "descriptionSnippet": "Automotive glass technology is helping transform how we experience the road. At Belron Canada , the home office of Speedy Glass, Lebeau vitres d’auto and Vanfax we take this seriously, which is why we invest tirelessly on developing our people can realize their full potential. We welcome applications from everyone, and are firmly committed to diversity, equity and inclusion in the workplace, and take pride in ensuring every member of our team feels empowered. Under the supervision of the Manage…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=2vcXnGN48RGzsb4CM2L8uw&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=CqjVqD958RG8vtKmDcbJ5Q&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -100,25 +100,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5779252750",
-      "title": "Data Analyst",
-      "company": "VDart Inc",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 70000,
-      "salaryMax": 75000,
-      "createdAt": "2026-06-27T13:55:20Z",
-      "descriptionSnippet": "Role: Data Analyst Location: Canada, Remote Full Time Role Summary The Data Analyst will be responsible for translating raw data into actionable insights, providing data-driven recommendations to support business strategy and decision-making. This role involves collecting, cleaning, analyzing, and visualizing data to identify trends, patterns, and opportunities for process and performance improvement. Collect clean and analyze operational data and generate dashboards and reports tracking KPIs (…",
-      "redirectUrl": "https://www.adzuna.ca/details/5779252750?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Dashboarding",
-        "Reporting",
-        "Metrics"
-      ]
-    },
-    {
       "id": "5773155351",
       "title": "Data Analyst",
       "company": "Orion Digital",
@@ -164,6 +145,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5782242486?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5789393298",
+      "title": "Data Analyst",
+      "company": "Alquemy",
+      "location": "Edmonton, Edmonton region",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-05T17:56:22Z",
+      "descriptionSnippet": "Job Description Job Title: Data Analyst Position Overview We are seeking a Data Analyst to support enterprise data governance, reporting, and analytics by building reliable datasets, improving data quality, and developing solutions that enable informed business decisions. Key Responsibilities Analyze, validate, and structure data from multiple sources. Identify data gaps and support data governance initiatives. Build and maintain SharePoint-based data solutions and workflows. Develop reports, d…",
+      "redirectUrl": "https://www.adzuna.ca/details/5789393298?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
     }
   ]
 }

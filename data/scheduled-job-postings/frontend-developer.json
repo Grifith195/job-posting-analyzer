@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T11:21:03.032Z",
+  "generatedAt": "2026-07-06T13:36:14.027Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -42,25 +42,19 @@
       ]
     },
     {
-      "id": "5782238384",
+      "id": "5782242861",
       "title": "Frontend Developer",
-      "company": "VBeyond Corporation",
+      "company": "Apptoza Inc.",
       "location": "Toronto, Ontario",
       "category": "IT Jobs",
       "contractType": "contract",
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-06-30T11:06:41Z",
-      "descriptionSnippet": "Qualifications Experience writing and working with REST APIs. Collaborate with other cross-functional teams working on features for our customers. Familiarity with automated build pipelines; continuous integration or continuous delivery. Proven experience using code repositories such as GitHub. Demonstrated ability to work closely with UX designers and Product owners to deliver the best UX for our customers. Demonstrated ability to deliver high-quality code using automated tests for unit tests …",
-      "redirectUrl": "https://www.adzuna.ca/details/5782238384?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-06-30T11:07:43Z",
+      "descriptionSnippet": "Job Title Front‑End Developer Location Toronto, ON Job Description Lead the architecture and evolution of our micro frontend platform for Bell.ca, enabling domain‑based feature teams to deliver independently. Define standards for shell app coordination, shared libraries, routing, and runtime integrations. Design and implement mechanisms for shared state management, version control, and safe rollout of micro frontends. Provide technical guidance and mentorship to other senior frontend engineers.…",
+      "redirectUrl": "https://www.adzuna.ca/details/5782242861?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Git",
-        "API",
-        "Testing",
-        "Communication",
-        "Stakeholder Management"
-      ]
+      "extractedKeywords": []
     },
     {
       "id": "5782233040",
@@ -82,19 +76,25 @@
       ]
     },
     {
-      "id": "5782242861",
+      "id": "5782238384",
       "title": "Frontend Developer",
-      "company": "Apptoza Inc.",
+      "company": "VBeyond Corporation",
       "location": "Toronto, Ontario",
       "category": "IT Jobs",
       "contractType": "contract",
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-06-30T11:07:43Z",
-      "descriptionSnippet": "Job Title Front‑End Developer Location Toronto, ON Job Description Lead the architecture and evolution of our micro frontend platform for Bell.ca, enabling domain‑based feature teams to deliver independently. Define standards for shell app coordination, shared libraries, routing, and runtime integrations. Design and implement mechanisms for shared state management, version control, and safe rollout of micro frontends. Provide technical guidance and mentorship to other senior frontend engineers.…",
-      "redirectUrl": "https://www.adzuna.ca/details/5782242861?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-06-30T11:06:41Z",
+      "descriptionSnippet": "Qualifications Experience writing and working with REST APIs. Collaborate with other cross-functional teams working on features for our customers. Familiarity with automated build pipelines; continuous integration or continuous delivery. Proven experience using code repositories such as GitHub. Demonstrated ability to work closely with UX designers and Product owners to deliver the best UX for our customers. Demonstrated ability to deliver high-quality code using automated tests for unit tests …",
+      "redirectUrl": "https://www.adzuna.ca/details/5782238384?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": []
+      "extractedKeywords": [
+        "Git",
+        "API",
+        "Testing",
+        "Communication",
+        "Stakeholder Management"
+      ]
     },
     {
       "id": "5757061282",
