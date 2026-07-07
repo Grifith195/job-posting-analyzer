@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T13:36:14.027Z",
+  "generatedAt": "2026-07-07T12:19:52.794Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,22 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-21T16:29:16Z",
       "descriptionSnippet": "Mission Does playing a key role in optimizing our data management processes appeal to you? Your mission will be to ensure the accuracy and integrity of product data across our various internal systems. You will help drive this process forward by analyzing and identifying opportunities for improvement, proposing potential solutions, and creating and developing tools within the context of AI development. Through your attention to detail and the quality of the information you maintain, you will di…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=CqjVqD958RG8vtKmDcbJ5Q&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5744410716",
-      "title": "Data Analyst – Supply Chain (18 months contract)",
-      "company": "Belron Canada Inc.",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-29T04:27:15Z",
-      "descriptionSnippet": "Automotive glass technology is helping transform how we experience the road. At Belron Canada , the home office of Speedy Glass, Lebeau vitres d’auto and Vanfax we take this seriously, which is why we invest tirelessly on developing our people can realize their full potential. We welcome applications from everyone, and are firmly committed to diversity, equity and inclusion in the workplace, and take pride in ensuring every member of our team feels empowered. Under the supervision of the Manage…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=CqjVqD958RG8vtKmDcbJ5Q&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5706461130?se=ZOSHKP558RGZup9PKbkKVA&utm_medium=api&utm_source=3ebb75f8&v=AB9BAA0AA2ECA2EB10F8D19E64E1C0E229DF4CE5",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -53,6 +38,21 @@
       "extractedKeywords": [
         "Reporting"
       ]
+    },
+    {
+      "id": "5744410716",
+      "title": "Data Analyst – Supply Chain (18 months contract)",
+      "company": "Belron Canada Inc.",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-29T04:27:15Z",
+      "descriptionSnippet": "Automotive glass technology is helping transform how we experience the road. At Belron Canada , the home office of Speedy Glass, Lebeau vitres d’auto and Vanfax we take this seriously, which is why we invest tirelessly on developing our people can realize their full potential. We welcome applications from everyone, and are firmly committed to diversity, equity and inclusion in the workplace, and take pride in ensuring every member of our team feels empowered. Under the supervision of the Manage…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=ZOSHKP558RGZup9PKbkKVA&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5703538141",
@@ -132,21 +132,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5782242486",
-      "title": "Data Analyst",
-      "company": "Work sell buy",
-      "location": "Ottawa, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-30T11:07:39Z",
-      "descriptionSnippet": "Overview We are looking for a Data Analyst in Ottawa. Our client is based in Ottawa, Canada and is seeking a Data Analyst to join their team on a full-time basis. Responsibilities Perform data analysis to support business decisions (responsibilities to be detailed by the employer). Qualifications At least 3 years of experience in a similar role. A valid Canada driver’s license. Fluency in English is preferred but not required. Deal Details / Benefits Full-time position with a competitive wage a…",
-      "redirectUrl": "https://www.adzuna.ca/details/5782242486?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5789393298",
       "title": "Data Analyst",
       "company": "Alquemy",
@@ -162,6 +147,21 @@
       "extractedKeywords": [
         "Reporting"
       ]
+    },
+    {
+      "id": "5727240710",
+      "title": "Data Analyst",
+      "company": "Jose Merciline",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-12T16:43:40Z",
+      "descriptionSnippet": "Job title: Data Analyst Description: This position is with the Enterprise System Management (ESM) department. The position is with a team responsible for a set of systems used to manage Morgan Stanley’s IT inventory and assets data, together with their configuration and operational state. This data is critical for regulatory, operational, and efficiency purposes. Our goals are: -Sourcing IT inventory and machine data (e.g. logs, alerts) in a timely manner. -Storing the data in scalable reposito…",
+      "redirectUrl": "https://www.adzuna.ca/details/5727240710?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
