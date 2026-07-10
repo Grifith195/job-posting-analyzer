@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T11:40:11.214Z",
+  "generatedAt": "2026-07-10T12:17:32.362Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,22 +18,22 @@
       "salaryMax": null,
       "createdAt": "2026-06-12T15:49:45Z",
       "descriptionSnippet": "Hello, I'm Robin, recruitment and business development consultant at FED IT, a recruitment agency specializing in IT professions. I work on two types of recruitment: temporary and permanent. All our consultants are IT experts who speak your language and work in your environment. We cover the IT, development, business intelligence and infrastructure professions. Mission Job Summary Parts Avatar is seeking a highly analytical and detail-oriented Data Analyst to focus on our business operations an…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5761578414?se=BuOXx8F68RGeHY1Elccfvg&utm_medium=api&utm_source=3ebb75f8&v=C99BF186ACB7B693EA7F052973417FB03B62D805",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5761578414?se=EvUhVFl88RG1cqTmEaCebw&utm_medium=api&utm_source=3ebb75f8&v=C99BF186ACB7B693EA7F052973417FB03B62D805",
       "source": "Adzuna",
       "extractedKeywords": []
     },
     {
-      "id": "5744410716",
-      "title": "Data Analyst – Supply Chain (18 months contract)",
-      "company": "Belron Canada Inc.",
-      "location": "Canada",
+      "id": "5792964475",
+      "title": "Product Data Analyst",
+      "company": "Soucy",
+      "location": "Saint-Charles-de-Drummond, Drummond",
       "category": "IT Jobs",
-      "contractType": "contract",
+      "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-05-29T04:27:15Z",
-      "descriptionSnippet": "Automotive glass technology is helping transform how we experience the road. At Belron Canada , the home office of Speedy Glass, Lebeau vitres d’auto and Vanfax we take this seriously, which is why we invest tirelessly on developing our people can realize their full potential. We welcome applications from everyone, and are firmly committed to diversity, equity and inclusion in the workplace, and take pride in ensuring every member of our team feels empowered. Under the supervision of the Manage…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5744410716?se=BuOXx8F68RGeHY1Elccfvg&utm_medium=api&utm_source=3ebb75f8&v=0060FA686359C09232374C828B22321F9BE01A3C",
+      "createdAt": "2026-07-08T14:48:16Z",
+      "descriptionSnippet": "Mission Are you passionate about data and continuous improvement? We need you! Our catalog includes over 100,000 SKUs, and the quality of the information associated with them is a key driver of our success. Your mission will be to ensure the reliability of this data, identify opportunities for improvement, and develop innovative solutions using AI and Business Intelligence tools to optimize our product data management processes. In this role, you will have the opportunity to: Identify and lead …",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5792964475?se=EvUhVFl88RG1cqTmEaCebw&utm_medium=api&utm_source=3ebb75f8&v=77825B74096C0256B26B963EA2F6CADD37BA73C9",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -130,6 +130,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5795496100",
+      "title": "Data Analyst",
+      "company": "Vanier",
+      "location": "London, Middlesex",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-10T06:05:47Z",
+      "descriptionSnippet": "Job Description Job Description Vanier Children’s Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in children’s mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. We’ve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded by t…",
+      "redirectUrl": "https://www.adzuna.ca/details/5795496100?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5789393298",
       "title": "Data Analyst",
       "company": "Alquemy",
@@ -145,21 +160,6 @@
       "extractedKeywords": [
         "Reporting"
       ]
-    },
-    {
-      "id": "5727240710",
-      "title": "Data Analyst",
-      "company": "Jose Merciline",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-12T16:43:40Z",
-      "descriptionSnippet": "Job title: Data Analyst Description: This position is with the Enterprise System Management (ESM) department. The position is with a team responsible for a set of systems used to manage Morgan Stanley’s IT inventory and assets data, together with their configuration and operational state. This data is critical for regulatory, operational, and efficiency purposes. Our goals are: -Sourcing IT inventory and machine data (e.g. logs, alerts) in a timely manner. -Storing the data in scalable reposito…",
-      "redirectUrl": "https://www.adzuna.ca/details/5727240710?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
