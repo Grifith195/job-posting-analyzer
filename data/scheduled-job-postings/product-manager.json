@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T11:24:52.589Z",
+  "generatedAt": "2026-07-17T11:12:33.026Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,81 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5784011199",
-      "title": "Lead, Product Manager",
-      "company": "L3Harris Technologies",
-      "location": "Cambridge, Waterloo region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-01T13:51:16Z",
-      "descriptionSnippet": "L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do. L3Harris is the Trus…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5784011199?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=9A91135312CE2A61DB76551B874D385D0D36407D",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5784011202",
-      "title": "Lead, Product Manager",
-      "company": "L3Harris Technologies",
-      "location": "Waterdown, Halton",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-01T13:51:16Z",
-      "descriptionSnippet": "L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do. L3Harris is the Trus…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5784011202?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=60A7779F444C22D3FDFFD59A35DCA18ACB667C64",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5784011182",
-      "title": "Lead, Product Manager",
-      "company": "L3Harris Technologies",
-      "location": "Canfield, Haldimand-Norfolk",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-01T13:51:16Z",
-      "descriptionSnippet": "L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do. L3Harris is the Trus…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5784011182?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=66909E46965390F879711F3A5682BF2864D7B704",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5784011127",
-      "title": "Lead, Product Manager",
-      "company": "L3Harris Technologies",
-      "location": "Troy, Hamilton region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-01T13:51:15Z",
-      "descriptionSnippet": "L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do. L3Harris is the Trus…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5784011127?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=E2F3E2B896B7BE23BB68D5BFC3EB0C3FC527F790",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5784011230",
-      "title": "Lead, Product Manager",
-      "company": "L3Harris Technologies",
-      "location": "Beamsville, Niagara",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-01T13:51:17Z",
-      "descriptionSnippet": "L3Harris is dedicated to recruiting and developing high-performing talent who are passionate about what they do. Our employees are unified in a shared dedication to our customers’ mission and quest for professional growth. L3Harris provides an inclusive, engaging environment designed to empower employees and promote work-life success. Fundamental to our culture is an unwavering focus on values, dedication to our communities, and commitment to excellence in everything we do. L3Harris is the Trus…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5784011230?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=CF66AA5A8BA37613DB0E057765266025DAD189D2",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5791830279",
       "title": "Senior Product Manager (vPAC)",
@@ -93,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-07-07T22:40:12Z",
       "descriptionSnippet": "Job Description Summary Job Description Senior Product Manager - vPAC | Grid Automation & Software | Stafford, UK Are you ready to help shape the future of grid automation - defining how protection, automation and control evolves from dedicated hardware into software-defined infrastructure for the world’s electricity networks? GE Vernova is looking for a Senior Product Manager - vPAC to join our Grid Automation & Software team. Stafford, United Kingdom is the preferred location, with flexibilit…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5791830279?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=502347DF09CD074731B5A7A93143A8A0782C59A6",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5791830279?se=hOXiaNCB8RG3TZhdntW5Hg&utm_medium=api&utm_source=3ebb75f8&v=502347DF09CD074731B5A7A93143A8A0782C59A6",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -108,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-07-01T18:50:39Z",
       "descriptionSnippet": "We are partnering with an innovative Quebec-based technology company that develops advanced hardware and software solutions for mission-critical environments where reliability, performance, and user experience are essential. As the company continues to grow, they are looking to add a Product Manager who will serve as the bridge between engineering, customers, and commercial teams to accelerate product development, market adoption, and long-term commercial success. This is an excellent opportuni…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5784548684?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=1CEA5F33098A25A2EE9E6AE23669296CE6E2D262",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5784548684?se=hOXiaNCB8RG3TZhdntW5Hg&utm_medium=api&utm_source=3ebb75f8&v=1CEA5F33098A25A2EE9E6AE23669296CE6E2D262",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -123,26 +48,9 @@
       "salaryMax": null,
       "createdAt": "2026-06-19T21:32:41Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. The Director, Product Development – Internet Services is accountable for defining and executing the company’s broadband product and netw…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5769972726?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=37FBB485D9DB703DE915089A53651DF55BE54D2E",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5769972726?se=hOXiaNCB8RG3TZhdntW5Hg&utm_medium=api&utm_source=3ebb75f8&v=37FBB485D9DB703DE915089A53651DF55BE54D2E",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5794399026",
-      "title": "Product Manager, Data and AI - Temporary",
-      "company": "Air Canada",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-09T14:48:19Z",
-      "descriptionSnippet": "Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your career take flight by joining our diverse and vibrant team at the leading edge of passenger aviation. The Product Manager Data is responsible for defining, prioritizing, and managing data product roadmaps for their respective domains. This key role drives our data product vision with a focus on a continuous product delivery model and overall success. Main responsi…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5794399026?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=0D6CD7FE0B797E67BFE9B1E413E254CD909B725D",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
     },
     {
       "id": "5799491691",
@@ -155,11 +63,104 @@
       "salaryMax": null,
       "createdAt": "2026-07-14T00:48:50Z",
       "descriptionSnippet": "It’s not a package. It’s a promise®. As Canada’s leading integrated freight, package, and logistics provider, we’ve been helping promises get where they need to be for more than 60 years. How does the magic happen? The journey starts with you . The places we go, the elements we brave, the promises we deliver - it’s all possible because of our people. So, whether you’re looking to build new skills, make an impact in your community, or inspire your team, we go there for you. Description Reporting…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5799491691?se=nIBa9wiB8RGKvOxCvz8YAQ&utm_medium=api&utm_source=3ebb75f8&v=AADA6A3D01D81779CA14E1279B994946B4A43A05",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5799491691?se=hOXiaNCB8RG3TZhdntW5Hg&utm_medium=api&utm_source=3ebb75f8&v=AADA6A3D01D81779CA14E1279B994946B4A43A05",
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
       ]
+    },
+    {
+      "id": "5796533723",
+      "title": "Product Project Manager",
+      "company": "Soucy",
+      "location": "Saint-Charles-de-Drummond, Drummond",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-11T00:44:02Z",
+      "descriptionSnippet": "Mission Do you want to contribute to the development of technical, sustainable, and high-performance products? Are you driven by hands-on projects, mechanical design, and cross-team collaboration? This position could very well be for you. Reporting to the Director of Development and Innovation, you’ll be involved in every stage of product development, from needs analysis to the integration of UHMW-PE molded products into production. You’ll also help improve our existing products and support int…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5796533723?se=hOXiaNCB8RG3TZhdntW5Hg&utm_medium=api&utm_source=3ebb75f8&v=AEAE3D30A0CCF24DFFAEF8048DB0152230B87D39",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication",
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5777754090",
+      "title": "Responsable Produit - Digital Substation Product Manager H/F",
+      "company": "GE Vernova",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-26T09:09:00Z",
+      "descriptionSnippet": "Job Description Summary Nous recherchons un(e) leader innovant et expérimenté pour piloter la vision, la stratégie et l'exécution de nos solutions d'automatisation des postes électriques numériques et conventionnels. Le/la Responsable Produit sera chargé(e) de définir l'orientation du portefeuille d'automatisation des postes, d'assurer sa différenciation concurrentielle et de favoriser sa croissance sur les marchés mondiaux. Ce rôle exige une combinaison unique d'expertise technique, de connais…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754090?se=hOXiaNCB8RG3TZhdntW5Hg&utm_medium=api&utm_source=3ebb75f8&v=301492EF3038F17AF9944E059A0B2B1888389F72",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5508567386",
+      "title": "Product Manager",
+      "company": "Ndax Canada Inc.",
+      "location": "Calgary, Calgary region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-11-21T18:36:07Z",
+      "descriptionSnippet": "As one of Canada’s largest and fastest growing cryptocurrency trading platforms, Ndax has set the bar high for the country’s fintech industry and is constantly leading the way in terms of security and innovation. We are on a mission to empower more Canadians to unlock the full potential of digital finance. To address the various needs in the Canadian cryptocurrency space, Ndax has assembled a multidisciplinary team with diverse backgrounds, including finance, technology, engineering, compliance…",
+      "redirectUrl": "https://www.adzuna.ca/details/5508567386?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5775117783",
+      "title": "Product Manager",
+      "company": "Bridgit",
+      "location": "Ontario, Canada",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-24T15:06:24Z",
+      "descriptionSnippet": "Description The construction industry is facing a severe labor shortage. The industry is at an inflection point where they must reimagine talent and modernize their people strategy. Bridgit is the category leader for workforce planning and working with the largest and most sophisticated US general contractors. Although we have continued to gain traction since launching in 2019, there is significant opportunity ahead as we continue to innovate and broaden our offering. What You Will Do Do As a P…",
+      "redirectUrl": "https://www.adzuna.ca/details/5775117783?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5678562477",
+      "title": "Product Manager",
+      "company": "SWTCH Energy Inc.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-03-25T18:53:03Z",
+      "descriptionSnippet": "Who We Are SWTCH is pioneering EV charging solutions for multifamily and commercial properties across North America. Since 2016, our team of entrepreneurs, energy professionals, and technologists has been focused on unlocking the social, economic, and environmental benefits of widespread EV adoption. Today, our solutions are deployed in tens of thousands of locations —many of which are low-to-moderate income housing—helping to make clean mobility accessible for all. With an expanding footprint …",
+      "redirectUrl": "https://www.adzuna.ca/details/5678562477?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5791827294",
+      "title": "Senior Product Manager – E-commerce and Digital Customer Experience (Hybrid)",
+      "company": "RONA",
+      "location": "Boucherville, Champlain",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-07T22:39:18Z",
+      "descriptionSnippet": "Our Hybrid Workplace Policy establishes that associates need to have a reliable transportation to and from our corporate head office located in Boucherville (Quebec), to come to the office on a regular basis. We require all our head office associates to be proficient in French, spoken and written. 3 days office / 2 days remote At RONA, our employees let their passion blossom every day. Our teams are driven by the desire to help people bring their projects to life and are committed to making a d…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5791827294?se=hOXiaNCB8RG3TZhdntW5Hg&utm_medium=api&utm_source=3ebb75f8&v=E7A385ABFCD8968BCE9B12B2B84FB0EBB40F44F9",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
