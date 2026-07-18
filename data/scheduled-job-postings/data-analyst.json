@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T11:12:33.026Z",
+  "generatedAt": "2026-07-18T10:54:06.328Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,24 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5799489321",
+      "title": "BI and Data Analyst",
+      "company": "Soucy",
+      "location": "Saint-Charles-de-Drummond, Drummond",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-14T00:47:20Z",
+      "descriptionSnippet": "Mission Are you passionate about data, analysis, and designing structured BI solutions, and do you want to grow in an environment where data serves as a strategic driver for operations and decision-making? As a BI Analyst, you’ll play a key role in leveraging the company’s data. You’ll be responsible for both producing analytical solutions (Power BI) and structuring and gaining a deep understanding of the data. Beyond creating reports, you’ll actively contribute to the evolution of our data env…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5799489321?se=Xjm2_5aC8RGF5LNal_k3gA&utm_medium=api&utm_source=3ebb75f8&v=0C4A7E46B4CF9EA5207CBCC2EF3730CC0D95FA58",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Power BI",
+        "Reporting"
+      ]
+    },
     {
       "id": "5703538141",
       "title": "Data Analyst",
@@ -70,6 +88,23 @@
       ]
     },
     {
+      "id": "5805596074",
+      "title": "Data Analyst",
+      "company": "Ubisoft",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-17T21:28:45Z",
+      "descriptionSnippet": "Job Description The Data Analyst, Audience Analytics, will be the main analytics owner of several major game franchises, responsible for gathering and analyzing customer data across their portfolio and answering all kinds of analytics questions from business and marketing stakeholders. Working closely with production and marketing teams, you will provide clear insights about consumer behaviors, drive strategic recommendations, and support audience-centric projects throughout the entire life cyc…",
+      "redirectUrl": "https://www.adzuna.ca/details/5805596074?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management"
+      ]
+    },
+    {
       "id": "5773155351",
       "title": "Data Analyst",
       "company": "Orion Digital",
@@ -84,26 +119,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
-      ]
-    },
-    {
-      "id": "5800170249",
-      "title": "Data Analyst",
-      "company": "vTech Solution",
-      "location": "Alberta, Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-14T13:59:09Z",
-      "descriptionSnippet": "Job Summary: The Data Analytics Specialist is responsible for analyzing complex data sets to support business decision-making. This role involves gathering, processing, and interpreting data to provide actionable insights that drive strategic initiatives and improve operational efficiency. Responsibilities: Collect, clean, and analyze large datasets from various sources. Develop and maintain dashboards and reports to visualize data trends. Collaborate with cross-functional teams to identify dat…",
-      "redirectUrl": "https://www.adzuna.ca/details/5800170249?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication",
-        "Dashboarding",
-        "Reporting",
-        "Stakeholder Management"
       ]
     },
     {
@@ -148,21 +163,6 @@
       "createdAt": "2026-07-11T17:48:04Z",
       "descriptionSnippet": "Vanier Children’s Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in children’s mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. We’ve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded by the Ministry of Health and the Mi…",
       "redirectUrl": "https://www.adzuna.ca/details/5797336315?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5802726798",
-      "title": "Data Analyst",
-      "company": "Vanier",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-16T06:05:04Z",
-      "descriptionSnippet": "Job Description Job Description Salary: Vanier Childrens Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in childrens mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. Weve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded…",
-      "redirectUrl": "https://www.adzuna.ca/details/5802726798?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
