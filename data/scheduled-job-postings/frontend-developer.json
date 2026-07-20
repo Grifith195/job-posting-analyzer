@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T11:01:56.162Z",
+  "generatedAt": "2026-07-20T12:07:15.805Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -27,25 +27,6 @@
       ]
     },
     {
-      "id": "5782233040",
-      "title": "Frontend Developer",
-      "company": "BeaconFire Inc.",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-30T11:05:48Z",
-      "descriptionSnippet": "BeaconFire is looking for candidates who are passionate about combining technology and design to create user-friendly websites. Responsibilities Develop websites using HTML, CSS, Node.js, React.js, and Angular2, among other tools; Write scalable, secure, maintainable code that powers our clients’ platforms; Create, deploy, and maintain automated system tests; Work with Testers to understand defects opened and resolves them in a timely manner; Supports continuous improvement by investigating alt…",
-      "redirectUrl": "https://www.adzuna.ca/details/5782233040?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "Node.js",
-        "Testing"
-      ]
-    },
-    {
       "id": "5782238384",
       "title": "Frontend Developer",
       "company": "VBeyond Corporation",
@@ -64,6 +45,25 @@
         "Testing",
         "Communication",
         "Stakeholder Management"
+      ]
+    },
+    {
+      "id": "5782233040",
+      "title": "Frontend Developer",
+      "company": "BeaconFire Inc.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-30T11:05:48Z",
+      "descriptionSnippet": "BeaconFire is looking for candidates who are passionate about combining technology and design to create user-friendly websites. Responsibilities Develop websites using HTML, CSS, Node.js, React.js, and Angular2, among other tools; Write scalable, secure, maintainable code that powers our clients’ platforms; Create, deploy, and maintain automated system tests; Work with Testers to understand defects opened and resolves them in a timely manner; Supports continuous improvement by investigating alt…",
+      "redirectUrl": "https://www.adzuna.ca/details/5782233040?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Node.js",
+        "Testing"
       ]
     },
     {
@@ -157,19 +157,21 @@
       "extractedKeywords": []
     },
     {
-      "id": "5780532793",
+      "id": "5761807853",
       "title": "Senior Frontend Developer",
-      "company": "Arteria AI",
+      "company": "CGI",
       "location": "Toronto, Ontario",
-      "category": "Engineering Jobs",
+      "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 120000,
-      "salaryMax": 170000,
-      "createdAt": "2026-06-28T17:12:08Z",
-      "descriptionSnippet": "About Arteria AI Arteria AI is the agentic backbone of financial services operations. We build AI-powered tools that help tier-one global institutions manage their most complex document workflows faster, smarter, and at scale. We were founded by lawyers and financial services practitioners who have spent 20 years solving documentation problems with the world's largest companies. Our team is mission-driven, high-calibre, and moves fast. Financial services is our domain, and documents are our obs…",
-      "redirectUrl": "https://www.adzuna.ca/details/5780532793?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 80000,
+      "salaryMax": 130000,
+      "createdAt": "2026-06-12T17:13:43Z",
+      "descriptionSnippet": "Position Description: This role is hybrid and requires you to be at our downtown Toronto and/or Client office at a minimum 4 days per week - subject to change at any time. ________________________________________ Key Responsibilities ________________________________________ Your future duties and responsibilities: Frontend Development . Strong hands-on experience with Angular for building scalable, enterprise-grade web applications . Excellent proficiency in TypeScript, HTML, and CSS for develo…",
+      "redirectUrl": "https://www.adzuna.ca/details/5761807853?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": []
+      "extractedKeywords": [
+        "TypeScript"
+      ]
     }
   ]
 }
