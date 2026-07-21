@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T12:07:15.805Z",
+  "generatedAt": "2026-07-21T11:40:13.823Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -67,23 +67,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
-      ]
-    },
-    {
-      "id": "5805596074",
-      "title": "Data Analyst",
-      "company": "Ubisoft",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-17T21:28:45Z",
-      "descriptionSnippet": "Job Description The Data Analyst, Audience Analytics, will be the main analytics owner of several major game franchises, responsible for gathering and analyzing customer data across their portfolio and answering all kinds of analytics questions from business and marketing stakeholders. Working closely with production and marketing teams, you will provide clear insights about consumer behaviors, drive strategic recommendations, and support audience-centric projects throughout the entire life cyc…",
-      "redirectUrl": "https://www.adzuna.ca/details/5805596074?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Stakeholder Management"
       ]
     },
     {
@@ -160,6 +143,21 @@
       "createdAt": "2026-07-10T06:05:47Z",
       "descriptionSnippet": "Job Description Job Description Vanier Children’s Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in children’s mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. We’ve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded by t…",
       "redirectUrl": "https://www.adzuna.ca/details/5795496100?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5802726798",
+      "title": "Data Analyst",
+      "company": "Vanier",
+      "location": "London, Middlesex",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-16T06:05:04Z",
+      "descriptionSnippet": "Job Description Job Description Salary: Vanier Childrens Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in childrens mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. Weve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded…",
+      "redirectUrl": "https://www.adzuna.ca/details/5802726798?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

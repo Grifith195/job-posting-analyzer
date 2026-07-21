@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T12:07:15.805Z",
+  "generatedAt": "2026-07-21T11:40:13.823Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -25,6 +25,21 @@
         "API",
         "Stakeholder Management"
       ]
+    },
+    {
+      "id": "5782242861",
+      "title": "Frontend Developer",
+      "company": "Apptoza Inc.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-30T11:07:43Z",
+      "descriptionSnippet": "Job Title Front‑End Developer Location Toronto, ON Job Description Lead the architecture and evolution of our micro frontend platform for Bell.ca, enabling domain‑based feature teams to deliver independently. Define standards for shell app coordination, shared libraries, routing, and runtime integrations. Design and implement mechanisms for shared state management, version control, and safe rollout of micro frontends. Provide technical guidance and mentorship to other senior frontend engineers.…",
+      "redirectUrl": "https://www.adzuna.ca/details/5782242861?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5782238384",
@@ -67,21 +82,6 @@
       ]
     },
     {
-      "id": "5782242861",
-      "title": "Frontend Developer",
-      "company": "Apptoza Inc.",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-30T11:07:43Z",
-      "descriptionSnippet": "Job Title Front‑End Developer Location Toronto, ON Job Description Lead the architecture and evolution of our micro frontend platform for Bell.ca, enabling domain‑based feature teams to deliver independently. Define standards for shell app coordination, shared libraries, routing, and runtime integrations. Design and implement mechanisms for shared state management, version control, and safe rollout of micro frontends. Provide technical guidance and mentorship to other senior frontend engineers.…",
-      "redirectUrl": "https://www.adzuna.ca/details/5782242861?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5796161622",
       "title": "Senior Frontend Developer",
       "company": "Aequilibrium Software Inc.",
@@ -108,21 +108,6 @@
       "createdAt": "2026-07-11T06:16:23Z",
       "descriptionSnippet": "Job Description Job Description We are seeking an experienced Senior Frontend Developer to drive the user interface implementation for a major credit union's migration to a modern digital banking platform. This role is ideal for a hands-on developer who excels at translating high-fidelity UX designs into responsive, secure, and accessible omnichannel experiences across web and mobile platforms. What You'll Do Configure and implement digital branding standards directly into the VeriChannel front…",
       "redirectUrl": "https://www.adzuna.ca/details/5796876470?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5771083269",
-      "title": "Intermediate Frontend Developer",
-      "company": "Citi",
-      "location": "Mississauga, Peel region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-20T18:30:42Z",
-      "descriptionSnippet": "Discover your future at Citi Working at Citi is far more than just a job. A career with us means joining a team of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact. Job Overview The Intermediate Frontend Developer is an intermediate level position responsible for the design, development, and implementation of new or revised user-facing application systems and programs, collabora…",
-      "redirectUrl": "https://www.adzuna.ca/details/5771083269?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -157,21 +142,34 @@
       "extractedKeywords": []
     },
     {
-      "id": "5761807853",
+      "id": "5780532793",
       "title": "Senior Frontend Developer",
-      "company": "CGI",
+      "company": "Arteria AI",
       "location": "Toronto, Ontario",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": 120000,
+      "salaryMax": 170000,
+      "createdAt": "2026-06-28T17:12:08Z",
+      "descriptionSnippet": "About Arteria AI Arteria AI is the agentic backbone of financial services operations. We build AI-powered tools that help tier-one global institutions manage their most complex document workflows faster, smarter, and at scale. We were founded by lawyers and financial services practitioners who have spent 20 years solving documentation problems with the world's largest companies. Our team is mission-driven, high-calibre, and moves fast. Financial services is our domain, and documents are our obs…",
+      "redirectUrl": "https://www.adzuna.ca/details/5780532793?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5739118577",
+      "title": "Senior Frontend Developer",
+      "company": "ScalePad",
+      "location": "Canada Place, Vancouver",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 80000,
-      "salaryMax": 130000,
-      "createdAt": "2026-06-12T17:13:43Z",
-      "descriptionSnippet": "Position Description: This role is hybrid and requires you to be at our downtown Toronto and/or Client office at a minimum 4 days per week - subject to change at any time. ________________________________________ Key Responsibilities ________________________________________ Your future duties and responsibilities: Frontend Development . Strong hands-on experience with Angular for building scalable, enterprise-grade web applications . Excellent proficiency in TypeScript, HTML, and CSS for develo…",
-      "redirectUrl": "https://www.adzuna.ca/details/5761807853?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 115000,
+      "salaryMax": 140000,
+      "createdAt": "2026-05-23T16:47:45Z",
+      "descriptionSnippet": "Who We’re Looking For At ScalePad, we hire thoughtful builders who want their work to matter. Our roles are designed for people who thrive on driving impact, see ambiguity as an opportunity, and believe that raising the bar is a team sport. We don’t bring people in to run playbooks. We hire people who want to rewrite them . And in this role, you’ll get to do that, while shaping the future of managed services for our global partners. (That’s what we call our customers.) What is ScalePad At Scale…",
+      "redirectUrl": "https://www.adzuna.ca/details/5739118577?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript"
-      ]
+      "extractedKeywords": []
     }
   ]
 }
