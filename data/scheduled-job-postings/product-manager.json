@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T11:40:13.823Z",
+  "generatedAt": "2026-07-22T11:40:34.806Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -34,6 +34,21 @@
       "createdAt": "2026-06-24T15:06:24Z",
       "descriptionSnippet": "Description The construction industry is facing a severe labor shortage. The industry is at an inflection point where they must reimagine talent and modernize their people strategy. Bridgit is the category leader for workforce planning and working with the largest and most sophisticated US general contractors. Although we have continued to gain traction since launching in 2019, there is significant opportunity ahead as we continue to innovate and broaden our offering. What You Will Do Do As a P…",
       "redirectUrl": "https://www.adzuna.ca/details/5775117783?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5809534680",
+      "title": "Product Manager",
+      "company": "Borrowell",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-21T12:48:59Z",
+      "descriptionSnippet": "Product Manager Borrowell is a Canadian financial technology (fintech) company headquartered in Toronto, Ontario. Founded in 2014, Borrowell helps Canadians improve their financial well-being through free credit score monitoring, personalized financial recommendations, credit-building solutions, personal loans, and financial education. About the Role Borrowell is looking for a Product Manager to lead the strategy, development, and delivery of innovative digital financial products. You'll work c…",
+      "redirectUrl": "https://www.adzuna.ca/details/5809534680?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -115,21 +130,6 @@
       "extractedKeywords": [
         "Reporting"
       ]
-    },
-    {
-      "id": "5804478121",
-      "title": "Product Manager",
-      "company": "Altius Healthcare Inc.",
-      "location": "Montréal, Québec",
-      "category": "PR, Advertising & Marketing Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-17T02:37:16Z",
-      "descriptionSnippet": "Product Manager Altius Healthcare Inc. Canada Altius Healthcare Inc. is a Canadian pharmaceutical company dedicated to improving access to affordable, high-quality healthcare products. The company specializes in authorized generic prescription medicines, over-the-counter (OTC) products, natural health products, and consumer healthcare solutions. We are seeking a Product Manager to lead the strategy, development, and commercialization of our pharmaceutical product portfolio. In this role, you'll…",
-      "redirectUrl": "https://www.adzuna.ca/details/5804478121?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5727679238",

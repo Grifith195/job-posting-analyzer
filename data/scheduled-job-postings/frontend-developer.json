@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T11:40:13.823Z",
+  "generatedAt": "2026-07-22T11:40:34.806Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -42,6 +42,25 @@
       "extractedKeywords": []
     },
     {
+      "id": "5782233040",
+      "title": "Frontend Developer",
+      "company": "BeaconFire Inc.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-30T11:05:48Z",
+      "descriptionSnippet": "BeaconFire is looking for candidates who are passionate about combining technology and design to create user-friendly websites. Responsibilities Develop websites using HTML, CSS, Node.js, React.js, and Angular2, among other tools; Write scalable, secure, maintainable code that powers our clients’ platforms; Create, deploy, and maintain automated system tests; Work with Testers to understand defects opened and resolves them in a timely manner; Supports continuous improvement by investigating alt…",
+      "redirectUrl": "https://www.adzuna.ca/details/5782233040?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Node.js",
+        "Testing"
+      ]
+    },
+    {
       "id": "5782238384",
       "title": "Frontend Developer",
       "company": "VBeyond Corporation",
@@ -60,25 +79,6 @@
         "Testing",
         "Communication",
         "Stakeholder Management"
-      ]
-    },
-    {
-      "id": "5782233040",
-      "title": "Frontend Developer",
-      "company": "BeaconFire Inc.",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-30T11:05:48Z",
-      "descriptionSnippet": "BeaconFire is looking for candidates who are passionate about combining technology and design to create user-friendly websites. Responsibilities Develop websites using HTML, CSS, Node.js, React.js, and Angular2, among other tools; Write scalable, secure, maintainable code that powers our clients’ platforms; Create, deploy, and maintain automated system tests; Work with Testers to understand defects opened and resolves them in a timely manner; Supports continuous improvement by investigating alt…",
-      "redirectUrl": "https://www.adzuna.ca/details/5782233040?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "Node.js",
-        "Testing"
       ]
     },
     {
