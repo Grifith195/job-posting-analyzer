@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T11:40:34.806Z",
+  "generatedAt": "2026-07-23T11:44:03.063Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -36,55 +36,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5703538140?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5745311400",
-      "title": "Data Analyst",
-      "company": "BRIGHTER STAFFING AGENCY",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": 68640,
-      "salaryMax": 87360,
-      "createdAt": "2026-05-30T01:35:26Z",
-      "descriptionSnippet": "Data Analyst Brighter Staffing Agency About Us Brighter Staffing Agency is a leading recruitment firm dedicated to connecting exceptional talent with organizations across a wide range of industries. Our mission is to deliver outstanding staffing solutions that help businesses grow while supporting professionals in advancing their careers. We pride ourselves on building strong partnerships, maintaining high standards, and creating opportunities for success. Position Summary Brighter Staffing Age…",
-      "redirectUrl": "https://www.adzuna.ca/details/5745311400?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5803909663",
-      "title": "Data Analyst",
-      "company": "FocusKPI Inc.",
-      "location": "Toronto, Ontario",
-      "category": "Accounting & Finance Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-16T18:14:17Z",
-      "descriptionSnippet": "FocusKPI is seeking a Data Analyst to join one of our clients, a multinational e-commerce company. Work Location: Onsite (Toronto, Canada) Duration: 6 months with potential for extension and conversion, depending on budget and performance Pay-rate: C$50/hr Responsibilities: Performance management of sellers through the creation and maintenance of management reporting Build targeted insights to inform the development of new seller offers Lead the implementation of pricing strategies within the c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5803909663?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5773155351",
-      "title": "Data Analyst",
-      "company": "Orion Digital",
-      "location": "Harbour Centre, Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-22T23:59:12Z",
-      "descriptionSnippet": "Data Analyst Location: Remote (Canada) Department: Data & Analytics Reports To: Manager, Data Integration & Architecture Base Salary: $75,000 – $90,000 CAD About the Role Orion is looking for a AI-native product/data analyst who owns Lending insight quality and connects customer behavior to business performance. This is an intermediate-level role with a clear growth path toward senior responsibilities — you’ll start by building deep product expertise and delivering trusted analytics, then progr…",
-      "redirectUrl": "https://www.adzuna.ca/details/5773155351?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
     },
     {
       "id": "5774054553",
@@ -160,6 +111,59 @@
       "redirectUrl": "https://www.adzuna.ca/details/5802726798?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5727240710",
+      "title": "Data Analyst",
+      "company": "Jose Merciline",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-12T16:43:40Z",
+      "descriptionSnippet": "Job title: Data Analyst Description: This position is with the Enterprise System Management (ESM) department. The position is with a team responsible for a set of systems used to manage Morgan Stanley’s IT inventory and assets data, together with their configuration and operational state. This data is critical for regulatory, operational, and efficiency purposes. Our goals are: -Sourcing IT inventory and machine data (e.g. logs, alerts) in a timely manner. -Storing the data in scalable reposito…",
+      "redirectUrl": "https://www.adzuna.ca/details/5727240710?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5782230025",
+      "title": "Data Analyst",
+      "company": "Insight Global",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-30T11:05:17Z",
+      "descriptionSnippet": "Insight Global is looking for an intermediate Data Analyst to join a top bank downtown Toronto for a 12-month contract within their Risk group. The right candidate will be proficient with Python and SQL. The Analyst will be responsible for maintaining current Python scripts, creating business requirements, and supporting with automation. They will be responsible for tasks across daily production/reporting and project work for a new infrastructure project. They need strong communication and prob…",
+      "redirectUrl": "https://www.adzuna.ca/details/5782230025?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Python",
+        "SQL",
+        "Communication",
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5763834466",
+      "title": "Data Analyst",
+      "company": "Mariner",
+      "location": "Halifax region, Nova Scotia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-14T17:19:03Z",
+      "descriptionSnippet": "OVERVIEW OF THE ROLE: We are seeking a highly skilled and detail-oriented Data Analyst to join our team. This role is ideal for someone with a passion for uncovering insights from complex datasets and driving data-informed decision-making. As a Data Analyst, you will be responsible for data manipulation, statistical analysis, and visualization using modern tools and techniques. You will work across functional teams to transform raw data into actionable business insights, support reporting needs…",
+      "redirectUrl": "https://www.adzuna.ca/details/5763834466?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting",
+        "Data Visualization"
+      ]
     }
   ]
 }

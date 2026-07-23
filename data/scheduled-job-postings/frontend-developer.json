@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T11:40:34.806Z",
+  "generatedAt": "2026-07-23T11:44:03.063Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -27,21 +27,6 @@
       ]
     },
     {
-      "id": "5782242861",
-      "title": "Frontend Developer",
-      "company": "Apptoza Inc.",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-30T11:07:43Z",
-      "descriptionSnippet": "Job Title Front‑End Developer Location Toronto, ON Job Description Lead the architecture and evolution of our micro frontend platform for Bell.ca, enabling domain‑based feature teams to deliver independently. Define standards for shell app coordination, shared libraries, routing, and runtime integrations. Design and implement mechanisms for shared state management, version control, and safe rollout of micro frontends. Provide technical guidance and mentorship to other senior frontend engineers.…",
-      "redirectUrl": "https://www.adzuna.ca/details/5782242861?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5782233040",
       "title": "Frontend Developer",
       "company": "BeaconFire Inc.",
@@ -59,6 +44,21 @@
         "Node.js",
         "Testing"
       ]
+    },
+    {
+      "id": "5782242861",
+      "title": "Frontend Developer",
+      "company": "Apptoza Inc.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-30T11:07:43Z",
+      "descriptionSnippet": "Job Title Front‑End Developer Location Toronto, ON Job Description Lead the architecture and evolution of our micro frontend platform for Bell.ca, enabling domain‑based feature teams to deliver independently. Define standards for shell app coordination, shared libraries, routing, and runtime integrations. Design and implement mechanisms for shared state management, version control, and safe rollout of micro frontends. Provide technical guidance and mentorship to other senior frontend engineers.…",
+      "redirectUrl": "https://www.adzuna.ca/details/5782242861?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5782238384",
