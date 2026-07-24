@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T11:44:03.063Z",
+  "generatedAt": "2026-07-24T11:28:36.301Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,23 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5812589041",
+      "title": "Product Manager",
+      "company": "Cleo Consulting",
+      "location": "Regent Park, City of Toronto",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 124800,
+      "salaryMax": 145600,
+      "createdAt": "2026-07-23T13:57:46Z",
+      "descriptionSnippet": "Assignment: RQ11356 - Product Manager - Junior Job Title: Product Manager Requisition (SS): RQ11356 Start Date: 2026-08-10 Client: Government Services Integration Cluster End Date: 2027-03-31 Office Location: Toronto Organization: Government Services Integration Cluster Ministry: Ministry of Public and Business Service Delivery and Procurement Business Days: 177.00 5 days onsite Must Have: 5 years of experience in product management. Agile and traditional project management experience. Excelle…",
+      "redirectUrl": "https://www.adzuna.ca/details/5812589041?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Agile"
+      ]
+    },
     {
       "id": "5508567386",
       "title": "Product Manager",
@@ -106,8 +123,8 @@
       "location": "Canada",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 80000,
-      "salaryMax": 95000,
+      "salaryMin": 90000,
+      "salaryMax": 105000,
       "createdAt": "2026-07-17T18:01:46Z",
       "descriptionSnippet": "Job Description: Title: Product Manager (P3) Location: Remote – USA, Canada Reports to: Director of Product Development Vacancy : Existing vacancy The Role: JD Power is seeking a Product Manager to drive the strategy and execution of industry-leading automotive dealer SaaS and data products and other solutions across automotive digital retailing, lending, insurance and dealer operations. The Impact You Will Have in This Role: This role is ideal for a product leader who combines strong product m…",
       "redirectUrl": "https://www.adzuna.ca/details/5805401616?utm_medium=api&utm_source=3ebb75f8",
@@ -145,23 +162,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5472354881?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5778305523",
-      "title": "Product Manager",
-      "company": "Swim Recruiting",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-26T18:33:45Z",
-      "descriptionSnippet": "6-month contract Product Manager focusing on developer experience for a global retail organization with an on site work environment. 6-month contract Product Manager role Growing team with strong ROI Primarily on-site work available in downtown Vancouver, 4 days a week in office What & Why: Our client is seeking a Senior Product Manager to own the vision, strategy, and roadmap for their Secure Delivery Platforms function which spans GitLab, Terraform Cloud, software supply chain security, DevOp…",
-      "redirectUrl": "https://www.adzuna.ca/details/5778305523?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
     }
   ]
 }

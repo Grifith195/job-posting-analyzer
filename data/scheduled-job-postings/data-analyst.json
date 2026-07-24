@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T11:44:03.063Z",
+  "generatedAt": "2026-07-24T11:28:36.301Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -38,7 +38,22 @@
       "extractedKeywords": []
     },
     {
-      "id": "5774054553",
+      "id": "5812539097",
+      "title": "Data Analyst",
+      "company": "Rittal LLC",
+      "location": "Mississauga, Peel region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-23T13:02:31Z",
+      "descriptionSnippet": "DATA ANALYST ½ RITTAL LIMITED As a certified Great Place to Work®, Rittal Limited believes that every single team member plays an important role in contributing to our success. We are passionate about creating a fun, high-performance environment where everyone can thrive. We are the Canadian subsidiary for the world’s leading system supplier for enclosures, power distribution, climate control, IT infrastructure and software and services and are present in more than 90 percent of all sectors wor…",
+      "redirectUrl": "https://www.adzuna.ca/details/5812539097?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5812958380",
       "title": "Data Analyst",
       "company": "Swim Recruiting",
       "location": "Greater Vancouver, British Columbia",
@@ -46,9 +61,9 @@
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-06-23T18:34:14Z",
+      "createdAt": "2026-07-23T19:14:57Z",
       "descriptionSnippet": "6-month contract Data Analyst role at a global enterprise organization with hybrid work in Vancouver. Contract data analyst role. Global enterprise organization experiencing large scale growth. Primarily in office work with 4 days a week in office. What & Why: As a result of investment our client is looking to add a contract data analyst to their team to support their growing data and analytics team. We are looking for a Data Analyst to support the design, development, and delivery of scalable …",
-      "redirectUrl": "https://www.adzuna.ca/details/5774054553?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/details/5812958380?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -79,36 +94,6 @@
       "createdAt": "2026-07-11T17:48:04Z",
       "descriptionSnippet": "Vanier Children’s Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in children’s mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. We’ve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded by the Ministry of Health and the Mi…",
       "redirectUrl": "https://www.adzuna.ca/details/5797336315?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5795496100",
-      "title": "Data Analyst",
-      "company": "Vanier",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-10T06:05:47Z",
-      "descriptionSnippet": "Job Description Job Description Vanier Children’s Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in children’s mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. We’ve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded by t…",
-      "redirectUrl": "https://www.adzuna.ca/details/5795496100?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5802726798",
-      "title": "Data Analyst",
-      "company": "Vanier",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-16T06:05:04Z",
-      "descriptionSnippet": "Job Description Job Description Salary: Vanier Childrens Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in childrens mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. Weve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded…",
-      "redirectUrl": "https://www.adzuna.ca/details/5802726798?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -151,7 +136,7 @@
       "id": "5763834466",
       "title": "Data Analyst",
       "company": "Mariner",
-      "location": "Halifax region, Nova Scotia",
+      "location": "Saint John region, New Brunswick",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
@@ -164,6 +149,21 @@
         "Reporting",
         "Data Visualization"
       ]
+    },
+    {
+      "id": "5727144132",
+      "title": "Data Analyst",
+      "company": "Jose Merciline",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-12T16:34:49Z",
+      "descriptionSnippet": "Data Analyst This position is with the Enterprise System Management (ESM) department. The position is with a team responsible to manage our company IT inventory and assets data. This data is critical for regulatory, operational, and efficiency purposes .As part of a team focused on rationalizing different legacy hardware asset and configuration management solutions into a single strategic platform, we are looking for a data analyst. The candidate will work closely with a broad range of stakehol…",
+      "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
