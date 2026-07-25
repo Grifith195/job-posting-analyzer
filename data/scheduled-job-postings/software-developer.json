@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T11:28:36.301Z",
+  "generatedAt": "2026-07-25T10:59:27.302Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,25 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5814232542",
+      "title": "Software Developer",
+      "company": "vTech Solution",
+      "location": "Ontario, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 176800,
+      "salaryMax": 199680,
+      "createdAt": "2026-07-24T13:58:07Z",
+      "descriptionSnippet": "Job Summary: The Software Developer is responsible for designing, coding, testing, and maintaining software applications to meet business needs. This role involves collaborating with cross-functional teams to deliver high-quality software solutions and continuously improving development processes. Responsibilities: Develop, test, and deploy software applications. Collaborate with product managers, designers, and other developers to define project requirements. Write clean, maintainable, and eff…",
+      "redirectUrl": "https://www.adzuna.ca/details/5814232542?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing",
+        "Communication",
+        "Stakeholder Management"
+      ]
+    },
     {
       "id": "5801210826",
       "title": "Software Developer",
@@ -150,24 +169,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5696832828?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5761675911",
-      "title": "Software Developer",
-      "company": "Helm Operations Software",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-12T16:44:43Z",
-      "descriptionSnippet": "Job Summary: As a Full Stack Software Developer at Helm, you design and implement innovative features for our products for the marine industry. You develop, test, and maintain .NET applications, enhance our Vue.js front-end for intuitive UI/UX, and optimize PostgreSQL and SQL Server databases. Collaborating closely with PMs, QA, and fellow developers, you ensure high-quality solutions that meet business needs. You perform code reviews, troubleshoot issues, and support your fellow developers, al…",
-      "redirectUrl": "https://www.adzuna.ca/details/5761675911?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL",
-        "Testing"
-      ]
     }
   ]
 }

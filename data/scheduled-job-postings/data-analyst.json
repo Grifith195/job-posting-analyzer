@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T11:28:36.301Z",
+  "generatedAt": "2026-07-25T10:59:27.302Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -38,21 +38,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5812539097",
-      "title": "Data Analyst",
-      "company": "Rittal LLC",
-      "location": "Mississauga, Peel region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-23T13:02:31Z",
-      "descriptionSnippet": "DATA ANALYST ½ RITTAL LIMITED As a certified Great Place to Work®, Rittal Limited believes that every single team member plays an important role in contributing to our success. We are passionate about creating a fun, high-performance environment where everyone can thrive. We are the Canadian subsidiary for the world’s leading system supplier for enclosures, power distribution, climate control, IT infrastructure and software and services and are present in more than 90 percent of all sectors wor…",
-      "redirectUrl": "https://www.adzuna.ca/details/5812539097?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5812958380",
       "title": "Data Analyst",
       "company": "Swim Recruiting",
@@ -79,21 +64,6 @@
       "createdAt": "2026-06-30T11:07:39Z",
       "descriptionSnippet": "Overview We are looking for a Data Analyst in Ottawa. Our client is based in Ottawa, Canada and is seeking a Data Analyst to join their team on a full-time basis. Responsibilities Perform data analysis to support business decisions (responsibilities to be detailed by the employer). Qualifications At least 3 years of experience in a similar role. A valid Canada driver’s license. Fluency in English is preferred but not required. Deal Details / Benefits Full-time position with a competitive wage a…",
       "redirectUrl": "https://www.adzuna.ca/details/5782242486?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5797336315",
-      "title": "Data Analyst",
-      "company": "Vanier",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-11T17:48:04Z",
-      "descriptionSnippet": "Vanier Children’s Mental Wellness is proud to be recognized across Southwestern Ontario as a trusted leader in children’s mental health. We are the Lead Agency for Child and Youth Mental Health System planning in our region. We’ve been here for families, for more than 60 years, offering innovative care and support for children and youth who are facing emotional and behavioural challenges. As a registered charity and not-for-profit organization, we are funded by the Ministry of Health and the Mi…",
-      "redirectUrl": "https://www.adzuna.ca/details/5797336315?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -136,7 +106,7 @@
       "id": "5763834466",
       "title": "Data Analyst",
       "company": "Mariner",
-      "location": "Saint John region, New Brunswick",
+      "location": "Halifax region, Nova Scotia",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
@@ -164,6 +134,39 @@
       "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5806515021",
+      "title": "Data Analyst",
+      "company": "University of British Columbia",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 5964,
+      "salaryMax": 8573,
+      "createdAt": "2026-07-18T17:51:44Z",
+      "descriptionSnippet": "Staff - Non Union Job Category M&P - AAPS Job Profile AAPS Salaried - Institutional Analysis, Level A Job Title Data Analyst Department Learning, IT and Analytics | IT Services | UBC Sauder School of Business | Compensation Range $5,964.75 - $8,573.08 CAD Monthly The Compensation Range is the span between the minimum and maximum base salary for a position. The midpoint of the range is approximately halfway between the minimum and the maximum and represents an employee that possesses full job kn…",
+      "redirectUrl": "https://www.adzuna.ca/details/5806515021?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5783781351",
+      "title": "Data Analyst",
+      "company": "Delpath",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-01T10:04:19Z",
+      "descriptionSnippet": "Contract Duration: 1 year with extension Business group: Global Banking and Markets (GBM) Project: Capital Analytics Project Reason: To support Client Insight & Analytics' day-to-day activities, to support Capital Analytics project. Key Accountabilities Assist in the processing and validation of large volumes of financial data from various sources. Collaborate with cross-functional teams to troubleshoot data discrepancies and resolve inquiries promptly. Perform reconciliations between internal …",
+      "redirectUrl": "https://www.adzuna.ca/details/5783781351?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication",
+        "Stakeholder Management"
+      ]
     }
   ]
 }
