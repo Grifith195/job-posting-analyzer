@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T10:59:27.302Z",
+  "generatedAt": "2026-07-26T11:11:43.459Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -91,6 +91,36 @@
       ]
     },
     {
+      "id": "5813761852",
+      "title": "Software Developer",
+      "company": "PTW Energy Services Ltd.",
+      "location": "Calgary, Calgary region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-24T06:39:36Z",
+      "descriptionSnippet": "Job Description Job Description Software Developer Calgary (Rocky View County), AB Build Software That Powers a National Business At PTW Energy Services, you'll build software that supports thousands of employees and helps drive operations across Canada. From enterprise applications and ERP enhancements to automation and system integrations, your work will have a direct impact on how our business operates every day. We're looking for a Software Developer who enjoys solving complex problems, bui…",
+      "redirectUrl": "https://www.adzuna.ca/details/5813761852?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5815846270",
+      "title": "Software Developer",
+      "company": "Promise Robotics",
+      "location": "Calgary, Calgary region",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-25T18:01:12Z",
+      "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
+      "redirectUrl": "https://www.adzuna.ca/details/5815846270?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5779474412",
       "title": "Software Developer",
       "company": "Tempo",
@@ -123,21 +153,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5761806703",
-      "title": "Software Developer",
-      "company": "CPSA",
-      "location": "Downtown, Edmonton",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-12T17:12:35Z",
-      "descriptionSnippet": "The Software Developer provides innovative and creative solutions in the technical development of new, reliable applications and software services at CPSA. The Software Developer analyzes business requirements, complex business problems, and processes, and creates effective software solutions. The Software Developer maintains critical CPSA applications while also supporting the modernization of legacy systems and processes, using AI-assisted development to support solution design, implementatio…",
-      "redirectUrl": "https://www.adzuna.ca/details/5761806703?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5767156748",
       "title": "Software Developer",
       "company": "Equitable Bank",
@@ -154,21 +169,6 @@
         "API",
         "Reporting"
       ]
-    },
-    {
-      "id": "5696832828",
-      "title": "Software Developer",
-      "company": "D2L",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-11T16:16:04Z",
-      "descriptionSnippet": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and deliver improved retention, engagement, satisfaction, and results for learners of all ages – in schools, campuses, and companies. D2L is disrupting the way the world learn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5696832828?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
