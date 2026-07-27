@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T11:11:43.459Z",
+  "generatedAt": "2026-07-27T12:47:32.467Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -91,21 +91,6 @@
       ]
     },
     {
-      "id": "5813761852",
-      "title": "Software Developer",
-      "company": "PTW Energy Services Ltd.",
-      "location": "Calgary, Calgary region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-24T06:39:36Z",
-      "descriptionSnippet": "Job Description Job Description Software Developer Calgary (Rocky View County), AB Build Software That Powers a National Business At PTW Energy Services, you'll build software that supports thousands of employees and helps drive operations across Canada. From enterprise applications and ERP enhancements to automation and system integrations, your work will have a direct impact on how our business operates every day. We're looking for a Software Developer who enjoys solving complex problems, bui…",
-      "redirectUrl": "https://www.adzuna.ca/details/5813761852?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5815846270",
       "title": "Software Developer",
       "company": "Promise Robotics",
@@ -117,6 +102,21 @@
       "createdAt": "2026-07-25T18:01:12Z",
       "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
       "redirectUrl": "https://www.adzuna.ca/details/5815846270?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5813761852",
+      "title": "Software Developer",
+      "company": "PTW Energy Services Ltd.",
+      "location": "Calgary, Calgary region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-24T06:39:36Z",
+      "descriptionSnippet": "Job Description Job Description Software Developer Calgary (Rocky View County), AB Build Software That Powers a National Business At PTW Energy Services, you'll build software that supports thousands of employees and helps drive operations across Canada. From enterprise applications and ERP enhancements to automation and system integrations, your work will have a direct impact on how our business operates every day. We're looking for a Software Developer who enjoys solving complex problems, bui…",
+      "redirectUrl": "https://www.adzuna.ca/details/5813761852?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -153,22 +153,19 @@
       "extractedKeywords": []
     },
     {
-      "id": "5767156748",
+      "id": "5816825164",
       "title": "Software Developer",
-      "company": "Equitable Bank",
-      "location": "Toronto, Ontario",
+      "company": "Seequent",
+      "location": "Canada",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-06-17T17:46:02Z",
-      "descriptionSnippet": "Job Title: Software Developer Department: Digital Banking & Channel Technology Reports To: Director, Development Purpose of Job The Software Developer will be a part of Equitable Bank’s strategic, digital initiatives. Primary responsibilities include designing, developing and supporting RESTful/SOAP APIs and ETLs solutions for web and mobile online channels. Main Activities: Assess and clarify user experience and requirements (10%) Support experience design, functional requirements and digital …",
-      "redirectUrl": "https://www.adzuna.ca/details/5767156748?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-07-26T17:49:30Z",
+      "descriptionSnippet": "Software Developer​ About Us At Seequent, we help organisations to understand the underground, giving the confidence to make better decisions faster. We build world-leading technology that is at the forefront of Earth sciences, transforming the way our customers work. Every day we help them develop critical mineral resources more sustainably, design and build better infrastructure, source renewable energy, and reduce their impact on the environment. We operate in 145 countries while proudly mai…",
+      "redirectUrl": "https://www.adzuna.ca/details/5816825164?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "API",
-        "Reporting"
-      ]
+      "extractedKeywords": []
     }
   ]
 }

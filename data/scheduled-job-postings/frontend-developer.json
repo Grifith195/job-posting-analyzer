@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T11:11:43.459Z",
+  "generatedAt": "2026-07-27T12:47:32.467Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -25,6 +25,21 @@
         "API",
         "Stakeholder Management"
       ]
+    },
+    {
+      "id": "5782242861",
+      "title": "Frontend Developer",
+      "company": "Apptoza Inc.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-06-30T11:07:43Z",
+      "descriptionSnippet": "Job Title Front‑End Developer Location Toronto, ON Job Description Lead the architecture and evolution of our micro frontend platform for Bell.ca, enabling domain‑based feature teams to deliver independently. Define standards for shell app coordination, shared libraries, routing, and runtime integrations. Design and implement mechanisms for shared state management, version control, and safe rollout of micro frontends. Provide technical guidance and mentorship to other senior frontend engineers.…",
+      "redirectUrl": "https://www.adzuna.ca/details/5782242861?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5782238384",
@@ -65,21 +80,6 @@
         "Node.js",
         "Testing"
       ]
-    },
-    {
-      "id": "5782242861",
-      "title": "Frontend Developer",
-      "company": "Apptoza Inc.",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-30T11:07:43Z",
-      "descriptionSnippet": "Job Title Front‑End Developer Location Toronto, ON Job Description Lead the architecture and evolution of our micro frontend platform for Bell.ca, enabling domain‑based feature teams to deliver independently. Define standards for shell app coordination, shared libraries, routing, and runtime integrations. Design and implement mechanisms for shared state management, version control, and safe rollout of micro frontends. Provide technical guidance and mentorship to other senior frontend engineers.…",
-      "redirectUrl": "https://www.adzuna.ca/details/5782242861?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5796161622",
@@ -142,20 +142,20 @@
       "extractedKeywords": []
     },
     {
-      "id": "5782244460",
+      "id": "5761807853",
       "title": "Senior Frontend Developer",
-      "company": "Lorven Technologies Inc.",
+      "company": "CGI",
       "location": "Toronto, Ontario",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-30T11:08:02Z",
-      "descriptionSnippet": "Overview Our client seeks a Senior Front End Developer for a Full Time project in Toronto, ON. Below is the detailed requirement Title Title: Senior Front End Developer Location Location: Toronto, ON Duration Duration: Full Time Job Description Bachelor\\'s degree preferably in Computer Science, Information technology, Computer Engineering, or related IT discipline or equivalent experience with 12 Minimum Experience 5 years of experience in web application development using Agile methodologies E…",
-      "redirectUrl": "https://www.adzuna.ca/details/5782244460?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 80000,
+      "salaryMax": 130000,
+      "createdAt": "2026-06-12T17:13:43Z",
+      "descriptionSnippet": "Position Description: This role is hybrid and requires you to be at our downtown Toronto and/or Client office at a minimum 4 days per week - subject to change at any time. ________________________________________ Key Responsibilities ________________________________________ Your future duties and responsibilities: Frontend Development . Strong hands-on experience with Angular for building scalable, enterprise-grade web applications . Excellent proficiency in TypeScript, HTML, and CSS for develo…",
+      "redirectUrl": "https://www.adzuna.ca/details/5761807853?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "Agile"
+        "TypeScript"
       ]
     },
     {
