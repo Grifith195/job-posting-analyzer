@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T11:48:52.854Z",
+  "generatedAt": "2026-07-29T11:52:08.786Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5819147278",
+      "title": "Product Manager",
+      "company": "Altrom Auto Group",
+      "location": "Scarborough, Toronto",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-28T21:39:47Z",
+      "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
+      "redirectUrl": "https://www.adzuna.ca/details/5819147278?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5508567386",
       "title": "Product Manager",
@@ -145,23 +160,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5472354881?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5329712273",
-      "title": "Product Manager",
-      "company": "Targeted Talent",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-07-31T07:41:05Z",
-      "descriptionSnippet": "We are looking for an experienced Product Manager for our client. This is a permanent position that is remote! Our client is a global enterprise company with a product that you've likely used. Reporting to the Head of Product, this role will focus on driving integration within their network stack and focus on building sustainable architecture. The role will focus on large-scale network integration, not just at a national level but on a global scale. You Have: 3 years’ experience as a Product Ma…",
-      "redirectUrl": "https://www.adzuna.ca/details/5329712273?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
     }
   ]
 }
