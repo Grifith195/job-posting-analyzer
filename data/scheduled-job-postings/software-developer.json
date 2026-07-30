@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T11:52:08.786Z",
+  "generatedAt": "2026-07-30T11:43:58.685Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,43 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5818095230",
-      "title": "Software Development Engineer, Persistent Connection Service (PCS)",
-      "company": "Amazon Development Centre Canada ULC",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-28T04:20:13Z",
-      "descriptionSnippet": "Ring is seeking a Software Development Engineer to join the Persistent Connection Service team, where you'll build and maintain the foundational socket services that power device connectivity for millions of Ring devices worldwide. You'll collaborate across Ring's software, firmware, and product organizations while working with AWS technologies to solve complex distributed systems challenges. Persistent Connection Service is a mission critical service which maintains persistent connections betw…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5818095230?se=8urH7UOL8RGW1Ji16AgArw&utm_medium=api&utm_source=3ebb75f8&v=938FA80527FC2ADE6BAA790755BAF32C1E5F9FF4",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "AWS",
-        "Communication"
-      ]
-    },
-    {
-      "id": "5814232542",
-      "title": "Software Developer",
-      "company": "vTech Solution",
-      "location": "Ontario, Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 176800,
-      "salaryMax": 199680,
-      "createdAt": "2026-07-24T13:58:07Z",
-      "descriptionSnippet": "Job Summary: The Software Developer is responsible for designing, coding, testing, and maintaining software applications to meet business needs. This role involves collaborating with cross-functional teams to deliver high-quality software solutions and continuously improving development processes. Responsibilities: Develop, test, and deploy software applications. Collaborate with product managers, designers, and other developers to define project requirements. Write clean, maintainable, and eff…",
-      "redirectUrl": "https://www.adzuna.ca/details/5814232542?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing",
-        "Communication",
-        "Stakeholder Management"
-      ]
-    },
     {
       "id": "5801210826",
       "title": "Software Developer",
@@ -124,6 +87,25 @@
       "extractedKeywords": []
     },
     {
+      "id": "5819847858",
+      "title": "Software Developer",
+      "company": "Eddyfi Technologies",
+      "location": "Québec City, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-29T10:54:18Z",
+      "descriptionSnippet": "This role is part of our ET/UT product line. https://www.eddyfi.com/ As a Software Developer, you contribute to the design, development, validation, and maintenance of non-destructive testing applications. You work as part of an Agile/Scrum team in collaboration with multidisciplinary experts to develop C# software and improve existing solutions. The role includes work related to user interfaces, 2D/3D modeling, mechanical control systems, as well as digital analysis and signal processing. Be p…",
+      "redirectUrl": "https://www.adzuna.ca/details/5819847858?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing",
+        "Agile",
+        "Communication"
+      ]
+    },
+    {
       "id": "5779474412",
       "title": "Software Developer",
       "company": "Tempo",
@@ -172,6 +154,21 @@
         "API",
         "Reporting"
       ]
+    },
+    {
+      "id": "5696832828",
+      "title": "Software Developer",
+      "company": "D2L",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-04-11T16:16:04Z",
+      "descriptionSnippet": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and deliver improved retention, engagement, satisfaction, and results for learners of all ages – in schools, campuses, and companies. D2L is disrupting the way the world learn…",
+      "redirectUrl": "https://www.adzuna.ca/details/5696832828?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }

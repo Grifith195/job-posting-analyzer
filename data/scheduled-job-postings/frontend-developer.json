@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T11:52:08.786Z",
+  "generatedAt": "2026-07-30T11:43:58.685Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -124,21 +124,6 @@
       ]
     },
     {
-      "id": "5804733066",
-      "title": "Frontend Developer - AI Products",
-      "company": "iCOUNTER",
-      "location": "Burnaby, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-17T06:05:13Z",
-      "descriptionSnippet": "Job Description Job Description About iCOUNTER iCOUNTER is building the future of cybersecurity. Modern enterprises rely on thousands of third parties, suppliers, SaaS providers, contractors, and digital partners. At the same time, attackers have shifted their focus to these trusted relationships. Today, nearly half of reported breaches involve a third party, making the extended enterprise one of the largest attack surfaces in cybersecurity. iCOUNTER is the first Risk Intelligence company built…",
-      "redirectUrl": "https://www.adzuna.ca/details/5804733066?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5792323033",
       "title": "Frontend Developer - AI Products",
       "company": "iCOUNTER",
@@ -150,6 +135,21 @@
       "createdAt": "2026-07-08T06:03:32Z",
       "descriptionSnippet": "Job Description Job Description Salary: $95,000 - $130,000 CAD (commensurate with experience) About iCOUNTER iCOUNTER is building the future of cybersecurity. Modern enterprises rely on thousands of third parties, suppliers, SaaS providers, contractors, and digital partners. At the same time, attackers have shifted their focus to these trusted relationships. Today, nearly half of reported breaches involve a third party, making the extended enterprise one of the largest attack surfaces in cybers…",
       "redirectUrl": "https://www.adzuna.ca/details/5792323033?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5804733066",
+      "title": "Frontend Developer - AI Products",
+      "company": "iCOUNTER",
+      "location": "Burnaby, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-17T06:05:13Z",
+      "descriptionSnippet": "Job Description Job Description About iCOUNTER iCOUNTER is building the future of cybersecurity. Modern enterprises rely on thousands of third parties, suppliers, SaaS providers, contractors, and digital partners. At the same time, attackers have shifted their focus to these trusted relationships. Today, nearly half of reported breaches involve a third party, making the extended enterprise one of the largest attack surfaces in cybersecurity. iCOUNTER is the first Risk Intelligence company built…",
+      "redirectUrl": "https://www.adzuna.ca/details/5804733066?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
