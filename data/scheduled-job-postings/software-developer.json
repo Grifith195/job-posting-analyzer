@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T11:43:58.685Z",
+  "generatedAt": "2026-07-31T11:50:28.524Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -55,6 +55,21 @@
       "extractedKeywords": [
         "TypeScript"
       ]
+    },
+    {
+      "id": "5821199720",
+      "title": "Software Developer",
+      "company": "Dayforce",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-30T11:00:28Z",
+      "descriptionSnippet": "About the Opportunity The Dayforce Product Development team is seeking a talented Software Developer to help build the next generation of Human Capital Management (HCM) solutions. This is an opportunity to create innovative software that helps organizations transform the way they manage and pay their workforce. As a Software Developer on our Global Payroll team, your work will directly support one of the most critical moments in an employee's experience—getting paid accurately and on time. The …",
+      "redirectUrl": "https://www.adzuna.ca/details/5821199720?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5813761852",
@@ -154,21 +169,6 @@
         "API",
         "Reporting"
       ]
-    },
-    {
-      "id": "5696832828",
-      "title": "Software Developer",
-      "company": "D2L",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-04-11T16:16:04Z",
-      "descriptionSnippet": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience – and deliver improved retention, engagement, satisfaction, and results for learners of all ages – in schools, campuses, and companies. D2L is disrupting the way the world learn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5696832828?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }

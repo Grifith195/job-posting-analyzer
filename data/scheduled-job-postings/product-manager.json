@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T11:43:58.685Z",
+  "generatedAt": "2026-07-31T11:50:28.524Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -115,23 +115,6 @@
       ]
     },
     {
-      "id": "5807446424",
-      "title": "Product Manager",
-      "company": "IPG",
-      "location": "Nova Scotia, Canada",
-      "category": "Sales Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-19T17:39:00Z",
-      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
-      "redirectUrl": "https://www.adzuna.ca/details/5807446424?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
       "id": "5805401616",
       "title": "Product Manager",
       "company": "Autodata Solutions Company",
@@ -147,6 +130,21 @@
       "extractedKeywords": [
         "Reporting"
       ]
+    },
+    {
+      "id": "5821201880",
+      "title": "Product Manager",
+      "company": "IPG",
+      "location": "Prince, Prince Edward Island",
+      "category": "Sales Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-30T11:05:22Z",
+      "descriptionSnippet": "Please note that this role is based in Truro, Nova Scotia. A relocation package can be offered to the selected candidate willing to relocate there. Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong…",
+      "redirectUrl": "https://www.adzuna.ca/details/5821201880?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5727679238",
