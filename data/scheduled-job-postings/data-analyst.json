@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T11:50:28.524Z",
+  "generatedAt": "2026-08-01T11:09:12.630Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,109 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5823532972",
+      "title": "Data Analyst",
+      "company": "Hays",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T04:07:21Z",
+      "descriptionSnippet": "Role: Data Analyst Location: Remote Type: Contract Rate: CAD55/hr - CAD65/hr Key Responsibilities: Collaborate with business stakeholders to perform requirements analysis and refine functional and technical specifications Prepare Source-to-Target Mapping (STTM) documents with accurate data definitions, transformation logic, and mapping rules Analyze, interpret, and validate data to support business needs and data engineering processes Work closely with data engineers, architects, and business t…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5823532972?se=vqClbZmN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3ebb75f8&v=FFAB6FF69A835F00AD2DF59D0A8DC9CFBA570ECC",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "id": "5823533372",
+      "title": "Data Analyst",
+      "company": "Kelly Services , Ltd.",
+      "location": "Verdun, Montréal",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T04:07:28Z",
+      "descriptionSnippet": "Analyste de données (Life Cycle Value) Kelly est à la recherche d’un(e) analyste de données Life Cycle Valu e pour soutenir un fabricant de moteurs d’avion de premier plan. Dans ce rôle, vous ferez le lien entre les besoins d’affaires et les solutions numériques afin de soutenir les initiatives actuelles et futures grâce à l’analyse de données, l’automatisation et la visualisation .Vous travaillerez en étroite collaboration avec des équipes multidisciplinaires, des experts métiers et des spécia…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5823533372?se=vqClbZmN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3ebb75f8&v=6BB44AB7B6ABFFEA950561A9ACA0AAF461C26146",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication",
+        "Data Visualization"
+      ]
+    },
+    {
+      "id": "5823533057",
+      "title": "Senior Data Analyst",
+      "company": "Greenstone Financial Services Canada",
+      "location": "Canada",
+      "category": "Sales Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T04:07:22Z",
+      "descriptionSnippet": "Role Overview We are seeking a highly analytical and business-focused Senior Data Analyst to support data-driven decision-making across our Life Insurance operations. Reporting to the Head of Lead Management, this role will be responsible for delivering insights that optimize sales performance, improve customer retention, and support new market expansion initiatives through the transfer of operational knowledge and best practices. The successful candidate will leverage analytics, automation sol…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5823533057?se=vqClbZmN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3ebb75f8&v=D4527CBB65BFEB12863E11C4AB4815A103D9113E",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5823532751",
+      "title": "Junior Settlements Data Analyst",
+      "company": "Nexus Energy Inc.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T04:07:15Z",
+      "descriptionSnippet": "Position: Junior Settlements Data Analyst Department: Finance & Settlements Job Type & Duration: Full-Time, Permanent Salary Range: $60,000.00–$70,000.00 Location: Toronto, ON (On-Site) Note: This is an existing position within the organization, as disclosed in accordance with the Ontario Employment Standards Act (ESA). Company Overview Nexus Energy Inc. is a privately held energy company headquartered in Toronto, Ontario, active in trading electricity across Eastern Canada, the Northeastern U.…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5823532751?se=vqClbZmN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3ebb75f8&v=F35A7AF9B1E37C629FE5BEF468239FB97BDE3717",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5823533080",
+      "title": "Data Analyst, Credit Risk Management Department",
+      "company": "Industrial and Commercial Bank of China",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T04:07:23Z",
+      "descriptionSnippet": "Department / Branch: Credit Risk Management Department Reports To: Head and Senior Manager of Credit Risk Management Department Employment Type: Full-Time Contract/ Permanent Location: Richmond Hill Office Responsibilities 1. Model Development and Optimization Design, develop, and optimize credit rating models to solve business problems. Experiment with algorithms, architectures, and frameworks to improve model performance. Conduct regular validation and tuning of models for accuracy and effici…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5823533080?se=vqClbZmN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3ebb75f8&v=C1BB586B60006C0BD1F240A0A9841A40DFC614B7",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting",
+        "Experimentation"
+      ]
+    },
+    {
+      "id": "5823532634",
+      "title": "Data Governance Analyst",
+      "company": "Hays",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T04:07:11Z",
+      "descriptionSnippet": "Role: Data Governance Analyst Location: Calgary, AB Type: Contract Rate: CAD70/hr - CAD80/hr We are seeking a Data Governance Analyst to support a large-scale SAP implementation project. This role will be responsible for capturing requirements and establishing data governance standards to ensure high-quality, consistent, and compliant data. The analyst will work closely with business stakeholders, data stewards, and technical teams to define data ownership, improve data quality, and support pro…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5823532634?se=vqClbZmN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=3ebb75f8&v=273F7470F224E173F2470BF80CDB54573744E770",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management"
+      ]
+    },
     {
       "id": "5703538141",
       "title": "Data Analyst",
@@ -64,101 +167,6 @@
       "createdAt": "2026-05-12T16:43:40Z",
       "descriptionSnippet": "Job title: Data Analyst Description: This position is with the Enterprise System Management (ESM) department. The position is with a team responsible for a set of systems used to manage Morgan Stanley’s IT inventory and assets data, together with their configuration and operational state. This data is critical for regulatory, operational, and efficiency purposes. Our goals are: -Sourcing IT inventory and machine data (e.g. logs, alerts) in a timely manner. -Storing the data in scalable reposito…",
       "redirectUrl": "https://www.adzuna.ca/details/5727240710?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5797623818",
-      "title": "Data Analyst",
-      "company": "UPS",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-12T00:55:28Z",
-      "descriptionSnippet": "We are seeking a detail-oriented and highly analytical Data Analyst to join our dynamic team. The ideal candidate will be responsible for interpreting data, analyzing results using statistical techniques, and providing ongoing reports to help drive strategic business decisions. This role requires a strong ability to collect, organize, and analyze data from multiple sources, transforming it into actionable insights that enhance operational efficiency and contribute to business growth. The Data A…",
-      "redirectUrl": "https://www.adzuna.ca/details/5797623818?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5763834466",
-      "title": "Data Analyst",
-      "company": "Mariner",
-      "location": "Halifax region, Nova Scotia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-14T17:19:03Z",
-      "descriptionSnippet": "OVERVIEW OF THE ROLE: We are seeking a highly skilled and detail-oriented Data Analyst to join our team. This role is ideal for someone with a passion for uncovering insights from complex datasets and driving data-informed decision-making. As a Data Analyst, you will be responsible for data manipulation, statistical analysis, and visualization using modern tools and techniques. You will work across functional teams to transform raw data into actionable business insights, support reporting needs…",
-      "redirectUrl": "https://www.adzuna.ca/details/5763834466?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting",
-        "Data Visualization"
-      ]
-    },
-    {
-      "id": "5727144132",
-      "title": "Data Analyst",
-      "company": "Jose Merciline",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-12T16:34:49Z",
-      "descriptionSnippet": "Data Analyst This position is with the Enterprise System Management (ESM) department. The position is with a team responsible to manage our company IT inventory and assets data. This data is critical for regulatory, operational, and efficiency purposes .As part of a team focused on rationalizing different legacy hardware asset and configuration management solutions into a single strategic platform, we are looking for a data analyst. The candidate will work closely with a broad range of stakehol…",
-      "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5806515021",
-      "title": "Data Analyst",
-      "company": "University of British Columbia",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 5964,
-      "salaryMax": 8573,
-      "createdAt": "2026-07-18T17:51:44Z",
-      "descriptionSnippet": "Staff - Non Union Job Category M&P - AAPS Job Profile AAPS Salaried - Institutional Analysis, Level A Job Title Data Analyst Department Learning, IT and Analytics | IT Services | UBC Sauder School of Business | Compensation Range $5,964.75 - $8,573.08 CAD Monthly The Compensation Range is the span between the minimum and maximum base salary for a position. The midpoint of the range is approximately halfway between the minimum and the maximum and represents an employee that possesses full job kn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5806515021?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5812957552",
-      "title": "Data Analyst",
-      "company": "Mueller Water Products",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-23T19:14:38Z",
-      "descriptionSnippet": "Who We Are Thank you for your interest in Mueller Water Products, Inc. For more than 165 years, Mueller Water Products, Inc. has been building the future of water infrastructure. From lifesaving fire protection to data intelligence, we are committed to developing products and solutions that help cities and utilities deliver clean, safe drinking water to hundreds of millions of people across North America. Our purpose is to connect communities to water, life’s most essential resource, with excep…",
-      "redirectUrl": "https://www.adzuna.ca/details/5812957552?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5814581303",
-      "title": "Data Analyst",
-      "company": "Mueller Water Products",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-24T19:12:56Z",
-      "descriptionSnippet": "Who We Are Thank you for your interest in Mueller Water Products, Inc. For more than 165 years, Mueller Water Products, Inc. has been building the future of water infrastructure. From lifesaving fire protection to data intelligence, we are committed to developing products and solutions that help cities and utilities deliver clean, safe drinking water to hundreds of millions of people across North America. Our purpose is to connect communities to water, life’s most essential resource, with excep…",
-      "redirectUrl": "https://www.adzuna.ca/details/5814581303?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
