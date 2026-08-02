@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T11:09:12.630Z",
+  "generatedAt": "2026-08-02T11:09:34.133Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,38 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5823532975",
-      "title": "Product Manager",
-      "company": "Altis",
-      "location": "Toronto, Ontario",
-      "category": "Accounting & Finance Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-01T04:07:21Z",
-      "descriptionSnippet": "Location: Toronto, Ontario (Fully on-site) Language: Excellent written and verbal communication skills in English Background Check Requirement: Successful completion of all required background and reference checks About the Opportunity Our client, a respected investment management firm, is seeking a Product Manager to join its Investment Analytics team. This is an exciting opportunity for a finance professional who combines strong analytical capabilities with exceptional communication skills an…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5823532975?se=MFTabZmN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3ebb75f8&v=0B71F628CC5F0F7A929F191C9EA2E3E85D68DDA7",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5796869931",
-      "title": "Staff Product Manager, Strategic Partnerships",
-      "company": "CookUnity",
-      "location": "Ottawa, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-11T06:11:33Z",
-      "descriptionSnippet": "Job Description Job Description About CookUnity: Food has lost its soul to modern convenience. And with it, it has lost the power to nourish, inspire, and connect us. So in 2018, CookUnity was founded as the first-of-its-kind platform that connects the world with the source of truly great food: chefs. Today, CookUnity delivers 50 million meals a year from the industry's best chefs to homes all over the country. Fresh. Ready-to-eat. And crafted with the passion that nourishes body and soul. Unwi…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5796869931?se=MFTabZmN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=3ebb75f8&v=8FFC503DFD091EBF6BEB828B2A8546392F8B0EC4",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5822594046",
       "title": "Product Manager",
@@ -147,21 +115,51 @@
       "extractedKeywords": []
     },
     {
-      "id": "5787145070",
+      "id": "5805401616",
+      "title": "Product Manager",
+      "company": "Autodata Solutions Company",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 80000,
+      "salaryMax": 95000,
+      "createdAt": "2026-07-17T18:01:46Z",
+      "descriptionSnippet": "Job Description: Title: Product Manager (P3) Location: Remote – USA, Canada Reports to: Director of Product Development Vacancy : Existing vacancy The Role: JD Power is seeking a Product Manager to drive the strategy and execution of industry-leading automotive dealer SaaS and data products and other solutions across automotive digital retailing, lending, insurance and dealer operations. The Impact You Will Have in This Role: This role is ideal for a product leader who combines strong product m…",
+      "redirectUrl": "https://www.adzuna.ca/details/5805401616?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5821201880",
       "title": "Product Manager",
       "company": "IPG",
-      "location": "Truro, Colchester",
+      "location": "Ontario, Canada",
       "category": "Sales Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-07-03T16:53:28Z",
-      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
-      "redirectUrl": "https://www.adzuna.ca/details/5787145070?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-07-30T11:05:22Z",
+      "descriptionSnippet": "Please note that this role is based in Truro, Nova Scotia. A relocation package can be offered to the selected candidate willing to relocate there. Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong…",
+      "redirectUrl": "https://www.adzuna.ca/details/5821201880?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
+      "extractedKeywords": []
+    },
+    {
+      "id": "5727679238",
+      "title": "Product Manager",
+      "company": "Punchcard Systems",
+      "location": "Edmonton, Edmonton region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 75000,
+      "salaryMax": 100000,
+      "createdAt": "2026-05-13T00:19:36Z",
+      "descriptionSnippet": "Although this role is remote first, we are only hiring applicants that live in Canada at this time. At Punchcard, we are in the process of inventing a new type of consulting agency, and we need great people to come along this journey with us. Our clients come to us to help them solve interesting challenges using technology. We are scaling our team and are looking for a Product Manager to advise clients on their products from concept to completion. The path in which we move as a team from concep…",
+      "redirectUrl": "https://www.adzuna.ca/details/5727679238?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
