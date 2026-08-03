@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T11:09:34.133Z",
+  "generatedAt": "2026-08-03T12:47:27.500Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -115,14 +115,31 @@
       "extractedKeywords": []
     },
     {
+      "id": "5824109285",
+      "title": "Product Manager",
+      "company": "IPG",
+      "location": "Truro, Colchester",
+      "category": "Sales Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T10:58:51Z",
+      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
+      "redirectUrl": "https://www.adzuna.ca/details/5824109285?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
+    {
       "id": "5805401616",
       "title": "Product Manager",
       "company": "Autodata Solutions Company",
       "location": "Canada",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 80000,
-      "salaryMax": 95000,
+      "salaryMin": 90000,
+      "salaryMax": 105000,
       "createdAt": "2026-07-17T18:01:46Z",
       "descriptionSnippet": "Job Description: Title: Product Manager (P3) Location: Remote – USA, Canada Reports to: Director of Product Development Vacancy : Existing vacancy The Role: JD Power is seeking a Product Manager to drive the strategy and execution of industry-leading automotive dealer SaaS and data products and other solutions across automotive digital retailing, lending, insurance and dealer operations. The Impact You Will Have in This Role: This role is ideal for a product leader who combines strong product m…",
       "redirectUrl": "https://www.adzuna.ca/details/5805401616?utm_medium=api&utm_source=3ebb75f8",
@@ -135,7 +152,7 @@
       "id": "5821201880",
       "title": "Product Manager",
       "company": "IPG",
-      "location": "Ontario, Canada",
+      "location": "New Brunswick, Canada",
       "category": "Sales Jobs",
       "contractType": null,
       "salaryMin": null,
@@ -143,21 +160,6 @@
       "createdAt": "2026-07-30T11:05:22Z",
       "descriptionSnippet": "Please note that this role is based in Truro, Nova Scotia. A relocation package can be offered to the selected candidate willing to relocate there. Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong…",
       "redirectUrl": "https://www.adzuna.ca/details/5821201880?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5727679238",
-      "title": "Product Manager",
-      "company": "Punchcard Systems",
-      "location": "Edmonton, Edmonton region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 75000,
-      "salaryMax": 100000,
-      "createdAt": "2026-05-13T00:19:36Z",
-      "descriptionSnippet": "Although this role is remote first, we are only hiring applicants that live in Canada at this time. At Punchcard, we are in the process of inventing a new type of consulting agency, and we need great people to come along this journey with us. Our clients come to us to help them solve interesting challenges using technology. We are scaling our team and are looking for a Product Manager to advise clients on their products from concept to completion. The path in which we move as a team from concep…",
-      "redirectUrl": "https://www.adzuna.ca/details/5727679238?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
