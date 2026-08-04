@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T12:47:27.500Z",
+  "generatedAt": "2026-08-04T11:52:59.862Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T14:44:43Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=hFHUezmP8RG_qcIwnY9vSA&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=qr2HCvuP8RGCC9R8jI_tsg&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,22 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T19:05:05Z",
       "descriptionSnippet": "Software Developer (permanent position, 40 hour per week) Contact: (819) 975-4654, career@nordquantique.ca Working at Nord Quantique At Nord Quantique, you will be part of something special: working in a highly dynamic environment at the forefront of quantum technology development while benefiting from a vibrant ecosystem located at the heart of the Quantum Innovation Zone of the picturesque city of Sherbrooke. Our interdisciplinary team is laser-focused on solving grand challenges and making q…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=hFHUezmP8RG_qcIwnY9vSA&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5818095238",
-      "title": "Manager, Software Development, Private Brands",
-      "company": "Amazon Development Centre Canada ULC",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-28T04:20:15Z",
-      "descriptionSnippet": "At Amazon, we're working to create the most customer-centric company on earth. To get there, we need exceptionally talented, bright, and driven leaders to help us build great customer experiences. Our Private Brands offer customers quality, at great prices and we are looking for a Manager, Software Development to help build new experiences and systems that will enable customers to discover and buy Private Brands products. We are an interdisciplinary team that leverages the strengths of engineer…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5818095238?se=hFHUezmP8RG_qcIwnY9vSA&utm_medium=api&utm_source=3ebb75f8&v=C3563353869DB6CB9ADF5C55503CFC3D5884BEF8",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701916391?se=qr2HCvuP8RGCC9R8jI_tsg&utm_medium=api&utm_source=3ebb75f8&v=C5EDB8859233035F1B2972074AC12B5B754712E7",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -63,27 +48,9 @@
       "salaryMax": null,
       "createdAt": "2026-07-15T15:09:21Z",
       "descriptionSnippet": "Job Description Summary Join the innovative Grid Automation Technology team! We are seeking an experienced embedded DSP Developer to join our dynamic team in creating the building blocks to enable digital transformation in the power grid, focused on signal digitization, protection & control infrastructure devices! The ideal candidate will possess a deep understanding of embedded systems architecture with DSP, software and hardware architectures, and protection application knowledge within the T…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5801489811?se=hFHUezmP8RG_qcIwnY9vSA&utm_medium=api&utm_source=3ebb75f8&v=62EFDB34B8F72BE171D9335EA0ACC1BFFDAD3CF0",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5801489811?se=qr2HCvuP8RGCC9R8jI_tsg&utm_medium=api&utm_source=3ebb75f8&v=62EFDB34B8F72BE171D9335EA0ACC1BFFDAD3CF0",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5818095230",
-      "title": "Software Development Engineer, Persistent Connection Service (PCS)",
-      "company": "Amazon Development Centre Canada ULC",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-28T04:20:13Z",
-      "descriptionSnippet": "Ring is seeking a Software Development Engineer to join the Persistent Connection Service team, where you'll build and maintain the foundational socket services that power device connectivity for millions of Ring devices worldwide. You'll collaborate across Ring's software, firmware, and product organizations while working with AWS technologies to solve complex distributed systems challenges. Persistent Connection Service is a mission critical service which maintains persistent connections betw…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5818095230?se=hFHUezmP8RG_qcIwnY9vSA&utm_medium=api&utm_source=3ebb75f8&v=938FA80527FC2ADE6BAA790755BAF32C1E5F9FF4",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "AWS",
-        "Communication"
-      ]
     },
     {
       "id": "5801210826",
@@ -163,6 +130,36 @@
       "createdAt": "2026-07-30T11:00:28Z",
       "descriptionSnippet": "About the Opportunity The Dayforce Product Development team is seeking a talented Software Developer to help build the next generation of Human Capital Management (HCM) solutions. This is an opportunity to create innovative software that helps organizations transform the way they manage and pay their workforce. As a Software Developer on our Global Payroll team, your work will directly support one of the most critical moments in an employee's experience—getting paid accurately and on time. The …",
       "redirectUrl": "https://www.adzuna.ca/details/5821199720?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5813761852",
+      "title": "Software Developer",
+      "company": "PTW Energy Services Ltd.",
+      "location": "Calgary, Calgary region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-24T06:39:36Z",
+      "descriptionSnippet": "Job Description Job Description Software Developer Calgary (Rocky View County), AB Build Software That Powers a National Business At PTW Energy Services, you'll build software that supports thousands of employees and helps drive operations across Canada. From enterprise applications and ERP enhancements to automation and system integrations, your work will have a direct impact on how our business operates every day. We're looking for a Software Developer who enjoys solving complex problems, bui…",
+      "redirectUrl": "https://www.adzuna.ca/details/5813761852?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5815846270",
+      "title": "Software Developer",
+      "company": "Promise Robotics",
+      "location": "Calgary, Calgary region",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-25T18:01:12Z",
+      "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
+      "redirectUrl": "https://www.adzuna.ca/details/5815846270?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
