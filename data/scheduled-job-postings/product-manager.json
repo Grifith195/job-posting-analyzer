@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T11:49:18.746Z",
+  "generatedAt": "2026-08-06T11:54:59.991Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,56 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5777754090",
-      "title": "Responsable Produit - Digital Substation Product Manager H/F",
-      "company": "GE Vernova",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-26T09:09:00Z",
-      "descriptionSnippet": "Job Description Summary Nous recherchons un(e) leader innovant et expérimenté pour piloter la vision, la stratégie et l'exécution de nos solutions d'automatisation des postes électriques numériques et conventionnels. Le/la Responsable Produit sera chargé(e) de définir l'orientation du portefeuille d'automatisation des postes, d'assurer sa différenciation concurrentielle et de favoriser sa croissance sur les marchés mondiaux. Ce rôle exige une combinaison unique d'expertise technique, de connais…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754090?se=fFC8scOQ8RG_2t8OCQTK4g&utm_medium=api&utm_source=3ebb75f8&v=301492EF3038F17AF9944E059A0B2B1888389F72",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5796533723",
-      "title": "Product Project Manager",
-      "company": "Soucy",
-      "location": "Saint-Charles-de-Drummond, Drummond",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-11T00:44:02Z",
-      "descriptionSnippet": "Mission Do you want to contribute to the development of technical, sustainable, and high-performance products? Are you driven by hands-on projects, mechanical design, and cross-team collaboration? This position could very well be for you. Reporting to the Director of Development and Innovation, you’ll be involved in every stage of product development, from needs analysis to the integration of UHMW-PE molded products into production. You’ll also help improve our existing products and support int…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5796533723?se=fFC8scOQ8RG_2t8OCQTK4g&utm_medium=api&utm_source=3ebb75f8&v=AEAE3D30A0CCF24DFFAEF8048DB0152230B87D39",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication",
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5822594046",
-      "title": "Product Manager",
-      "company": "Cleo Consulting",
-      "location": "Regent Park, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 208000,
-      "salaryMax": 228800,
-      "createdAt": "2026-07-31T14:05:49Z",
-      "descriptionSnippet": "Assignment: RQ11352 Product Manager Senior Job Title: Product Manager Requisition (SS): RQ11352 Start Date: 2026-08-10 Client: Government Services Integration Cluster End Date: 2027-03-31 Office Location: 222 Jarvis St Toronto Organization: Government Services Integration Cluster Ministry: Ministry of Public and Business Service Delivery and Procurement Business Days: 177.00 5 days onsite Must Have: 8 years of experience in product management. Agile and traditional project management experienc…",
-      "redirectUrl": "https://www.adzuna.ca/details/5822594046?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Agile"
-      ]
-    },
     {
       "id": "5819147278",
       "title": "Product Manager",
@@ -164,6 +114,55 @@
       "createdAt": "2026-07-08T19:04:15Z",
       "descriptionSnippet": "About Voyis Voyis designs and manufactures high performance underwater optical sensors (lasers, cameras, lights) for underwater vehicles that expand capability and enhance understanding in underwater surveys and exploration. Our products have enabled our customers to survey more than 10,000km of ocean floor across all 7 continents, helping people better understand those remote, challenging environments. Our mission is to push the limits of what’s possible subsea and enable every underwater vehi…",
       "redirectUrl": "https://www.adzuna.ca/details/5793398554?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5824109285",
+      "title": "Product Manager",
+      "company": "IPG",
+      "location": "Nova Scotia, Canada",
+      "category": "Sales Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T10:58:51Z",
+      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
+      "redirectUrl": "https://www.adzuna.ca/details/5824109285?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "5805401616",
+      "title": "Product Manager",
+      "company": "Autodata Solutions Company",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 80000,
+      "salaryMax": 95000,
+      "createdAt": "2026-07-17T18:01:46Z",
+      "descriptionSnippet": "Job Description: Title: Product Manager (P3) Location: Remote – USA, Canada Reports to: Director of Product Development Vacancy : Existing vacancy The Role: JD Power is seeking a Product Manager to drive the strategy and execution of industry-leading automotive dealer SaaS and data products and other solutions across automotive digital retailing, lending, insurance and dealer operations. The Impact You Will Have in This Role: This role is ideal for a product leader who combines strong product m…",
+      "redirectUrl": "https://www.adzuna.ca/details/5805401616?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5821201880",
+      "title": "Product Manager",
+      "company": "IPG",
+      "location": "Ontario, Canada",
+      "category": "Sales Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-30T11:05:22Z",
+      "descriptionSnippet": "Please note that this role is based in Truro, Nova Scotia. A relocation package can be offered to the selected candidate willing to relocate there. Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong…",
+      "redirectUrl": "https://www.adzuna.ca/details/5821201880?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
