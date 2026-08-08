@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T10:40:08.631Z",
+  "generatedAt": "2026-08-08T10:19:08.212Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-06-26T09:09:00Z",
       "descriptionSnippet": "Job Description Summary Nous recherchons un(e) leader innovant et expérimenté pour piloter la vision, la stratégie et l'exécution de nos solutions d'automatisation des postes électriques numériques et conventionnels. Le/la Responsable Produit sera chargé(e) de définir l'orientation du portefeuille d'automatisation des postes, d'assurer sa différenciation concurrentielle et de favoriser sa croissance sur les marchés mondiaux. Ce rôle exige une combinaison unique d'expertise technique, de connais…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754090?se=BIumXEyS8RGcIuQeRoWGiA&utm_medium=api&utm_source=3ebb75f8&v=301492EF3038F17AF9944E059A0B2B1888389F72",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754090?se=LtXklxKT8RG9ks23jnlnsA&utm_medium=api&utm_source=3ebb75f8&v=301492EF3038F17AF9944E059A0B2B1888389F72",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-07-11T00:44:02Z",
       "descriptionSnippet": "Mission Do you want to contribute to the development of technical, sustainable, and high-performance products? Are you driven by hands-on projects, mechanical design, and cross-team collaboration? This position could very well be for you. Reporting to the Director of Development and Innovation, you’ll be involved in every stage of product development, from needs analysis to the integration of UHMW-PE molded products into production. You’ll also help improve our existing products and support int…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5796533723?se=BIumXEyS8RGcIuQeRoWGiA&utm_medium=api&utm_source=3ebb75f8&v=AEAE3D30A0CCF24DFFAEF8048DB0152230B87D39",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5796533723?se=LtXklxKT8RG9ks23jnlnsA&utm_medium=api&utm_source=3ebb75f8&v=AEAE3D30A0CCF24DFFAEF8048DB0152230B87D39",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication",
@@ -136,23 +136,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5824109285",
-      "title": "Product Manager",
-      "company": "IPG",
-      "location": "Nova Scotia, Canada",
-      "category": "Sales Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-01T10:58:51Z",
-      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
-      "redirectUrl": "https://www.adzuna.ca/details/5824109285?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
       "id": "5830601802",
       "title": "Product Manager",
       "company": "Upshop",
@@ -167,6 +150,23 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Stakeholder Management"
+      ]
+    },
+    {
+      "id": "5805401616",
+      "title": "Product Manager",
+      "company": "Autodata Solutions Company",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 90000,
+      "salaryMax": 105000,
+      "createdAt": "2026-07-17T18:01:46Z",
+      "descriptionSnippet": "Job Description: Title: Product Manager (P3) Location: Remote – USA, Canada Reports to: Director of Product Development Vacancy : Existing vacancy The Role: JD Power is seeking a Product Manager to drive the strategy and execution of industry-leading automotive dealer SaaS and data products and other solutions across automotive digital retailing, lending, insurance and dealer operations. The Impact You Will Have in This Role: This role is ideal for a product leader who combines strong product m…",
+      "redirectUrl": "https://www.adzuna.ca/details/5805401616?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
       ]
     }
   ]
