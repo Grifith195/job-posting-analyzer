@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:39:40.755Z",
+  "generatedAt": "2026-08-12T10:48:36.495Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,24 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5799489321",
-      "title": "BI and Data Analyst",
-      "company": "Soucy",
-      "location": "Saint-Charles-de-Drummond, Drummond",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-14T00:47:20Z",
-      "descriptionSnippet": "Mission Are you passionate about data, analysis, and designing structured BI solutions, and do you want to grow in an environment where data serves as a strategic driver for operations and decision-making? As a BI Analyst, you’ll play a key role in leveraging the company’s data. You’ll be responsible for both producing analytical solutions (Power BI) and structuring and gaining a deep understanding of the data. Beyond creating reports, you’ll actively contribute to the evolution of our data env…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5799489321?se=flOP9XCV8RGI3JXz7KkMuA&utm_medium=api&utm_source=3ebb75f8&v=0C4A7E46B4CF9EA5207CBCC2EF3730CC0D95FA58",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Power BI",
-        "Reporting"
-      ]
-    },
     {
       "id": "5826428905",
       "title": "Product Data Analyst",
@@ -36,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-08-03T04:24:10Z",
       "descriptionSnippet": "Mission Are you passionate about data and continuous improvement? We need you! Our catalog includes over 100,000 SKUs, and the quality of the information associated with them is a key driver of our success. Your mission will be to ensure the reliability of this data, identify opportunities for improvement, and develop innovative solutions using AI and Business Intelligence tools to optimize our product data management processes. In this role, you will have the opportunity to: Identify and lead …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5826428905?se=flOP9XCV8RGI3JXz7KkMuA&utm_medium=api&utm_source=3ebb75f8&v=343D1ED529C2E2F8ED195471F636A4174F2C6FF7",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5826428905?se=ZpgtXzuW8RGANpRg6BV0Lw&utm_medium=api&utm_source=3ebb75f8&v=343D1ED529C2E2F8ED195471F636A4174F2C6FF7",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -104,7 +86,7 @@
       "id": "5763834466",
       "title": "Data Analyst",
       "company": "Mariner",
-      "location": "Halifax region, Nova Scotia",
+      "location": "Saint John region, New Brunswick",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
@@ -134,6 +116,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5814581303",
+      "title": "Data Analyst",
+      "company": "Mueller Water Products",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-24T19:12:56Z",
+      "descriptionSnippet": "Who We Are Thank you for your interest in Mueller Water Products, Inc. For more than 165 years, Mueller Water Products, Inc. has been building the future of water infrastructure. From lifesaving fire protection to data intelligence, we are committed to developing products and solutions that help cities and utilities deliver clean, safe drinking water to hundreds of millions of people across North America. Our purpose is to connect communities to water, life’s most essential resource, with excep…",
+      "redirectUrl": "https://www.adzuna.ca/details/5814581303?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5812957552",
       "title": "Data Analyst",
       "company": "Mueller Water Products",
@@ -149,17 +146,17 @@
       "extractedKeywords": []
     },
     {
-      "id": "5814581303",
+      "id": "5802731050",
       "title": "Data Analyst",
-      "company": "Mueller Water Products",
-      "location": "Canada",
+      "company": "Carter's",
+      "location": "Mississauga, Peel region",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-07-24T19:12:56Z",
-      "descriptionSnippet": "Who We Are Thank you for your interest in Mueller Water Products, Inc. For more than 165 years, Mueller Water Products, Inc. has been building the future of water infrastructure. From lifesaving fire protection to data intelligence, we are committed to developing products and solutions that help cities and utilities deliver clean, safe drinking water to hundreds of millions of people across North America. Our purpose is to connect communities to water, life’s most essential resource, with excep…",
-      "redirectUrl": "https://www.adzuna.ca/details/5814581303?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-07-16T06:08:45Z",
+      "descriptionSnippet": "Job Description Job Description Data Analyst Serving the needs of all families with young children, Carter's Inc. is the largest North American apparel retailer exclusively for babies and young children, encompassing Carter's, OshKosh B'gosh, Skip*Hop and Little Planet brands. Meaningful work, constant learning, genuine people, and a community guided by core values that promote inclusion and innovation is in everything we do. There are many reasons to build your career at Carter's. HOW YOU'LL M…",
+      "redirectUrl": "https://www.adzuna.ca/details/5802731050?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

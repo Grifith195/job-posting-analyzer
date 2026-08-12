@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:39:40.755Z",
+  "generatedAt": "2026-08-12T10:48:36.495Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,23 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5833748346",
+      "title": "Digital Product Manager Job Details | Purolator",
+      "company": "Purolator",
+      "location": "Mississauga, Peel region",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-08T13:26:39Z",
+      "descriptionSnippet": "It’s not a package. It’s a promise®. As Canada’s leading integrated freight, package, and logistics provider, we’ve been helping promises get where they need to be for more than 60 years. How does the magic happen? The journey starts with you . The places we go, the elements we brave, the promises we deliver - it’s all possible because of our people. So, whether you’re looking to build new skills, make an impact in your community, or inspire your team, we go there for you. Description Reporting…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5833748346?se=HgdNXzuW8RGWE9DmqBhbPw&utm_medium=api&utm_source=3ebb75f8&v=5D75492201D815A477D93A641B62AFF37F0630FA",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
     {
       "id": "5777754090",
       "title": "Responsable Produit - Digital Substation Product Manager H/F",
@@ -18,7 +35,7 @@
       "salaryMax": null,
       "createdAt": "2026-06-26T09:09:00Z",
       "descriptionSnippet": "Job Description Summary Nous recherchons un(e) leader innovant et expérimenté pour piloter la vision, la stratégie et l'exécution de nos solutions d'automatisation des postes électriques numériques et conventionnels. Le/la Responsable Produit sera chargé(e) de définir l'orientation du portefeuille d'automatisation des postes, d'assurer sa différenciation concurrentielle et de favoriser sa croissance sur les marchés mondiaux. Ce rôle exige une combinaison unique d'expertise technique, de connais…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754090?se=5myz9XCV8RGoL_9PDUu8tA&utm_medium=api&utm_source=3ebb75f8&v=301492EF3038F17AF9944E059A0B2B1888389F72",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754090?se=HgdNXzuW8RGWE9DmqBhbPw&utm_medium=api&utm_source=3ebb75f8&v=301492EF3038F17AF9944E059A0B2B1888389F72",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +50,7 @@
       "salaryMax": null,
       "createdAt": "2026-07-11T00:44:02Z",
       "descriptionSnippet": "Mission Do you want to contribute to the development of technical, sustainable, and high-performance products? Are you driven by hands-on projects, mechanical design, and cross-team collaboration? This position could very well be for you. Reporting to the Director of Development and Innovation, you’ll be involved in every stage of product development, from needs analysis to the integration of UHMW-PE molded products into production. You’ll also help improve our existing products and support int…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5796533723?se=5myz9XCV8RGoL_9PDUu8tA&utm_medium=api&utm_source=3ebb75f8&v=AEAE3D30A0CCF24DFFAEF8048DB0152230B87D39",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5796533723?se=HgdNXzuW8RGWE9DmqBhbPw&utm_medium=api&utm_source=3ebb75f8&v=AEAE3D30A0CCF24DFFAEF8048DB0152230B87D39",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication",
@@ -121,23 +138,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5824109285",
-      "title": "Product Manager",
-      "company": "IPG",
-      "location": "Truro, Colchester",
-      "category": "Sales Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-01T10:58:51Z",
-      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
-      "redirectUrl": "https://www.adzuna.ca/details/5824109285?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
       "id": "5830601802",
       "title": "Product Manager",
       "company": "Upshop",
@@ -155,20 +155,20 @@
       ]
     },
     {
-      "id": "5805401616",
+      "id": "5824109285",
       "title": "Product Manager",
-      "company": "Autodata Solutions Company",
-      "location": "Canada",
-      "category": "IT Jobs",
+      "company": "IPG",
+      "location": "Nova Scotia, Canada",
+      "category": "Sales Jobs",
       "contractType": null,
-      "salaryMin": 90000,
-      "salaryMax": 105000,
-      "createdAt": "2026-07-17T18:01:46Z",
-      "descriptionSnippet": "Job Description: Title: Product Manager (P3) Location: Remote – USA, Canada Reports to: Director of Product Development Vacancy : Existing vacancy The Role: JD Power is seeking a Product Manager to drive the strategy and execution of industry-leading automotive dealer SaaS and data products and other solutions across automotive digital retailing, lending, insurance and dealer operations. The Impact You Will Have in This Role: This role is ideal for a product leader who combines strong product m…",
-      "redirectUrl": "https://www.adzuna.ca/details/5805401616?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-01T10:58:51Z",
+      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
+      "redirectUrl": "https://www.adzuna.ca/details/5824109285?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "Reporting"
+        "Communication"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:39:40.755Z",
+  "generatedAt": "2026-08-12T10:48:36.495Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -55,6 +55,21 @@
       "createdAt": "2026-07-10T17:49:21Z",
       "descriptionSnippet": "We are seeking an experienced Senior Frontend Developer to drive the user interface implementation for a major credit union's migration to a modern digital banking platform. This role is ideal for a hands-on developer who excels at translating high-fidelity UX designs into responsive, secure, and accessible omnichannel experiences across web and mobile platforms. What You'll Do Configure and implement digital branding standards directly into the VeriChannel front-end architecture for both onlin…",
       "redirectUrl": "https://www.adzuna.ca/details/5796161622?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5835514393",
+      "title": "Senior Frontend Developer",
+      "company": "Aequilibrium Software Inc.",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 104000,
+      "salaryMax": 156000,
+      "createdAt": "2026-08-10T06:50:10Z",
+      "descriptionSnippet": "Job Description Job Description We are seeking an experienced Senior Frontend Developer to drive the user interface implementation for a major credit union's migration to a modern digital banking platform. This role is ideal for a hands-on developer who excels at translating high-fidelity UX designs into responsive, secure, and accessible omnichannel experiences across web and mobile platforms. What You'll Do Configure and implement digital branding standards directly into the VeriChannel front…",
+      "redirectUrl": "https://www.adzuna.ca/details/5835514393?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -126,6 +141,26 @@
       ]
     },
     {
+      "id": "5837109843",
+      "title": "Frontend Developer role in Toronto, ON",
+      "company": "J M Group Inc",
+      "location": "Regent Park, City of Toronto",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-11T14:03:46Z",
+      "descriptionSnippet": "Frontend UI / Full Stack Developer Toronto, ON - Hybrid (4 Days WFO) 6-12 months Strong experience in frontend technologies.oFull stack development experience with the ability to work across both frontend and backend components. Required technology stack: vue.js, JavaScript / TypeScript, HTML5, CSS3, .NET Core, REST APIs, QLDB, Pinia, Git, CI/CD pipelines Apply Here: https://www.itriders.ai/cmp-preview/01KGKX62SXX0RHJN60RAFZYE2K?job=01KZPGH4H3Q7VMAVPA98V52A52",
+      "redirectUrl": "https://www.adzuna.ca/details/5837109843?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript",
+        "JavaScript",
+        "Git",
+        "API"
+      ]
+    },
+    {
       "id": "5770267534",
       "title": "Frontend Developer - Fully Remote",
       "company": "Mercor",
@@ -137,36 +172,6 @@
       "createdAt": "2026-06-20T01:45:17Z",
       "descriptionSnippet": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Frontend Engineer (Coding Agent Experience) Type: Contract Compensation: $85/hour Location: Remote Role Responsibilities Use frontier AI coding agents to complete and evaluate complex engineering tasks. Review model-generated frontend code for…",
       "redirectUrl": "https://www.adzuna.ca/details/5770267534?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5804733066",
-      "title": "Frontend Developer - AI Products",
-      "company": "iCOUNTER",
-      "location": "Burnaby, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-17T06:05:13Z",
-      "descriptionSnippet": "Job Description Job Description About iCOUNTER iCOUNTER is building the future of cybersecurity. Modern enterprises rely on thousands of third parties, suppliers, SaaS providers, contractors, and digital partners. At the same time, attackers have shifted their focus to these trusted relationships. Today, nearly half of reported breaches involve a third party, making the extended enterprise one of the largest attack surfaces in cybersecurity. iCOUNTER is the first Risk Intelligence company built…",
-      "redirectUrl": "https://www.adzuna.ca/details/5804733066?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5831893948",
-      "title": "Frontend Developer - AI Products",
-      "company": "iCOUNTER",
-      "location": "Burnaby, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-07T06:41:30Z",
-      "descriptionSnippet": "Job Description Job Description Salary: $95,000 - $130,000 CAD (commensurate with experience) About iCOUNTER iCOUNTER is building the future of cybersecurity. Modern enterprises rely on thousands of third parties, suppliers, SaaS providers, contractors, and digital partners. At the same time, attackers have shifted their focus to these trusted relationships. Today, nearly half of reported breaches involve a third party, making the extended enterprise one of the largest attack surfaces in cybers…",
-      "redirectUrl": "https://www.adzuna.ca/details/5831893948?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
