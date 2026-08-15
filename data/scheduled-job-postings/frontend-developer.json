@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:45:50.476Z",
+  "generatedAt": "2026-08-15T10:10:08.619Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -89,21 +89,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5813763349",
-      "title": "Frontend Developer (Angular)",
-      "company": "A-CX",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-24T06:40:32Z",
-      "descriptionSnippet": "Job Description Job Description Salary: $88,764 $109,812 CAD / year A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend soluti…",
-      "redirectUrl": "https://www.adzuna.ca/details/5813763349?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5814506136",
       "title": "Senior Frontend Developer",
       "company": "Tempo",
@@ -141,26 +126,6 @@
       ]
     },
     {
-      "id": "5837109843",
-      "title": "Frontend Developer role in Toronto, ON",
-      "company": "J M Group Inc",
-      "location": "Regent Park, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-11T14:03:46Z",
-      "descriptionSnippet": "Frontend UI / Full Stack Developer Toronto, ON - Hybrid (4 Days WFO) 6-12 months Strong experience in frontend technologies.oFull stack development experience with the ability to work across both frontend and backend components. Required technology stack: vue.js, JavaScript / TypeScript, HTML5, CSS3, .NET Core, REST APIs, QLDB, Pinia, Git, CI/CD pipelines Apply Here: https://www.itriders.ai/cmp-preview/01KGKX62SXX0RHJN60RAFZYE2K?job=01KZPGH4H3Q7VMAVPA98V52A52",
-      "redirectUrl": "https://www.adzuna.ca/details/5837109843?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript",
-        "JavaScript",
-        "Git",
-        "API"
-      ]
-    },
-    {
       "id": "5770267534",
       "title": "Frontend Developer - Fully Remote",
       "company": "Mercor",
@@ -172,6 +137,41 @@
       "createdAt": "2026-06-20T01:45:17Z",
       "descriptionSnippet": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Frontend Engineer (Coding Agent Experience) Type: Contract Compensation: $85/hour Location: Remote Role Responsibilities Use frontier AI coding agents to complete and evaluate complex engineering tasks. Review model-generated frontend code for…",
       "redirectUrl": "https://www.adzuna.ca/details/5770267534?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5802725556",
+      "title": "Frontend Developer (Typescript / React)",
+      "company": "LOD Technologies Inc.",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-16T06:04:18Z",
+      "descriptionSnippet": "Job Description Job Description We’re looking for a Frontend Developer with strong TypeScript skills who is passionate about clean, maintainable code and thrives in a fast-paced, agile environment. You’ll join a focused and technical team solving real infrastructure problems where energy, AI, and compute intersect. We value strong coding principles (especially SOLID), GraphQL expertise, and awareness of frontend security best practices. if you care about scalable frontend architecture and are e…",
+      "redirectUrl": "https://www.adzuna.ca/details/5802725556?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "API",
+        "Agile"
+      ]
+    },
+    {
+      "id": "5842871733",
+      "title": "Senior Angular Frontend Developer",
+      "company": "Intact Financial",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-15T04:37:48Z",
+      "descriptionSnippet": "Our employees are at the heart of everything we do. Together, we help people, businesses, and society prosper in good times and be resilient in bad times. Our employee promise represents Intact’s commitment to you in exchange for living our Values, striving to do your best work, being open to change and investing in your career. In return, we promise to provide support, opportunities and performance-led financial rewards at a workplace where you can shape the future, win as a team and grow with…",
+      "redirectUrl": "https://www.adzuna.ca/details/5842871733?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
