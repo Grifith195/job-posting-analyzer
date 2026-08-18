@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T10:19:14.187Z",
+  "generatedAt": "2026-08-18T10:15:20.951Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -70,6 +70,21 @@
       "createdAt": "2026-08-10T06:50:10Z",
       "descriptionSnippet": "Job Description Job Description We are seeking an experienced Senior Frontend Developer to drive the user interface implementation for a major credit union's migration to a modern digital banking platform. This role is ideal for a hands-on developer who excels at translating high-fidelity UX designs into responsive, secure, and accessible omnichannel experiences across web and mobile platforms. What You'll Do Configure and implement digital branding standards directly into the VeriChannel front…",
       "redirectUrl": "https://www.adzuna.ca/details/5835514393?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5844071339",
+      "title": "Senior Frontend Developer",
+      "company": "TELUS Health",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 85000,
+      "salaryMax": 110000,
+      "createdAt": "2026-08-16T04:49:23Z",
+      "descriptionSnippet": "TELUS Health is empowering every person to live their healthiest life. Guided by our vision, we are leveraging the power of our leading edge technology and focusing on the uniqueness of each individual to create the future of health. As a global-leading health and well-being provider – encompassing physical, mental and financial health – TELUS Health is improving health outcomes for consumers, patients, healthcare professionals, employers and employees. Join our team and what we'll accomplish t…",
+      "redirectUrl": "https://www.adzuna.ca/details/5844071339?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -154,24 +169,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5770267534?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5329710798",
-      "title": "Senior Frontend Developer (Logistics)",
-      "company": "Toparo",
-      "location": "Verdun, Montréal",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-07-31T07:39:13Z",
-      "descriptionSnippet": "We demand a skilled Front-End Web Developer with mastery in React and Node.js to spearhead the development of our web applications. As an indispensable member of our engineering team, you will be responsible for constructing scalable and highly efficient web solutions that impeccably cater to our customer’s demands. This role transcends conventional web development, immersing you in the avant-garde of cloud-based technologies and empowering you to mould the architecture of our solutions leverag…",
-      "redirectUrl": "https://www.adzuna.ca/details/5329710798?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "Node.js"
-      ]
     }
   ]
 }
