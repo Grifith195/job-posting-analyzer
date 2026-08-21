@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:17:24.528Z",
+  "generatedAt": "2026-08-21T10:17:46.167Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5826428905",
+      "title": "Product Data Analyst",
+      "company": "Soucy",
+      "location": "Saint-Charles-de-Drummond, Drummond",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-03T04:24:10Z",
+      "descriptionSnippet": "Mission Are you passionate about data and continuous improvement? We need you! Our catalog includes over 100,000 SKUs, and the quality of the information associated with them is a key driver of our success. Your mission will be to ensure the reliability of this data, identify opportunities for improvement, and develop innovative solutions using AI and Business Intelligence tools to optimize our product data management processes. In this role, you will have the opportunity to: Identify and lead …",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5826428905?se=nm80jkmd8RGzmuH6KH7hxA&utm_medium=api&utm_source=3ebb75f8&v=343D1ED529C2E2F8ED195471F636A4174F2C6FF7",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5799489321",
       "title": "BI and Data Analyst",
@@ -18,12 +33,27 @@
       "salaryMax": null,
       "createdAt": "2026-07-14T00:47:20Z",
       "descriptionSnippet": "Mission Are you passionate about data, analysis, and designing structured BI solutions, and do you want to grow in an environment where data serves as a strategic driver for operations and decision-making? As a BI Analyst, you’ll play a key role in leveraging the company’s data. You’ll be responsible for both producing analytical solutions (Power BI) and structuring and gaining a deep understanding of the data. Beyond creating reports, you’ll actively contribute to the evolution of our data env…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5799489321?se=rl-9VoCc8RGhArhxtbtVlg&utm_medium=api&utm_source=3ebb75f8&v=0C4A7E46B4CF9EA5207CBCC2EF3730CC0D95FA58",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5799489321?se=nm80jkmd8RGzmuH6KH7hxA&utm_medium=api&utm_source=3ebb75f8&v=0C4A7E46B4CF9EA5207CBCC2EF3730CC0D95FA58",
       "source": "Adzuna",
       "extractedKeywords": [
         "Power BI",
         "Reporting"
       ]
+    },
+    {
+      "id": "5843336853",
+      "title": "Senior Evaluation Data Analyst",
+      "company": "Canadian Forces Morale and Welfare Services - CFMWS",
+      "location": "Montréal North, Montréal",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-15T14:31:02Z",
+      "descriptionSnippet": "CFMWS - WHERE PURPOSE MEETS PASSION! At Canadian Forces Morale and Welfare Services (CFMWS), we’re more than just a workplace; we’re a proud community dedicated to supporting Canadian Armed Forces members, veterans and their families in their daily lives. We carefully curate and provide programs and services designed to meet their unique needs and enhance their mental, social, physical, financial and familial well-being. CFMWS employees deliver programs and services including recreation, sports…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5843336853?se=nm80jkmd8RGzmuH6KH7hxA&utm_medium=api&utm_source=3ebb75f8&v=2733A97C406A0D84A3B4F8AD0AA366559BEF5F62",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5703538141",
@@ -52,21 +82,6 @@
       "createdAt": "2026-04-18T07:11:31Z",
       "descriptionSnippet": "JOB OPENING - Data Analyst ADF Medical Services Inc. We're seeking a results-driven and detail-oriented Data Analyst to join our growing analytics team. If you have a strong analytical mindset, love working with data, and want to make a real impact in the healthcare industry — this role is for you. Role: Data Analyst Department: Analytics & Business Intelligence Location: Fully Remote Type: Full-Time / Part-Time What You'll Do: Analyze and interpret complex healthcare and operational datasets D…",
       "redirectUrl": "https://www.adzuna.ca/details/5703538140?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5847126280",
-      "title": "Data Analyst",
-      "company": "St. Joseph's Home Care",
-      "location": "Hamilton region, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-18T14:39:50Z",
-      "descriptionSnippet": "Data Analyst Number of Openings: 1 Division: Corporate Full/Part Time/Casual: Full Time Program: Corporate Regular/Temporary: Regular Location: Head Office – Dundas Union: Non-Union Hours of Work: Days (8am-4pm) *75 hours biweekly Posting Date: August 17, 2026 Closing Date: Until Filled Wages: $27.51-$37.29 French Language Skill Requirement: N/A This posting is for a current vacancy. POSITION SUMMARY: St. Joseph’s Home Care is a not-for-profit home and community care organization and a member o…",
-      "redirectUrl": "https://www.adzuna.ca/details/5847126280?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -145,23 +160,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
-      ]
-    },
-    {
-      "id": "5743898276",
-      "title": "Data Analyst",
-      "company": "Broadsign Careers",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-28T17:00:05Z",
-      "descriptionSnippet": "Data Analyst Reports To: Data Science & Analytics Manager Location: Montreal, QC (Hybrid) About Us Broadsign is a growing software company with a mission to make buying, selling, and delivering out-of-home media easier than ever. Our software is operated by some of the most successful out-of-home businesses and powers impactful, compelling campaigns seen across the world. About the Role As a Data Analyst at Broadsign, you will join our Data Science & Analytics team to solve real-world problems …",
-      "redirectUrl": "https://www.adzuna.ca/details/5743898276?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
       ]
     }
   ]

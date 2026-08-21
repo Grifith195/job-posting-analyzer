@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:17:24.528Z",
+  "generatedAt": "2026-08-21T10:17:46.167Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -55,6 +55,21 @@
       "createdAt": "2026-07-10T17:49:21Z",
       "descriptionSnippet": "We are seeking an experienced Senior Frontend Developer to drive the user interface implementation for a major credit union's migration to a modern digital banking platform. This role is ideal for a hands-on developer who excels at translating high-fidelity UX designs into responsive, secure, and accessible omnichannel experiences across web and mobile platforms. What You'll Do Configure and implement digital branding standards directly into the VeriChannel front-end architecture for both onlin…",
       "redirectUrl": "https://www.adzuna.ca/details/5796161622?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5848088368",
+      "title": "Senior Frontend Developer",
+      "company": "Whiskey Library",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-19T06:51:31Z",
+      "descriptionSnippet": "Job Description Job Description Senior Frontend Developer We're looking for a Senior Frontend Developer to build and scale the customer-facing experience across our direct-to-consumer eCommerce and subscription platform at Whisky Library . This role is responsible for delivering fast, intuitive, and high-quality web experiences that help customers discover, learn about, and purchase whiskey online. You'll work closely with product, design, marketing, and backend engineering to transform ideas i…",
+      "redirectUrl": "https://www.adzuna.ca/details/5848088368?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -154,21 +169,6 @@
         "API",
         "Agile"
       ]
-    },
-    {
-      "id": "5770267534",
-      "title": "Frontend Developer - Fully Remote",
-      "company": "Mercor",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-20T01:45:17Z",
-      "descriptionSnippet": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Frontend Engineer (Coding Agent Experience) Type: Contract Compensation: $85/hour Location: Remote Role Responsibilities Use frontier AI coding agents to complete and evaluate complex engineering tasks. Review model-generated frontend code for…",
-      "redirectUrl": "https://www.adzuna.ca/details/5770267534?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
