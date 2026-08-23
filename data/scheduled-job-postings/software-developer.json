@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T10:10:35.675Z",
+  "generatedAt": "2026-08-23T10:11:05.518Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-08-17T20:06:27Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5845718797?se=sLbFtxGe8RGfQpohglHoaw&utm_medium=api&utm_source=3ebb75f8&v=8B0E3ADF27C532D00660D5EB7AB49A4BA3A5E308",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5845718797?se=eOMQ9Nqe8RGwyZRzUFxQjw&utm_medium=api&utm_source=3ebb75f8&v=8B0E3ADF27C532D00660D5EB7AB49A4BA3A5E308",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +33,22 @@
       "salaryMax": null,
       "createdAt": "2026-04-16T14:44:43Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=sLbFtxGe8RGfQpohglHoaw&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5701578483?se=eOMQ9Nqe8RGwyZRzUFxQjw&utm_medium=api&utm_source=3ebb75f8&v=76AEEBCD414683253C03E00D8129E77B196CEC47",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5853042723",
+      "title": "Software Development & Data Science Analyst (12 Month contract)",
+      "company": "Mitsubishi Heavy Industries, Ltd.",
+      "location": "Boisbriand, Thérèse-De Blainville",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-22T20:07:11Z",
+      "descriptionSnippet": "Job Description \\n MHIRJ (MHI RJ Aviation Group) is the fusion of two powerful legacies: Mitsubishi Heavy Industries (MHI) and the CRJ Series program. Headquartered in Boisbriand, Quebec, MHIRJ delivers comprehensive operational, engineering, and customer support solutions to the global regional aircraft industry. Our services include maintenance, refurbishment, technical publications, marketing, and sales activities. \\n With a strong Aerospace Engineering Center and a network of service center…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5853042723?se=eOMQ9Nqe8RGwyZRzUFxQjw&utm_medium=api&utm_source=3ebb75f8&v=9B380256877FDA797B1938B9081A5624C621EE36",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -81,25 +96,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5785339350?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5842094932",
-      "title": "Software Developer",
-      "company": "SMART CALIBER TECHNOLOGY",
-      "location": "Finter Quarries, Ottawa",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-14T14:11:36Z",
-      "descriptionSnippet": "Job Title: Software Developer Location: Ottawa, Ontario (hybrid) Full-time role Experience 5 relevant years experience in Python, C, & C++ (all 3 are mandatory) Only Canadian citizens & PRs required Mandatory Requirement: 5 years mandatory experience with Python and C,C++ experience Design and implement Java-based software components for the LCC subsystem. Utilize containerized microservices architecture (e.g., Docker, Kubernetes). Integrate SQL-based data storage and clustering features. Apply…",
-      "redirectUrl": "https://www.adzuna.ca/details/5842094932?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Python",
-        "SQL",
-        "Docker"
-      ]
     },
     {
       "id": "5845839834",
