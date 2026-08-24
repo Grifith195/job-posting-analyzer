@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:11:05.518Z",
+  "generatedAt": "2026-08-24T10:25:32.479Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -38,21 +38,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5777754090",
-      "title": "Responsable Produit - Digital Substation Product Manager H/F",
-      "company": "GE Vernova",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-26T09:09:00Z",
-      "descriptionSnippet": "Job Description Summary Nous recherchons un(e) leader innovant et expérimenté pour piloter la vision, la stratégie et l'exécution de nos solutions d'automatisation des postes électriques numériques et conventionnels. Le/la Responsable Produit sera chargé(e) de définir l'orientation du portefeuille d'automatisation des postes, d'assurer sa différenciation concurrentielle et de favoriser sa croissance sur les marchés mondiaux. Ce rôle exige une combinaison unique d'expertise technique, de connais…",
-      "redirectUrl": "https://www.adzuna.ca/details/5777754090?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5796533723",
       "title": "Product Project Manager",
       "company": "Soucy",
@@ -68,6 +53,25 @@
       "extractedKeywords": [
         "Communication",
         "Reporting"
+      ]
+    },
+    {
+      "id": "5849894169",
+      "title": "Product Manager",
+      "company": "vTech Solution",
+      "location": "Ontario, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 176800,
+      "salaryMax": 203840,
+      "createdAt": "2026-08-20T14:05:36Z",
+      "descriptionSnippet": "Job Summary: The Product Manager is a senior leadership role responsible for driving the strategic and operational aspects of product management within IT initiatives. This role involves defining product vision and strategy, prioritizing features, managing risk, and ensuring timely delivery of high-quality, customer-focused products using agile methodologies. The Product Manager will coordinate cross-functional teams, communicate effectively with stakeholders, and continuously improve product o…",
+      "redirectUrl": "https://www.adzuna.ca/details/5849894169?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Agile",
+        "Communication",
+        "Stakeholder Management"
       ]
     },
     {
