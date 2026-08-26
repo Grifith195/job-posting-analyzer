@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:19:23.852Z",
+  "generatedAt": "2026-08-26T10:22:30.217Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -54,40 +54,6 @@
         "Communication",
         "Reporting"
       ]
-    },
-    {
-      "id": "5849894169",
-      "title": "Product Manager",
-      "company": "vTech Solution",
-      "location": "Ontario, Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 176800,
-      "salaryMax": 203840,
-      "createdAt": "2026-08-20T14:05:36Z",
-      "descriptionSnippet": "Job Summary: The Product Manager is a senior leadership role responsible for driving the strategic and operational aspects of product management within IT initiatives. This role involves defining product vision and strategy, prioritizing features, managing risk, and ensuring timely delivery of high-quality, customer-focused products using agile methodologies. The Product Manager will coordinate cross-functional teams, communicate effectively with stakeholders, and continuously improve product o…",
-      "redirectUrl": "https://www.adzuna.ca/details/5849894169?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Agile",
-        "Communication",
-        "Stakeholder Management"
-      ]
-    },
-    {
-      "id": "5819147278",
-      "title": "Product Manager",
-      "company": "Altrom Auto Group",
-      "location": "Scarborough, Toronto",
-      "category": "PR, Advertising & Marketing Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-28T21:39:47Z",
-      "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
-      "redirectUrl": "https://www.adzuna.ca/details/5819147278?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5508567386",
@@ -177,6 +143,38 @@
         "Stakeholder Management",
         "Product Strategy"
       ]
+    },
+    {
+      "id": "5856499693",
+      "title": "Product Manager",
+      "company": "Insight Global",
+      "location": "Newmarket, York region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-26T03:05:27Z",
+      "descriptionSnippet": "Job Description About the Company Insight Global's client, located in Newmarket, ON, is seeking a Product Manager to join their growing product organization. This individual will support a customer-facing SaaS platform and help drive strategic product initiatives that enhance platform value and business growth. Day-to-Day The Product Manager will own and manage the product backlog, working closely with engineering teams to prioritize initiatives and ensure successful delivery of roadmap objecti…",
+      "redirectUrl": "https://www.adzuna.ca/details/5856499693?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Roadmapping"
+      ]
+    },
+    {
+      "id": "5329711736",
+      "title": "Product Manager",
+      "company": "Starboard Recruitment",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-07-31T07:40:04Z",
+      "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
+      "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }

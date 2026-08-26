@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:19:23.852Z",
+  "generatedAt": "2026-08-26T10:22:30.217Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -151,24 +151,19 @@
       ]
     },
     {
-      "id": "5701916251",
-      "title": "Frontend Developer (Typescript / React)",
-      "company": "LOD Technologies Inc.",
-      "location": "Greater Vancouver, British Columbia",
+      "id": "5854530930",
+      "title": "Senior Frontend Developer - (Remote)",
+      "company": "Parent Organization",
+      "location": "Regent Park, City of Toronto",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 90000,
-      "salaryMax": 120000,
-      "createdAt": "2026-04-16T19:03:25Z",
-      "descriptionSnippet": "We’re looking for a Frontend Developer with strong TypeScript skills who is passionate about clean, maintainable code and thrives in a fast-paced, agile environment. You’ll join a focused and technical team solving real infrastructure problems where energy, AI, and compute intersect. We value strong coding principles (especially SOLID), GraphQL expertise, and awareness of frontend security best practices. if you care about scalable frontend architecture and are excited to grow with us, we want …",
-      "redirectUrl": "https://www.adzuna.ca/details/5701916251?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-24T14:06:27Z",
+      "descriptionSnippet": "Job Title: Senior Frontend Developer Location: 100% Remote, Canada Job Type: T4 Contract Experience: 8 Years Rate: CAD 65 to 70 per hour Role Summary We are hiring for a Senior Frontend Developer to work on a cutting-edge project focused on immersive web experiences and extended reality ( XR ). In this role, you'll build high-performance web applications , develop collaborative 3D experiences , and work with cloud technologies to deliver scalable solutions using modern frontend frameworks and f…",
+      "redirectUrl": "https://www.adzuna.ca/details/5854530930?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "TypeScript",
-        "API",
-        "Agile"
-      ]
+      "extractedKeywords": []
     }
   ]
 }
