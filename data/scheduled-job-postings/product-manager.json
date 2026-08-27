@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:22:30.217Z",
+  "generatedAt": "2026-08-27T20:02:08.511Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -145,6 +145,21 @@
       ]
     },
     {
+      "id": "5810457812",
+      "title": "Product Manager",
+      "company": "Borrowell",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-22T02:39:11Z",
+      "descriptionSnippet": "Product Manager Borrowell is a Canadian financial technology (fintech) company headquartered in Toronto, Ontario. Founded in 2014, Borrowell helps Canadians improve their financial well-being through free credit score monitoring, personalized financial recommendations, credit-building solutions, personal loans, and financial education. About the Role Borrowell is looking for a Product Manager to lead the strategy, development, and delivery of innovative digital financial products. You'll work c…",
+      "redirectUrl": "https://www.adzuna.ca/details/5810457812?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5856499693",
       "title": "Product Manager",
       "company": "Insight Global",
@@ -160,21 +175,6 @@
       "extractedKeywords": [
         "Roadmapping"
       ]
-    },
-    {
-      "id": "5329711736",
-      "title": "Product Manager",
-      "company": "Starboard Recruitment",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-07-31T07:40:04Z",
-      "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
-      "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }

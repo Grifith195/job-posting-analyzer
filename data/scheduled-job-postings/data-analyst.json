@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:22:30.217Z",
+  "generatedAt": "2026-08-27T20:02:08.511Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -41,6 +41,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5858086974",
+      "title": "Business Data Analyst",
+      "company": "Reyes Holdings",
+      "location": "Mississauga, Peel region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-27T05:47:54Z",
+      "descriptionSnippet": "Responsibilities Position Summary: As a Business Data Analyst, you will play a key role in analyzing and interpreting data from multiple sources, leverage data driven insights and automation solutions to guide strategic business decisions, streamline data workflows, and improve operational efficiency. This role requires strong technical skills, with a focus on data automation and process optimization. The ideal candidate possesses a strong analytical mindset and a strong problem-solving abiliti…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5858086974?se=unpOMFKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3ebb75f8&v=7F309A38DC1A8D789D156959CD53A67651332E5E",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5703538141",
       "title": "Data Analyst",
       "company": "ADF Medical Services Inc.",
@@ -69,6 +84,24 @@
       "redirectUrl": "https://www.adzuna.ca/details/5703538140?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5743725288",
+      "title": "Data Analyst",
+      "company": "Sapsol Technologies Inc",
+      "location": "Winnipeg region, Manitoba",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 60,
+      "salaryMax": 65,
+      "createdAt": "2026-05-28T16:23:55Z",
+      "descriptionSnippet": "You will support a critical operational reporting and data initiative within a university environment. This role focuses on modernizing legacy reporting systems, improving data access, and enabling better decision-making across faculties and departments. Responsibilities Analyze legacy PHP applications with embedded SQL to understand system logic Reverse engineer reports to identify data sources, dependencies, and requirements Develop SQL queries and data extracts to support reporting needs Red…",
+      "redirectUrl": "https://www.adzuna.ca/details/5743725288?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Reporting"
+      ]
     },
     {
       "id": "5727240710",
@@ -131,40 +164,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5842878263?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5721992379",
-      "title": "Data Analyst",
-      "company": "Vretta",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-07T16:32:50Z",
-      "descriptionSnippet": "Vretta is looking for a Data Analyst to join our Data and Evaluation team. This position requires excellent communication skills, creative problem solving ability, and a sound technical ability to be able to understand requirements, develop technological solutions for data analysis, collaborate with the data engineering and development team, and maintain processes that support student learning and assessment. As a member of the Data and Evaluation team at Vretta, the Data Analyst must have the …",
-      "redirectUrl": "https://www.adzuna.ca/details/5721992379?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5856556438",
-      "title": "Data Analyst",
-      "company": "Reach3 Insights",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 65000,
-      "salaryMax": 85000,
-      "createdAt": "2026-08-26T04:20:30Z",
-      "descriptionSnippet": "Location: Vancouver / Toronto / Remote in Canada | Employment Type: Full-time | Reports to: Senior Data Analyst, Team Lead Reporting to Senior Data Analyst, Team Lead, we’re looking for a curious and collaborative Data Analyst (Survey Tabulations) to join Reach3 Insights. In this role, you’ll help turn survey data into accurate, decision-ready cross-tabulations, working with smart, kind people who love turning human insights into clear stories, stronger decisions, and better customer experience…",
-      "redirectUrl": "https://www.adzuna.ca/details/5856556438?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
     }
   ]
 }
