@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T20:02:08.511Z",
+  "generatedAt": "2026-08-28T21:00:52.574Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -71,6 +71,40 @@
       "extractedKeywords": []
     },
     {
+      "id": "5859128812",
+      "title": "Software Developer",
+      "company": "Wabtec",
+      "location": "London, Middlesex",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-27T22:12:47Z",
+      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for designing and overseeing the impleme…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859128812?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5859128806",
+      "title": "Software Developer",
+      "company": "Wabtec",
+      "location": "London, Middlesex",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-27T22:12:47Z",
+      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for maintaining existing and architectin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859128806?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
       "id": "5345231455",
       "title": "Software Developer",
       "company": "ProjectLine Solutions",
@@ -105,6 +139,24 @@
       ]
     },
     {
+      "id": "5859649773",
+      "title": "Software Developer",
+      "company": "Savard Personnel Group",
+      "location": "Halifax, Halifax region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-28T08:11:53Z",
+      "descriptionSnippet": "Job Description Job Description Software Developer - Up to $120K Join SAVARD Personnel Group - where your skills are valued! We are seeking a Software Developer to develop, maintain, and support enterprise applications and data solutions within a Microsoft technology environment. The ideal candidate will be comfortable with application development, data integration, DevOps, and production support. Key Responsibilities Develop and support applications using .NET, C#, SQL Server, React, TypeScrip…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859649773?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "SQL"
+      ]
+    },
+    {
       "id": "5853583895",
       "title": "Software Developer",
       "company": "PTW Energy Services Ltd.",
@@ -118,57 +170,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5853583895?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5819847858",
-      "title": "Software Developer",
-      "company": "Eddyfi Technologies",
-      "location": "Québec City, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-29T10:54:18Z",
-      "descriptionSnippet": "This role is part of our ET/UT product line. https://www.eddyfi.com/ As a Software Developer, you contribute to the design, development, validation, and maintenance of non-destructive testing applications. You work as part of an Agile/Scrum team in collaboration with multidisciplinary experts to develop C# software and improve existing solutions. The role includes work related to user interfaces, 2D/3D modeling, mechanical control systems, as well as digital analysis and signal processing. Be p…",
-      "redirectUrl": "https://www.adzuna.ca/details/5819847858?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing",
-        "Agile",
-        "Communication"
-      ]
-    },
-    {
-      "id": "5815846270",
-      "title": "Software Developer",
-      "company": "Promise Robotics",
-      "location": "Calgary, Calgary region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-25T18:01:12Z",
-      "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5815846270?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5853462383",
-      "title": "Software Developer",
-      "company": "Curve Dental",
-      "location": "Alberta, Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-23T04:32:48Z",
-      "descriptionSnippet": "Position Summary We are seeking a software developer who is passionate about software development and technically excellent. Our developers work across the full stack — C#/.NET backend services and TypeScript/Angular front-end applications — and understand that a project is not done until it has been deployed to production for our users. We want developers who can contribute positively to our culture and teach us things we didn't know before. Those same developers are always hungry to learn and…",
-      "redirectUrl": "https://www.adzuna.ca/details/5853462383?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript"
-      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T20:02:08.511Z",
+  "generatedAt": "2026-08-28T21:00:52.574Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -56,6 +56,21 @@
       ]
     },
     {
+      "id": "5859128695",
+      "title": "Product Manager",
+      "company": "Altrom Auto Group",
+      "location": "Scarborough, Toronto",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-27T22:12:46Z",
+      "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859128695?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5508567386",
       "title": "Product Manager",
       "company": "Ndax Canada Inc.",
@@ -69,80 +84,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5508567386?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5849768538",
-      "title": "Product Manager",
-      "company": "Savvy Talent",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-20T11:46:39Z",
-      "descriptionSnippet": "As Product Manager, you will drive the next stage of product evolution at a fast-growing, profitable marketplace platform serving hundreds of thousands of users. You will work closely with the founders to shape product strategy, translate ideas and customer needs into an actionable roadmap, and partner with engineering and design to bring new product experiences to life. This role blends strategic ownership with hands-on execution and is ideal for someone who is comfortable operating in ambigui…",
-      "redirectUrl": "https://www.adzuna.ca/details/5849768538?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Product Strategy",
-        "Roadmapping"
-      ]
-    },
-    {
-      "id": "5852882333",
-      "title": "Product Manager",
-      "company": "Savvy Talent",
-      "location": "Calgary, Calgary region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-22T17:59:51Z",
-      "descriptionSnippet": "This position is intended to be hybrid in Vancouver It was posted showing Hybrid for Calgary to attract more applicants, but this position is for Vancouver meaning that relocation will be required if you are based out of Vancouver. We're looking for a Product Manager with experience building self-serve, Product-Led Growth (PLG) B2B SaaS or marketplace products . You'll work directly with the founders to shape product strategy, prioritize opportunities, and lead cross-functional execution from c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5852882333?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Stakeholder Management",
-        "Product Strategy"
-      ]
-    },
-    {
-      "id": "5852882390",
-      "title": "Product Manager",
-      "company": "Savvy Talent",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "PR, Advertising & Marketing Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-22T17:59:52Z",
-      "descriptionSnippet": "We're looking for a Product Manager with experience building self-serve, Product-Led Growth (PLG) B2B SaaS or marketplace products . You'll work directly with the founders to shape product strategy, prioritize opportunities, and lead cross-functional execution from concept through launch. This is a highly hands-on role where you'll collaborate with engineering and design, leverage customer insights and product analytics, and continuously improve the user experience through experimentation. The …",
-      "redirectUrl": "https://www.adzuna.ca/details/5852882390?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication",
-        "Stakeholder Management",
-        "Product Strategy",
-        "Experimentation"
-      ]
-    },
-    {
-      "id": "5852882324",
-      "title": "Product Manager",
-      "company": "Savvy Talent",
-      "location": "Toronto, Ontario",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-22T17:59:51Z",
-      "descriptionSnippet": "This position is intended to be hybrid in Vancouver It was posted showing Hybrid for Toronto to attract more applicants, but this position is for Vancouver meaning that relocation will be required if you are based out of Vancouver. We're looking for a Product Manager with experience building self-serve, Product-Led Growth (PLG) B2B SaaS or marketplace products . You'll work directly with the founders to shape product strategy, prioritize opportunities, and lead cross-functional execution from c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5852882324?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Stakeholder Management",
-        "Product Strategy"
-      ]
     },
     {
       "id": "5810457812",
@@ -175,6 +116,51 @@
       "extractedKeywords": [
         "Roadmapping"
       ]
+    },
+    {
+      "id": "5852232546",
+      "title": "Product Manager",
+      "company": "BinSentry",
+      "location": "Kitchener, Waterloo region",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": 110000,
+      "salaryMax": 130000,
+      "createdAt": "2026-08-22T04:18:41Z",
+      "descriptionSnippet": "About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making capabilities. With our technolo…",
+      "redirectUrl": "https://www.adzuna.ca/details/5852232546?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5329711736",
+      "title": "Product Manager",
+      "company": "Starboard Recruitment",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-07-31T07:40:04Z",
+      "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
+      "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5855284001",
+      "title": "Product Manager",
+      "company": "Starboard Recruitment",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 249600,
+      "salaryMax": 280800,
+      "createdAt": "2026-08-25T06:45:52Z",
+      "descriptionSnippet": "Job Description Job Description Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard -recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs …",
+      "redirectUrl": "https://www.adzuna.ca/details/5855284001?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
