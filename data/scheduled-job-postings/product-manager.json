@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:00:52.574Z",
+  "generatedAt": "2026-08-29T14:45:00.688Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,54 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5847578222",
-      "title": "Product Manager",
-      "company": "HLC",
-      "location": "Lévis, Desjardins",
-      "category": "Retail Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-18T20:38:51Z",
-      "descriptionSnippet": "Are you a passionate cyclist? Do you have recent retail or wholesale experience in the cycling industry? We want to interview cyclists, preferably coming out of cycling retail or retail management. Success in this position is driven by your passion for leading, your ability to advocate for our vendors, and your passion for all things cycling. This role uses data to make decisions and execute them. If you can demonstrate all of this and are ready to take action and achieve results, we’d love to …",
-      "redirectUrl": "https://www.adzuna.ca/details/5847578222?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5845930517",
-      "title": "Product Manager Brokerage Platform",
-      "company": "National Bank",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-17T23:30:32Z",
-      "descriptionSnippet": "A career as a Product Manager within the Business Strategy team at National Bank Direct Brokerage means acting as a strategic leader in the evolution of our brokerage platform. You will play a key role in defining the product vision and transforming business priorities into tangible solutions that create value for our clients, partners, and organization. Leveraging your expertise in product management, digital transformation, and complex platform development, you will help advance the client ex…",
-      "redirectUrl": "https://www.adzuna.ca/details/5845930517?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5796533723",
-      "title": "Product Project Manager",
-      "company": "Soucy",
-      "location": "Saint-Charles-de-Drummond, Drummond",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-11T00:44:02Z",
-      "descriptionSnippet": "Mission Do you want to contribute to the development of technical, sustainable, and high-performance products? Are you driven by hands-on projects, mechanical design, and cross-team collaboration? This position could very well be for you. Reporting to the Director of Development and Innovation, you’ll be involved in every stage of product development, from needs analysis to the integration of UHMW-PE molded products into production. You’ll also help improve our existing products and support int…",
-      "redirectUrl": "https://www.adzuna.ca/details/5796533723?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication",
-        "Reporting"
-      ]
-    },
     {
       "id": "5859128695",
       "title": "Product Manager",
@@ -84,6 +36,60 @@
       "redirectUrl": "https://www.adzuna.ca/details/5508567386?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5859993179",
+      "title": "Product Manager",
+      "company": "Savvy Talent",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-28T15:00:32Z",
+      "descriptionSnippet": "As Product Manager, you will drive the next stage of product evolution at a fast-growing, profitable marketplace platform serving hundreds of thousands of users. You will work closely with the founders to shape product strategy, translate ideas and customer needs into an actionable roadmap, and partner with engineering and design to bring new product experiences to life. This role blends strategic ownership with hands-on execution and is ideal for someone who is comfortable operating in ambigui…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859993179?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Product Strategy",
+        "Roadmapping"
+      ]
+    },
+    {
+      "id": "5859993178",
+      "title": "Product Manager",
+      "company": "Savvy Talent",
+      "location": "Toronto, Ontario",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-28T15:00:32Z",
+      "descriptionSnippet": "This position is intended to be hybrid in Vancouver It was posted showing Hybrid for Toronto to attract more applicants, but this position is for Vancouver meaning that relocation will be required if you are based out of Vancouver. We're looking for a Product Manager with experience building self-serve, Product-Led Growth (PLG) B2B SaaS or marketplace products . You'll work directly with the founders to shape product strategy, prioritize opportunities, and lead cross-functional execution from c…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859993178?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management",
+        "Product Strategy"
+      ]
+    },
+    {
+      "id": "5859993180",
+      "title": "Product Manager",
+      "company": "Savvy Talent",
+      "location": "Calgary, Calgary region",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-28T15:00:32Z",
+      "descriptionSnippet": "This position is intended to be hybrid in Vancouver It was posted showing Hybrid for Calgary to attract more applicants, but this position is for Vancouver meaning that relocation will be required if you are based out of Vancouver. We're looking for a Product Manager with experience building self-serve, Product-Led Growth (PLG) B2B SaaS or marketplace products . You'll work directly with the founders to shape product strategy, prioritize opportunities, and lead cross-functional execution from c…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859993180?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management",
+        "Product Strategy"
+      ]
     },
     {
       "id": "5810457812",
