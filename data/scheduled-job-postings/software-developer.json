@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:55:34.138Z",
+  "generatedAt": "2026-09-03T13:57:51.485Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,27 +18,9 @@
       "salaryMax": null,
       "createdAt": "2026-08-20T23:49:18Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. Role Summary We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our co…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5850474248?se=ZFcJ-NWm8RGr7psmG9r3WQ&utm_medium=api&utm_source=3ebb75f8&v=FB82DB8E154CEA94D4CB105406B24EEBA224649F",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5850474248?se=zKZqdJ-n8RGsC_Q0ierJtg&utm_medium=api&utm_source=3ebb75f8&v=FB82DB8E154CEA94D4CB105406B24EEBA224649F",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5855655520",
-      "title": "Software Developer",
-      "company": "Hirematic Talent Solutions",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 93600,
-      "salaryMax": 104000,
-      "createdAt": "2026-08-25T14:12:28Z",
-      "descriptionSnippet": "Senior Software Developer Location: Canada (Remote) Canada: $45 $50/hr T4 (CAD) Job Overview Seeking a Senior Software Developer with 13 years of strong hands-on experience . Expertise in Java, Spring Boot, Python APIs, and Cloud technologies is a must . The ideal candidate will also have experience developing scalable backend services, REST APIs, microservices, and writing clients for data streaming technologies . Key Requirements 10 years of strong hands-on Java & Spring Boot experience - MUS…",
-      "redirectUrl": "https://www.adzuna.ca/details/5855655520?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Python",
-        "API"
-      ]
     },
     {
       "id": "5830803127",
@@ -71,23 +53,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5859128806",
-      "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-27T22:12:47Z",
-      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for maintaining existing and architectin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859128806?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
       "id": "5859128812",
       "title": "Software Developer",
       "company": "Wabtec",
@@ -99,6 +64,23 @@
       "createdAt": "2026-08-27T22:12:47Z",
       "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for designing and overseeing the impleme…",
       "redirectUrl": "https://www.adzuna.ca/details/5859128812?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5859128806",
+      "title": "Software Developer",
+      "company": "Wabtec",
+      "location": "London, Middlesex",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-27T22:12:47Z",
+      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for maintaining existing and architectin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859128806?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
@@ -136,6 +118,24 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "API"
+      ]
+    },
+    {
+      "id": "5859649773",
+      "title": "Software Developer",
+      "company": "Savard Personnel Group",
+      "location": "Halifax, Halifax region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-28T08:11:53Z",
+      "descriptionSnippet": "Job Description Job Description Software Developer - Up to $120K Join SAVARD Personnel Group - where your skills are valued! We are seeking a Software Developer to develop, maintain, and support enterprise applications and data solutions within a Microsoft technology environment. The ideal candidate will be comfortable with application development, data integration, DevOps, and production support. Key Responsibilities Develop and support applications using .NET, C#, SQL Server, React, TypeScrip…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859649773?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "SQL"
       ]
     },
     {

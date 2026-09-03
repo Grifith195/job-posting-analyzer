@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T13:55:34.138Z",
+  "generatedAt": "2026-09-03T13:57:51.485Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,21 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5860716336",
-      "title": "Product Manager",
-      "company": "The Home Depot Canada",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-29T00:05:30Z",
-      "descriptionSnippet": "Job Description Pay Range: $105,000 - $135,000 At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting yo…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5860716336?se=Bu1d-NWm8RGJWJRiU0HBHg&utm_medium=api&utm_source=3ebb75f8&v=5D1AF331A7A41261717769F7442B9D4174DBB06D",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5847578222",
       "title": "Product Manager",
@@ -33,39 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-08-18T20:38:51Z",
       "descriptionSnippet": "Are you a passionate cyclist? Do you have recent retail or wholesale experience in the cycling industry? We want to interview cyclists, preferably coming out of cycling retail or retail management. Success in this position is driven by your passion for leading, your ability to advocate for our vendors, and your passion for all things cycling. This role uses data to make decisions and execute them. If you can demonstrate all of this and are ready to take action and achieve results, we’d love to …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5847578222?se=Bu1d-NWm8RGJWJRiU0HBHg&utm_medium=api&utm_source=3ebb75f8&v=E7DFA397B777F4F15D5BA1EE0BD2D2F74B12F5C9",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5865029233",
-      "title": "Senior Product Manager Job Details | Purolator",
-      "company": "Purolator",
-      "location": "Mississauga, Peel region",
-      "category": "PR, Advertising & Marketing Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-01T12:09:26Z",
-      "descriptionSnippet": "It’s not a package. It’s a promise®. As Canada’s leading integrated freight, package, and logistics provider, we’ve been helping promises get where they need to be for more than 60 years. How does the magic happen? The journey starts with you . The places we go, the elements we brave, the promises we deliver - it’s all possible because of our people. So, whether you’re looking to build new skills, make an impact in your community, or inspire your team, we go there for you. Description Reporting…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5865029233?se=Bu1d-NWm8RGJWJRiU0HBHg&utm_medium=api&utm_source=3ebb75f8&v=7E0462F0590A48D32C9ED54D40044553B2F232DF",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5777754090",
-      "title": "Responsable Produit - Digital Substation Product Manager H/F",
-      "company": "GE Vernova",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-06-26T09:09:00Z",
-      "descriptionSnippet": "Job Description Summary Nous recherchons un(e) leader innovant et expérimenté pour piloter la vision, la stratégie et l'exécution de nos solutions d'automatisation des postes électriques numériques et conventionnels. Le/la Responsable Produit sera chargé(e) de définir l'orientation du portefeuille d'automatisation des postes, d'assurer sa différenciation concurrentielle et de favoriser sa croissance sur les marchés mondiaux. Ce rôle exige une combinaison unique d'expertise technique, de connais…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5777754090?se=Bu1d-NWm8RGJWJRiU0HBHg&utm_medium=api&utm_source=3ebb75f8&v=301492EF3038F17AF9944E059A0B2B1888389F72",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5847578222?se=LPjRdJ-n8RGFQ8r7cmJIsQ&utm_medium=api&utm_source=3ebb75f8&v=E7DFA397B777F4F15D5BA1EE0BD2D2F74B12F5C9",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -154,6 +107,21 @@
       ]
     },
     {
+      "id": "5867624374",
+      "title": "Product Manager",
+      "company": "Toronto Star Newspapers Ltd.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-02T17:33:33Z",
+      "descriptionSnippet": "Job Description This Product Manager role will have an initial focus on Email & Newsletters, you will oversee the complete lifecycle of our outbound email operations, unifying both our editorial newsletters and our diverse commercial properties (including Travel Alerts, Save.ca, The Kit, Wonderlist). Your mission is to build a seamless, efficient engine that drives both reader engagement and new revenue streams, balancing technical deliverability with strong product positioning. Key Responsibil…",
+      "redirectUrl": "https://www.adzuna.ca/details/5867624374?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5810457812",
       "title": "Product Manager",
       "company": "Borrowell",
@@ -165,6 +133,38 @@
       "createdAt": "2026-07-22T02:39:11Z",
       "descriptionSnippet": "Product Manager Borrowell is a Canadian financial technology (fintech) company headquartered in Toronto, Ontario. Founded in 2014, Borrowell helps Canadians improve their financial well-being through free credit score monitoring, personalized financial recommendations, credit-building solutions, personal loans, and financial education. About the Role Borrowell is looking for a Product Manager to lead the strategy, development, and delivery of innovative digital financial products. You'll work c…",
       "redirectUrl": "https://www.adzuna.ca/details/5810457812?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5856499693",
+      "title": "Product Manager",
+      "company": "Insight Global",
+      "location": "Newmarket, York region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-26T03:05:27Z",
+      "descriptionSnippet": "Job Description About the Company Insight Global's client, located in Newmarket, ON, is seeking a Product Manager to join their growing product organization. This individual will support a customer-facing SaaS platform and help drive strategic product initiatives that enhance platform value and business growth. Day-to-Day The Product Manager will own and manage the product backlog, working closely with engineering teams to prioritize initiatives and ensure successful delivery of roadmap objecti…",
+      "redirectUrl": "https://www.adzuna.ca/details/5856499693?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Roadmapping"
+      ]
+    },
+    {
+      "id": "5852232546",
+      "title": "Product Manager",
+      "company": "BinSentry",
+      "location": "Kitchener, Waterloo region",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": 110000,
+      "salaryMax": 130000,
+      "createdAt": "2026-08-22T04:18:41Z",
+      "descriptionSnippet": "About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making capabilities. With our technolo…",
+      "redirectUrl": "https://www.adzuna.ca/details/5852232546?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
