@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T13:50:19.020Z",
+  "generatedAt": "2026-09-05T13:04:51.445Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-08-18T20:38:51Z",
       "descriptionSnippet": "Are you a passionate cyclist? Do you have recent retail or wholesale experience in the cycling industry? We want to interview cyclists, preferably coming out of cycling retail or retail management. Success in this position is driven by your passion for leading, your ability to advocate for our vendors, and your passion for all things cycling. This role uses data to make decisions and execute them. If you can demonstrate all of this and are ready to take action and achieve results, we’d love to …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5847578222?se=hFlWkWeo8RGS9tX3gPU9Ng&utm_medium=api&utm_source=3ebb75f8&v=E7DFA397B777F4F15D5BA1EE0BD2D2F74B12F5C9",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5847578222?se=ajGuYiqp8RGlI_dq_IL75Q&utm_medium=api&utm_source=3ebb75f8&v=E7DFA397B777F4F15D5BA1EE0BD2D2F74B12F5C9",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -89,24 +89,6 @@
       ]
     },
     {
-      "id": "5859993180",
-      "title": "Product Manager",
-      "company": "Savvy Talent",
-      "location": "Calgary, Calgary region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-28T15:00:32Z",
-      "descriptionSnippet": "This position is intended to be hybrid in Vancouver It was posted showing Hybrid for Calgary to attract more applicants, but this position is for Vancouver meaning that relocation will be required if you are based out of Vancouver. We're looking for a Product Manager with experience building self-serve, Product-Led Growth (PLG) B2B SaaS or marketplace products . You'll work directly with the founders to shape product strategy, prioritize opportunities, and lead cross-functional execution from c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859993180?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Stakeholder Management",
-        "Product Strategy"
-      ]
-    },
-    {
       "id": "5867624374",
       "title": "Product Manager",
       "company": "Toronto Star Newspapers Ltd.",
@@ -165,6 +147,21 @@
       "createdAt": "2026-08-22T04:18:41Z",
       "descriptionSnippet": "About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making capabilities. With our technolo…",
       "redirectUrl": "https://www.adzuna.ca/details/5852232546?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5862021020",
+      "title": "Product Manager",
+      "company": "Home Depot",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 70400,
+      "salaryMax": 79100,
+      "createdAt": "2026-08-30T04:38:12Z",
+      "descriptionSnippet": "Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you’re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Position Overview: The Digital Product Manager will be responsible for selecting and optimizing the solutions required to deliver the digital portion of the interconnected strategy. The Product Manager will be …",
+      "redirectUrl": "https://www.adzuna.ca/details/5862021020?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

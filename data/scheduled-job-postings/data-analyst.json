@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T13:50:19.020Z",
+  "generatedAt": "2026-09-05T13:04:51.445Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5870391931",
+      "title": "Business Data Analyst",
+      "company": "Reyes Holdings",
+      "location": "Mississauga, Peel region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-04T05:49:07Z",
+      "descriptionSnippet": "Responsibilities Position Summary: As a Business Data Analyst, you will play a key role in analyzing and interpreting data from multiple sources, leverage data driven insights and automation solutions to guide strategic business decisions, streamline data workflows, and improve operational efficiency. This role requires strong technical skills, with a focus on data automation and process optimization. The ideal candidate possesses a strong analytical mindset and a strong problem-solving abiliti…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5870391931?se=-EE4Yiqp8RGogquEo3zAlQ&utm_medium=api&utm_source=3ebb75f8&v=405ABB52B275103AC12A0A76DA7E202D3A496059",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5703538141",
       "title": "Data Analyst",
@@ -49,6 +64,38 @@
       "createdAt": "2026-08-18T14:39:50Z",
       "descriptionSnippet": "Data Analyst Number of Openings: 1 Division: Corporate Full/Part Time/Casual: Full Time Program: Corporate Regular/Temporary: Regular Location: Head Office – Dundas Union: Non-Union Hours of Work: Days (8am-4pm) *75 hours biweekly Posting Date: August 17, 2026 Closing Date: Until Filled Wages: $27.51-$37.29 French Language Skill Requirement: N/A This posting is for a current vacancy. POSITION SUMMARY: St. Joseph’s Home Care is a not-for-profit home and community care organization and a member o…",
       "redirectUrl": "https://www.adzuna.ca/details/5847126280?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5871103826",
+      "title": "Data Analyst",
+      "company": "Borrowell",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 75000,
+      "salaryMax": 125000,
+      "createdAt": "2026-09-04T19:32:04Z",
+      "descriptionSnippet": "About Borrowell: At Borrowell, we’re on a mission to help Canadians feel confident about their money. We empower individuals to take control of their financial futures by providing the tools and insights needed to understand, build, and use their credit effectively. 1 in 10 Canadians use Borrowell for comprehensive credit monitoring and personalized insights. Our innovative services, including Credit Builder and rent reporting, help consumers build credit so they can unlock access to a wider ra…",
+      "redirectUrl": "https://www.adzuna.ca/details/5871103826?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5870640464",
+      "title": "Data Analyst",
+      "company": "Citylitics",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 65000,
+      "salaryMax": 80000,
+      "createdAt": "2026-09-04T09:55:36Z",
+      "descriptionSnippet": "About Citylitics Inc. Citylitics delivers predictive intelligence on where, how, and why infrastructure investments will occur across North America. Infrastructure includes the foundational systems that shape our quality of life: water, transportation, transit, roads and highways, broadband, and power. It represents a multi-trillion-dollar market and a 20 year megatrend in North America. Citylitics transforms millions of documents across more than 40,000 cities, utilities, and public agencies i…",
+      "redirectUrl": "https://www.adzuna.ca/details/5870640464?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -112,53 +159,6 @@
       "createdAt": "2026-08-15T04:55:38Z",
       "descriptionSnippet": "Mennonite Economic Development Associates (MEDA) invites applications for a Data Analyst to join our dedicated and talented team in our mission to create business solutions to poverty! MEDA’s work is built on a foundation of Mennonite business roots and faith-based values, within the global context of the UN Sustainable Development Goals. We believe business solutions are effective interventions to address poverty. Through a market-systems approach and strategic partnerships, MEDA enables acces…",
       "redirectUrl": "https://www.adzuna.ca/details/5842878263?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5853471514",
-      "title": "Data Analyst",
-      "company": "Stripe",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-23T04:43:23Z",
-      "descriptionSnippet": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important …",
-      "redirectUrl": "https://www.adzuna.ca/details/5853471514?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5721992379",
-      "title": "Data Analyst",
-      "company": "Vretta",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-07T16:32:50Z",
-      "descriptionSnippet": "Vretta is looking for a Data Analyst to join our Data and Evaluation team. This position requires excellent communication skills, creative problem solving ability, and a sound technical ability to be able to understand requirements, develop technological solutions for data analysis, collaborate with the data engineering and development team, and maintain processes that support student learning and assessment. As a member of the Data and Evaluation team at Vretta, the Data Analyst must have the …",
-      "redirectUrl": "https://www.adzuna.ca/details/5721992379?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5831663134",
-      "title": "Data Analyst",
-      "company": "Kabam",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "Scientific & QA Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-07T03:26:40Z",
-      "descriptionSnippet": "At Kabam, we’re constantly raising the bar of excellence in free-to-play gaming. We hire for passion and diversity so that we can triumph in our collective skill. Our teams are made up of a fusion of personalities and interests bound together by a collaborative nature, fun-loving culture, and a drive to do what it takes to make great games. And this is where you come in… The Data Analyst utilizes their quantitative analytical skills and scientific thought process to interpret and analyze large …",
-      "redirectUrl": "https://www.adzuna.ca/details/5831663134?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
