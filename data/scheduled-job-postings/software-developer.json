@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:04:51.445Z",
+  "generatedAt": "2026-09-06T13:14:38.648Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -38,23 +38,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5859128806",
-      "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-27T22:12:47Z",
-      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for maintaining existing and architectin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859128806?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
       "id": "5859128812",
       "title": "Software Developer",
       "company": "Wabtec",
@@ -66,6 +49,23 @@
       "createdAt": "2026-08-27T22:12:47Z",
       "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for designing and overseeing the impleme…",
       "redirectUrl": "https://www.adzuna.ca/details/5859128812?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5859128806",
+      "title": "Software Developer",
+      "company": "Wabtec",
+      "location": "London, Middlesex",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-27T22:12:47Z",
+      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for maintaining existing and architectin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5859128806?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
