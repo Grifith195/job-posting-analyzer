@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T15:21:21.417Z",
+  "generatedAt": "2026-09-08T13:57:10.153Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-09-05T12:56:53Z",
       "descriptionSnippet": "Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your career take flight by joining our diverse and vibrant team at the leading edge of passenger aviation. As the Product Manager, Crew Planning, you will own the vision, strategy, roadmap, and lifecycle management of digital products supporting planners across Flight operations and In flight services. You will work closely with operational stakeholders, engineering, a…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5872206073?se=jEikyM-q8RGsJNkd9qy0NQ&utm_medium=api&utm_source=3ebb75f8&v=5143AD48742D5847A082BEA793E93D626BADFA6B",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5872206073?se=UEUsMI2r8RG_XcVPRIW5Uw&utm_medium=api&utm_source=3ebb75f8&v=5143AD48742D5847A082BEA793E93D626BADFA6B",
       "source": "Adzuna",
       "extractedKeywords": [
         "Stakeholder Management",
@@ -154,19 +154,21 @@
       "extractedKeywords": []
     },
     {
-      "id": "5862021020",
+      "id": "5842874419",
       "title": "Product Manager",
-      "company": "Home Depot",
-      "location": "Canada",
-      "category": "IT Jobs",
+      "company": "Algo Communication Products",
+      "location": "Burnaby, Greater Vancouver",
+      "category": "Engineering Jobs",
       "contractType": null,
-      "salaryMin": 70400,
-      "salaryMax": 79100,
-      "createdAt": "2026-08-30T04:38:12Z",
-      "descriptionSnippet": "Are you someone who thrives on helping others succeed, enjoys making an impact, and takes pride in guiding customers to the right solutions for their projects? If you’re also naturally curious and eager to keep learning, consider starting or growing your career with us at The Home Depot. Position Overview: The Digital Product Manager will be responsible for selecting and optimizing the solutions required to deliver the digital portion of the interconnected strategy. The Product Manager will be …",
-      "redirectUrl": "https://www.adzuna.ca/details/5862021020?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 90000,
+      "salaryMax": 120000,
+      "createdAt": "2026-08-15T04:45:41Z",
+      "descriptionSnippet": "The Role: We are seeking a Product Manager to lead new product development initiatives for exciting new product launches at Algo. We have an ambitious roadmap and we are looking for a Product Manager to help bring this plan to life. This role is the single point of accountability for turning product ideas and strategic direction into successful product launches. The Product Manager will establish a clear product vision, define what we are building and why, and drive alignment, decisions, and pr…",
+      "redirectUrl": "https://www.adzuna.ca/details/5842874419?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": []
+      "extractedKeywords": [
+        "Roadmapping"
+      ]
     }
   ]
 }
