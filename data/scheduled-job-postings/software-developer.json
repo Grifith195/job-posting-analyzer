@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:57:10.153Z",
+  "generatedAt": "2026-09-09T13:59:33.714Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -109,25 +109,6 @@
       ]
     },
     {
-      "id": "5819847858",
-      "title": "Software Developer",
-      "company": "Eddyfi Technologies",
-      "location": "Québec City, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-29T10:54:18Z",
-      "descriptionSnippet": "This role is part of our ET/UT product line. https://www.eddyfi.com/ As a Software Developer, you contribute to the design, development, validation, and maintenance of non-destructive testing applications. You work as part of an Agile/Scrum team in collaboration with multidisciplinary experts to develop C# software and improve existing solutions. The role includes work related to user interfaces, 2D/3D modeling, mechanical control systems, as well as digital analysis and signal processing. Be p…",
-      "redirectUrl": "https://www.adzuna.ca/details/5819847858?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing",
-        "Agile",
-        "Communication"
-      ]
-    },
-    {
       "id": "5815846270",
       "title": "Software Developer",
       "company": "Promise Robotics",
@@ -139,21 +120,6 @@
       "createdAt": "2026-07-25T18:01:12Z",
       "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
       "redirectUrl": "https://www.adzuna.ca/details/5815846270?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5822425642",
-      "title": "Software Developer",
-      "company": "Promise Robotics",
-      "location": "Canada",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-31T11:15:18Z",
-      "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5822425642?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -173,6 +139,36 @@
       "extractedKeywords": [
         "TypeScript"
       ]
+    },
+    {
+      "id": "5822425642",
+      "title": "Software Developer",
+      "company": "Promise Robotics",
+      "location": "Canada",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-31T11:15:18Z",
+      "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
+      "redirectUrl": "https://www.adzuna.ca/details/5822425642?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5816825164",
+      "title": "Software Developer",
+      "company": "Seequent",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-26T17:49:30Z",
+      "descriptionSnippet": "Software Developer​ About Us At Seequent, we help organisations to understand the underground, giving the confidence to make better decisions faster. We build world-leading technology that is at the forefront of Earth sciences, transforming the way our customers work. Every day we help them develop critical mineral resources more sustainably, design and build better infrastructure, source renewable energy, and reduce their impact on the environment. We operate in 145 countries while proudly mai…",
+      "redirectUrl": "https://www.adzuna.ca/details/5816825164?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
