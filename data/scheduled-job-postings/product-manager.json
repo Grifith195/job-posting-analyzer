@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T13:55:31.398Z",
+  "generatedAt": "2026-09-11T13:55:14.537Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,36 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5879135613",
+      "title": "Product Manager",
+      "company": "Fiska",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:56Z",
+      "descriptionSnippet": "Overview Product Manager – SaaS Payments Infrastructure Location: Downtown Montreal office (flexible hybrid: 2–3 days a week in-office preferred) Type: Full-time Fiska sits at the intersection of integrated payments and software, with a vision of building the leading commerce platform that makes it easier for software companies to embed payments into their business model. Our partners (software vendors and software companies) use Fiska to activate a range of value-added payment solutions that a…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135613?se=2GVkauit8RG_pMfFxVIs4g&utm_medium=api&utm_source=3ebb75f8&v=D2126F3363F84F398498ED4EE6E3FB187C9AEA98",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879134258",
+      "title": "Product Manager, IT",
+      "company": "BDO Canada",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:48Z",
+      "descriptionSnippet": "Overview Putting people first, every day BD0 is a firm built on a foundation of positive relationships with our people and our clients. Each day, our professionals provide exceptional service, helping clients with advice and insight they can trust. In turn, we offer an award-winning environment that fosters a people-first culture with a high priority on your personal and professional growth. Your Opportunity BDO Canada’s National Office is planning to hire a Product Manager, IT to join the Proj…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879134258?se=2GVkauit8RG_pMfFxVIs4g&utm_medium=api&utm_source=3ebb75f8&v=F1863C3A2EA9A20B33107DCA0E3798432FBF86FF",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5872206073",
       "title": "Product Manager, Crew Planning - Temporary",
@@ -18,12 +48,74 @@
       "salaryMax": null,
       "createdAt": "2026-09-05T12:56:53Z",
       "descriptionSnippet": "Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your career take flight by joining our diverse and vibrant team at the leading edge of passenger aviation. As the Product Manager, Crew Planning, you will own the vision, strategy, roadmap, and lifecycle management of digital products supporting planners across Flight operations and In flight services. You will work closely with operational stakeholders, engineering, a…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5872206073?se=srcTSh-t8RGQBP4-jEPHYw&utm_medium=api&utm_source=3ebb75f8&v=5143AD48742D5847A082BEA793E93D626BADFA6B",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5872206073?se=2GVkauit8RG_pMfFxVIs4g&utm_medium=api&utm_source=3ebb75f8&v=5143AD48742D5847A082BEA793E93D626BADFA6B",
       "source": "Adzuna",
       "extractedKeywords": [
         "Stakeholder Management",
         "Roadmapping"
       ]
+    },
+    {
+      "id": "5879134069",
+      "title": "SaaS Payments Platform Product Manager",
+      "company": "Fiska",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:47Z",
+      "descriptionSnippet": "A fintech firm based in Montreal is looking for a Product Manager to lead the development of new payment solutions for SaaS platforms. This role involves collaborating with engineering teams and managing product lifecycles. The ideal candidate should have 3–5 years of product management experience, preferably in a B2B context, and possess strong technical fluency. The position offers a hybrid work model and competitive compensation, along with unlimited PTO. J-18808-Ljbffr",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879134069?se=2GVkauit8RG_pMfFxVIs4g&utm_medium=api&utm_source=3ebb75f8&v=61DBBFCEBDB081210D2DD1B9285B3DBC64F68A26",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879134385",
+      "title": "Product Manager: Shape the LMS of Tomorrow",
+      "company": "SkyPrep LMS",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:49Z",
+      "descriptionSnippet": "A growing B2B SaaS company in Toronto is looking for a Product Manager to define product priorities, shape strategy, and ensure quality outcomes based on customer needs. The ideal candidate has over 2 years of experience in product management, strong skills in defining product strategy, and a deep understanding of customer workflows. This role offers a flexible hybrid work environment and benefits including extended health coverage and unlimited PTO. J-18808-Ljbffr",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879134385?se=2GVkauit8RG_pMfFxVIs4g&utm_medium=api&utm_source=3ebb75f8&v=88A6F603C7CD1DFB773376CE52CFBC9C5D0CEC0F",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Product Strategy"
+      ]
+    },
+    {
+      "id": "5879134891",
+      "title": "Product Manager- 12 Month Contract",
+      "company": "Loblaw Companies Limited",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:52Z",
+      "descriptionSnippet": "A at Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started. Why is this role important? At Loblaw Digital, we k…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879134891?se=2GVkauit8RG_pMfFxVIs4g&utm_medium=api&utm_source=3ebb75f8&v=646C6B5036AA990351A318FB40AD91475C9F3B78",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879134326",
+      "title": "Lead Development Product Management Associate",
+      "company": "Mattel Canada",
+      "location": "Canada",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:49Z",
+      "descriptionSnippet": "Mattel’s Product Development team within Building Sets brings creativity and technical excellence together to design and develop innovative construction toys. Engineers are deeply involved in part design, plastic component development, and manufacturing processes. The Lead, Development Program Management Associate role drives end‑to‑end execution of product development programs within the Mattel Building Sets portfolio, delivering high‑quality, innovative products on time and within cost target…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879134326?se=2GVkauit8RG_pMfFxVIs4g&utm_medium=api&utm_source=3ebb75f8&v=1521E9451C21B1C92A952CBDED2B1205DA9231E4",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5859128695",
@@ -56,42 +148,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5859993179",
-      "title": "Product Manager",
-      "company": "Savvy Talent",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-28T15:00:32Z",
-      "descriptionSnippet": "As Product Manager, you will drive the next stage of product evolution at a fast-growing, profitable marketplace platform serving hundreds of thousands of users. You will work closely with the founders to shape product strategy, translate ideas and customer needs into an actionable roadmap, and partner with engineering and design to bring new product experiences to life. This role blends strategic ownership with hands-on execution and is ideal for someone who is comfortable operating in ambigui…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859993179?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Product Strategy",
-        "Roadmapping"
-      ]
-    },
-    {
-      "id": "5859993178",
-      "title": "Product Manager",
-      "company": "Savvy Talent",
-      "location": "Toronto, Ontario",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-28T15:00:32Z",
-      "descriptionSnippet": "This position is intended to be hybrid in Vancouver It was posted showing Hybrid for Toronto to attract more applicants, but this position is for Vancouver meaning that relocation will be required if you are based out of Vancouver. We're looking for a Product Manager with experience building self-serve, Product-Led Growth (PLG) B2B SaaS or marketplace products . You'll work directly with the founders to shape product strategy, prioritize opportunities, and lead cross-functional execution from c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859993178?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Stakeholder Management",
-        "Product Strategy"
-      ]
-    },
-    {
       "id": "5867624374",
       "title": "Product Manager",
       "company": "Toronto Star Newspapers Ltd.",
@@ -103,68 +159,6 @@
       "createdAt": "2026-09-02T17:33:33Z",
       "descriptionSnippet": "Job Description This Product Manager role will have an initial focus on Email & Newsletters, you will oversee the complete lifecycle of our outbound email operations, unifying both our editorial newsletters and our diverse commercial properties (including Travel Alerts, Save.ca, The Kit, Wonderlist). Your mission is to build a seamless, efficient engine that drives both reader engagement and new revenue streams, balancing technical deliverability with strong product positioning. Key Responsibil…",
       "redirectUrl": "https://www.adzuna.ca/details/5867624374?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5810457812",
-      "title": "Product Manager",
-      "company": "Borrowell",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-22T02:39:11Z",
-      "descriptionSnippet": "Product Manager Borrowell is a Canadian financial technology (fintech) company headquartered in Toronto, Ontario. Founded in 2014, Borrowell helps Canadians improve their financial well-being through free credit score monitoring, personalized financial recommendations, credit-building solutions, personal loans, and financial education. About the Role Borrowell is looking for a Product Manager to lead the strategy, development, and delivery of innovative digital financial products. You'll work c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5810457812?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5856499693",
-      "title": "Product Manager",
-      "company": "Insight Global",
-      "location": "Newmarket, York region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-26T03:05:27Z",
-      "descriptionSnippet": "Job Description About the Company Insight Global's client, located in Newmarket, ON, is seeking a Product Manager to join their growing product organization. This individual will support a customer-facing SaaS platform and help drive strategic product initiatives that enhance platform value and business growth. Day-to-Day The Product Manager will own and manage the product backlog, working closely with engineering teams to prioritize initiatives and ensure successful delivery of roadmap objecti…",
-      "redirectUrl": "https://www.adzuna.ca/details/5856499693?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
-    },
-    {
-      "id": "5852232546",
-      "title": "Product Manager",
-      "company": "BinSentry",
-      "location": "Kitchener, Waterloo region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": 110000,
-      "salaryMax": 130000,
-      "createdAt": "2026-08-22T04:18:41Z",
-      "descriptionSnippet": "About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making capabilities. With our technolo…",
-      "redirectUrl": "https://www.adzuna.ca/details/5852232546?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5329711736",
-      "title": "Product Manager",
-      "company": "Starboard Recruitment",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-07-31T07:40:04Z",
-      "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
-      "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

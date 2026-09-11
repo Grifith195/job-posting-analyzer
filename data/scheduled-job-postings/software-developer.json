@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T13:55:31.398Z",
+  "generatedAt": "2026-09-11T13:55:14.537Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -8,166 +8,162 @@
   },
   "jobs": [
     {
-      "id": "5830803127",
+      "id": "5879134401",
       "title": "Software Developer",
-      "company": "OceanMD",
-      "location": "The Beaches, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-06T13:18:39Z",
-      "descriptionSnippet": "Join us as we change healthcare for the better. OceanMD, a WELL Health Company, is the leading provider of EMR-integrated Patient Engagement and eReferral tools in Canada, playing a critical role in millions of patient visits and thousands of referrals every week. Our digital healthcare solutions empower patients and physicians to overcome the barriers preventing the timely delivery of healthcare services. By replacing paper forms with digital tools, we give patients and providers secure ways t…",
-      "redirectUrl": "https://www.adzuna.ca/details/5830803127?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5859128812",
-      "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-27T22:12:47Z",
-      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for designing and overseeing the impleme…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859128812?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5859128806",
-      "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-27T22:12:47Z",
-      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for maintaining existing and architectin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859128806?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5345231455",
-      "title": "Software Developer",
-      "company": "ProjectLine Solutions",
-      "location": "Saskatoon, Saskatchewan",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-08-09T05:32:31Z",
-      "descriptionSnippet": "Our Software Developers are strong programmers with demonstrated experience writing robust, maintainable code for challenging and stimulating projects. You'll have the opportunity to match your passion for software development with a diversity of challenging and exciting projects. Qualifications Demonstrated software development experience. A solid understanding of TypeScript and Reactive programming principles. Experience with Angular and Angular Material. Familiarity with common CSS framework…",
-      "redirectUrl": "https://www.adzuna.ca/details/5345231455?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript"
-      ]
-    },
-    {
-      "id": "5821456397",
-      "title": "Software Developer",
-      "company": "Bentley Systems",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-30T17:02:32Z",
-      "descriptionSnippet": "Role A Software Developer, Subsurface Information Management is responsible for supporting the design, development, and release of software applications, components and high-performance platform services and APIs that enable advanced analytics, data science, business intelligence, and AI workflows for geoscience data. This position has an expectation of an individual who already possesses relevant industry experience in software development, offering hands-on experience with industry-standard t…",
-      "redirectUrl": "https://www.adzuna.ca/details/5821456397?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "API"
-      ]
-    },
-    {
-      "id": "5859649773",
-      "title": "Software Developer",
-      "company": "Savard Personnel Group",
-      "location": "Halifax, Halifax region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-28T08:11:53Z",
-      "descriptionSnippet": "Job Description Job Description Software Developer - Up to $120K Join SAVARD Personnel Group - where your skills are valued! We are seeking a Software Developer to develop, maintain, and support enterprise applications and data solutions within a Microsoft technology environment. The ideal candidate will be comfortable with application development, data integration, DevOps, and production support. Key Responsibilities Develop and support applications using .NET, C#, SQL Server, React, TypeScrip…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859649773?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "SQL"
-      ]
-    },
-    {
-      "id": "5876811493",
-      "title": "Software Developer",
-      "company": "Alquemy",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-09T04:36:46Z",
-      "descriptionSnippet": "Job Description Senior Software Developer Role Overview We are seeking an experienced Software Developer with strong Java development skills and hands-on experience building real-time data streaming solutions in cloud environments. The ideal candidate will have expertise with technologies such as Apache Kafka, Apache Flink, and Google Cloud Platform (GCP), along with experience supporting production systems. Key Responsibilities Develop, maintain, and enhance Java-based applications and service…",
-      "redirectUrl": "https://www.adzuna.ca/details/5876811493?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5815846270",
-      "title": "Software Developer",
-      "company": "Promise Robotics",
-      "location": "Calgary, Calgary region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-25T18:01:12Z",
-      "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5815846270?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5822425642",
-      "title": "Software Developer",
-      "company": "Promise Robotics",
+      "company": "PACE Aerospace & IT",
       "location": "Canada",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-31T11:15:18Z",
-      "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5822425642?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5853462383",
-      "title": "Software Developer",
-      "company": "Curve Dental",
-      "location": "Alberta, Canada",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-08-23T04:32:48Z",
-      "descriptionSnippet": "Position Summary We are seeking a software developer who is passionate about software development and technically excellent. Our developers work across the full stack — C#/.NET backend services and TypeScript/Angular front-end applications — and understand that a project is not done until it has been deployed to production for our users. We want developers who can contribute positively to our culture and teach us things we didn't know before. Those same developers are always hungry to learn and…",
-      "redirectUrl": "https://www.adzuna.ca/details/5853462383?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-09-10T22:02:49Z",
+      "descriptionSnippet": "We are seeking a Software Developer to join our engineering team in Montreal and contribute to the design, development, verification, and maintenance of aerospace software design tools and safety‑critical software systems. This role involves working on high‑reliability, safety‑critical applications that comply with aerospace standards and regulatory requirements. The ideal candidate has strong technical depth, a disciplined engineering mindset, and experience developing software where quality, …",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879134401?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=FB91E7A8B7F6CADB3BB00E81D5226B0F4CEAF52A",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879135560",
+      "title": "Lead Software Developer",
+      "company": "Tetra Tech",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:56Z",
+      "descriptionSnippet": "Overview Recruitment Specialist @ Tetra Tech | Organized and Effective Recruiter Discover your full potential. At Tetra Tech, we are collaborating with industry-leading experts for a sustainable future for our world. We combine consulting and engineering with advanced analytics and technology to solve the world’s most complex challenges. Our innovation hubs across the globe will enable you to share ideas and best practices while growing your professional network. Wherever you are in your career…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135560?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=BF179BD638EF2800511C3D265F9D674E06431AAA",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879135891",
+      "title": "Backend Software Developer",
+      "company": "MAJiK Systems",
+      "location": "Ontario, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:58Z",
+      "descriptionSnippet": "Join to apply for the Backend Software Developer role at MAJiK Systems Get AI-powered advice on this job and more exclusive features. Are you passionate about crafting innovative solutions that can transform the manufacturing industry? At MAJiK Systems, we’re redefining the way manufacturers interact with their data. Based in Kitchener, Ontario, we’re a close-knit team of problem‑solvers and creators, building cutting‑edge software to empower manufacturers with actionable insights from their op…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135891?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=D06B4D1FBA64993AA2F4C4F30CFC2579F01650BB",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879135530",
+      "title": "Senior Software Developer with NRT",
+      "company": "NRT Technology Corp.",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:56Z",
+      "descriptionSnippet": "Elevate your career as a Senior Software Developer with NRT. Utilize your software development expertise and customer-centric approach to drive innovation in your projects. NRT is looking for a dedicated software developer with 3–5 years of large-scale development experience. You will be responsible for performing software development, conducting module analysis, and generating comprehensive testing methodologies. The role involves direct interaction with customers to translate their needs into…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135530?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=B0614508FD9BA8DA564C086224B0381356B8405A",
       "source": "Adzuna",
       "extractedKeywords": [
-        "TypeScript"
+        "Testing"
+      ]
+    },
+    {
+      "id": "5879134186",
+      "title": "Expert Software Developer at NRT",
+      "company": "NRT Technology Corp.",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:48Z",
+      "descriptionSnippet": "Unleash your potential as an Expert Software Developer at NRT, where you will contribute to sophisticated FinTech applications utilizing C/C++. Embrace challenges in a collaborative atmosphere. NRT seeks a highly skilled Software Developer with 3–5 years of experience in software development. You will focus on developing secure payment systems and state-of-the-art gaming technologies, shaping the future of the enterprise gaming industry. Key Responsibilities: • Drive day-to-day software develop…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879134186?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=568025048BCBB838C2B9EA7DFD1AC604B90F4404",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879135533",
+      "title": "Expert Software Developer at Comtech",
+      "company": "Comtech Telecommunications Corp.",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:56Z",
+      "descriptionSnippet": "Join Comtech Telecommunications as an Expert Software Developer in Gatineau, QC. This position focuses on software design and implementation for advanced call processing systems on Windows. In this role, you will be responsible for full lifecycle software development, bringing expertise in C#, C++, and real-time programming. You will collaborate closely with a team to ensure robust design while meeting high availability requirements in fast-paced projects. Key Responsibilities: • Design and imp…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135533?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=4391195CC93D9DC81F8820C7D1E6B9DC007CBE46",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "5879134382",
+      "title": "Intermediate Programmer/Software Developer",
+      "company": "ADGA Group",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:49Z",
+      "descriptionSnippet": "Job Description The study of existing PL SQL Code and write PL SQL code to meet requirements of change specifications; the oversight and/or design and debug of C++ and/or PL SQL and/or C# and/or Java Script and or JSON code to ensure technical performance; the development of application interfaces between systems for data synchronization and data integrity; the writing of custom reports and ad-hoc reports to satisfy client specifications; and any other Programmer/Software Developer - Level 2 re…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879134382?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=25E6F3A35A9E291A6756F9A1B2FA188E42001810",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5879136047",
+      "title": "Embedded Linux Software Developer",
+      "company": "Nokia",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:59Z",
+      "descriptionSnippet": "Our development process is intentionally streamlined to allow developers to focus on what they do best—writing great code. If you take pride in your code, you’ll feel right at home here. Our Kanata site serves as a major R&D hub within our international team, contributing to key areas across all our products and offering rich opportunities for growth. These components include embedded platform OS/driver development (64‑bit SMP), Linux technologies (Yocto, KVM, QEMU, libvirt, Python3), data path…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879136047?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=E7822C36B4E8026DFB93118319C310E3C879E9A4",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879136060",
+      "title": "Embedded Software Developer-Network",
+      "company": "Nokia",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:59Z",
+      "descriptionSnippet": "Our development process is intentionally streamlined to allow developers to focus on what they do best—writing great code. If you take pride in your code, you’ll feel right at home here. Our Kanata site serves as a major R&D hub within our international team, contributing to key areas across all our products and offering rich opportunities for growth. These components include embedded platform OS/driver development (64‑bit SMP), Linux technologies (Yocto, KVM, QEMU, libvirt, Python3), data path…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879136060?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=D11A796B6E6E9DBC396561AB421DCAA041B76564",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5879136102",
+      "title": "Jr. Embedded Software Developer",
+      "company": "Nokia",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-10T22:02:59Z",
+      "descriptionSnippet": "Job Description At Nokia, we believe in subject matter expertise and strong code ownership. Our development process is intentionally streamlined to allow developers to focus on what they do best—writing great code. With minimal overhead, developers collaborate directly with product managers, peer designers, and QA teams. If you take pride in your code, you’ll feel right at home here. Our Kanata site serves as a major R&D hub within our international team, contributing to key areas across all ou…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879136102?se=HoMVauit8RGRiuXmZP5mug&utm_medium=api&utm_source=3ebb75f8&v=E01168F5666FCFABEA25A2529B3DE61A7FE7EB7A",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
       ]
     }
   ]
