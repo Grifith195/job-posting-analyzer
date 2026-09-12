@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T13:55:14.537Z",
+  "generatedAt": "2026-09-12T13:12:24.970Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,10 +18,27 @@
       "salaryMax": null,
       "createdAt": "2026-09-10T22:02:56Z",
       "descriptionSnippet": "aSAP Material Master Creation & Maintenance Experience - 3 year s Experience requir nsMinimum 3 years’ experience in Supply Cha inProficient in Microsoft Office Suite, with strong overall computer skil lsExperience with SAP, LSMW/WinShutt leStrong attention to detail and accura cyGood oral and written communication skil lsAbility to work with a large volume of projects/initiatives within tight deadlin esPreferred Qualificatio nsBachelor’s degree in business, Supply Chain, Engineering, or relate…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135542?se=Rr01auit8RGFr7QwaNS2yA&utm_medium=api&utm_source=3ebb75f8&v=11633F9C5BCE3C2BC221679A00F36967929F3D44",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135542?se=2iYTmauu8RG-FLx_YfIXKQ&utm_medium=api&utm_source=3ebb75f8&v=11633F9C5BCE3C2BC221679A00F36967929F3D44",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
+      ]
+    },
+    {
+      "id": "5880454646",
+      "title": "Senior Data Analyst",
+      "company": "Electronic Arts Inc.",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-11T21:50:13Z",
+      "descriptionSnippet": "Covet Fashion is seeking an inquisitive and experienced Data Analyst to join our Product Management team. Reporting to the Director of Product, you will work with partners to understand player engagement, session behaviors, game usage and spending habits, and to identify product growth opportunities. You will use your skills to provide data‑driven solutions to complex problems, translate qualitative/quantitative data into insights, and create recommendations to steer the product development and…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5880454646?se=2iYTmauu8RG-FLx_YfIXKQ&utm_medium=api&utm_source=3ebb75f8&v=53E5304DB7559E2C42EE992169F69EC1A3D3AEED",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
       ]
     },
     {
@@ -35,7 +52,7 @@
       "salaryMax": null,
       "createdAt": "2026-09-10T22:02:55Z",
       "descriptionSnippet": "aSAP Material Master Creation & Maintenance Experience - 3 year s Experience requir nsMinimum 3 years’ experience in Supply Cha inProficient in Microsoft Office Suite, with strong overall computer skil lsExperience with SAP, LSMW/WinShutt leStrong attention to detail and accura cyGood oral and written communication skil lsAbility to work with a large volume of projects/initiatives within tight deadlin esPreferred Qualificatio ~ nsBachelor’s degree in business, Supply Chain, Engineering, or rela…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135446?se=Rr01auit8RGFr7QwaNS2yA&utm_medium=api&utm_source=3ebb75f8&v=03BC5F9BA4D740AF8AC9C453036B66BF89A6C237",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135446?se=2iYTmauu8RG-FLx_YfIXKQ&utm_medium=api&utm_source=3ebb75f8&v=03BC5F9BA4D740AF8AC9C453036B66BF89A6C237",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
@@ -52,7 +69,7 @@
       "salaryMax": null,
       "createdAt": "2026-09-10T22:02:53Z",
       "descriptionSnippet": "Step into a critical role at Autodesk as a Senior Data Analyst focusing on Growth Strategies. This hybrid position emphasizes data analytics to optimize our marketing lifecycle and product innovation. Within the Innovation and Marketing Lifecycle organization, you will be responsible for conducting data explorations and analyses to guide business decisions. You will implement A/B testing, manage data dashboards, and ensure the accuracy of data models. Your work will drive the growth strategies …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135035?se=Rr01auit8RGFr7QwaNS2yA&utm_medium=api&utm_source=3ebb75f8&v=3AC1283F3AF822472FF6E3FA84E304B94385A76E",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5879135035?se=2iYTmauu8RG-FLx_YfIXKQ&utm_medium=api&utm_source=3ebb75f8&v=3AC1283F3AF822472FF6E3FA84E304B94385A76E",
       "source": "Adzuna",
       "extractedKeywords": [
         "Testing",
@@ -157,21 +174,6 @@
         "Power BI",
         "Stakeholder Management"
       ]
-    },
-    {
-      "id": "5727240710",
-      "title": "Data Analyst",
-      "company": "Jose Merciline",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-12T16:43:40Z",
-      "descriptionSnippet": "Job title: Data Analyst Description: This position is with the Enterprise System Management (ESM) department. The position is with a team responsible for a set of systems used to manage Morgan Stanley’s IT inventory and assets data, together with their configuration and operational state. This data is critical for regulatory, operational, and efficiency purposes. Our goals are: -Sourcing IT inventory and machine data (e.g. logs, alerts) in a timely manner. -Storing the data in scalable reposito…",
-      "redirectUrl": "https://www.adzuna.ca/details/5727240710?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
