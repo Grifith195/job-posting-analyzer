@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T14:30:23.110Z",
+  "generatedAt": "2026-09-18T13:56:29.553Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5883795539",
+      "title": "Senior Data Analyst",
+      "company": "Canadian Forces Morale and Welfare Services - CFMWS",
+      "location": "Montréal North, Montréal",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-14T13:20:04Z",
+      "descriptionSnippet": "CFMWS - WHERE PURPOSE MEETS PASSION! At Canadian Forces Morale and Welfare Services (CFMWS), we’re more than just a workplace; we’re a proud community dedicated to supporting Canadian Armed Forces members, veterans and their families in their daily lives. We carefully curate and provide programs and services designed to meet their unique needs and enhance their mental, social, physical, financial and familial well-being. CFMWS employees deliver programs and services including recreation, sports…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5883795539?se=qpjFv2iz8RGm1alvctyjWA&utm_medium=api&utm_source=3ebb75f8&v=7C70DF999367E360E8D0CC13FB1975DCAB6B198F",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5799489321",
       "title": "BI and Data Analyst",
@@ -18,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-07-14T00:47:20Z",
       "descriptionSnippet": "Mission Are you passionate about data, analysis, and designing structured BI solutions, and do you want to grow in an environment where data serves as a strategic driver for operations and decision-making? As a BI Analyst, you’ll play a key role in leveraging the company’s data. You’ll be responsible for both producing analytical solutions (Power BI) and structuring and gaining a deep understanding of the data. Beyond creating reports, you’ll actively contribute to the evolution of our data env…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5799489321?se=tn6iUaSy8RGFzIhtkyYOjw&utm_medium=api&utm_source=3ebb75f8&v=0C4A7E46B4CF9EA5207CBCC2EF3730CC0D95FA58",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5799489321?se=qpjFv2iz8RGm1alvctyjWA&utm_medium=api&utm_source=3ebb75f8&v=0C4A7E46B4CF9EA5207CBCC2EF3730CC0D95FA58",
       "source": "Adzuna",
       "extractedKeywords": [
         "Power BI",
@@ -26,17 +41,17 @@
       ]
     },
     {
-      "id": "5883796042",
-      "title": "Data Analyst – Supply Chain (18 months contract)",
-      "company": "Belron Canada Inc.",
-      "location": "Canada",
+      "id": "5888570108",
+      "title": "Data Analyst (No Experience Required)",
+      "company": "Peroptyx",
+      "location": "Toronto, Ontario",
       "category": "IT Jobs",
-      "contractType": "contract",
+      "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-09-14T13:20:23Z",
-      "descriptionSnippet": "Automotive glass technology is helping transform how we experience the road. At Belron Canada , the home office of Speedy Glass, Lebeau vitres d’auto and Vanfax we take this seriously, which is why we invest tirelessly on developing our people can realize their full potential. We welcome applications from everyone, and are firmly committed to diversity, equity and inclusion in the workplace, and take pride in ensuring every member of our team feels empowered. Under the supervision of the Manage…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5883796042?se=tn6iUaSy8RGFzIhtkyYOjw&utm_medium=api&utm_source=3ebb75f8&v=F1EA1F44E2E63341097B91998694F70CF0167DA6",
+      "createdAt": "2026-09-17T22:29:06Z",
+      "descriptionSnippet": "Peroptyx, founded in 2018 and headquartered in Ireland, provides location-based machine learning training data and model evaluation solutions, connecting global technology brands with a network of data evaluators to enhance AI system accuracy and relevance. For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Evaluator, you will have the opportunity to provide ground truth for your town, city or country. At Peroptyx, we are looking for Data…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5888570108?se=qpjFv2iz8RGm1alvctyjWA&utm_medium=api&utm_source=3ebb75f8&v=7677EDD01294AD2502419D395A33E1F48C23FC4E",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -145,21 +160,6 @@
       "createdAt": "2026-05-12T16:34:49Z",
       "descriptionSnippet": "Data Analyst This position is with the Enterprise System Management (ESM) department. The position is with a team responsible to manage our company IT inventory and assets data. This data is critical for regulatory, operational, and efficiency purposes .As part of a team focused on rationalizing different legacy hardware asset and configuration management solutions into a single strategic platform, we are looking for a data analyst. The candidate will work closely with a broad range of stakehol…",
       "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5853471514",
-      "title": "Data Analyst",
-      "company": "Stripe",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-23T04:43:23Z",
-      "descriptionSnippet": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important …",
-      "redirectUrl": "https://www.adzuna.ca/details/5853471514?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
