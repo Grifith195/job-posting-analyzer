@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T14:13:58.361Z",
+  "generatedAt": "2026-09-23T14:29:32.290Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -8,34 +8,21 @@
   },
   "jobs": [
     {
-      "id": "5859128695",
+      "id": "5894309904",
       "title": "Product Manager",
-      "company": "Altrom Auto Group",
-      "location": "Scarborough, Toronto",
-      "category": "PR, Advertising & Marketing Jobs",
+      "company": "Learntastic",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-08-27T22:12:46Z",
-      "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859128695?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-09-22T16:45:58Z",
+      "descriptionSnippet": "LearnTastic is committed to delivering high-quality products and services that support learning, professional development, and growth for our customers. We’re looking for a driven and customer-focused Product Manager to join our Product Team and help shape, develop, and execute our product strategy. As a Product Manager, you will own the product lifecycle from discovery and ideation through launch and continuous improvement. You’ll work closely with Engineering, Design, Marketing, Sales, and ot…",
+      "redirectUrl": "https://www.adzuna.ca/details/5894309904?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5888092136",
-      "title": "Product Manager",
-      "company": "Cleo Consulting",
-      "location": "Regent Park, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 208000,
-      "salaryMax": 228800,
-      "createdAt": "2026-09-17T14:13:59Z",
-      "descriptionSnippet": "Assignment: RQ11581 - Product Manager - Senior Job Title: Product Manager Requisition (SS): RQ11581 Start Date: 2026-09-10 Client: Government Services Integration Cluster End Date: 2027-03-31 Office Location: 222 Jarvis St, Toronto Organization: Government Services Integration Cluster Ministry: Ministry of Public and Business Service Delivery and Procurement Business Days: 152.00 5 days onsite Description Responsibilities: Responsible for the product planning and execution throughout the produ…",
-      "redirectUrl": "https://www.adzuna.ca/details/5888092136?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
+      "extractedKeywords": [
+        "Product Strategy"
+      ]
     },
     {
       "id": "5508567386",
@@ -163,6 +150,21 @@
       "extractedKeywords": [
         "Reporting"
       ]
+    },
+    {
+      "id": "5329711736",
+      "title": "Product Manager",
+      "company": "Starboard Recruitment",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-07-31T07:40:04Z",
+      "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
+      "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }

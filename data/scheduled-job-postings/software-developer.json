@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T14:13:58.361Z",
+  "generatedAt": "2026-09-23T14:29:32.290Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5894336911",
+      "title": "Software Developer II",
+      "company": "Trane Technologies",
+      "location": "Westmount, Montréal",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-22T17:52:01Z",
+      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=tg6VMVu38RGmi6TqivaP-A&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5888092119",
       "title": "Software Developer",
@@ -39,6 +54,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5830803127?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5894769755",
+      "title": "Software Developer",
+      "company": "Liburdi",
+      "location": "Dundas, Hamilton region",
+      "category": "Engineering Jobs",
+      "contractType": "permanent",
+      "salaryMin": 65000,
+      "salaryMax": 75000,
+      "createdAt": "2026-09-23T00:32:37Z",
+      "descriptionSnippet": "We are currently seeking a full-time Software Developer to design, build, test, and maintain software solutions throughout their full lifecycle while directly collaborating with customers to gather requirements, train users, and deliver ongoing technical support. The hours will typically be in the office Monday to Friday, 8:30 am to 5:00 pm. Base salary: $65,000 - $75,000 / year Location: 45 Innovation Dr, Hamilton, ON L9H 7L8 Date Posted: September 22, 2026 Typical Duties Include (but are not …",
+      "redirectUrl": "https://www.adzuna.ca/details/5894769755?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
+      ]
     },
     {
       "id": "5889699226",
@@ -76,24 +108,6 @@
         "Python",
         "SQL",
         "Docker"
-      ]
-    },
-    {
-      "id": "5888092247",
-      "title": "Software Developer",
-      "company": "Innosystech Inc",
-      "location": "Regent Park, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 189280,
-      "salaryMax": 199680,
-      "createdAt": "2026-09-17T14:14:04Z",
-      "descriptionSnippet": "Job Title: Software Developer - Senior Location: Ontario, Canada Work Model: Onsite Duration: 8 months Must Haves 10 years of experience with Siebel technical configuration/ design / development / integration 5 year of experience of Siebel integration with Adobe AEM , J2EE and etc 5 year of experience with Siebel EIM/EAI. Experience in OBIEE and PowerBI report development Description / Responsibilities / Skills Responsibilities Required to translate technical systems specifications into working…",
-      "redirectUrl": "https://www.adzuna.ca/details/5888092247?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Power BI",
-        "Reporting"
       ]
     },
     {
@@ -163,21 +177,6 @@
       "extractedKeywords": [
         "API"
       ]
-    },
-    {
-      "id": "5890337792",
-      "title": "Software Developer",
-      "company": "Richardson International",
-      "location": "Winnipeg, Winnipeg region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-19T04:29:53Z",
-      "descriptionSnippet": "Working with Richardson opens the door to a world of opportunities to learn, grow, and be part of the critical food supply industry. Our growing Application Delivery Team currently has an opportunity for a Software Developer within our IT department. We are looking for individuals who are passionate about building high-quality software and thrive on taking ideas from conception through to delivery. In this role, you will contribute to the development, enhancement, and support of applications us…",
-      "redirectUrl": "https://www.adzuna.ca/details/5890337792?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
