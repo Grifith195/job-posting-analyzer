@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T14:29:32.290Z",
+  "generatedAt": "2026-09-24T14:29:11.387Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,26 +18,41 @@
       "salaryMax": null,
       "createdAt": "2026-09-22T17:52:01Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=tg6VMVu38RGmi6TqivaP-A&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=Kr6TTyS48RGQ7J0rZIwI_g&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
       "source": "Adzuna",
       "extractedKeywords": []
     },
     {
-      "id": "5888092119",
+      "id": "5895145542",
       "title": "Software Developer",
-      "company": "vTech Solution",
-      "location": "Ontario, Canada",
+      "company": "RemoteJobsOne",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 124800,
+      "salaryMax": 156000,
+      "createdAt": "2026-09-23T07:42:49Z",
+      "descriptionSnippet": "This is a fully remote position , open to candidates based in Canada. Pay: $60–$75/hr Role Title: Software Developer Role Type: Contractor Location: Remote We are engaging Software Developers to contribute expertise to a dynamic customer project focused on digital innovation. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required —…",
+      "redirectUrl": "https://www.adzuna.ca/details/5895145542?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5895535359",
+      "title": "Software Developer",
+      "company": "Innosystech Inc",
+      "location": "Regent Park, City of Toronto",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 93600,
-      "salaryMax": 133120,
-      "createdAt": "2026-09-17T14:13:58Z",
-      "descriptionSnippet": "Job Summary: The Junior Software Developer is responsible for translating technical system specifications into functional, tested software applications. This role involves coding, testing, debugging, and maintaining software while collaborating with IT professionals throughout the Software Development Life Cycle. The position requires strong analytical skills, problem-solving abilities, and effective communication to deliver high-quality software solutions. Responsibilities: Develop detailed pr…",
-      "redirectUrl": "https://www.adzuna.ca/details/5888092119?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 187200,
+      "salaryMax": 197600,
+      "createdAt": "2026-09-23T14:17:04Z",
+      "descriptionSnippet": "Job Title: Software Developer - Senior Location: Toronto, Ontario, Canada Work Model: Onsite Duration: 6 months Extension: 1 Time Must Haves 10 years of experience as a designer and developer in the large-scale multi-client web applications 10 year of hands-on working experience of Java development with Oracle or SQL database 5 years of hands-on experience of RestAPI, RESTful WebServices Solid Understanding of Agile methodologies Object Oriented coding practices, including design patterns knowl…",
+      "redirectUrl": "https://www.adzuna.ca/details/5895535359?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "Testing",
-        "Communication"
+        "SQL",
+        "Agile"
       ]
     },
     {
@@ -73,41 +88,20 @@
       ]
     },
     {
-      "id": "5889699226",
+      "id": "5895535254",
       "title": "Software Developer",
       "company": "Teckhorizon Inc",
       "location": "Regent Park, City of Toronto",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 124800,
-      "salaryMax": 124800,
-      "createdAt": "2026-09-18T14:13:58Z",
-      "descriptionSnippet": "Our Client is looking for a Junior Software Developer with experience in Oracle development, data integration, ETL, and enterprise data platforms to support a large public-sector environment. Key Responsibilities Translate technical specifications into working and tested applications. Develop, test, debug, maintain, and document application code. Support implementation, conversion, migration, and post-production activities. Work with relational databases, SQL, ETL, APIs, and enterprise data sol…",
-      "redirectUrl": "https://www.adzuna.ca/details/5889699226?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 208000,
+      "salaryMax": 208000,
+      "createdAt": "2026-09-23T14:16:57Z",
+      "descriptionSnippet": "The client is seeking a Senior Software Developer with extensive experience in Java, Oracle databases, RESTful web services, and enterprise application development. The ideal candidate will have strong backend development experience together with Oracle E-Business, PL/SQL, data conversion, integration, and enterprise application support. Responsibilities Translate technical system specifications into working and tested applications. Develop detailed programming specifications and application co…",
+      "redirectUrl": "https://www.adzuna.ca/details/5895535254?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "SQL",
-        "API",
-        "Testing"
-      ]
-    },
-    {
-      "id": "5884999304",
-      "title": "Software Developer",
-      "company": "ITMC Systems, Inc",
-      "location": "Finter Quarries, Ottawa",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-15T14:12:50Z",
-      "descriptionSnippet": "ID 514854 Job Title: Software Developer Client Thales Location: Ottawa, Ontario (hybrid) (the position is onsite 3 days per week) Experience 5 relevant years experience in Python, C, & C++ (all 3 are mandatory) Only Canadian citizens & PRs required Mandatory Requirement: 5 years mandatory experience with Python and C,C++ experience Design and implement Java-based software components for the LCC subsystem. Utilize containerized microservices architecture (e.g., Docker, Kubernetes). Integrate SQL…",
-      "redirectUrl": "https://www.adzuna.ca/details/5884999304?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Python",
-        "SQL",
-        "Docker"
+        "SQL"
       ]
     },
     {
