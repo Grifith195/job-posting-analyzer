@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T14:29:11.387Z",
+  "generatedAt": "2026-09-25T14:49:16.618Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-09-22T17:52:01Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=Kr6TTyS48RGQ7J0rZIwI_g&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=WLVdSPC48RGn_4XFqBhHEw&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -32,7 +32,7 @@
       "salaryMin": 124800,
       "salaryMax": 156000,
       "createdAt": "2026-09-23T07:42:49Z",
-      "descriptionSnippet": "This is a fully remote position , open to candidates based in Canada. Pay: $60–$75/hr Role Title: Software Developer Role Type: Contractor Location: Remote We are engaging Software Developers to contribute expertise to a dynamic customer project focused on digital innovation. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required —…",
+      "descriptionSnippet": "IMPORTANT: after you apply, please check your email. We send you a link to complete your application — it is not considered until that last step is done. If you do not see it, check your spam folder. This is a fully remote position , open to candidates based in Canada. Pay: $60–$75/hr Role Title: Software Developer Role Type: Contractor Location: Remote We are engaging Software Developers to contribute expertise to a dynamic customer project focused on digital innovation. In this role, you'll a…",
       "redirectUrl": "https://www.adzuna.ca/details/5895145542?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
@@ -105,38 +105,34 @@
       ]
     },
     {
-      "id": "5859128806",
+      "id": "5897187292",
       "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
+      "company": "Turing",
+      "location": "North York, Toronto",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-27T22:12:47Z",
-      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for maintaining existing and architectin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859128806?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 416000,
+      "salaryMax": 624000,
+      "createdAt": "2026-09-24T13:47:37Z",
+      "descriptionSnippet": "About Us: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise …",
+      "redirectUrl": "https://www.adzuna.ca/details/5897187292?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
+      "extractedKeywords": []
     },
     {
-      "id": "5859128812",
+      "id": "5897520394",
       "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
+      "company": "Evertz Microsystems Limited",
+      "location": "Burlington, Halton",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-08-27T22:12:47Z",
-      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for designing and overseeing the impleme…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859128812?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-09-24T20:22:22Z",
+      "descriptionSnippet": "We're looking for a self-driven engineer to join a highly technical team building state-of-the-art technology for a fast-moving, evolving product. This role spans dozens of disciplines, vendors, and technologies — from industry-standard tools to bleeding-edge, domain-specific systems where the only \"documentation\" may be a research whitepaper. You'll help choose the right technology for each problem and often be responsible for building the first implementation of something that doesn't exist y…",
+      "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
+      "extractedKeywords": []
     },
     {
       "id": "5345231455",
