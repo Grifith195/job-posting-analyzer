@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T14:49:16.618Z",
+  "generatedAt": "2026-09-26T13:56:15.456Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -103,23 +103,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5856499693",
-      "title": "Product Manager",
-      "company": "Insight Global",
-      "location": "Newmarket, York region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-26T03:05:27Z",
-      "descriptionSnippet": "Job Description About the Company Insight Global's client, located in Newmarket, ON, is seeking a Product Manager to join their growing product organization. This individual will support a customer-facing SaaS platform and help drive strategic product initiatives that enhance platform value and business growth. Day-to-Day The Product Manager will own and manage the product backlog, working closely with engineering teams to prioritize initiatives and ensure successful delivery of roadmap objecti…",
-      "redirectUrl": "https://www.adzuna.ca/details/5856499693?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
-    },
-    {
       "id": "5852232546",
       "title": "Product Manager",
       "company": "BinSentry",
@@ -165,6 +148,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5898261894?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5842874419",
+      "title": "Product Manager",
+      "company": "Algo Communication Products",
+      "location": "Burnaby, Greater Vancouver",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": 90000,
+      "salaryMax": 120000,
+      "createdAt": "2026-08-15T04:45:41Z",
+      "descriptionSnippet": "The Role: We are seeking a Product Manager to lead new product development initiatives for exciting new product launches at Algo. We have an ambitious roadmap and we are looking for a Product Manager to help bring this plan to life. This role is the single point of accountability for turning product ideas and strategic direction into successful product launches. The Product Manager will establish a clear product vision, define what we are building and why, and drive alignment, decisions, and pr…",
+      "redirectUrl": "https://www.adzuna.ca/details/5842874419?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Roadmapping"
+      ]
     }
   ]
 }
