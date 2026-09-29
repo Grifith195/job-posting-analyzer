@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T17:50:55.785Z",
+  "generatedAt": "2026-09-29T16:10:58.211Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,37 @@
       "salaryMax": null,
       "createdAt": "2026-09-22T17:52:01Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=oBwMKGW78RG8drI3UgoA2A&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=gqifWyC88RGFYbNJurWLtA&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5785339350",
+      "title": "Senior Software Developer (level 3) – Operations & Infrastructure",
+      "company": "Nord Quantique",
+      "location": "Anjou, Montréal",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-02T06:45:27Z",
+      "descriptionSnippet": "New role at Nord Quantique! Be the first to join us in this position! Available position Senior Software Developer (level 3) – Operations & Infrastructure (permanent position, 40 hours per week) Contact: (819) 975-4654 , career@nordquantique.ca About Nord Quantique At Nord Quantique, we strive to build impactful technology by relentlessly pushing our understanding of quantum science. We are an interdisciplinary team of scientists, engineers, innovators, builders, and enthusiasts on a mission to…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5785339350?se=gqifWyC88RGFYbNJurWLtA&utm_medium=api&utm_source=3ebb75f8&v=0E7EB401290ACDEBF52040126335A8901AB32747",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5785336750",
+      "title": "Senior Software Developer (level 3) – Calibration & Device Intelligence",
+      "company": "Nord Quantique",
+      "location": "Anjou, Montréal",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-02T06:44:07Z",
+      "descriptionSnippet": "New role at Nord Quantique! Be the first to join us in this position! Available position Senior Software Developer (level 3) – Calibration & Device Intelligence (permanent position, 40 hours per week) Contact: (819) 975-4654 , career@nordquantique.ca About Nord Quantique At Nord Quantique, we strive to build impactful technology by relentlessly pushing our understanding of quantum science. We are an interdisciplinary team of scientists, engineers, innovators, builders, and enthusiasts on a miss…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5785336750?se=gqifWyC88RGFYbNJurWLtA&utm_medium=api&utm_source=3ebb75f8&v=8A62F38641D1630984F16C846C3F055B0DC50FC5",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -36,24 +66,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5895145542?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5895535359",
-      "title": "Software Developer",
-      "company": "Innosystech Inc",
-      "location": "Regent Park, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 187200,
-      "salaryMax": 197600,
-      "createdAt": "2026-09-23T14:17:04Z",
-      "descriptionSnippet": "Job Title: Software Developer - Senior Location: Toronto, Ontario, Canada Work Model: Onsite Duration: 6 months Extension: 1 Time Must Haves 10 years of experience as a designer and developer in the large-scale multi-client web applications 10 year of hands-on working experience of Java development with Oracle or SQL database 5 years of hands-on experience of RestAPI, RESTful WebServices Solid Understanding of Agile methodologies Object Oriented coding practices, including design patterns knowl…",
-      "redirectUrl": "https://www.adzuna.ca/details/5895535359?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL",
-        "Agile"
-      ]
     },
     {
       "id": "5830803127",
@@ -85,23 +97,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Testing"
-      ]
-    },
-    {
-      "id": "5895535254",
-      "title": "Software Developer",
-      "company": "Teckhorizon Inc",
-      "location": "Regent Park, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 208000,
-      "salaryMax": 208000,
-      "createdAt": "2026-09-23T14:16:57Z",
-      "descriptionSnippet": "The client is seeking a Senior Software Developer with extensive experience in Java, Oracle databases, RESTful web services, and enterprise application development. The ideal candidate will have strong backend development experience together with Oracle E-Business, PL/SQL, data conversion, integration, and enterprise application support. Responsibilities Translate technical system specifications into working and tested applications. Develop detailed programming specifications and application co…",
-      "redirectUrl": "https://www.adzuna.ca/details/5895535254?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL"
       ]
     },
     {
