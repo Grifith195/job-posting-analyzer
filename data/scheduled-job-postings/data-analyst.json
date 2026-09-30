@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:10:58.211Z",
+  "generatedAt": "2026-09-30T16:08:08.834Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,54 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5901972602",
-      "title": "Senior Data Analyst",
-      "company": "National Bank",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-28T18:22:26Z",
-      "descriptionSnippet": "A career as a Senior Data Analyst in the Financial crime team at National Bank means serving as a Data and Analytics Specialist. This position allows you to have a concrete impact on decision-making and the evolution of the sector's analytical capabilities thanks to your expertise in data analysis, business intelligence and information governance. You will play a key role in transforming data into strategic information, supporting business partners in their decisions and contributing to the evo…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5901972602?se=JE_UWyC88RGM69LiLG50PQ&utm_medium=api&utm_source=3ebb75f8&v=F79D5F49298FB9DBC227016D27311F0CA0D714CE",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5799489321",
-      "title": "BI and Data Analyst",
-      "company": "Soucy",
-      "location": "Saint-Charles-de-Drummond, Drummond",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-14T00:47:20Z",
-      "descriptionSnippet": "Mission Are you passionate about data, analysis, and designing structured BI solutions, and do you want to grow in an environment where data serves as a strategic driver for operations and decision-making? As a BI Analyst, you’ll play a key role in leveraging the company’s data. You’ll be responsible for both producing analytical solutions (Power BI) and structuring and gaining a deep understanding of the data. Beyond creating reports, you’ll actively contribute to the evolution of our data env…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5799489321?se=JE_UWyC88RGM69LiLG50PQ&utm_medium=api&utm_source=3ebb75f8&v=0C4A7E46B4CF9EA5207CBCC2EF3730CC0D95FA58",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Power BI",
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5902797634",
-      "title": "Business Data Analyst",
-      "company": "Reyes Holdings",
-      "location": "Mississauga, Peel region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-29T07:42:09Z",
-      "descriptionSnippet": "Responsibilities Position Summary: As a Business Data Analyst, you will play a key role in analyzing and interpreting data from multiple sources, leverage data driven insights and automation solutions to guide strategic business decisions, streamline data workflows, and improve operational efficiency. This role requires strong technical skills, with a focus on data automation and process optimization. The ideal candidate possesses a strong analytical mindset and a strong problem-solving abiliti…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5902797634?se=JE_UWyC88RGM69LiLG50PQ&utm_medium=api&utm_source=3ebb75f8&v=1CCDA4096299FD9BC51F4B29F19A566DAA415206",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5703538141",
       "title": "Data Analyst",
@@ -82,36 +34,6 @@
       "createdAt": "2026-04-18T07:11:31Z",
       "descriptionSnippet": "JOB OPENING - Data Analyst ADF Medical Services Inc. We're seeking a results-driven and detail-oriented Data Analyst to join our growing analytics team. If you have a strong analytical mindset, love working with data, and want to make a real impact in the healthcare industry — this role is for you. Role: Data Analyst Department: Analytics & Business Intelligence Location: Fully Remote Type: Full-Time / Part-Time What You'll Do: Analyze and interpret complex healthcare and operational datasets D…",
       "redirectUrl": "https://www.adzuna.ca/details/5703538140?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5895145551",
-      "title": "Data Analyst",
-      "company": "RemoteJobsOne",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 104000,
-      "salaryMax": 124800,
-      "createdAt": "2026-09-23T07:42:49Z",
-      "descriptionSnippet": "IMPORTANT: after you apply, please check your email. We send you a link to complete your application — it is not considered until that last step is done. If you do not see it, check your spam folder. This is a fully remote position , open to candidates based in Canada. Pay: $50–$60/hr Role Title: Data Analyst Role Type: Contractor Location: Remote We are engaging Data Analysts to contribute expertise to a confidential client project focused on evaluating AI assistants in real-world analytical w…",
-      "redirectUrl": "https://www.adzuna.ca/details/5895145551?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5895145632",
-      "title": "Data Analyst",
-      "company": "RemoteJobsOne",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 64480,
-      "salaryMax": 124800,
-      "createdAt": "2026-09-23T07:42:52Z",
-      "descriptionSnippet": "IMPORTANT: after you apply, please check your email. We send you a link to complete your application — it is not considered until that last step is done. If you do not see it, check your spam folder. This is a fully remote position , open to candidates based in Canada. Pay: $31–$60/hr Role Title: Data Analyst Role Type: Contractor Location: Remote We are engaging Data Analysts to contribute to a high-impact customer project focused on business data. In this role, you'll apply your expertise to …",
-      "redirectUrl": "https://www.adzuna.ca/details/5895145632?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -159,6 +81,84 @@
       "createdAt": "2026-09-04T09:55:36Z",
       "descriptionSnippet": "About Citylitics Inc. Citylitics delivers predictive intelligence on where, how, and why infrastructure investments will occur across North America. Infrastructure includes the foundational systems that shape our quality of life: water, transportation, transit, roads and highways, broadband, and power. It represents a multi-trillion-dollar market and a 20 year megatrend in North America. Citylitics transforms millions of documents across more than 40,000 cities, utilities, and public agencies i…",
       "redirectUrl": "https://www.adzuna.ca/details/5870640464?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5743725288",
+      "title": "Data Analyst",
+      "company": "Sapsol Technologies Inc",
+      "location": "Winnipeg region, Manitoba",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 60,
+      "salaryMax": 65,
+      "createdAt": "2026-05-28T16:23:55Z",
+      "descriptionSnippet": "You will support a critical operational reporting and data initiative within a university environment. This role focuses on modernizing legacy reporting systems, improving data access, and enabling better decision-making across faculties and departments. Responsibilities Analyze legacy PHP applications with embedded SQL to understand system logic Reverse engineer reports to identify data sources, dependencies, and requirements Develop SQL queries and data extracts to support reporting needs Red…",
+      "redirectUrl": "https://www.adzuna.ca/details/5743725288?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5727240710",
+      "title": "Data Analyst",
+      "company": "Jose Merciline",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-12T16:43:40Z",
+      "descriptionSnippet": "Job title: Data Analyst Description: This position is with the Enterprise System Management (ESM) department. The position is with a team responsible for a set of systems used to manage Morgan Stanley’s IT inventory and assets data, together with their configuration and operational state. This data is critical for regulatory, operational, and efficiency purposes. Our goals are: -Sourcing IT inventory and machine data (e.g. logs, alerts) in a timely manner. -Storing the data in scalable reposito…",
+      "redirectUrl": "https://www.adzuna.ca/details/5727240710?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5727144132",
+      "title": "Data Analyst",
+      "company": "Jose Merciline",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-12T16:34:49Z",
+      "descriptionSnippet": "Data Analyst This position is with the Enterprise System Management (ESM) department. The position is with a team responsible to manage our company IT inventory and assets data. This data is critical for regulatory, operational, and efficiency purposes .As part of a team focused on rationalizing different legacy hardware asset and configuration management solutions into a single strategic platform, we are looking for a data analyst. The candidate will work closely with a broad range of stakehol…",
+      "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5853471514",
+      "title": "Data Analyst",
+      "company": "Stripe",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-23T04:43:23Z",
+      "descriptionSnippet": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important …",
+      "redirectUrl": "https://www.adzuna.ca/details/5853471514?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5888936887",
+      "title": "Data Analyst",
+      "company": "WOMBO Studios",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 70000,
+      "salaryMax": 90000,
+      "createdAt": "2026-09-18T04:32:03Z",
+      "descriptionSnippet": "About the company Through the latest techniques in AI and a sprinkle of magic, WOMBO powers the next generation synthetic media to make people laugh and smile. WOMBO has two products, Dream and WOMBO. - Dream lets users create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch Dream turn your idea into an AI-powered painting in seconds. Dream has ranked 1 in the Graphics and Design category in 50 countries and has been covered by The Verge and TechCrunch. - WO…",
+      "redirectUrl": "https://www.adzuna.ca/details/5888936887?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

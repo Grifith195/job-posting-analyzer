@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:10:58.211Z",
+  "generatedAt": "2026-09-30T16:08:08.834Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,58 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5901972719",
-      "title": "Product Manager, Data",
-      "company": "Air Canada",
-      "location": "Dorval, Montréal",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-28T18:22:31Z",
-      "descriptionSnippet": "Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your career take flight by joining our diverse and vibrant team at the leading edge of passenger aviation. The Product Manager Data is responsible for defining, prioritizing, and managing data product roadmaps for their respective domains. This key role drives our data product vision with a focus on a continuous product delivery model and overall success. Responsibilit…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5901972719?se=5koCXCC88RGM69LiLG50PQ&utm_medium=api&utm_source=3ebb75f8&v=D2664EDEA967B89A1973EEBA2EF7836F50A79CFE",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
-    },
-    {
-      "id": "5901975942",
-      "title": "Product Manager, Data & AI",
-      "company": "Air Canada",
-      "location": "Dorval, Montréal",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-28T18:31:05Z",
-      "descriptionSnippet": "Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your career take flight by joining our diverse and vibrant team at the leading edge of passenger aviation. As a Product Manager, AI, you will be responsible for the strategy, roadmap, prioritization, and lifecycle management of Air Canada's AI products. You will work at the intersection of business strategy, customer needs, data, and technology to identify opportunitie…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5901975942?se=5koCXCC88RGM69LiLG50PQ&utm_medium=api&utm_source=3ebb75f8&v=6449370A394AADF8898FBA6725FA1D653FB2646E",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Roadmapping"
-      ]
-    },
-    {
-      "id": "5796533723",
-      "title": "Product Project Manager",
-      "company": "Soucy",
-      "location": "Saint-Charles-de-Drummond, Drummond",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-11T00:44:02Z",
-      "descriptionSnippet": "Mission Do you want to contribute to the development of technical, sustainable, and high-performance products? Are you driven by hands-on projects, mechanical design, and cross-team collaboration? This position could very well be for you. Reporting to the Director of Development and Innovation, you’ll be involved in every stage of product development, from needs analysis to the integration of UHMW-PE molded products into production. You’ll also help improve our existing products and support int…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5796533723?se=5koCXCC88RGM69LiLG50PQ&utm_medium=api&utm_source=3ebb75f8&v=AEAE3D30A0CCF24DFFAEF8048DB0152230B87D39",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication",
-        "Reporting"
-      ]
-    },
     {
       "id": "5894309904",
       "title": "Product Manager",
@@ -166,6 +114,53 @@
       "createdAt": "2026-08-22T04:18:41Z",
       "descriptionSnippet": "About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making capabilities. With our technolo…",
       "redirectUrl": "https://www.adzuna.ca/details/5852232546?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5885851228",
+      "title": "Product Manager",
+      "company": "insightsoftware",
+      "location": "Canada",
+      "category": "Accounting & Finance Jobs",
+      "contractType": null,
+      "salaryMin": 89000,
+      "salaryMax": 111000,
+      "createdAt": "2026-09-16T04:31:17Z",
+      "descriptionSnippet": "About Us: insightsoftware is a global provider of reporting, analytics, and performance management solutions that unlock the potential of business data and transform the way finance and data teams operate. We empower leaders from over 32,000 organizations to make timely and intelligent decisions. Our comprehensive solutions span Financial Planning and Analysis (FP&A), Controllership, and Data and Analytics. We deliver finance teams the insights required to navigate any economic climate and driv…",
+      "redirectUrl": "https://www.adzuna.ca/details/5885851228?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5898261894",
+      "title": "Product Manager",
+      "company": "BinSentry",
+      "location": "Kitchener, Waterloo region",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": 110000,
+      "salaryMax": 110000,
+      "createdAt": "2026-09-25T07:04:32Z",
+      "descriptionSnippet": "Job Description Job Description About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making…",
+      "redirectUrl": "https://www.adzuna.ca/details/5898261894?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5329711736",
+      "title": "Product Manager",
+      "company": "Starboard Recruitment",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-07-31T07:40:04Z",
+      "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
+      "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
