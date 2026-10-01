@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:08:08.834Z",
+  "generatedAt": "2026-10-01T16:45:00.712Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -27,6 +27,24 @@
       ]
     },
     {
+      "id": "5905230893",
+      "title": "Frontend Developer",
+      "company": "Whc",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-01T04:51:20Z",
+      "descriptionSnippet": "The Opportunity Reporting to a Software Development Lead, you’ll build the interfaces our customers use to manage their websites, domains, and email, working in a squad with back-end developers and designers. This role has two sides. The first is our modern platform: a React front-end built in 2026 (React 19, Vite, Tailwind, TanStack Query, React Hook Form) where nearly all new feature work lands. It’s bilingual and accessible by default, built on our own components rather than a library, and d…",
+      "redirectUrl": "https://www.adzuna.ca/details/5905230893?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Reporting"
+      ]
+    },
+    {
       "id": "5899077757",
       "title": "Frontend Developer - Angular",
       "company": "INFOYA",
@@ -42,6 +60,51 @@
       "extractedKeywords": [
         "Communication"
       ]
+    },
+    {
+      "id": "5858196541",
+      "title": "Frontend Developer - Remote",
+      "company": "YO AI Labs",
+      "location": "Edmonton, Edmonton region",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 166400,
+      "salaryMax": 249600,
+      "createdAt": "2026-08-27T07:20:06Z",
+      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5858196541?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5858196534",
+      "title": "Frontend Developer - Remote",
+      "company": "YO AI Labs",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 166400,
+      "salaryMax": 249600,
+      "createdAt": "2026-08-27T07:20:05Z",
+      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5858196534?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5858196535",
+      "title": "Frontend Developer - Remote",
+      "company": "YO AI Labs",
+      "location": "Ottawa, Ottawa region",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 166400,
+      "salaryMax": 249600,
+      "createdAt": "2026-08-27T07:20:05Z",
+      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5858196535?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5858196532",
@@ -74,51 +137,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5858196541",
-      "title": "Frontend Developer - Remote",
-      "company": "YO AI Labs",
-      "location": "Edmonton, Edmonton region",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 166400,
-      "salaryMax": 249600,
-      "createdAt": "2026-08-27T07:20:06Z",
-      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858196541?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5858196535",
-      "title": "Frontend Developer - Remote",
-      "company": "YO AI Labs",
-      "location": "Ottawa, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 166400,
-      "salaryMax": 249600,
-      "createdAt": "2026-08-27T07:20:05Z",
-      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858196535?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5858196534",
-      "title": "Frontend Developer - Remote",
-      "company": "YO AI Labs",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 166400,
-      "salaryMax": 249600,
-      "createdAt": "2026-08-27T07:20:05Z",
-      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858196534?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5900584850",
       "title": "Frontend Developer - Angular",
       "company": "Infoya",
@@ -147,21 +165,6 @@
       "createdAt": "2026-08-16T04:49:23Z",
       "descriptionSnippet": "TELUS Health is empowering every person to live their healthiest life. Guided by our vision, we are leveraging the power of our leading edge technology and focusing on the uniqueness of each individual to create the future of health. As a global-leading health and well-being provider – encompassing physical, mental and financial health – TELUS Health is improving health outcomes for consumers, patients, healthcare professionals, employers and employees. Join our team and what we'll accomplish t…",
       "redirectUrl": "https://www.adzuna.ca/details/5844071339?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5539959828",
-      "title": "Frontend Developer (Angular)",
-      "company": "A-CX",
-      "location": "Chaldecutt, Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 88764,
-      "salaryMax": 109812,
-      "createdAt": "2025-12-12T14:04:27Z",
-      "descriptionSnippet": "A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend solutions, crafting software products that fulfill expectations with high …",
-      "redirectUrl": "https://www.adzuna.ca/details/5539959828?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

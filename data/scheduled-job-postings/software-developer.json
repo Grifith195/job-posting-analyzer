@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T16:08:08.834Z",
+  "generatedAt": "2026-10-01T16:45:00.712Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,9 +18,41 @@
       "salaryMax": null,
       "createdAt": "2026-09-22T17:52:01Z",
       "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=VjkVIem88RGFzc6HHKviZw&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=hozWcbe98RGs4p7qNUO4VA&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5905757164",
+      "title": "Senior GenAI Software Developer",
+      "company": "BMO Financial",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-01T10:11:57Z",
+      "descriptionSnippet": "Technology Build the Future of Banking with Generative AI At BMO, we're transforming the future of financial services through Generative AI. We're looking for a passionate and innovative Senior GenAI Software Developer to join our growing team and help design, build, scale, and lead intelligent AI-powered solutions that enhance employee and customer experiences across the bank. This is an exciting opportunity to work at the intersection of artificial intelligence, software engineering, cloud te…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5905757164?se=hozWcbe98RGs4p7qNUO4VA&utm_medium=api&utm_source=3ebb75f8&v=C1B0A9EEB8C0F585A0E0961FF60A00558CA4B380",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5904773497",
+      "title": "Software Developer",
+      "company": "ADGA Group Consultants Inc",
+      "location": "Ottawa, Ottawa region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-01T00:25:16Z",
+      "descriptionSnippet": "Job Description ADGA is seeking Software Developers to support the design, development, implementation, and maintenance of software applications and systems. The successful candidates will work as part of multidisciplinary technical teams to analyze requirements, develop software solutions, troubleshoot technical issues, conduct testing, and support the deployment and maintenance of software applications. This role is ideal for early-career software professionals who have gained practical devel…",
+      "redirectUrl": "https://www.adzuna.ca/details/5904773497?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
+      ]
     },
     {
       "id": "5830803127",
@@ -87,24 +119,6 @@
       ]
     },
     {
-      "id": "5859649773",
-      "title": "Software Developer",
-      "company": "Savard Personnel Group",
-      "location": "Halifax, Halifax region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-28T08:11:53Z",
-      "descriptionSnippet": "Job Description Job Description Software Developer - Up to $120K Join SAVARD Personnel Group - where your skills are valued! We are seeking a Software Developer to develop, maintain, and support enterprise applications and data solutions within a Microsoft technology environment. The ideal candidate will be comfortable with application development, data integration, DevOps, and production support. Key Responsibilities Develop and support applications using .NET, C#, SQL Server, React, TypeScrip…",
-      "redirectUrl": "https://www.adzuna.ca/details/5859649773?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "SQL"
-      ]
-    },
-    {
       "id": "5876811493",
       "title": "Software Developer",
       "company": "Alquemy",
@@ -146,23 +160,6 @@
       "createdAt": "2026-09-11T04:58:02Z",
       "descriptionSnippet": "Job Description Vacancy Status: This posting is not for an existing vacancy within the organization and is open to new applications. (New Head Count) AI Disclosure: As part of the application process, Artificial Intelligence will be used in the hiring process for this role Hybrid : This role is categorized as hybrid. This means the successful candidate is expected to report to Markham Elevation Center three times per week, at minimum [or other frequency dictated by the business About the role: …",
       "redirectUrl": "https://www.adzuna.ca/details/5879468774?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
-      "id": "5880787758",
-      "title": "Software Developer",
-      "company": "GM",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 115000,
-      "salaryMax": 164600,
-      "createdAt": "2026-09-12T04:51:20Z",
-      "descriptionSnippet": "Job Description Vacancy Status: This posting is not for an existing vacancy within the organization and is open to new applications. (New Head Count) AI Disclosure: As part of the application process, Artificial Intelligence will be used in the hiring process for this role Hybrid : This role is categorized as hybrid. This means the successful candidate is expected to report to Markham Elevation Center three times per week, at minimum [or other frequency dictated by the business About the role: …",
-      "redirectUrl": "https://www.adzuna.ca/details/5880787758?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
