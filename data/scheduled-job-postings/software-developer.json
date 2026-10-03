@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T16:45:00.712Z",
+  "generatedAt": "2026-10-03T14:27:16.207Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -8,34 +8,101 @@
   },
   "jobs": [
     {
-      "id": "5894336911",
-      "title": "Software Developer II",
-      "company": "Trane Technologies",
-      "location": "Westmount, Montréal",
-      "category": "Engineering Jobs",
+      "id": "5908536703",
+      "title": "LEAD SOFTWARE DEVELOPER",
+      "company": "The Home Depot Canada",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-09-22T17:52:01Z",
-      "descriptionSnippet": "Be a part of our mission! As a world leader in creating comfortable, sustainable, and efficient climate solutions for buildings, homes and transportation, it's our responsibility to put the planet first. For us at Trane Technologies , and through our businesses including Trane® and Thermo King , sustainability is not just how we do business—it is our business. Do you dare to look at the world's challenges and see impactful possibilities? Do you want to contribute to making a better future? If t…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5894336911?se=hozWcbe98RGs4p7qNUO4VA&utm_medium=api&utm_source=3ebb75f8&v=ACF5E2F5070F00FC386D2755F324714014A47AA0",
+      "createdAt": "2026-10-02T13:38:13Z",
+      "descriptionSnippet": "Job Description Pay Range: $110,000 - $135,000 At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting yo…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536703?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=E6BFA5F625F56771DD3B221E32989417CBB82590",
       "source": "Adzuna",
       "extractedKeywords": []
     },
     {
-      "id": "5905757164",
-      "title": "Senior GenAI Software Developer",
-      "company": "BMO Financial",
+      "id": "5908536221",
+      "title": "Senior Software Developer",
+      "company": "Xplore Inc.",
       "location": "Canada",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-10-01T10:11:57Z",
-      "descriptionSnippet": "Technology Build the Future of Banking with Generative AI At BMO, we're transforming the future of financial services through Generative AI. We're looking for a passionate and innovative Senior GenAI Software Developer to join our growing team and help design, build, scale, and lead intelligent AI-powered solutions that enhance employee and customer experiences across the bank. This is an exciting opportunity to work at the intersection of artificial intelligence, software engineering, cloud te…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5905757164?se=hozWcbe98RGs4p7qNUO4VA&utm_medium=api&utm_source=3ebb75f8&v=C1B0A9EEB8C0F585A0E0961FF60A00558CA4B380",
+      "createdAt": "2026-10-02T13:37:51Z",
+      "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our company-wide di…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536221?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=DE8B13DDBB761E42ADF4374ED138151A781A8709",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5865028962",
+      "title": "Software Developer / Programmer",
+      "company": "SimpleK division de ASSA ABLOY High Security Group Inc.",
+      "location": "Saint-Cleophas-de-Brandon, D'Autray",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-01T12:09:16Z",
+      "descriptionSnippet": "Join the SimpleK development team and help shape a specialized software solution used to manage physical keys and complex master key systems. As a Software Developer / Programmer , you will use Microsoft technologies, including C#, Blazor, .NET, Entity Framework Core, and Microsoft SQL Server , to transform real-world customer needs into reliable, intuitive, and scalable web application features. Working closely with business stakeholders, developers, and end users throughout the software devel…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5865028962?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=42C9297C28CE52E971475BE46696C9B1E29DEECE",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Stakeholder Management"
+      ]
+    },
+    {
+      "id": "5908540990",
+      "title": "Software Development Manager Job Details | Purolator",
+      "company": "Purolator",
+      "location": "Mississauga, Peel region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-02T13:40:37Z",
+      "descriptionSnippet": "It’s not a package. It’s a promise®. As Canada’s leading integrated freight, package, and logistics provider, we’ve been helping promises get where they need to be for more than 60 years. How does the magic happen? The journey starts with you . The places we go, the elements we brave, the promises we deliver - it’s all possible because of our people. So, whether you’re looking to build new skills, make an impact in your community, or inspire your team, we go there for you. Description Reporting…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5908540990?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=783B6A2A333032F6767963E4A14F11F410428ACA",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5785339350",
+      "title": "Senior Software Developer (level 3) – Operations & Infrastructure",
+      "company": "Nord Quantique",
+      "location": "Anjou, Montréal",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-02T06:45:27Z",
+      "descriptionSnippet": "New role at Nord Quantique! Be the first to join us in this position! Available position Senior Software Developer (level 3) – Operations & Infrastructure (permanent position, 40 hours per week) Contact: (819) 975-4654 , career@nordquantique.ca About Nord Quantique At Nord Quantique, we strive to build impactful technology by relentlessly pushing our understanding of quantum science. We are an interdisciplinary team of scientists, engineers, innovators, builders, and enthusiasts on a mission to…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5785339350?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=0E7EB401290ACDEBF52040126335A8901AB32747",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5902950566",
+      "title": "Senior AI Software Developer (Python & Generative AI)",
+      "company": "Blitz TI",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-29T12:33:10Z",
+      "descriptionSnippet": "We are recruiting a Senior AI Software Developer for a leading Canadian organization investing in artificial intelligence applications used by teams across the country. You will join a small team dedicated to AI, designing and building applications powered by large language models (LLMs) and AI agents. You will take ownership of these solutions from early prototype through production. This is a hands-on development role with the opportunity to guide the team’s engineering practices and mentor a…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5902950566?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=20E11C5908403C080F4C83B0C2E5900DA0816484",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Python"
+      ]
     },
     {
       "id": "5904773497",
@@ -100,70 +167,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5345231455",
-      "title": "Software Developer",
-      "company": "ProjectLine Solutions",
-      "location": "Saskatoon, Saskatchewan",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-08-09T05:32:31Z",
-      "descriptionSnippet": "Our Software Developers are strong programmers with demonstrated experience writing robust, maintainable code for challenging and stimulating projects. You'll have the opportunity to match your passion for software development with a diversity of challenging and exciting projects. Qualifications Demonstrated software development experience. A solid understanding of TypeScript and Reactive programming principles. Experience with Angular and Angular Material. Familiarity with common CSS framework…",
-      "redirectUrl": "https://www.adzuna.ca/details/5345231455?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript"
-      ]
-    },
-    {
-      "id": "5876811493",
-      "title": "Software Developer",
-      "company": "Alquemy",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-09T04:36:46Z",
-      "descriptionSnippet": "Job Description Senior Software Developer Role Overview We are seeking an experienced Software Developer with strong Java development skills and hands-on experience building real-time data streaming solutions in cloud environments. The ideal candidate will have expertise with technologies such as Apache Kafka, Apache Flink, and Google Cloud Platform (GCP), along with experience supporting production systems. Key Responsibilities Develop, maintain, and enhance Java-based applications and service…",
-      "redirectUrl": "https://www.adzuna.ca/details/5876811493?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5815846270",
-      "title": "Software Developer",
-      "company": "Promise Robotics",
-      "location": "Calgary, Calgary region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-07-25T18:01:12Z",
-      "descriptionSnippet": "Promise Robotics is pioneering Physical AI for homebuilding — a rapidly growing, venture-backed company bringing together AI, robotics, and manufacturing to help the homebuilding industry meet the growing demand for housing. Our robotic systems, built and operated inside AI -powered factories, give the industry the production capacity, consistency, and speed to build more high-quality homes than traditional methods allow. Our team spans AI researchers and roboticists to factory operators, techn…",
-      "redirectUrl": "https://www.adzuna.ca/details/5815846270?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5879468774",
-      "title": "Software Developer",
-      "company": "General Motors",
-      "location": "Markham, York region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-11T04:58:02Z",
-      "descriptionSnippet": "Job Description Vacancy Status: This posting is not for an existing vacancy within the organization and is open to new applications. (New Head Count) AI Disclosure: As part of the application process, Artificial Intelligence will be used in the hiring process for this role Hybrid : This role is categorized as hybrid. This means the successful candidate is expected to report to Markham Elevation Center three times per week, at minimum [or other frequency dictated by the business About the role: …",
-      "redirectUrl": "https://www.adzuna.ca/details/5879468774?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
     }
   ]
 }
