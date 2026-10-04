@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T14:27:16.207Z",
+  "generatedAt": "2026-10-04T15:01:30.819Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-10-02T13:38:13Z",
       "descriptionSnippet": "Job Description Pay Range: $110,000 - $135,000 At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting yo…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536703?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=E6BFA5F625F56771DD3B221E32989417CBB82590",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536703?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=E6BFA5F625F56771DD3B221E32989417CBB82590",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -33,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-10-02T13:37:51Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our company-wide di…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536221?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=DE8B13DDBB761E42ADF4374ED138151A781A8709",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536221?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=DE8B13DDBB761E42ADF4374ED138151A781A8709",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -48,12 +48,27 @@
       "salaryMax": null,
       "createdAt": "2026-09-01T12:09:16Z",
       "descriptionSnippet": "Join the SimpleK development team and help shape a specialized software solution used to manage physical keys and complex master key systems. As a Software Developer / Programmer , you will use Microsoft technologies, including C#, Blazor, .NET, Entity Framework Core, and Microsoft SQL Server , to transform real-world customer needs into reliable, intuitive, and scalable web application features. Working closely with business stakeholders, developers, and end users throughout the software devel…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5865028962?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=42C9297C28CE52E971475BE46696C9B1E29DEECE",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5865028962?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=42C9297C28CE52E971475BE46696C9B1E29DEECE",
       "source": "Adzuna",
       "extractedKeywords": [
         "SQL",
         "Stakeholder Management"
       ]
+    },
+    {
+      "id": "5911600897",
+      "title": "Software developer",
+      "company": "Soho Square Solutions",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-04T10:19:20Z",
+      "descriptionSnippet": "Senior Developer – Fixed Income Trading Position Title: Senior Developer – Fixed Income Trading Line of Business: Fixed Income Duration: 6 months (Possibility of Extension) Location: GTA-based – Currently 100% remote, but candidates must be able to attend occasional in-office meetings/events at Toronto Role Mandate: We aspire to build a best-in‑class platform for our Fixed Income trading desk, covering a wide spectrum of Investment Grade and High Yield bonds to serve the growing needs of our cl…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5911600897?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=25CAC4075C3E21613123DCFE1DAC4DAEA0C07A91",
+      "source": "Adzuna",
+      "extractedKeywords": []
     },
     {
       "id": "5908540990",
@@ -66,7 +81,71 @@
       "salaryMax": null,
       "createdAt": "2026-10-02T13:40:37Z",
       "descriptionSnippet": "It’s not a package. It’s a promise®. As Canada’s leading integrated freight, package, and logistics provider, we’ve been helping promises get where they need to be for more than 60 years. How does the magic happen? The journey starts with you . The places we go, the elements we brave, the promises we deliver - it’s all possible because of our people. So, whether you’re looking to build new skills, make an impact in your community, or inspire your team, we go there for you. Description Reporting…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5908540990?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=783B6A2A333032F6767963E4A14F11F410428ACA",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5908540990?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=783B6A2A333032F6767963E4A14F11F410428ACA",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5911601810",
+      "title": "RQ09410 - Software Developer - Senior",
+      "company": "Rubicon Path",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-04T10:19:31Z",
+      "descriptionSnippet": "About the job RQ09410 - Software Developer - Senior Responsibilities: Ensure Accessibility standards are met (AODA) Developing and maintaining system design models, program codes, technical documentation, and specifications Ensure development of application solution is implemented and in accordance with the business requirements Conducting research and assessment of options for technical design issues Contributing to design/development project plans, including work breakdown and resources estim…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5911601810?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=96B309388F46E37A807942AFD07E89A7D09CB125",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5911600918",
+      "title": "RQ09083 - Software Developer - Senior",
+      "company": "Rubicon Path",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-04T10:19:21Z",
+      "descriptionSnippet": "About the job RQ09083 - Software Developer - Senior Description Hybrid Work Environment: The successful candidate is expected to work onsite at 222 Jarvis St 3 days per week, and may work remotely up to 2 days per week. Responsibilities: Required to translate technical systems specifications into working, tested applications. This includes: developing detailed programming specifications writing and/or generating code compiling data-driven programs, maintaining, and conducting unit tests Resolve…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5911600918?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=13CEE3444BAA6EC10F16FEE732C1A26077B6F16A",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
+      ]
+    },
+    {
+      "id": "5911601775",
+      "title": "RQ09176 - Software Developer - Senior",
+      "company": "Rubicon Path",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-04T10:19:31Z",
+      "descriptionSnippet": "About the job RQ09176 - Software Developer - Senior Responsibilities: Required to translate technical systems specifications into working, tested applications. This includes developing detailed programming specifications, writing and/or generating code, compiling data-driven programs, maintaining,SkillsExperience and Skill Set Requirements The Resources will act as a subject matter experts on a variety of cloud and AI projects initiatives such as: Enabling and designing the Government of Ontari…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5911601775?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=59AD1781EAF1F1C12FE8ADD6BEFED38B12AED845",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5911602005",
+      "title": "RQ08196 - Sr. Software Developer",
+      "company": "Rubicon Path",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-04T10:19:34Z",
+      "descriptionSnippet": "About the job RQ08196 - Sr. Software Developer Responsibilities The resource required to provide additional capacity to assist with the management of Axway Secure Transport version 5.5 and Axway Sentinel reporting tool,(aka Managed File Transfer - MFT) to meet all current operational demands as well as the current need for on-premise to cloud migrations of all interfaces within the MFT system. A FFS resource will create capacity, ensure ground to cloud migrations are completed in a timely manne…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5911602005?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=6DD4011949DD8543B3D3D534327B2F024A502E71",
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
@@ -83,88 +162,7 @@
       "salaryMax": null,
       "createdAt": "2026-07-02T06:45:27Z",
       "descriptionSnippet": "New role at Nord Quantique! Be the first to join us in this position! Available position Senior Software Developer (level 3) – Operations & Infrastructure (permanent position, 40 hours per week) Contact: (819) 975-4654 , career@nordquantique.ca About Nord Quantique At Nord Quantique, we strive to build impactful technology by relentlessly pushing our understanding of quantum science. We are an interdisciplinary team of scientists, engineers, innovators, builders, and enthusiasts on a mission to…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5785339350?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=0E7EB401290ACDEBF52040126335A8901AB32747",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5902950566",
-      "title": "Senior AI Software Developer (Python & Generative AI)",
-      "company": "Blitz TI",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-29T12:33:10Z",
-      "descriptionSnippet": "We are recruiting a Senior AI Software Developer for a leading Canadian organization investing in artificial intelligence applications used by teams across the country. You will join a small team dedicated to AI, designing and building applications powered by large language models (LLMs) and AI agents. You will take ownership of these solutions from early prototype through production. This is a hands-on development role with the opportunity to guide the team’s engineering practices and mentor a…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5902950566?se=6hiLiDa_8RGTyvTH5qRQ7A&utm_medium=api&utm_source=3ebb75f8&v=20E11C5908403C080F4C83B0C2E5900DA0816484",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Python"
-      ]
-    },
-    {
-      "id": "5904773497",
-      "title": "Software Developer",
-      "company": "ADGA Group Consultants Inc",
-      "location": "Ottawa, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-01T00:25:16Z",
-      "descriptionSnippet": "Job Description ADGA is seeking Software Developers to support the design, development, implementation, and maintenance of software applications and systems. The successful candidates will work as part of multidisciplinary technical teams to analyze requirements, develop software solutions, troubleshoot technical issues, conduct testing, and support the deployment and maintenance of software applications. This role is ideal for early-career software professionals who have gained practical devel…",
-      "redirectUrl": "https://www.adzuna.ca/details/5904773497?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing"
-      ]
-    },
-    {
-      "id": "5830803127",
-      "title": "Software Developer",
-      "company": "OceanMD",
-      "location": "The Beaches, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-06T13:18:39Z",
-      "descriptionSnippet": "Join us as we change healthcare for the better. OceanMD, a WELL Health Company, is the leading provider of EMR-integrated Patient Engagement and eReferral tools in Canada, playing a critical role in millions of patient visits and thousands of referrals every week. Our digital healthcare solutions empower patients and physicians to overcome the barriers preventing the timely delivery of healthcare services. By replacing paper forms with digital tools, we give patients and providers secure ways t…",
-      "redirectUrl": "https://www.adzuna.ca/details/5830803127?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5894769755",
-      "title": "Software Developer",
-      "company": "Liburdi",
-      "location": "Dundas, Hamilton region",
-      "category": "Engineering Jobs",
-      "contractType": "permanent",
-      "salaryMin": 65000,
-      "salaryMax": 75000,
-      "createdAt": "2026-09-23T00:32:37Z",
-      "descriptionSnippet": "We are currently seeking a full-time Software Developer to design, build, test, and maintain software solutions throughout their full lifecycle while directly collaborating with customers to gather requirements, train users, and deliver ongoing technical support. The hours will typically be in the office Monday to Friday, 8:30 am to 5:00 pm. Base salary: $65,000 - $75,000 / year Location: 45 Innovation Dr, Hamilton, ON L9H 7L8 Date Posted: September 22, 2026 Typical Duties Include (but are not …",
-      "redirectUrl": "https://www.adzuna.ca/details/5894769755?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing"
-      ]
-    },
-    {
-      "id": "5897520394",
-      "title": "Software Developer",
-      "company": "Evertz Microsystems Limited",
-      "location": "Burlington, Halton",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-24T20:22:22Z",
-      "descriptionSnippet": "We're looking for a self-driven engineer to join a highly technical team building state-of-the-art technology for a fast-moving, evolving product. This role spans dozens of disciplines, vendors, and technologies — from industry-standard tools to bleeding-edge, domain-specific systems where the only \"documentation\" may be a research whitepaper. You'll help choose the right technology for each problem and often be responsible for building the first implementation of something that doesn't exist y…",
-      "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5785339350?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=0E7EB401290ACDEBF52040126335A8901AB32747",
       "source": "Adzuna",
       "extractedKeywords": []
     }
