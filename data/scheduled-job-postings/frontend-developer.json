@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:01:30.819Z",
+  "generatedAt": "2026-10-05T18:54:46.267Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,45 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5911602487",
-      "title": "Frontend Developer",
-      "company": "VBeyond Corporation",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-04T10:19:45Z",
-      "descriptionSnippet": "Qualifications Experience writing and working with REST APIs. Collaborate with other cross-functional teams working on features for our customers. Familiarity with automated build pipelines; continuous integration or continuous delivery. Proven experience using code repositories such as GitHub. Demonstrated ability to work closely with UX designers and Product owners to deliver the best UX for our customers. Demonstrated ability to deliver high-quality code using automated tests for unit tests …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5911602487?se=NlyRfgTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=2383069929B7666F1A826F8E2DDB53E465F21208",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Git",
-        "API",
-        "Testing",
-        "Communication",
-        "Stakeholder Management"
-      ]
-    },
-    {
-      "id": "5911602208",
-      "title": "Senior Frontend Developer (ID5167)",
-      "company": "New Value Solutions",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-04T10:19:36Z",
-      "descriptionSnippet": "New Value Solutions, a national IT consulting firm, is seeking a Senior Frontend Developer (React) to join our growing development team. This role will contribute to building immersive, data-driven web applications that enable innovative business decision-making. The Senior Frontend Developer will bring responsive, scalable, and engaging user experiences to life and collaborate closely with product managers, designers, and backend developers in a hybrid model, blending remote flexibility with i…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5911602208?se=NlyRfgTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=C350444E2A26865BB617F36FD3445BF3A15AEDDB",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "Communication"
-      ]
-    },
     {
       "id": "4801408437",
       "title": "Frontend Developer",
@@ -101,21 +62,6 @@
       ]
     },
     {
-      "id": "5858196532",
-      "title": "Frontend Developer - Remote",
-      "company": "YO AI Labs",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 166400,
-      "salaryMax": 249600,
-      "createdAt": "2026-08-27T07:20:05Z",
-      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858196532?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5858196535",
       "title": "Frontend Developer - Remote",
       "company": "YO AI Labs",
@@ -146,6 +92,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5858196532",
+      "title": "Frontend Developer - Remote",
+      "company": "YO AI Labs",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 166400,
+      "salaryMax": 249600,
+      "createdAt": "2026-08-27T07:20:05Z",
+      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5858196532?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5858196541",
       "title": "Frontend Developer - Remote",
       "company": "YO AI Labs",
@@ -172,6 +133,38 @@
       "createdAt": "2026-08-27T07:20:05Z",
       "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
       "redirectUrl": "https://www.adzuna.ca/details/5858196534?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5900584850",
+      "title": "Frontend Developer - Angular",
+      "company": "Infoya",
+      "location": "East York, Toronto",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": 100000,
+      "salaryMax": 110003,
+      "createdAt": "2026-09-27T07:02:31Z",
+      "descriptionSnippet": "Job Description Job Description About the Job: Infoya is seeking a Senior Software Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. Office Location: Toronto Employment Type: Permanent Role Type: New position – current requir…",
+      "redirectUrl": "https://www.adzuna.ca/details/5900584850?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "5844071339",
+      "title": "Senior Frontend Developer",
+      "company": "TELUS Health",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 85000,
+      "salaryMax": 110000,
+      "createdAt": "2026-08-16T04:49:23Z",
+      "descriptionSnippet": "TELUS Health is empowering every person to live their healthiest life. Guided by our vision, we are leveraging the power of our leading edge technology and focusing on the uniqueness of each individual to create the future of health. As a global-leading health and well-being provider – encompassing physical, mental and financial health – TELUS Health is improving health outcomes for consumers, patients, healthcare professionals, employers and employees. Join our team and what we'll accomplish t…",
+      "redirectUrl": "https://www.adzuna.ca/details/5844071339?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

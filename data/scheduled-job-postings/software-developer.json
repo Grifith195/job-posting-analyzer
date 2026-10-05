@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:01:30.819Z",
+  "generatedAt": "2026-10-05T18:54:46.267Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,21 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5908536703",
-      "title": "LEAD SOFTWARE DEVELOPER",
-      "company": "The Home Depot Canada",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-02T13:38:13Z",
-      "descriptionSnippet": "Job Description Pay Range: $110,000 - $135,000 At The Home Depot Canada, we want you to feel valued and supported. The pay range you see represents base salary only. In addition, your total rewards may include: semi-annual bonuses tied to business performance; Deferred Profit-Sharing Program to assist with retirement savings; comprehensive paid benefits; a 15% discount on Home Depot stock purchases; and merit-based salary increases. We are committed to recognizing your efforts and supporting yo…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536703?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=E6BFA5F625F56771DD3B221E32989417CBB82590",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5908536221",
       "title": "Senior Software Developer",
@@ -33,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-10-02T13:37:51Z",
       "descriptionSnippet": "Xplore Inc. is Canada’s fibre, 5G and satellite broadband company for rural living. Xplore is committed to the relentless pursuit of an improved broadband experience for all Canadians. Xplore is building a world-class fibre optic and 5G wireless network to enable innovative broadband services for better every day rural living, for today and future generations. We are seeking a highly skilled Senior Software Developer to help build modern, future-ready applications as part of our company-wide di…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536221?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=DE8B13DDBB761E42ADF4374ED138151A781A8709",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5908536221?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=DE8B13DDBB761E42ADF4374ED138151A781A8709",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -48,7 +33,7 @@
       "salaryMax": null,
       "createdAt": "2026-09-01T12:09:16Z",
       "descriptionSnippet": "Join the SimpleK development team and help shape a specialized software solution used to manage physical keys and complex master key systems. As a Software Developer / Programmer , you will use Microsoft technologies, including C#, Blazor, .NET, Entity Framework Core, and Microsoft SQL Server , to transform real-world customer needs into reliable, intuitive, and scalable web application features. Working closely with business stakeholders, developers, and end users throughout the software devel…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5865028962?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=42C9297C28CE52E971475BE46696C9B1E29DEECE",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5865028962?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=42C9297C28CE52E971475BE46696C9B1E29DEECE",
       "source": "Adzuna",
       "extractedKeywords": [
         "SQL",
@@ -56,17 +41,17 @@
       ]
     },
     {
-      "id": "5911600897",
-      "title": "Software developer",
-      "company": "Soho Square Solutions",
+      "id": "5912579853",
+      "title": "Software Developer",
+      "company": "DRW Holdings, LLC.",
       "location": "Canada",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-10-04T10:19:20Z",
-      "descriptionSnippet": "Senior Developer – Fixed Income Trading Position Title: Senior Developer – Fixed Income Trading Line of Business: Fixed Income Duration: 6 months (Possibility of Extension) Location: GTA-based – Currently 100% remote, but candidates must be able to attend occasional in-office meetings/events at Toronto Role Mandate: We aspire to build a best-in‑class platform for our Fixed Income trading desk, covering a wide spectrum of Investment Grade and High Yield bonds to serve the growing needs of our cl…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5911600897?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=25CAC4075C3E21613123DCFE1DAC4DAEA0C07A91",
+      "createdAt": "2026-10-05T10:20:03Z",
+      "descriptionSnippet": "DRW is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk. Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and En…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5912579853?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=ED9ECC67A5F7FC767BCBD5E95AF109F4D1918870",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -81,58 +66,43 @@
       "salaryMax": null,
       "createdAt": "2026-10-02T13:40:37Z",
       "descriptionSnippet": "It’s not a package. It’s a promise®. As Canada’s leading integrated freight, package, and logistics provider, we’ve been helping promises get where they need to be for more than 60 years. How does the magic happen? The journey starts with you . The places we go, the elements we brave, the promises we deliver - it’s all possible because of our people. So, whether you’re looking to build new skills, make an impact in your community, or inspire your team, we go there for you. Description Reporting…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5908540990?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=783B6A2A333032F6767963E4A14F11F410428ACA",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5908540990?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=783B6A2A333032F6767963E4A14F11F410428ACA",
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
       ]
     },
     {
-      "id": "5911601810",
-      "title": "RQ09410 - Software Developer - Senior",
-      "company": "Rubicon Path",
+      "id": "5912048898",
+      "title": "Lead Software Developer",
+      "company": "Tetra Tech",
       "location": "Canada",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-10-04T10:19:31Z",
-      "descriptionSnippet": "About the job RQ09410 - Software Developer - Senior Responsibilities: Ensure Accessibility standards are met (AODA) Developing and maintaining system design models, program codes, technical documentation, and specifications Ensure development of application solution is implemented and in accordance with the business requirements Conducting research and assessment of options for technical design issues Contributing to design/development project plans, including work breakdown and resources estim…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5911601810?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=96B309388F46E37A807942AFD07E89A7D09CB125",
+      "createdAt": "2026-10-04T22:28:23Z",
+      "descriptionSnippet": "Overview Recruitment Specialist @ Tetra Tech | Organized and Effective Recruiter Discover your full potential. At Tetra Tech, we are collaborating with industry-leading experts for a sustainable future for our world. We combine consulting and engineering with advanced analytics and technology to solve the world’s most complex challenges. Our innovation hubs across the globe will enable you to share ideas and best practices while growing your professional network. Wherever you are in your career…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5912048898?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=644B8D1B7EE43A8AAC94DBDB5B8BFE32FE70121B",
       "source": "Adzuna",
       "extractedKeywords": []
     },
     {
-      "id": "5911600918",
-      "title": "RQ09083 - Software Developer - Senior",
-      "company": "Rubicon Path",
+      "id": "5912579908",
+      "title": "Software Developer (Reactjs/Nodejs)",
+      "company": "Scotiabank",
       "location": "Canada",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-10-04T10:19:21Z",
-      "descriptionSnippet": "About the job RQ09083 - Software Developer - Senior Description Hybrid Work Environment: The successful candidate is expected to work onsite at 222 Jarvis St 3 days per week, and may work remotely up to 2 days per week. Responsibilities: Required to translate technical systems specifications into working, tested applications. This includes: developing detailed programming specifications writing and/or generating code compiling data-driven programs, maintaining, and conducting unit tests Resolve…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5911600918?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=13CEE3444BAA6EC10F16FEE732C1A26077B6F16A",
+      "createdAt": "2026-10-05T10:20:07Z",
+      "descriptionSnippet": "Title: Software Developer (Reactjs/Nodejs) Requisition ID: Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture. Contributes to the overall success of the Digital Banking Unit in Canada ensuring specific individual goals, plans, initiatives are executed/delivered in support of the team’s business strategies and objectives. Ensures all activities conducted are in compliance with governing regulations, internal policies, and procedures. Is this rol…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5912579908?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=7911B71BFC6DF7E25F368E4AAEB3CEF6106D5A6D",
       "source": "Adzuna",
       "extractedKeywords": [
-        "Testing"
+        "Node.js"
       ]
-    },
-    {
-      "id": "5911601775",
-      "title": "RQ09176 - Software Developer - Senior",
-      "company": "Rubicon Path",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-04T10:19:31Z",
-      "descriptionSnippet": "About the job RQ09176 - Software Developer - Senior Responsibilities: Required to translate technical systems specifications into working, tested applications. This includes developing detailed programming specifications, writing and/or generating code, compiling data-driven programs, maintaining,SkillsExperience and Skill Set Requirements The Resources will act as a subject matter experts on a variety of cloud and AI projects initiatives such as: Enabling and designing the Government of Ontari…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5911601775?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=59AD1781EAF1F1C12FE8ADD6BEFED38B12AED845",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5911602005",
@@ -145,7 +115,7 @@
       "salaryMax": null,
       "createdAt": "2026-10-04T10:19:34Z",
       "descriptionSnippet": "About the job RQ08196 - Sr. Software Developer Responsibilities The resource required to provide additional capacity to assist with the management of Axway Secure Transport version 5.5 and Axway Sentinel reporting tool,(aka Managed File Transfer - MFT) to meet all current operational demands as well as the current need for on-premise to cloud migrations of all interfaces within the MFT system. A FFS resource will create capacity, ensure ground to cloud migrations are completed in a timely manne…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5911602005?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=6DD4011949DD8543B3D3D534327B2F024A502E71",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5911602005?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=6DD4011949DD8543B3D3D534327B2F024A502E71",
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
@@ -162,9 +132,45 @@
       "salaryMax": null,
       "createdAt": "2026-07-02T06:45:27Z",
       "descriptionSnippet": "New role at Nord Quantique! Be the first to join us in this position! Available position Senior Software Developer (level 3) – Operations & Infrastructure (permanent position, 40 hours per week) Contact: (819) 975-4654 , career@nordquantique.ca About Nord Quantique At Nord Quantique, we strive to build impactful technology by relentlessly pushing our understanding of quantum science. We are an interdisciplinary team of scientists, engineers, innovators, builders, and enthusiasts on a mission to…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5785339350?se=aFfLewTA8RGN96JAzfykhw&utm_medium=api&utm_source=3ebb75f8&v=0E7EB401290ACDEBF52040126335A8901AB32747",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5785339350?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=0E7EB401290ACDEBF52040126335A8901AB32747",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5902950566",
+      "title": "Senior AI Software Developer (Python & Generative AI)",
+      "company": "Blitz TI",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-29T12:33:10Z",
+      "descriptionSnippet": "We are recruiting a Senior AI Software Developer for a leading Canadian organization investing in artificial intelligence applications used by teams across the country. You will join a small team dedicated to AI, designing and building applications powered by large language models (LLMs) and AI agents. You will take ownership of these solutions from early prototype through production. This is a hands-on development role with the opportunity to guide the team’s engineering practices and mentor a…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5902950566?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=20E11C5908403C080F4C83B0C2E5900DA0816484",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Python"
+      ]
+    },
+    {
+      "id": "5911602133",
+      "title": "Stantec Senior Software Developer Opportunity",
+      "company": "Stantec Consulting International Ltd.",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-04T10:19:35Z",
+      "descriptionSnippet": "Advance your career with Stantec as a Senior Software Developer, specializing in full stack development. Leverage Python and cutting-edge front-end technologies to create and maintain dynamic web applications in a supportive environment. The ideal candidate for this role will excel in both back-end and front-end development, utilizing frameworks such as Django and Angular. Your responsibilities will include comprehensive testing, database optimization, and deploying applications within containe…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5911602133?se=lGcCPO7A8RGEC-6oCzmm_w&utm_medium=api&utm_source=3ebb75f8&v=B3FAF952D2EF884E9EF3DC770D491D491DBD5A0B",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Python",
+        "Testing",
+        "Excel"
+      ]
     }
   ]
 }
