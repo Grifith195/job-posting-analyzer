@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:40:07.626Z",
+  "generatedAt": "2026-10-10T15:37:07.878Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -14,8 +14,8 @@
       "location": "Ontario, Canada",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
+      "salaryMin": 176800,
+      "salaryMax": 199680,
       "createdAt": "2026-10-08T14:34:08Z",
       "descriptionSnippet": "Job Summary: The Product Manager will lead the strategy, development, and delivery of enterprise-scale digital products, aligning product roadmaps with business goals and driving innovation. This role requires strong stakeholder engagement, agile leadership, and technical expertise in Microsoft technologies to ensure successful product lifecycle management, governance, and compliance within complex environments. Responsibilities: Define and maintain product vision, objectives, and roadmap align…",
       "redirectUrl": "https://www.adzuna.ca/details/5919544378?utm_medium=api&utm_source=3ebb75f8",
@@ -77,35 +77,32 @@
       ]
     },
     {
-      "id": "5917468828",
-      "title": "Product Project Manager",
-      "company": "Soucy",
-      "location": "Saint-Charles-de-Drummond, Drummond",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-07T13:21:56Z",
-      "descriptionSnippet": "Mission Do you want to contribute to the development of technical, sustainable, and high-performance products? Are you driven by hands-on projects, mechanical design, and cross-team collaboration? This position could very well be for you. Reporting to the Director of Development and Innovation, you’ll be involved in every stage of product development, from needs analysis to the integration of UHMW-PE molded products into production. You’ll also help improve our existing products and support int…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5917468828?se=7sKtFgDE8RG_59bpLSVmjQ&utm_medium=api&utm_source=3ebb75f8&v=6348A95C019BE8BABB6E263430A890F28983C0CC",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication",
-        "Reporting"
-      ]
-    },
-    {
       "id": "5920330668",
       "title": "Product Manager",
       "company": "Beem",
       "location": "British Columbia, Canada",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 92200,
-      "salaryMax": 115200,
+      "salaryMin": 109600,
+      "salaryMax": 137000,
       "createdAt": "2026-10-09T04:38:08Z",
       "descriptionSnippet": "Beem Credit Union: Banking for every journey Beem is redefining what it means to be a credit union. With 80 years of cooperative history and a bold vision for the future, we’ve united to create a financial partner that offers both digital ease and people-first service. Our mission is clear: financial wellness for all. We help British Columbians achieve their goals through personalized advice, innovative technology, and genuine human connection. As one of BC’s largest credit unions, we serve ove…",
       "redirectUrl": "https://www.adzuna.ca/details/5920330668?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5920575314",
+      "title": "Product Manager",
+      "company": "Zortech Solutions",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-09T08:29:57Z",
+      "descriptionSnippet": "Job Description Job Description Title – Product Manager location – Toronto, ON Rate - $90/HR Submission Last Date – 2nd May, 2025, 4pm EST Description Responsibilities: Responsible for the product planning and execution throughout the product lifecycle, including: Gathering and prioritizing product and customer requirements Defining the product vision Ensuring that the product supports the com Skills Experience and Skill Set Requirements Key Responsibilities: - Act as the liaison between client…",
+      "redirectUrl": "https://www.adzuna.ca/details/5920575314?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -155,21 +152,19 @@
       "extractedKeywords": []
     },
     {
-      "id": "5885851228",
+      "id": "5898261894",
       "title": "Product Manager",
-      "company": "insightsoftware",
-      "location": "Canada",
-      "category": "Accounting & Finance Jobs",
+      "company": "BinSentry",
+      "location": "Kitchener, Waterloo region",
+      "category": "Engineering Jobs",
       "contractType": null,
-      "salaryMin": 89000,
-      "salaryMax": 111000,
-      "createdAt": "2026-09-16T04:31:17Z",
-      "descriptionSnippet": "About Us: insightsoftware is a global provider of reporting, analytics, and performance management solutions that unlock the potential of business data and transform the way finance and data teams operate. We empower leaders from over 32,000 organizations to make timely and intelligent decisions. Our comprehensive solutions span Financial Planning and Analysis (FP&A), Controllership, and Data and Analytics. We deliver finance teams the insights required to navigate any economic climate and driv…",
-      "redirectUrl": "https://www.adzuna.ca/details/5885851228?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 110000,
+      "salaryMax": 110000,
+      "createdAt": "2026-09-25T07:04:32Z",
+      "descriptionSnippet": "Job Description Job Description About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making…",
+      "redirectUrl": "https://www.adzuna.ca/details/5898261894?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
+      "extractedKeywords": []
     }
   ]
 }

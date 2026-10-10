@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:40:07.626Z",
+  "generatedAt": "2026-10-10T15:37:07.878Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -42,38 +42,6 @@
       "extractedKeywords": [
         "Communication"
       ]
-    },
-    {
-      "id": "5900584850",
-      "title": "Frontend Developer - Angular",
-      "company": "Infoya",
-      "location": "East York, Toronto",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": 100000,
-      "salaryMax": 110003,
-      "createdAt": "2026-09-27T07:02:31Z",
-      "descriptionSnippet": "Job Description Job Description About the Job: Infoya is seeking a Senior Software Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. Office Location: Toronto Employment Type: Permanent Role Type: New position – current requir…",
-      "redirectUrl": "https://www.adzuna.ca/details/5900584850?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5844071339",
-      "title": "Senior Frontend Developer",
-      "company": "TELUS Health",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 85000,
-      "salaryMax": 110000,
-      "createdAt": "2026-08-16T04:49:23Z",
-      "descriptionSnippet": "TELUS Health is empowering every person to live their healthiest life. Guided by our vision, we are leveraging the power of our leading edge technology and focusing on the uniqueness of each individual to create the future of health. As a global-leading health and well-being provider – encompassing physical, mental and financial health – TELUS Health is improving health outcomes for consumers, patients, healthcare professionals, employers and employees. Join our team and what we'll accomplish t…",
-      "redirectUrl": "https://www.adzuna.ca/details/5844071339?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5539959828",
@@ -143,6 +111,23 @@
       ]
     },
     {
+      "id": "5900584850",
+      "title": "Senior Frontend Developer - Angular",
+      "company": "Infoya",
+      "location": "East York, Toronto",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": 100000,
+      "salaryMax": 110003,
+      "createdAt": "2026-09-27T07:02:31Z",
+      "descriptionSnippet": "Job Description Job Description About the Job: Infoya is seeking a Senior Software Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. Office Location: Toronto Employment Type: Permanent Role Type: New position – current requir…",
+      "redirectUrl": "https://www.adzuna.ca/details/5900584850?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
+    {
       "id": "5883580666",
       "title": "Frontend Developer (Typescript / React)",
       "company": "LOD Technologies Inc.",
@@ -178,6 +163,21 @@
       "extractedKeywords": [
         "React"
       ]
+    },
+    {
+      "id": "5916649800",
+      "title": "Trenches / Web3 Frontend Developer",
+      "company": "Jobgether",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-07T04:51:10Z",
+      "descriptionSnippet": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Trenches / Web3 Frontend Developer based in Canada. This is a high-ownership frontend engineering role focused on building the client experience for a fast-moving onchain trading terminal. You will own critical trading surfaces across both Solana and EVM, working directly on products used for real transactions and real money. The role combines advanced frontend engin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5916649800?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
