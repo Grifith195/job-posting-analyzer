@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T15:59:57.918Z",
+  "generatedAt": "2026-10-12T19:28:13.477Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -159,17 +159,17 @@
       ]
     },
     {
-      "id": "5919510461",
+      "id": "5897520394",
       "title": "Software Developer",
-      "company": "Turing",
-      "location": "North York, Toronto",
+      "company": "Evertz Microsystems Limited",
+      "location": "Burlington, Halton",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 416000,
-      "salaryMax": 624000,
-      "createdAt": "2026-10-08T13:53:12Z",
-      "descriptionSnippet": "About Us: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise …",
-      "redirectUrl": "https://www.adzuna.ca/details/5919510461?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-24T20:22:22Z",
+      "descriptionSnippet": "We're looking for a self-driven engineer to join a highly technical team building state-of-the-art technology for a fast-moving, evolving product. This role spans dozens of disciplines, vendors, and technologies — from industry-standard tools to bleeding-edge, domain-specific systems where the only \"documentation\" may be a research whitepaper. You'll help choose the right technology for each problem and often be responsible for building the first implementation of something that doesn't exist y…",
+      "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

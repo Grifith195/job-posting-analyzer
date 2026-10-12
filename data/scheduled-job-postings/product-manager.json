@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T15:59:57.918Z",
+  "generatedAt": "2026-10-12T19:28:13.477Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -122,6 +122,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5923305522",
+      "title": "Product Manager",
+      "company": "Mircom Group of Companies",
+      "location": "Vaughan, York region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-11T08:32:06Z",
+      "descriptionSnippet": "Job Description Job Description Product Manager Founded in 1991, the Mircom Group of Companies is North America’s largest independent designer, manufacturer and distributor of intelligent building and life safety solutions. Reaching customers in over 100 countries worldwide, our portfolio includes: fire detection & alarm, communications & security, mass notification, nurse call, and building automation & smart technologies. Mircom’s mission is to save lives and protect property by providing a l…",
+      "redirectUrl": "https://www.adzuna.ca/details/5923305522?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5852232546",
       "title": "Product Manager",
       "company": "BinSentry",
@@ -148,21 +163,6 @@
       "createdAt": "2026-09-25T07:04:32Z",
       "descriptionSnippet": "Job Description Job Description About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making…",
       "redirectUrl": "https://www.adzuna.ca/details/5898261894?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5329711736",
-      "title": "Product Manager",
-      "company": "Starboard Recruitment",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-07-31T07:40:04Z",
-      "descriptionSnippet": "Follow Starboard Recruitment on LinkedIn for ongoing job opportunities, market updates and advice: https://www.linkedin.com/company/starboard-recruitment Starboard Recruitment, on behalf of our client, is searching for an experienced Product Manager. Opportunity is with a leading Canada based tech company. Our team will reach out to qualified candidates and discuss in further detail. Job Responsibilities Conduct in-depth product discovery to identify user needs and define clear product specific…",
-      "redirectUrl": "https://www.adzuna.ca/details/5329711736?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
