@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T14:44:55.280Z",
+  "generatedAt": "2026-10-15T14:30:05.685Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,21 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5917026317",
-      "title": "Software Developer - Internal Automation",
-      "company": "YuJa Inc.",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-07T08:24:41Z",
-      "descriptionSnippet": "Job Description Job Description About Us YuJa, Inc. is a leading provider of cloud-based digital compliance and accessibility solutions for regulated sectors worldwide. Serving clients in higher education, K-12, government, and healthcare, YuJa enables organizations to meet evolving regulatory demands while delivering engaging, secure, and accessible digital experiences. Our platforms such as Lumina (video), Panorama (LMS accessibility), EqualGround (governance), and Verity (proctoring) are rig…",
-      "redirectUrl": "https://www.adzuna.ca/details/5917026317?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5904773497",
       "title": "Software Developer",
@@ -172,6 +157,21 @@
         "SQL",
         "Stakeholder Management"
       ]
+    },
+    {
+      "id": "5897520394",
+      "title": "Software Developer",
+      "company": "Evertz Microsystems Limited",
+      "location": "Burlington, Halton",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-24T20:22:22Z",
+      "descriptionSnippet": "We're looking for a self-driven engineer to join a highly technical team building state-of-the-art technology for a fast-moving, evolving product. This role spans dozens of disciplines, vendors, and technologies — from industry-standard tools to bleeding-edge, domain-specific systems where the only \"documentation\" may be a research whitepaper. You'll help choose the right technology for each problem and often be responsible for building the first implementation of something that doesn't exist y…",
+      "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
