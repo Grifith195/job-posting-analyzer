@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:30:05.685Z",
+  "generatedAt": "2026-10-16T14:22:42.747Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,36 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5920593616",
+      "title": "Staff Product Manager, Strategic Partnerships",
+      "company": "CookUnity",
+      "location": "Ottawa, Ottawa region",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-09T08:42:15Z",
+      "descriptionSnippet": "Job Description Job Description About CookUnity: Food has lost its soul to modern convenience. And with it, it has lost the power to nourish, inspire, and connect us. So in 2018, CookUnity was founded as the first-of-its-kind platform that connects the world with the source of truly great food: chefs. Today, CookUnity delivers 50 million meals a year from the industry's best chefs to homes all over the country. Fresh. Ready-to-eat. And crafted with the passion that nourishes body and soul. Unwi…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5920593616?se=ALwqDW3J8RG6k4pKWxwyUg&utm_medium=api&utm_source=3ebb75f8&v=3F60A42F48E8B08FFE3CFB44781CD5C4DB5342B7",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5912456212",
+      "title": "Application Support Distributed Products Manager",
+      "company": "Brandt Corporate Services Ltd",
+      "location": "Regina, Regina region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-05T07:43:17Z",
+      "descriptionSnippet": "Job Description Job Description The Application Support Distributed Products Manager will manage a team of IT professionals responsible for supporting applications used at the Distributed Product locations. This includes all deployed Business Systems and software used in Distributed Products operations. The goal is to ensure all users are productive in the applications they use to perform their job function. Who We Are Brandt is a customer driven company, privately owned and family run, strengt…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5912456212?se=ALwqDW3J8RG6k4pKWxwyUg&utm_medium=api&utm_source=3ebb75f8&v=170C84772BE26A5B63D54CBA73FB48B36B20C8CF",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5894309904",
       "title": "Product Manager",
@@ -36,21 +66,6 @@
       "createdAt": "2025-11-21T18:36:07Z",
       "descriptionSnippet": "As one of Canada’s largest and fastest growing cryptocurrency trading platforms, Ndax has set the bar high for the country’s fintech industry and is constantly leading the way in terms of security and innovation. We are on a mission to empower more Canadians to unlock the full potential of digital finance. To address the various needs in the Canadian cryptocurrency space, Ndax has assembled a multidisciplinary team with diverse backgrounds, including finance, technology, engineering, compliance…",
       "redirectUrl": "https://www.adzuna.ca/details/5508567386?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5926137653",
-      "title": "Product Manager",
-      "company": "Cleo Consulting",
-      "location": "Regent Park, City of Toronto",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 208000,
-      "salaryMax": 228800,
-      "createdAt": "2026-10-13T14:30:22Z",
-      "descriptionSnippet": "Assignment: RQ11502 - Product Manager - Senior Job Title: Product Manager Requisition (SS): RQ11502 Start Date: 2026-10-26 Client: Government Services Integration Cluster End Date: 2027-03-31 Office Location: 222 Jarvis St., Toronto Organization: Government Services Integration Cluster Ministry: Ministry of Public and Business Service Delivery and Procurement Business Days: 135.00 5 days onsite Must Have: 10 years of Integrated Enterprise project management experience across business and I&IT …",
-      "redirectUrl": "https://www.adzuna.ca/details/5926137653?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -144,21 +159,6 @@
       "createdAt": "2026-08-22T04:18:41Z",
       "descriptionSnippet": "About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making capabilities. With our technolo…",
       "redirectUrl": "https://www.adzuna.ca/details/5852232546?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5898261894",
-      "title": "Product Manager",
-      "company": "BinSentry",
-      "location": "Kitchener, Waterloo region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": 110000,
-      "salaryMax": 110000,
-      "createdAt": "2026-09-25T07:04:32Z",
-      "descriptionSnippet": "Job Description Job Description About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making…",
-      "redirectUrl": "https://www.adzuna.ca/details/5898261894?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

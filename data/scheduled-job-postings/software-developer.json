@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T14:30:05.685Z",
+  "generatedAt": "2026-10-16T14:22:42.747Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,36 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5887675589",
+      "title": "Senior Technical Manager, Software Development",
+      "company": "Stay22",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-17T08:12:41Z",
+      "descriptionSnippet": "Job Description Job Description:\\n\\nÀ propos de Stay22\\nBasée à Montréal, Stay22 aide les créateurs ambitieux et les plateformes numériques à forte intention à transformer leur trafic existant en revenus additionnels, grâce à une technologie qui fonctionne discrètement en arrière-plan.\\nAujourd'hui, plus de 6 500 créateurs et plateformes font confiance à Stay22, avec plus d'un milliard de dollars en transactions annuelles transitant par la plateforme. Initialement conçue pour le secteur du voya…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5887675589?se=KhnqDG3J8RGBMbk-mPfQEA&utm_medium=api&utm_source=3ebb75f8&v=C98504EE29DB2B2A6B3FE23F4A60119E3439DF96",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5929024652",
+      "title": "Développeur(euse) logiciel / Software Developer - DevOps System Administrator",
+      "company": "Genetec",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-15T08:34:32Z",
+      "descriptionSnippet": "Job Description Job Description Aperçu du poste : Le/la développeur(euse) logiciel – administrateur(trice) système DevOps travaillera au sein de l'équipe SCMT (Software Configuration Management & Tools) qui fait partie du groupe Engineering Efficiency, contribuant à diverses étapes du développement d'applications logicielles afin de permettre aux équipes d'être plus efficaces. Vous participerez au développement de divers outils et scripts utilisés pour optimiser et assurer une bonne gouvernance…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5929024652?se=KhnqDG3J8RGBMbk-mPfQEA&utm_medium=api&utm_source=3ebb75f8&v=3E7525242980FC67D819A6C8584FF38B4C38D854",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5904773497",
       "title": "Software Developer",
@@ -55,21 +85,6 @@
       "extractedKeywords": [
         "Testing"
       ]
-    },
-    {
-      "id": "5919839524",
-      "title": "Software Developer",
-      "company": "Upstaff",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 10000,
-      "salaryMax": null,
-      "createdAt": "2026-10-08T21:13:48Z",
-      "descriptionSnippet": "Position: Software Developer – Intermediate Client: Ontario Public Service – Central Agencies Cluster Ministry: Ministry of Treasury Board Secretariat Location: 222 Jarvis St., Toronto, ON Work Arrangement: 100% Onsite – 5 days per week Start Date: January 4, 2027 End Date: October 5, 2027 Openings: 2 Security Requirement: CRJMC Application Deadline: October 14, 2026 at 12:00 PM EST Position Overview The Ontario Public Service is seeking Intermediate Software Developers to support the Central A…",
-      "redirectUrl": "https://www.adzuna.ca/details/5919839524?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5912751511",
@@ -157,21 +172,6 @@
         "SQL",
         "Stakeholder Management"
       ]
-    },
-    {
-      "id": "5897520394",
-      "title": "Software Developer",
-      "company": "Evertz Microsystems Limited",
-      "location": "Burlington, Halton",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-24T20:22:22Z",
-      "descriptionSnippet": "We're looking for a self-driven engineer to join a highly technical team building state-of-the-art technology for a fast-moving, evolving product. This role spans dozens of disciplines, vendors, and technologies — from industry-standard tools to bleeding-edge, domain-specific systems where the only \"documentation\" may be a research whitepaper. You'll help choose the right technology for each problem and often be responsible for building the first implementation of something that doesn't exist y…",
-      "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
