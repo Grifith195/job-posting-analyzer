@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:19:30.988Z",
+  "generatedAt": "2026-10-18T13:38:41.798Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -155,25 +155,19 @@
       "extractedKeywords": []
     },
     {
-      "id": "5911230179",
+      "id": "5853471514",
       "title": "Data Analyst",
-      "company": "Insight Global",
-      "location": "Guelph, Wellington region",
+      "company": "Stripe",
+      "location": "Canada",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-10-04T04:07:10Z",
-      "descriptionSnippet": "Job Description We're looking for a Data Analyst with strong SQL, Python, and reporting experience to support a high-impact Claims Analytics team. This role is heavily focused on hands-on analysis, stakeholder interaction, and business insights, with exposure to MicroStrategy and a growing Power BI environment. Success in this role requires both technical depth and the ability to confidently explain your work to business partners and leadership. - 85-90% hands-on analytical work - 10-15% stakeh…",
-      "redirectUrl": "https://www.adzuna.ca/details/5911230179?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-08-23T04:43:23Z",
+      "descriptionSnippet": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important …",
+      "redirectUrl": "https://www.adzuna.ca/details/5853471514?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Python",
-        "SQL",
-        "Power BI",
-        "Reporting",
-        "Stakeholder Management"
-      ]
+      "extractedKeywords": []
     }
   ]
 }
