@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T16:40:20.698Z",
+  "generatedAt": "2026-10-20T14:32:43.644Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,23 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5935024832",
+      "title": "Director, Software Development Engineering",
+      "company": "Nordson",
+      "location": "Newfoundland & Labrador, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-19T22:55:19Z",
+      "descriptionSnippet": "Nordson Test & Inspection, a global leader in world-class metrology equipment and inspection systems, is seeking a highly motivated and talented Director of Software Engineering to join our team in Colchester, United Kingdom . Nordson XRT is seeking an experienced and visionary Director of Software Engineering to lead and unify a globally distributed software development organization supporting our advanced sorting and inspection technologies. This role will build and lead a high-performing eng…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5935024832?se=GEy4HJPM8RG4GPmddZJewA&utm_medium=api&utm_source=3ebb75f8&v=67F75747A36AC32DAA775A862ACE5089E62B2093",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
+      ]
+    },
     {
       "id": "5904773497",
       "title": "Software Developer",
@@ -157,23 +174,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5909414661",
-      "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-03T00:44:10Z",
-      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for designing and overseeing the impleme…",
-      "redirectUrl": "https://www.adzuna.ca/details/5909414661?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
     }
   ]
 }
