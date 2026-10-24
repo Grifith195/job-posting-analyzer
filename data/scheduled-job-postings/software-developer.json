@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:43:50.421Z",
+  "generatedAt": "2026-10-24T13:41:41.684Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -25,22 +25,19 @@
       ]
     },
     {
-      "id": "5935773109",
+      "id": "5938283316",
       "title": "Software Developer",
-      "company": "vTech Solution",
-      "location": "Ontario, Canada",
+      "company": "TekWissen LLC",
+      "location": "Thornhill, York region",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 135200,
-      "salaryMax": 166400,
-      "createdAt": "2026-10-20T15:03:00Z",
-      "descriptionSnippet": "Job Summary: The Intermediate Software Developer is responsible for developing, maintaining, and supporting application components based on technical specifications and user stories. This role involves coding, testing, integration, deployment, defect resolution, and documentation within a cloud-based microservice architecture environment. The developer collaborates closely with cross-functional teams and follows coding standards and best practices to deliver high-quality software solutions. Res…",
-      "redirectUrl": "https://www.adzuna.ca/details/5935773109?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 149489,
+      "salaryMax": 157809,
+      "createdAt": "2026-10-22T14:30:16Z",
+      "descriptionSnippet": "Overview: TekWissen is a global workforce management provider headquartered in Ann Arbor, Michigan that offers strategic talent solutions to our clients world-wide. This Client is an American multinational semiconductor company based in Santa Clara, California, that develops computer processors and related technologies for business and consumer markets. Global company that specializes in manufacturing semiconductor devices used in computer processing. The company also produces flash memories, g…",
+      "redirectUrl": "https://www.adzuna.ca/details/5938283316?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Testing",
-        "Stakeholder Management"
-      ]
+      "extractedKeywords": []
     },
     {
       "id": "5830803127",
