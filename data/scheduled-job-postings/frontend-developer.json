@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:59:13.285Z",
+  "generatedAt": "2026-10-26T16:20:29.050Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -25,21 +25,6 @@
         "API",
         "Stakeholder Management"
       ]
-    },
-    {
-      "id": "5930615769",
-      "title": "Frontend Developer - Remote",
-      "company": "YO AI Labs",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 166400,
-      "salaryMax": 249600,
-      "createdAt": "2026-10-16T08:24:37Z",
-      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5930615769?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     },
     {
       "id": "5858196541",
@@ -72,6 +57,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5930615769",
+      "title": "Frontend Developer - Remote",
+      "company": "YO AI Labs",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 166400,
+      "salaryMax": 249600,
+      "createdAt": "2026-10-16T08:24:37Z",
+      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5930615769?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5858196535",
       "title": "Frontend Developer - Remote",
       "company": "YO AI Labs",
@@ -83,21 +83,6 @@
       "createdAt": "2026-08-27T07:20:05Z",
       "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
       "redirectUrl": "https://www.adzuna.ca/details/5858196535?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5924050645",
-      "title": "Intermediate Frontend Developer",
-      "company": "Best Buy Canada",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 79000,
-      "salaryMax": 89000,
-      "createdAt": "2026-10-12T04:52:13Z",
-      "descriptionSnippet": "As an intermediate frontend developer , which at Best Buy we call it a software developer II, you'll play a vital role in enhancing customer and associate experiences by developing innovative applications that directly contribute to the success and growth of Best Buy Canada. We are currently hiring for a 12-month fixed-term opportunity within our Technology Team. We practice a remote first working model, leveraging in person interactions at our head office, in beautiful Vancouver, BC, for strat…",
-      "redirectUrl": "https://www.adzuna.ca/details/5924050645?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -149,17 +134,32 @@
       ]
     },
     {
-      "id": "5858175769",
+      "id": "5858178485",
       "title": "Frontend Developer - Remote",
       "company": "YO AI Labs",
-      "location": "Toronto, Ontario",
+      "location": "Montréal, Québec",
       "category": "IT Jobs",
       "contractType": "contract",
       "salaryMin": 166400,
       "salaryMax": 249600,
-      "createdAt": "2026-08-27T06:51:19Z",
+      "createdAt": "2026-08-27T06:52:22Z",
       "descriptionSnippet": "Job Description Job Description Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature imp…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858175769?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/details/5858178485?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5858171669",
+      "title": "Frontend Developer - Remote",
+      "company": "YO AI Labs",
+      "location": "Ottawa, Ottawa region",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 166400,
+      "salaryMax": 249600,
+      "createdAt": "2026-08-27T06:49:34Z",
+      "descriptionSnippet": "Job Description Job Description Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature imp…",
+      "redirectUrl": "https://www.adzuna.ca/details/5858171669?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

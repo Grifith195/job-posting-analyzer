@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:59:13.285Z",
+  "generatedAt": "2026-10-26T16:20:29.050Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,21 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5939011580",
-      "title": "Business Data Analyst",
-      "company": "Reyes Holdings",
-      "location": "Mississauga, Peel region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-23T04:40:38Z",
-      "descriptionSnippet": "Responsibilities Position Summary: As a Business Data Analyst, you will play a key role in analyzing and interpreting data from multiple sources, leverage data driven insights and automation solutions to guide strategic business decisions, streamline data workflows, and improve operational efficiency. This role requires strong technical skills, with a focus on data automation and process optimization. The ideal candidate possesses a strong analytical mindset and a strong problem-solving abiliti…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5939011580?se=jCveQnzQ8RGrV9qPojDs1w&utm_medium=api&utm_source=3ebb75f8&v=241822507B68F19FBA889995C17C5AB9FE33D25A",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5703538141",
       "title": "Data Analyst",
@@ -166,6 +151,21 @@
       "createdAt": "2026-10-12T07:09:58Z",
       "descriptionSnippet": "Job Description Job Description Job Title: Senior Data Analyst Location: Edmonton, Alberta, Remote Seniority on the skill/s required on this requirement: Senior Estimated Duration : 6 months with possible extension for another 24 months Work authorization: any (candidate must be authorized to work in CA) Job Summary: We are seeking a talented and versatile Data Analyst to join our dynamic team. The ideal candidate will have a strong foundation in data engineering practices, combined with the an…",
       "redirectUrl": "https://www.adzuna.ca/details/5924123745?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5888936887",
+      "title": "Data Analyst",
+      "company": "WOMBO Studios",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 70000,
+      "salaryMax": 90000,
+      "createdAt": "2026-09-18T04:32:03Z",
+      "descriptionSnippet": "About the company Through the latest techniques in AI and a sprinkle of magic, WOMBO powers the next generation synthetic media to make people laugh and smile. WOMBO has two products, Dream and WOMBO. - Dream lets users create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch Dream turn your idea into an AI-powered painting in seconds. Dream has ranked 1 in the Graphics and Design category in 50 countries and has been covered by The Verge and TechCrunch. - WO…",
+      "redirectUrl": "https://www.adzuna.ca/details/5888936887?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
