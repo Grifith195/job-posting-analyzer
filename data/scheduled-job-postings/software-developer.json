@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:20:29.050Z",
+  "generatedAt": "2026-10-27T15:34:59.907Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -72,76 +72,34 @@
       "extractedKeywords": []
     },
     {
-      "id": "5912979448",
+      "id": "5942673607",
       "title": "Software Developer",
-      "company": "LogiSense Corporation",
-      "location": "Ottawa, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-05T18:55:44Z",
-      "descriptionSnippet": "Help Deliver the Future of Usage-Based Billing LogiSense is looking for a Software Developer to help build and enhance our usage-based billing platform. You’ll bring strong C#, .NET, and Microsoft SQL Server skills, along with experience applying other technologies to solve problems. AI tools are part of your everyday development workflow, and you know how to validate their results. You’ll work within a cross-functional sprint team and across the wider organization to turn customer and business…",
-      "redirectUrl": "https://www.adzuna.ca/details/5912979448?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL",
-        "Stakeholder Management"
-      ]
-    },
-    {
-      "id": "5912979436",
-      "title": "Software Developer",
-      "company": "LogiSense Corporation",
-      "location": "Kitchener, Waterloo region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-05T18:55:44Z",
-      "descriptionSnippet": "Help Deliver the Future of Usage-Based Billing LogiSense is looking for a Software Developer to help build and enhance our usage-based billing platform. You’ll bring strong C#, .NET, and Microsoft SQL Server skills, along with experience applying other technologies to solve problems. AI tools are part of your everyday development workflow, and you know how to validate their results. You’ll work within a cross-functional sprint team and across the wider organization to turn customer and business…",
-      "redirectUrl": "https://www.adzuna.ca/details/5912979436?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL",
-        "Stakeholder Management"
-      ]
-    },
-    {
-      "id": "5912979417",
-      "title": "Software Developer",
-      "company": "LogiSense Corporation",
+      "company": "Turing",
       "location": "Toronto, Ontario",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-05T18:55:43Z",
-      "descriptionSnippet": "Help Deliver the Future of Usage-Based Billing LogiSense is looking for a Software Developer to help build and enhance our usage-based billing platform. You’ll bring strong C#, .NET, and Microsoft SQL Server skills, along with experience applying other technologies to solve problems. AI tools are part of your everyday development workflow, and you know how to validate their results. You’ll work within a cross-functional sprint team and across the wider organization to turn customer and business…",
-      "redirectUrl": "https://www.adzuna.ca/details/5912979417?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 416000,
+      "salaryMax": 624000,
+      "createdAt": "2026-10-26T14:29:19Z",
+      "descriptionSnippet": "About Us: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise …",
+      "redirectUrl": "https://www.adzuna.ca/details/5942673607?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL",
-        "Stakeholder Management"
-      ]
+      "extractedKeywords": []
     },
     {
-      "id": "5912979432",
+      "id": "5942673617",
       "title": "Software Developer",
-      "company": "LogiSense Corporation",
-      "location": "Ontario, Canada",
+      "company": "Turing",
+      "location": "Greater Vancouver, British Columbia",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-05T18:55:44Z",
-      "descriptionSnippet": "Help Deliver the Future of Usage-Based Billing LogiSense is looking for a Software Developer to help build and enhance our usage-based billing platform. You’ll bring strong C#, .NET, and Microsoft SQL Server skills, along with experience applying other technologies to solve problems. AI tools are part of your everyday development workflow, and you know how to validate their results. You’ll work within a cross-functional sprint team and across the wider organization to turn customer and business…",
-      "redirectUrl": "https://www.adzuna.ca/details/5912979432?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 416000,
+      "salaryMax": 624000,
+      "createdAt": "2026-10-26T14:29:20Z",
+      "descriptionSnippet": "About Us: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise …",
+      "redirectUrl": "https://www.adzuna.ca/details/5942673617?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL",
-        "Stakeholder Management"
-      ]
+      "extractedKeywords": []
     },
     {
       "id": "5897520394",
@@ -173,6 +131,40 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Reporting"
+      ]
+    },
+    {
+      "id": "5345231455",
+      "title": "Software Developer",
+      "company": "ProjectLine Solutions",
+      "location": "Saskatoon, Saskatchewan",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-08-09T05:32:31Z",
+      "descriptionSnippet": "Our Software Developers are strong programmers with demonstrated experience writing robust, maintainable code for challenging and stimulating projects. You'll have the opportunity to match your passion for software development with a diversity of challenging and exciting projects. Qualifications Demonstrated software development experience. A solid understanding of TypeScript and Reactive programming principles. Experience with Angular and Angular Material. Familiarity with common CSS framework…",
+      "redirectUrl": "https://www.adzuna.ca/details/5345231455?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "5936622893",
+      "title": "Software Developer",
+      "company": "Mycanadapayday.com",
+      "location": "Dartmouth, Halifax region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-21T07:30:39Z",
+      "descriptionSnippet": "Mycanadapayday.com is looking for an exceptional Software Developer to join our team and help us execute growth strategy. Job Details: Company name: Mycanadapayday.com Job Title: Software Developer Positions Available: 1 Business and Work Location: Dartmouth, NS B2Y 2N6 Working Hours: 30-40 hours per week, Permanent, Full-time Salary: $41.00 per hour The Software Developer will: • Design, develop, test, and update software and applications • Analyze information to recommend and plan the install…",
+      "redirectUrl": "https://www.adzuna.ca/details/5936622893?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
       ]
     }
   ]
