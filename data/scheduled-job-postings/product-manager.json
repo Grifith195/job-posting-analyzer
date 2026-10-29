@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T16:18:48.000Z",
+  "generatedAt": "2026-10-29T16:29:00.211Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,21 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5944136670",
-      "title": "Product Manager",
-      "company": "Altrom Auto Group",
-      "location": "Cambridge, Waterloo region",
-      "category": "PR, Advertising & Marketing Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-28T01:40:13Z",
-      "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
-      "redirectUrl": "https://www.adzuna.ca/details/5944136670?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5944136678",
       "title": "Product Manager",
@@ -34,6 +19,21 @@
       "createdAt": "2026-10-28T01:40:13Z",
       "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
       "redirectUrl": "https://www.adzuna.ca/details/5944136678?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5944136670",
+      "title": "Product Manager",
+      "company": "Altrom Auto Group",
+      "location": "Cambridge, Waterloo region",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-28T01:40:13Z",
+      "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
+      "redirectUrl": "https://www.adzuna.ca/details/5944136670?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
