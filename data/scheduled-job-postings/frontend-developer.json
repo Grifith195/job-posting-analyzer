@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:29:00.211Z",
+  "generatedAt": "2026-10-30T16:19:17.660Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -21,6 +21,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5942783300?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5945995867",
+      "title": "Frontend Developer",
+      "company": "Jotform",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-29T13:41:55Z",
+      "descriptionSnippet": "Frontend Developer Base pay range: $100,000.00/yr - $160,000.00/yr Jotform is a San Francisco-based SaaS company with more than 35 million users worldwide. We are thriving and growing, and we’ve never needed outside funding. That’s because we like keeping things agile, independent, and fun. Jotform believes everyone should be able to create their own online forms. Our 10,000 ready‑made form templates, 100 integrations, and more than 380 widgets have made us one of the most popular online form b…",
+      "redirectUrl": "https://www.adzuna.ca/details/5945995867?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Agile"
+      ]
     },
     {
       "id": "5943393615",
@@ -57,19 +74,21 @@
       ]
     },
     {
-      "id": "5858196532",
-      "title": "Frontend Developer - Remote",
-      "company": "YO AI Labs",
+      "id": "5946003573",
+      "title": "Frontend Developer",
+      "company": "Iris Software Inc.",
       "location": "Toronto, Ontario",
       "category": "IT Jobs",
       "contractType": "contract",
-      "salaryMin": 166400,
-      "salaryMax": 249600,
-      "createdAt": "2026-08-27T07:20:05Z",
-      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858196532?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-29T13:49:44Z",
+      "descriptionSnippet": "Iris's Fortune 100 direct client is looking for a Sr. Front-End Developer in Toronto, ON . Please find the job description below: Job Title: Sr. Front-End Developer (Angular, AWS & Mobile Banking Applications) Location: Toronto, ON (Hybrid: 3 days a week in the office) Duration: Long-Term Contract Design, develop, and maintain customer-facing mobile banking applications using Angular and modern front-end technologies, delivering intuitive, secure, and high-performing user experiences. Build res…",
+      "redirectUrl": "https://www.adzuna.ca/details/5946003573?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": []
+      "extractedKeywords": [
+        "AWS"
+      ]
     },
     {
       "id": "5858196541",
@@ -83,6 +102,21 @@
       "createdAt": "2026-08-27T07:20:06Z",
       "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
       "redirectUrl": "https://www.adzuna.ca/details/5858196541?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5858196532",
+      "title": "Frontend Developer - Remote",
+      "company": "YO AI Labs",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 166400,
+      "salaryMax": 249600,
+      "createdAt": "2026-08-27T07:20:05Z",
+      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5858196532?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -117,50 +151,21 @@
       "extractedKeywords": []
     },
     {
-      "id": "5539959828",
-      "title": "Frontend Developer (Angular)",
-      "company": "A-CX",
-      "location": "Chaldecutt, Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 88764,
-      "salaryMax": 109812,
-      "createdAt": "2025-12-12T14:04:27Z",
-      "descriptionSnippet": "A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend solutions, crafting software products that fulfill expectations with high …",
-      "redirectUrl": "https://www.adzuna.ca/details/5539959828?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5912440289",
-      "title": "Frontend Developer (Angular)",
-      "company": "A-CX",
-      "location": "Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 88764,
-      "salaryMax": 88764,
-      "createdAt": "2026-10-05T07:18:00Z",
-      "descriptionSnippet": "Job Description Job Description A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend solutions, crafting software products that…",
-      "redirectUrl": "https://www.adzuna.ca/details/5912440289?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5814506136",
+      "id": "5946000482",
       "title": "Senior Frontend Developer",
-      "company": "Tempo",
-      "location": "Canada",
+      "company": "Placements24",
+      "location": "Kimberley, Grey",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-07-24T17:59:06Z",
-      "descriptionSnippet": "With over 30,000 customers, including a third of Fortune 500 companies, Tempo is trusted by organizations across the globe to make their workflows work better. We create a suite of integrated solutions for time management, resource planning, budget management, roadmapping, program management, reporting and more. We create the tech that enables the modern team to deliver – for every step from first vision to value. Since our beginning in 2007 as a project to make a time-tracking tool to help a c…",
-      "redirectUrl": "https://www.adzuna.ca/details/5814506136?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-10-29T13:46:01Z",
+      "descriptionSnippet": "About the Role Our client, a fast-growing SaaS company, is looking for an exceptional Senior Frontend Developer to join their fully remote engineering team. This is a prime opportunity for a seasoned developer to take a leading role in architecting and implementing user interfaces for their innovative platform. You will work with modern JavaScript frameworks, collaborate with talented designers and backend engineers, and contribute to shaping the user experience of a product used by thousands g…",
+      "redirectUrl": "https://www.adzuna.ca/details/5946000482?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "Reporting"
+        "JavaScript",
+        "Communication"
       ]
     }
   ]
