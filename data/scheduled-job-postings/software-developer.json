@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:19:17.660Z",
+  "generatedAt": "2026-10-31T15:31:42.963Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -124,23 +124,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5909414661",
-      "title": "Software Developer",
-      "company": "Wabtec",
-      "location": "London, Middlesex",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-03T00:44:10Z",
-      "descriptionSnippet": "Job Description Who will you be working with? Bach-Simpson is the lead Event Recorder OEM in the North American Transit market. It designs, develops, and maintains various electronic equipment for trains. The monitoring team in this division is responsible for the Bach-Simpson monitoring products and projects. How will you make a difference? As a member of the software team in Bach-Simpson, you will report to the Software Manager. You will be responsible for designing and overseeing the impleme…",
-      "redirectUrl": "https://www.adzuna.ca/details/5909414661?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting"
-      ]
-    },
-    {
       "id": "5345231455",
       "title": "Software Developer",
       "company": "ProjectLine Solutions",
@@ -173,6 +156,21 @@
       "extractedKeywords": [
         "Testing"
       ]
+    },
+    {
+      "id": "5918504994",
+      "title": "Software Developer",
+      "company": "Company not listed",
+      "location": "Vaughan, York region",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": 100006,
+      "salaryMax": 100006,
+      "createdAt": "2026-10-08T01:35:56Z",
+      "descriptionSnippet": "Employer: DECISION TREE TECHNOLOGY Location: 228 Centennial Ln, Concord, ONL4K 0G7 Position: Software Developer NOC: 21232 – Software Developers and Programmers Job Type: Permanent, Full-Time Hours of Work: 30 hours per week (approximately 6 hours per day, Monday to Friday) Wage: CAD $48.08 per hour About Us DECISION TREE TECHNOLOGY is a technology solutions company specializing in the design, development, and deployment of modern business software applications. We are committed to delivering i…",
+      "redirectUrl": "https://www.adzuna.ca/details/5918504994?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
