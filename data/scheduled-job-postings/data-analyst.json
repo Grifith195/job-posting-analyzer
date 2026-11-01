@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:31:42.963Z",
+  "generatedAt": "2026-11-01T16:30:13.632Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -160,24 +160,19 @@
       ]
     },
     {
-      "id": "5946719165",
+      "id": "5948026872",
       "title": "Data Analyst",
-      "company": "Arc'Teryx",
-      "location": "North Vancouver, Greater Vancouver",
+      "company": "Artech LLC",
+      "location": "Mississauga, Peel region",
       "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 82000,
-      "salaryMax": 82000,
-      "createdAt": "2026-10-30T05:29:10Z",
-      "descriptionSnippet": "Your Opportunity at ARC’TERYX: As a Data Analyst, you play an essential role in making data accessible and useful across the planning and supply chain functions. You execute analyses, build reports and dashboards, and monitor KPIs that keep cross-functional teams informed and moving. This is a role for someone who takes pride in producing accurate, well-structured work and who wants to develop their analytical skills in a fast-paced, global environment. You will work closely with business users…",
-      "redirectUrl": "https://www.adzuna.ca/details/5946719165?utm_medium=api&utm_source=3ebb75f8",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-31T08:19:17Z",
+      "descriptionSnippet": "Job Description Job Description Title: Data Analyst Location: Mississauga, Ontario Duration: 6 Months Salary Range: C$41 INC Competitive and commensurate with experience Introduction We are seeking a detail-oriented and analytical Data Analyst to support our business decisions through meaningful insights derived from data. You will be responsible for collecting, analyzing, and interpreting large datasets to identify trends and patterns, support strategic decision-making, and improve operational…",
+      "redirectUrl": "https://www.adzuna.ca/details/5948026872?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Dashboarding",
-        "Reporting",
-        "Stakeholder Management",
-        "Metrics"
-      ]
+      "extractedKeywords": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:31:42.963Z",
+  "generatedAt": "2026-11-01T16:30:13.632Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -8,17 +8,17 @@
   },
   "jobs": [
     {
-      "id": "5947323672",
+      "id": "5944136678",
       "title": "Product Manager",
       "company": "Altrom Auto Group",
-      "location": "Burnaby, Greater Vancouver",
+      "location": "Scarborough, Toronto",
       "category": "PR, Advertising & Marketing Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-10-30T21:11:13Z",
+      "createdAt": "2026-10-28T01:40:13Z",
       "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
-      "redirectUrl": "https://www.adzuna.ca/details/5947323672?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/details/5944136678?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -38,17 +38,17 @@
       "extractedKeywords": []
     },
     {
-      "id": "5944136678",
+      "id": "5947323672",
       "title": "Product Manager",
       "company": "Altrom Auto Group",
-      "location": "Scarborough, Toronto",
+      "location": "Burnaby, Greater Vancouver",
       "category": "PR, Advertising & Marketing Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-10-28T01:40:13Z",
+      "createdAt": "2026-10-30T21:11:13Z",
       "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
-      "redirectUrl": "https://www.adzuna.ca/details/5944136678?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/details/5947323672?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
