@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:30:13.632Z",
+  "generatedAt": "2026-11-02T19:52:32.398Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,23 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5949669583",
+      "title": "Software Developer - (Automations/ AI /Dev Ops)",
+      "company": "BMO Financial",
+      "location": "Mississauga, Peel region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-01T13:56:32Z",
+      "descriptionSnippet": "Application Deadline: 11/15/2026 Address: 5750 Explorer Drive Job Family Group: Technology Drives the overall software development lifecycle including working across functional teams to transform requirements into features, managing development teams and processes, and conducting software testing and maintenance. Specific project areas of focus includes translating user requirements into technical specifications, writing code and managing the preparation of design specifications. Supports syste…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5949669583?se=dgmW8fbW8RGI-5bvRsFdrA&utm_medium=api&utm_source=3ebb75f8&v=DF8D41BD5E4E9351B415624D4DAB95CA70D47EDE",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
+      ]
+    },
     {
       "id": "5943826844",
       "title": "Software Developer",
@@ -156,21 +173,6 @@
       "extractedKeywords": [
         "Testing"
       ]
-    },
-    {
-      "id": "5918504994",
-      "title": "Software Developer",
-      "company": "Company not listed",
-      "location": "Vaughan, York region",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": 100006,
-      "salaryMax": 100006,
-      "createdAt": "2026-10-08T01:35:56Z",
-      "descriptionSnippet": "Employer: DECISION TREE TECHNOLOGY Location: 228 Centennial Ln, Concord, ONL4K 0G7 Position: Software Developer NOC: 21232 – Software Developers and Programmers Job Type: Permanent, Full-Time Hours of Work: 30 hours per week (approximately 6 hours per day, Monday to Friday) Wage: CAD $48.08 per hour About Us DECISION TREE TECHNOLOGY is a technology solutions company specializing in the design, development, and deployment of modern business software applications. We are committed to delivering i…",
-      "redirectUrl": "https://www.adzuna.ca/details/5918504994?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
