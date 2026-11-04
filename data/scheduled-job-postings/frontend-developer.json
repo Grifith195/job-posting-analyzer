@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:24:56.779Z",
+  "generatedAt": "2026-11-04T17:38:22.457Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -91,23 +91,6 @@
       ]
     },
     {
-      "id": "5946003573",
-      "title": "Frontend Developer",
-      "company": "Iris Software Inc.",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-29T13:49:44Z",
-      "descriptionSnippet": "Iris's Fortune 100 direct client is looking for a Sr. Front-End Developer in Toronto, ON . Please find the job description below: Job Title: Sr. Front-End Developer (Angular, AWS & Mobile Banking Applications) Location: Toronto, ON (Hybrid: 3 days a week in the office) Duration: Long-Term Contract Design, develop, and maintain customer-facing mobile banking applications using Angular and modern front-end technologies, delivering intuitive, secure, and high-performing user experiences. Build res…",
-      "redirectUrl": "https://www.adzuna.ca/details/5946003573?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "AWS"
-      ]
-    },
-    {
       "id": "5948276283",
       "title": "Frontend Developer",
       "company": "IT Connex",
@@ -119,6 +102,21 @@
       "createdAt": "2026-10-31T13:16:10Z",
       "descriptionSnippet": "Location: Toronto, ON Experience: 10 years Job Overview The platform supports global trading operations across derivatives, cash products, exotics, and securities financing transactions. It processes approximately 200,000 transactions daily and provides real-time position and risk management capabilities. In this role, you will contribute to the evolution of a next‑generation trading application, focusing on modern UI/UX engineering, service‑oriented architecture, automated CI/CD pipelines, and…",
       "redirectUrl": "https://www.adzuna.ca/details/5948276283?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5858196541",
+      "title": "Frontend Developer - Remote",
+      "company": "YO AI Labs",
+      "location": "Edmonton, Edmonton region",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 166400,
+      "salaryMax": 249600,
+      "createdAt": "2026-08-27T07:20:06Z",
+      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
+      "redirectUrl": "https://www.adzuna.ca/details/5858196541?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -153,17 +151,17 @@
       "extractedKeywords": []
     },
     {
-      "id": "5858196541",
+      "id": "5858196532",
       "title": "Frontend Developer - Remote",
       "company": "YO AI Labs",
-      "location": "Edmonton, Edmonton region",
+      "location": "Toronto, Ontario",
       "category": "IT Jobs",
       "contractType": "contract",
       "salaryMin": 166400,
       "salaryMax": 249600,
-      "createdAt": "2026-08-27T07:20:06Z",
+      "createdAt": "2026-08-27T07:20:05Z",
       "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858196541?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/details/5858196532?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
