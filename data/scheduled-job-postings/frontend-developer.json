@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:38:22.457Z",
+  "generatedAt": "2026-11-05T17:43:50.319Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -106,19 +106,21 @@
       "extractedKeywords": []
     },
     {
-      "id": "5858196541",
-      "title": "Frontend Developer - Remote",
-      "company": "YO AI Labs",
-      "location": "Edmonton, Edmonton region",
+      "id": "5953803853",
+      "title": "Frontend Developer - Angular",
+      "company": "INFOYA",
+      "location": "East York, Toronto",
       "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 166400,
-      "salaryMax": 249600,
-      "createdAt": "2026-08-27T07:20:06Z",
-      "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858196541?utm_medium=api&utm_source=3ebb75f8",
+      "contractType": "permanent",
+      "salaryMin": 70000,
+      "salaryMax": 80000,
+      "createdAt": "2026-11-04T23:21:56Z",
+      "descriptionSnippet": "About the Job: Infoya is seeking a Frontend Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. Office Location: Toronto Employment Type: Permanent Role Type: New position – current requirement Work Arrangement: Hybrid (2 days …",
+      "redirectUrl": "https://www.adzuna.ca/details/5953803853?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": []
+      "extractedKeywords": [
+        "Communication"
+      ]
     },
     {
       "id": "5930615769",
@@ -151,17 +153,17 @@
       "extractedKeywords": []
     },
     {
-      "id": "5858196532",
+      "id": "5858196541",
       "title": "Frontend Developer - Remote",
       "company": "YO AI Labs",
-      "location": "Toronto, Ontario",
+      "location": "Edmonton, Edmonton region",
       "category": "IT Jobs",
       "contractType": "contract",
       "salaryMin": 166400,
       "salaryMax": 249600,
-      "createdAt": "2026-08-27T07:20:05Z",
+      "createdAt": "2026-08-27T07:20:06Z",
       "descriptionSnippet": "Senior Software Engineer Job Type: Contractor (~15 hours/week) Location: Remote Job Summary We are seeking experienced Senior Software Engineers to support an AI training project by creating reinforcement learning environments that evaluate AI models on complex software engineering tasks using Model Context Protocol (MCP) tools. You will design reproducible environments, deterministic verification, and reference solutions for tasks such as bug fixing, feature implementation, codebase refactorin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5858196532?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/details/5858196541?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
