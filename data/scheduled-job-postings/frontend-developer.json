@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:58:02.954Z",
+  "generatedAt": "2026-11-08T16:26:05.774Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -161,17 +161,17 @@
       ]
     },
     {
-      "id": "5539959828",
-      "title": "Frontend Developer (Angular)",
-      "company": "A-CX",
-      "location": "Chaldecutt, Vancouver",
+      "id": "5957987061",
+      "title": "Senior Frontend Developer",
+      "company": "TELUS Health",
+      "location": "Toronto, Ontario",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 88764,
-      "salaryMax": 109812,
-      "createdAt": "2025-12-12T14:04:27Z",
-      "descriptionSnippet": "A-CX is a software design and development partner for progressive companies, delivering innovative services through dedicated teams and customized solutions. Specializing in modern frontend and backend development, artificial intelligence, cloud architecture, and DevOps, we provide scalable custom services of the highest quality, exceeding expectations. Our experienced team builds engaging applications and secure backend solutions, crafting software products that fulfill expectations with high …",
-      "redirectUrl": "https://www.adzuna.ca/details/5539959828?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 85000,
+      "salaryMax": 110000,
+      "createdAt": "2026-11-08T05:07:08Z",
+      "descriptionSnippet": "TELUS Health is empowering every person to live their healthiest life. Guided by our vision, we are leveraging the power of our leading edge technology and focusing on the uniqueness of each individual to create the future of health. As a global-leading health and well-being provider – encompassing physical, mental and financial health – TELUS Health is improving health outcomes for consumers, patients, healthcare professionals, employers and employees. Join our team and what we'll accomplish t…",
+      "redirectUrl": "https://www.adzuna.ca/details/5957987061?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
