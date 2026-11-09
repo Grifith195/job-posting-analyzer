@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:26:05.774Z",
+  "generatedAt": "2026-11-09T20:14:39.392Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,21 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5922152663",
-      "title": "Security Software Developer",
-      "company": "Evertz Microsystems Limited",
-      "location": "Markham, York region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-10T08:36:23Z",
-      "descriptionSnippet": "Job Description Job Description We’re looking for a Security Software Developer to join the networking device development team behind Evertz IP switch fabric products, including the EXE and NATX, and Evertz SDI router products, including the NEXX and ENX platforms. In this role, you’ll be responsible for ensuring our products meet the security requirements of the NDcPP (Network Device collaborative Protection Profile) under the Common Criteria certification framework. You’ll work across the cod…",
-      "redirectUrl": "https://www.adzuna.ca/details/5922152663?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "5935373656",
       "title": "Java Software Developer",
@@ -170,6 +155,23 @@
       "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5345231455",
+      "title": "Software Developer",
+      "company": "ProjectLine Solutions",
+      "location": "Saskatoon, Saskatchewan",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-08-09T05:32:31Z",
+      "descriptionSnippet": "Our Software Developers are strong programmers with demonstrated experience writing robust, maintainable code for challenging and stimulating projects. You'll have the opportunity to match your passion for software development with a diversity of challenging and exciting projects. Qualifications Demonstrated software development experience. A solid understanding of TypeScript and Reactive programming principles. Experience with Angular and Angular Material. Familiarity with common CSS framework…",
+      "redirectUrl": "https://www.adzuna.ca/details/5345231455?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript"
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:26:05.774Z",
+  "generatedAt": "2026-11-09T20:14:39.392Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -158,24 +158,19 @@
       "extractedKeywords": []
     },
     {
-      "id": "5946719165",
+      "id": "5957951454",
       "title": "Data Analyst",
-      "company": "Arc'Teryx",
-      "location": "North Vancouver, Greater Vancouver",
+      "company": "PCL Construction",
+      "location": "Edmonton, Edmonton region",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": 82000,
-      "salaryMax": 82000,
-      "createdAt": "2026-10-30T05:29:10Z",
-      "descriptionSnippet": "Your Opportunity at ARC’TERYX: As a Data Analyst, you play an essential role in making data accessible and useful across the planning and supply chain functions. You execute analyses, build reports and dashboards, and monitor KPIs that keep cross-functional teams informed and moving. This is a role for someone who takes pride in producing accurate, well-structured work and who wants to develop their analytical skills in a fast-paced, global environment. You will work closely with business users…",
-      "redirectUrl": "https://www.adzuna.ca/details/5946719165?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-08T04:50:23Z",
+      "descriptionSnippet": "Data Analyst The future you want is within reach. Let's build it together. At PCL Constructors Inc., part of the PCL Family of Companies (PCL), we don't just build projects we build opportunities, careers and communities. We are 100% employee-owned, every employee has a stake in our success, and that shared commitment drives how we work, grow and lead in the construction industry. We're a team of builders who care deeply about what we create and who we build with. That includes you. We are not…",
+      "redirectUrl": "https://www.adzuna.ca/details/5957951454?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": [
-        "Dashboarding",
-        "Reporting",
-        "Stakeholder Management",
-        "Metrics"
-      ]
+      "extractedKeywords": []
     }
   ]
 }
