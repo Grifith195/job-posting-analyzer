@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:14:39.392Z",
+  "generatedAt": "2026-11-10T17:21:06.330Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,21 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5927456978",
+      "title": "Data & Systems Analyst",
+      "company": "Mulgrave School, The International School of Vancouver",
+      "location": "West Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-14T07:58:12Z",
+      "descriptionSnippet": "Job Description Job Description Permanent, Full-Time Start date: November 2026 At Mulgrave School, we believe that great technology and thoughtful use of data can transform the learning experience. We’re looking for a curious, analytical, and solutions-focused Data & Systems Analyst to help us make that happen. As an independent, co-educational Pre-K-12 International Baccalaureate (IB) school, Mulgrave is committed to providing personalised and ambitious learning experiences for every student. …",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5927456978?se=MpFBHSvd8RGWzsedh2qTZQ&utm_medium=api&utm_source=3ebb75f8&v=98280D6F1F29DC70AEC5AF03A63DBDFE37C6B319",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
     {
       "id": "5703538141",
       "title": "Data Analyst",
@@ -154,21 +169,6 @@
       "createdAt": "2026-10-31T08:19:17Z",
       "descriptionSnippet": "Job Description Job Description Title: Data Analyst Location: Mississauga, Ontario Duration: 6 Months Salary Range: C$41 INC Competitive and commensurate with experience Introduction We are seeking a detail-oriented and analytical Data Analyst to support our business decisions through meaningful insights derived from data. You will be responsible for collecting, analyzing, and interpreting large datasets to identify trends and patterns, support strategic decision-making, and improve operational…",
       "redirectUrl": "https://www.adzuna.ca/details/5948026872?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5957951454",
-      "title": "Data Analyst",
-      "company": "PCL Construction",
-      "location": "Edmonton, Edmonton region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-08T04:50:23Z",
-      "descriptionSnippet": "Data Analyst The future you want is within reach. Let's build it together. At PCL Constructors Inc., part of the PCL Family of Companies (PCL), we don't just build projects we build opportunities, careers and communities. We are 100% employee-owned, every employee has a stake in our success, and that shared commitment drives how we work, grow and lead in the construction industry. We're a team of builders who care deeply about what we create and who we build with. That includes you. We are not…",
-      "redirectUrl": "https://www.adzuna.ca/details/5957951454?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:14:39.392Z",
+  "generatedAt": "2026-11-10T17:21:06.330Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,6 +7,24 @@
     "resultsPerPage": 10
   },
   "jobs": [
+    {
+      "id": "5960420725",
+      "title": "Enterprise Product Management Specialist",
+      "company": "Mercor",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-10T09:26:44Z",
+      "descriptionSnippet": "Job Description Job Description About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Product Management Expert Type: Contract Compensation: $80–$90/hour Location: Remote Role Responsibilities Construct enterprise product scenarios for multi-quarter roadmap planning and cross-functional stakehold…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5960420725?se=JMR2HSvd8RGWzsedh2qTZQ&utm_medium=api&utm_source=3ebb75f8&v=DF616FA663DC28CE53A8A4DA053C1C370B41B00C",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management",
+        "Roadmapping"
+      ]
+    },
     {
       "id": "5958220509",
       "title": "Enterprise Product Management Specialist",
@@ -18,25 +36,7 @@
       "salaryMax": null,
       "createdAt": "2026-11-08T08:53:12Z",
       "descriptionSnippet": "Job Description Job Description About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Product Management Expert Type: Contract Compensation: $80–$90/hour Location: Remote Role Responsibilities Construct enterprise product scenarios for multi-quarter roadmap planning and cross-functional stakehold…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5958220509?se=3PevMXrc8RGUu4-u5QYtzw&utm_medium=api&utm_source=3ebb75f8&v=02E2B9A8A1EF7FD5F7D384ED0C165363F334CEA9",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Stakeholder Management",
-        "Roadmapping"
-      ]
-    },
-    {
-      "id": "5952980800",
-      "title": "Enterprise Product Management Specialist",
-      "company": "Mercor",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-04T08:19:26Z",
-      "descriptionSnippet": "Job Description Job Description About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Product Management Expert Type: Contract Compensation: $80–$90/hour Location: Remote Role Responsibilities Construct enterprise product scenarios for multi-quarter roadmap planning and cross-functional stakehold…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5952980800?se=3PevMXrc8RGUu4-u5QYtzw&utm_medium=api&utm_source=3ebb75f8&v=917E8C0D32986FAF2A0E31A4FCCA0D69A17583E4",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5958220509?se=JMR2HSvd8RGWzsedh2qTZQ&utm_medium=api&utm_source=3ebb75f8&v=02E2B9A8A1EF7FD5F7D384ED0C165363F334CEA9",
       "source": "Adzuna",
       "extractedKeywords": [
         "Stakeholder Management",
@@ -54,7 +54,22 @@
       "salaryMax": null,
       "createdAt": "2026-11-02T07:28:31Z",
       "descriptionSnippet": "Job Description Job Description:\\n\\nAperçu du poste :\\nNous recherchons un(e) spécialiste des pratiques de gestion de produit, doté(e) d’un esprit pratique, pour mettre en œuvre et opérationnaliser les pratiques, les processus et les outils permettant à la gestion de produit de fonctionner de manière cohérente et efficace à grande échelle.\\n\\nVotre rôle consistera à traduire l’orientation stratégique de la gestion de produit en méthodes de travail concrètes et reproductibles. Vous créerez les m…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5950546881?se=3PevMXrc8RGUu4-u5QYtzw&utm_medium=api&utm_source=3ebb75f8&v=6CE0BDB859418EB6779F56A0E6A18078B1009AD7",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5950546881?se=JMR2HSvd8RGWzsedh2qTZQ&utm_medium=api&utm_source=3ebb75f8&v=6CE0BDB859418EB6779F56A0E6A18078B1009AD7",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5936589754",
+      "title": "Product Marketing Manager",
+      "company": "Savvy Talent",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-21T07:17:57Z",
+      "descriptionSnippet": "Job Description Job Description This is a hybrid role based in Vancouver, British Columbia, working in office 3 days a week. Candidates currently outside Vancouver are welcome to apply if they are willing to relocate (relocation support is not provided). As the Product Marketing Manager, you will be responsible for product launches, core product positioning, and the multi-channel campaigns that bring new features to market. Working directly with the VP of Growth, you will turn what the product …",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5936589754?se=JMR2HSvd8RGWzsedh2qTZQ&utm_medium=api&utm_source=3ebb75f8&v=9DFE876EAF452ED9562B241D95EB2A2349E6E57B",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -74,21 +89,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5944136678",
-      "title": "Product Manager",
-      "company": "Altrom Auto Group",
-      "location": "Scarborough, Toronto",
-      "category": "PR, Advertising & Marketing Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-28T01:40:13Z",
-      "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
-      "redirectUrl": "https://www.adzuna.ca/details/5944136678?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5947323672",
       "title": "Product Manager",
       "company": "Altrom Auto Group",
@@ -100,6 +100,21 @@
       "createdAt": "2026-10-30T21:11:13Z",
       "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
       "redirectUrl": "https://www.adzuna.ca/details/5947323672?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5944136678",
+      "title": "Product Manager",
+      "company": "Altrom Auto Group",
+      "location": "Scarborough, Toronto",
+      "category": "PR, Advertising & Marketing Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-28T01:40:13Z",
+      "descriptionSnippet": "Job Description The Product Management Department is currently seeking a Product Manager. The selected candidate will assist the Senior Market Manager in implementing approved marketing strategies for particular product lines to drive sales growth. Specifically, they must produce detailed analysis to contribute to the development of these strategies and keep the master product file updated for the distribution system. This position pays between $70,100 and $87,600 yearly (depending on your qual…",
+      "redirectUrl": "https://www.adzuna.ca/details/5944136678?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -147,21 +162,6 @@
       "createdAt": "2026-10-23T20:02:12Z",
       "descriptionSnippet": "Who We Are SWTCH is pioneering EV charging solutions for multifamily and commercial properties across North America. Since 2016, our team of entrepreneurs, energy professionals, and technologists has been focused on unlocking the social, economic, and environmental benefits of widespread EV adoption. Today, our solutions are deployed in tens of thousands of locations —many of which are low-to-moderate income housing—helping to make clean mobility accessible for all. With an expanding footprint …",
       "redirectUrl": "https://www.adzuna.ca/details/5939705083?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5920330668",
-      "title": "Product Manager",
-      "company": "Beem",
-      "location": "British Columbia, Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 109600,
-      "salaryMax": 137000,
-      "createdAt": "2026-10-09T04:38:08Z",
-      "descriptionSnippet": "Beem Credit Union: Banking for every journey Beem is redefining what it means to be a credit union. With 80 years of cooperative history and a bold vision for the future, we’ve united to create a financial partner that offers both digital ease and people-first service. Our mission is clear: financial wellness for all. We help British Columbians achieve their goals through personalized advice, innovative technology, and genuine human connection. As one of BC’s largest credit unions, we serve ove…",
-      "redirectUrl": "https://www.adzuna.ca/details/5920330668?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T20:14:39.392Z",
+  "generatedAt": "2026-11-10T17:21:06.330Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -8,7 +8,22 @@
   },
   "jobs": [
     {
-      "id": "5935373656",
+      "id": "5959261789",
+      "title": "Security Software Developer",
+      "company": "Evertz Microsystems Limited",
+      "location": "Markham, York region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-09T08:49:55Z",
+      "descriptionSnippet": "Job Description Job Description We’re looking for a Security Software Developer to join the networking device development team behind Evertz IP switch fabric products, including the EXE and NATX, and Evertz SDI router products, including the NEXX and ENX platforms. In this role, you’ll be responsible for ensuring our products meet the security requirements of the NDcPP (Network Device collaborative Protection Profile) under the Common Criteria certification framework. You’ll work across the cod…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5959261789?se=Bt0SHSvd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=3ebb75f8&v=0220A2201F97B0422B245F780B2C3DD0D097BC64",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5957036012",
       "title": "Java Software Developer",
       "company": "ZAPCOM GROUP INC",
       "location": "Toronto, Ontario",
@@ -16,11 +31,60 @@
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-10-20T07:25:26Z",
+      "createdAt": "2026-11-07T08:35:30Z",
       "descriptionSnippet": "Job Description Job Description Job Description Please find the below Job Description and share your updated resume at priti.borkar@zapcg.com Please do not apply less than 8 years experience candidates and if not matching to the required criteria. Role: Full Stack Developer Location: Toronto, ON (Hybrid) Position type: Fulltime Visa: Canadian Citizens or PR only Years of experience required: 8 Years Looking for Sr full stack developers 8 years’ experience who needs to have core Java/Springboot …",
-      "redirectUrl": "https://www.adzuna.ca/details/5935373656?utm_medium=api&utm_source=3ebb75f8",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5957036012?se=Bt0SHSvd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=3ebb75f8&v=51A6F8B3B39C25CA655072737DE4A3D1FFFE869D",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5958200614",
+      "title": "Manager, Software Development (Vehicle Services)",
+      "company": "PayByPhone",
+      "location": "Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-08T08:45:43Z",
+      "descriptionSnippet": "Job Description Job Description About PayByPhone At PayByPhone, our strength is our people. Behind our product is a talented, creative, and driven multi-disciplinary team united by a shared ambition: to make everyday mobility simpler. We believe innovation should be collaborative, learning should be constant, and work should be enjoyable. As we grow, we’re looking for people who want to grow with us. Together, we’re on an ambitious mission to create intuitive technology solutions that deliver w…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5958200614?se=Bt0SHSvd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=3ebb75f8&v=7FF9F48D53B880CF79E39C77591A51A1F2917197",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5924145231",
+      "title": "Software Developer - Back End - Senior",
+      "company": "Innosystech Inc",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": 183040,
+      "salaryMax": 193440,
+      "createdAt": "2026-10-12T07:16:55Z",
+      "descriptionSnippet": "Job Description Job Description Job Title: Software Developer - Back End - Senior Location: Toronto, Ontario Work Model: Onsite Duration: 6 months Extension: 1 Time Submission Deadline: 2026-07-15, 12:00 p.m. EST Must Haves 10 years of experience as a designer and developer in the large-scale multi-client web applications 10 year of hands-on working experience of Java development with Oracle or SQL database 5 years of hands-on experience of RestAPI, RESTful WebServices Knowledge of security gat…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5924145231?se=Bt0SHSvd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=3ebb75f8&v=578CF601B44EDCEDE8D1B49C023C526D5E747551",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL"
+      ]
+    },
+    {
+      "id": "5948024408",
+      "title": "RQ11329 - Sr. Software Developer - Back End",
+      "company": "Source Code",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-31T08:17:57Z",
+      "descriptionSnippet": "Job Description Job Description RQ11329 - Sr. Software Developer - Back End 5 month contract (108 business days) - possible extension ONSITE 5 days - 222 Jarvis St Must Have: 10 years of experience as a designer and developer in the large-scale multi-client web applications 10 year of hands-on working experience of Java development with Oracle or SQL database 5 years of hands-on experience of RestAPI, RESTful WebServices Knowledge of security gateways and protocols (JWT, Oauth2.0, SSL Certifica…",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5948024408?se=Bt0SHSvd8RG2ju3U9MuxdQ&utm_medium=api&utm_source=3ebb75f8&v=54D054989EC96DD007225480C754FDDF0BD2A701",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL"
+      ]
     },
     {
       "id": "5943826844",
@@ -105,73 +169,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5912751511?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5955979172",
-      "title": "Software Developer",
-      "company": "Hirematic Talent Solutions",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 124800,
-      "salaryMax": 135200,
-      "createdAt": "2026-11-06T14:49:29Z",
-      "descriptionSnippet": "Senior Software Developer Location: Toronto, Ontario Employment Type: Contract Work Arrangement: Onsite 5 Days per Week Contract Duration: 211 211 Days (Extension) Rate: $550 per day Responsibilities Translate business requirements and technical specifications into scalable, secure, and fully tested applications. Develop detailed technical designs and programming specifications. Write, review, and maintain clean, efficient, and maintainable code. Build and enhance data-driven applications and …",
-      "redirectUrl": "https://www.adzuna.ca/details/5955979172?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5953371229",
-      "title": "Software Developer",
-      "company": "Hirematic Talent Solutions",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 124800,
-      "salaryMax": 139360,
-      "createdAt": "2026-11-04T14:04:10Z",
-      "descriptionSnippet": "Senior Software Developer Location: Toronto, Ontario Employment Type: Contract Duration: 135 135 Days Work Arrangement: Onsite 5 Days a Week Hourly Rate: $60 - $67 CAD Inc Job Description The successful candidate will be responsible for developing a public-facing online registration and permit portal using Next.js, TypeScript, and React. The solution will integrate with a back-office system through middleware and REST APIs. Mandatory Skills 10 years of experience as a designer and developer in…",
-      "redirectUrl": "https://www.adzuna.ca/details/5953371229?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "API"
-      ]
-    },
-    {
-      "id": "5897520394",
-      "title": "Software Developer",
-      "company": "Evertz Microsystems Limited",
-      "location": "Burlington, Halton",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-24T20:22:22Z",
-      "descriptionSnippet": "We're looking for a self-driven engineer to join a highly technical team building state-of-the-art technology for a fast-moving, evolving product. This role spans dozens of disciplines, vendors, and technologies — from industry-standard tools to bleeding-edge, domain-specific systems where the only \"documentation\" may be a research whitepaper. You'll help choose the right technology for each problem and often be responsible for building the first implementation of something that doesn't exist y…",
-      "redirectUrl": "https://www.adzuna.ca/details/5897520394?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5345231455",
-      "title": "Software Developer",
-      "company": "ProjectLine Solutions",
-      "location": "Saskatoon, Saskatchewan",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2025-08-09T05:32:31Z",
-      "descriptionSnippet": "Our Software Developers are strong programmers with demonstrated experience writing robust, maintainable code for challenging and stimulating projects. You'll have the opportunity to match your passion for software development with a diversity of challenging and exciting projects. Qualifications Demonstrated software development experience. A solid understanding of TypeScript and Reactive programming principles. Experience with Angular and Angular Material. Familiarity with common CSS framework…",
-      "redirectUrl": "https://www.adzuna.ca/details/5345231455?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript"
-      ]
     }
   ]
 }
