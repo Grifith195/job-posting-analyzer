@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T17:21:06.330Z",
+  "generatedAt": "2026-11-11T17:31:33.253Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -106,6 +106,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5961945127",
+      "title": "Frontend Developer",
+      "company": "Verifran",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-11T12:20:48Z",
+      "descriptionSnippet": "Build the surfaces people actually judge us by: the assessment a franchisee talks their way through, and the intelligence card a franchisor decides on. Team Engineering Type Full-time Location Remote — anywhere with 4 hours overlap with Eastern Time Two audiences, opposite needs. A franchisee is being measured and needs the experience to feel fair and unhurried. A franchisor is deciding whether to spend a credit and needs density, evidence and speed. Both run on the same design system. You will…",
+      "redirectUrl": "https://www.adzuna.ca/details/5961945127?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5953803853",
       "title": "Frontend Developer - Angular",
       "company": "INFOYA",
@@ -117,6 +132,23 @@
       "createdAt": "2026-11-04T23:21:56Z",
       "descriptionSnippet": "About the Job: Infoya is seeking a Frontend Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. Office Location: Toronto Employment Type: Permanent Role Type: New position – current requirement Work Arrangement: Hybrid (2 days …",
       "redirectUrl": "https://www.adzuna.ca/details/5953803853?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "5961945111",
+      "title": "Angular Frontend Developer",
+      "company": "Elits Canada Inc.",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-11T12:20:48Z",
+      "descriptionSnippet": "About ELITS ELITS Canada Inc. is part of Accelerate, within the IVER Group in Sweden. IVER Group has approximately 1,300 employees and continues to grow. Through Accelerate, we work at the forefront of technology on digitization and transformation projects for market leading customers. We help customers turn digital ambition into successful implementation through close collaboration, humility, and pride in what we deliver. About the Role ELITS Canada is looking for an experienced Angular Fronte…",
+      "redirectUrl": "https://www.adzuna.ca/details/5961945111?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
@@ -138,42 +170,6 @@
       "extractedKeywords": [
         "Communication"
       ]
-    },
-    {
-      "id": "5947968089",
-      "title": "UI Frontend Developer",
-      "company": "Artech LLC",
-      "location": "Kanata, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-31T08:01:56Z",
-      "descriptionSnippet": "Job Description Job Description Required Skills & Qualifications Strong hands-on development experience with Angular. Strong proficiency with TypeScript. Solid knowledge of JavaScript, HTML, and CSS. Experience integrating frontend applications with REST APIs. Understanding of modern frontend development practices and component-based architecture. Experience with Git, npm, and CI/CD workflows. Familiarity with automated frontend testing; Playwright experience is preferred. Strong troubleshootin…",
-      "redirectUrl": "https://www.adzuna.ca/details/5947968089?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "TypeScript",
-        "JavaScript",
-        "Git",
-        "API",
-        "Testing"
-      ]
-    },
-    {
-      "id": "5957987061",
-      "title": "Senior Frontend Developer",
-      "company": "TELUS Health",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 85000,
-      "salaryMax": 110000,
-      "createdAt": "2026-11-08T05:07:08Z",
-      "descriptionSnippet": "TELUS Health is empowering every person to live their healthiest life. Guided by our vision, we are leveraging the power of our leading edge technology and focusing on the uniqueness of each individual to create the future of health. As a global-leading health and well-being provider – encompassing physical, mental and financial health – TELUS Health is improving health outcomes for consumers, patients, healthcare professionals, employers and employees. Join our team and what we'll accomplish t…",
-      "redirectUrl": "https://www.adzuna.ca/details/5957987061?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }
