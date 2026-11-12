@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:31:33.253Z",
+  "generatedAt": "2026-11-12T17:47:05.391Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,42 +18,9 @@
       "salaryMax": null,
       "createdAt": "2026-10-14T07:58:12Z",
       "descriptionSnippet": "Job Description Job Description Permanent, Full-Time Start date: November 2026 At Mulgrave School, we believe that great technology and thoughtful use of data can transform the learning experience. We’re looking for a curious, analytical, and solutions-focused Data & Systems Analyst to help us make that happen. As an independent, co-educational Pre-K-12 International Baccalaureate (IB) school, Mulgrave is committed to providing personalised and ambitious learning experiences for every student. …",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5927456978?se=3OU1vvXd8RG-3tonMCyHnw&utm_medium=api&utm_source=3ebb75f8&v=98280D6F1F29DC70AEC5AF03A63DBDFE37C6B319",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5927456978?se=nuxkE8He8RGeRcETzs7BxQ&utm_medium=api&utm_source=3ebb75f8&v=98280D6F1F29DC70AEC5AF03A63DBDFE37C6B319",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5957149542",
-      "title": "Ecommerce Data Insights Analyst",
-      "company": "London Drugs Limited",
-      "location": "Richmond, Elgin region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 69014,
-      "salaryMax": 72571,
-      "createdAt": "2026-11-07T09:33:10Z",
-      "descriptionSnippet": "Job Description Job Description Ecommerce Data Insights Analyst Location: Richmond, BC Job Type: Full-Time Who We Are: At London Drugs, we're more than just a retailer. As one of Canada's largest independently owned and operated retailers, we're committed to delivering exceptional customer experiences across both our stores and digital channels. Our teams work collaboratively to solve problems, drive innovation, and create meaningful experiences for millions of customers. As a 100% Canadian-own…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5957149542?se=3OU1vvXd8RG-3tonMCyHnw&utm_medium=api&utm_source=3ebb75f8&v=8BECC6B06CB0D9D29677B4F172124A475A6F8699",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5945656552",
-      "title": "Enterprise Data Platform Analyst",
-      "company": "Whopper Technologies",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-29T08:29:13Z",
-      "descriptionSnippet": "Job Description Job Description Job Title: Enterprise Data Platform Analyst Location: Canada, Remote Seniority on the skill/s required on this requirement: Junior Estimated Duration: 12 months with possible extension for another 12 months Work authorization: any (candidate must be authorized to work in CA) Job Summary: Reporting to the Manager, Content and Collaboration Services (CCS), the Application Analyst’s primary role will be responsible for providing technical support, troubleshooting, a…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5945656552?se=3OU1vvXd8RG-3tonMCyHnw&utm_medium=api&utm_source=3ebb75f8&v=1F77BB804185B11EC3D1B8955BB9D6AD5AA7A1DC",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication",
-        "Reporting"
-      ]
     },
     {
       "id": "5703538141",
@@ -125,39 +92,6 @@
       ]
     },
     {
-      "id": "5727240710",
-      "title": "Data Analyst",
-      "company": "Jose Merciline",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-05-12T16:43:40Z",
-      "descriptionSnippet": "Job title: Data Analyst Description: This position is with the Enterprise System Management (ESM) department. The position is with a team responsible for a set of systems used to manage Morgan Stanley’s IT inventory and assets data, together with their configuration and operational state. This data is critical for regulatory, operational, and efficiency purposes. Our goals are: -Sourcing IT inventory and machine data (e.g. logs, alerts) in a timely manner. -Storing the data in scalable reposito…",
-      "redirectUrl": "https://www.adzuna.ca/details/5727240710?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5907688688",
-      "title": "Data Analyst",
-      "company": "People Corporation",
-      "location": "Markham, York region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 60000,
-      "salaryMax": 70000,
-      "createdAt": "2026-10-02T04:33:39Z",
-      "descriptionSnippet": "We are seeking a Data Analyst to work in our Toronto office providing support to our management staff in the administration of group insurance and self-funded health benefits and both defined benefit and defined contribution pension plans. The successful candidate will play a role in data management, data analysis, and reporting metrics. The Data Analyst will: Generate data exports and reports by developing queries to retrieve data from the databases and ensuring data quality and assurance Perf…",
-      "redirectUrl": "https://www.adzuna.ca/details/5907688688?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Reporting",
-        "Metrics"
-      ]
-    },
-    {
       "id": "5727144132",
       "title": "Data Analyst",
       "company": "Jose Merciline",
@@ -171,6 +105,74 @@
       "redirectUrl": "https://www.adzuna.ca/details/5727144132?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5948015927",
+      "title": "Data Analyst",
+      "company": "Epsilon Solutions LTD",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-31T08:15:16Z",
+      "descriptionSnippet": "Job Description Job Description Role Name: Data Analyst Location:Toronto 4 days a week on site F2F interview requiredJOB DESCRIPTION: Must have 6 years of Business domain experience as a Data Analyst experience of client facing products Strong SQL in relation and nonrelational database environment Ability to analyze business requirement current state to produce IT requirements Working knowledge of data modelling schema structure data mapping and data transformation Good communication and interp…",
+      "redirectUrl": "https://www.adzuna.ca/details/5948015927?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Communication"
+      ]
+    },
+    {
+      "id": "5948026872",
+      "title": "Data Analyst",
+      "company": "Artech LLC",
+      "location": "Mississauga, Peel region",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-31T08:19:17Z",
+      "descriptionSnippet": "Job Description Job Description Title: Data Analyst Location: Mississauga, Ontario Duration: 6 Months Salary Range: C$41 INC Competitive and commensurate with experience Introduction We are seeking a detail-oriented and analytical Data Analyst to support our business decisions through meaningful insights derived from data. You will be responsible for collecting, analyzing, and interpreting large datasets to identify trends and patterns, support strategic decision-making, and improve operational…",
+      "redirectUrl": "https://www.adzuna.ca/details/5948026872?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5957951454",
+      "title": "Data Analyst",
+      "company": "PCL Construction",
+      "location": "Edmonton, Edmonton region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-08T04:50:23Z",
+      "descriptionSnippet": "Data Analyst The future you want is within reach. Let's build it together. At PCL Constructors Inc., part of the PCL Family of Companies (PCL), we don't just build projects we build opportunities, careers and communities. We are 100% employee-owned, every employee has a stake in our success, and that shared commitment drives how we work, grow and lead in the construction industry. We're a team of builders who care deeply about what we create and who we build with. That includes you. We are not…",
+      "redirectUrl": "https://www.adzuna.ca/details/5957951454?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5946719165",
+      "title": "Data Analyst",
+      "company": "Arc'Teryx",
+      "location": "North Vancouver, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 82000,
+      "salaryMax": 82000,
+      "createdAt": "2026-10-30T05:29:10Z",
+      "descriptionSnippet": "Your Opportunity at ARC’TERYX: As a Data Analyst, you play an essential role in making data accessible and useful across the planning and supply chain functions. You execute analyses, build reports and dashboards, and monitor KPIs that keep cross-functional teams informed and moving. This is a role for someone who takes pride in producing accurate, well-structured work and who wants to develop their analytical skills in a fast-paced, global environment. You will work closely with business users…",
+      "redirectUrl": "https://www.adzuna.ca/details/5946719165?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Dashboarding",
+        "Reporting",
+        "Stakeholder Management",
+        "Metrics"
+      ]
     }
   ]
 }
