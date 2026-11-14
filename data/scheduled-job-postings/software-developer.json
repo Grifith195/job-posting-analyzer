@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:25:06.532Z",
+  "generatedAt": "2026-11-14T16:12:25.587Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,40 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5961714481",
-      "title": "Software Developer - Back End - Senior",
-      "company": "Innosystech Inc",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": 183040,
-      "salaryMax": 193440,
-      "createdAt": "2026-11-11T09:05:46Z",
-      "descriptionSnippet": "Job Description Job Description Job Title: Software Developer - Back End - Senior Location: Toronto, Ontario Work Model: Onsite Duration: 6 months Extension: 1 Time Submission Deadline: 2026-07-15, 12:00 p.m. EST Must Haves 10 years of experience as a designer and developer in the large-scale multi-client web applications 10 year of hands-on working experience of Java development with Oracle or SQL database 5 years of hands-on experience of RestAPI, RESTful WebServices Knowledge of security gat…",
-      "redirectUrl": "https://www.adzuna.ca/details/5961714481?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL"
-      ]
-    },
-    {
-      "id": "5948024408",
-      "title": "RQ11329 - Sr. Software Developer - Back End",
-      "company": "Source Code",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-31T08:17:57Z",
-      "descriptionSnippet": "Job Description Job Description RQ11329 - Sr. Software Developer - Back End 5 month contract (108 business days) - possible extension ONSITE 5 days - 222 Jarvis St Must Have: 10 years of experience as a designer and developer in the large-scale multi-client web applications 10 year of hands-on working experience of Java development with Oracle or SQL database 5 years of hands-on experience of RestAPI, RESTful WebServices Knowledge of security gateways and protocols (JWT, Oauth2.0, SSL Certifica…",
-      "redirectUrl": "https://www.adzuna.ca/details/5948024408?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL"
-      ]
-    },
     {
       "id": "5943826844",
       "title": "Software Developer",
@@ -55,6 +21,41 @@
       "redirectUrl": "https://www.adzuna.ca/details/5943826844?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
+        "Testing"
+      ]
+    },
+    {
+      "id": "5964989406",
+      "title": "Software Developer",
+      "company": "Zaber Technologies",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": 83000,
+      "salaryMax": 135000,
+      "createdAt": "2026-11-13T17:27:24Z",
+      "descriptionSnippet": "Zaber is seeking a fast-learning and innovative Software Developer to write code that interacts with the physical world. This role involves tackling a range of challenging projects, including design, implementation, and project management. You’ll join our responsive and supportive software team, which engineers solutions for controlling robotics and motion control devices. The scope of our work includes both internal automation projects and customer-facing software. You’ll work in a caring and …",
+      "redirectUrl": "https://www.adzuna.ca/details/5964989406?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5964888336",
+      "title": "Software Developer",
+      "company": "Teckhorizon Inc",
+      "location": "Regent Park, City of Toronto",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 166400,
+      "salaryMax": 166400,
+      "createdAt": "2026-11-13T13:54:32Z",
+      "descriptionSnippet": "Position Overview The client is seeking an Intermediate Software Developer to design, develop, secure, test, and maintain scalable web applications and backend services. The successful candidate will have strong hands-on experience with C#, .NET, RESTful APIs, SQL Server, and Azure DevOps, and will work onsite with technical and functional project teams. Key Responsibilities Translate technical system specifications into working, tested applications and APIs. Design, build, and maintain efficie…",
+      "redirectUrl": "https://www.adzuna.ca/details/5964888336?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "SQL",
+        "Azure",
+        "API",
         "Testing"
       ]
     },
@@ -136,26 +137,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5953371229",
-      "title": "Software Developer",
-      "company": "Hirematic Talent Solutions",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 124800,
-      "salaryMax": 139360,
-      "createdAt": "2026-11-04T14:04:10Z",
-      "descriptionSnippet": "Senior Software Developer Location: Toronto, Ontario Employment Type: Contract Duration: 135 135 Days Work Arrangement: Onsite 5 Days a Week Hourly Rate: $60 - $67 CAD Inc Job Description The successful candidate will be responsible for developing a public-facing online registration and permit portal using Next.js, TypeScript, and React. The solution will integrate with a back-office system through middleware and REST APIs. Mandatory Skills 10 years of experience as a designer and developer in…",
-      "redirectUrl": "https://www.adzuna.ca/details/5953371229?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "API"
-      ]
-    },
-    {
       "id": "5345231455",
       "title": "Software Developer",
       "company": "ProjectLine Solutions",
@@ -170,6 +151,23 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "TypeScript"
+      ]
+    },
+    {
+      "id": "5954303869",
+      "title": "Software Developer",
+      "company": "Mycanadapayday.com",
+      "location": "Dartmouth, Halifax region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-05T08:32:43Z",
+      "descriptionSnippet": "Mycanadapayday.com is looking for an exceptional Software Developer to join our team and help us execute growth strategy. Job Details: Company name: Mycanadapayday.com Job Title: Software Developer Positions Available: 1 Business and Work Location: Dartmouth, NS B2Y 2N6 Working Hours: 30-40 hours per week, Permanent, Full-time Salary: $41.00 per hour The Software Developer will: • Design, develop, test, and update software and applications • Analyze information to recommend and plan the install…",
+      "redirectUrl": "https://www.adzuna.ca/details/5954303869?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
       ]
     }
   ]

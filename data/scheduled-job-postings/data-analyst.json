@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:25:06.532Z",
+  "generatedAt": "2026-11-14T16:12:25.587Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -77,6 +77,38 @@
       ]
     },
     {
+      "id": "5964888350",
+      "title": "Data Analyst",
+      "company": "J M Group Inc",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-13T13:54:33Z",
+      "descriptionSnippet": "We are seeking a Business Systems Analyst with strong expertise in payments data analysis transaction processing reconciliation and data driven business insights The candidate will be responsible for analyzing payment related data defining data requirements supporting reporting initiatives and driving informed business decisions through data analysis Key Responsibilities Gather and document business requirements related to payments data and reporting Analyze payment transaction data to identify…",
+      "redirectUrl": "https://www.adzuna.ca/details/5964888350?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5727240710",
+      "title": "Data Analyst",
+      "company": "Jose Merciline",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-05-12T16:43:40Z",
+      "descriptionSnippet": "Job title: Data Analyst Description: This position is with the Enterprise System Management (ESM) department. The position is with a team responsible for a set of systems used to manage Morgan Stanley’s IT inventory and assets data, together with their configuration and operational state. This data is critical for regulatory, operational, and efficiency purposes. Our goals are: -Sourcing IT inventory and machine data (e.g. logs, alerts) in a timely manner. -Storing the data in scalable reposito…",
+      "redirectUrl": "https://www.adzuna.ca/details/5727240710?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5907688688",
       "title": "Data Analyst",
       "company": "People Corporation",
@@ -141,41 +173,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5948026872?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5957951454",
-      "title": "Data Analyst",
-      "company": "PCL Construction",
-      "location": "Edmonton, Edmonton region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-08T04:50:23Z",
-      "descriptionSnippet": "Data Analyst The future you want is within reach. Let's build it together. At PCL Constructors Inc., part of the PCL Family of Companies (PCL), we don't just build projects we build opportunities, careers and communities. We are 100% employee-owned, every employee has a stake in our success, and that shared commitment drives how we work, grow and lead in the construction industry. We're a team of builders who care deeply about what we create and who we build with. That includes you. We are not…",
-      "redirectUrl": "https://www.adzuna.ca/details/5957951454?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5946719165",
-      "title": "Data Analyst",
-      "company": "Arc'Teryx",
-      "location": "North Vancouver, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 82000,
-      "salaryMax": 82000,
-      "createdAt": "2026-10-30T05:29:10Z",
-      "descriptionSnippet": "Your Opportunity at ARC’TERYX: As a Data Analyst, you play an essential role in making data accessible and useful across the planning and supply chain functions. You execute analyses, build reports and dashboards, and monitor KPIs that keep cross-functional teams informed and moving. This is a role for someone who takes pride in producing accurate, well-structured work and who wants to develop their analytical skills in a fast-paced, global environment. You will work closely with business users…",
-      "redirectUrl": "https://www.adzuna.ca/details/5946719165?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Dashboarding",
-        "Reporting",
-        "Stakeholder Management",
-        "Metrics"
-      ]
     }
   ]
 }

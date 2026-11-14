@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T17:25:06.532Z",
+  "generatedAt": "2026-11-14T16:12:25.587Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -37,6 +37,23 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "React"
+      ]
+    },
+    {
+      "id": "5945995867",
+      "title": "Frontend Developer",
+      "company": "Jotform",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-29T13:41:55Z",
+      "descriptionSnippet": "Frontend Developer Base pay range: $100,000.00/yr - $160,000.00/yr Jotform is a San Francisco-based SaaS company with more than 35 million users worldwide. We are thriving and growing, and we’ve never needed outside funding. That’s because we like keeping things agile, independent, and fun. Jotform believes everyone should be able to create their own online forms. Our 10,000 ready‑made form templates, 100 integrations, and more than 380 widgets have made us one of the most popular online form b…",
+      "redirectUrl": "https://www.adzuna.ca/details/5945995867?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Agile"
       ]
     },
     {
@@ -106,6 +123,24 @@
       ]
     },
     {
+      "id": "5964819389",
+      "title": "Senior Frontend Developer",
+      "company": "Jobgether",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-13T12:16:56Z",
+      "descriptionSnippet": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Frontend Developer based in Canada. As a Senior Frontend Developer, you will play a key role in building and enhancing modern, high-performance web applications used by a global audience. You will work primarily with React and TypeScript to develop new features, improve existing functionality, and deliver seamless user experiences. Your responsibilities will i…",
+      "redirectUrl": "https://www.adzuna.ca/details/5964819389?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
       "id": "5964324700",
       "title": "Senior Frontend Developer",
       "company": "Jobgether",
@@ -135,40 +170,6 @@
       "createdAt": "2026-11-11T12:20:48Z",
       "descriptionSnippet": "About ELITS ELITS Canada Inc. is part of Accelerate, within the IVER Group in Sweden. IVER Group has approximately 1,300 employees and continues to grow. Through Accelerate, we work at the forefront of technology on digitization and transformation projects for market leading customers. We help customers turn digital ambition into successful implementation through close collaboration, humility, and pride in what we deliver. About the Role ELITS Canada is looking for an experienced Angular Fronte…",
       "redirectUrl": "https://www.adzuna.ca/details/5961945111?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5961944161",
-      "title": "Angular Frontend Developer",
-      "company": "ELITS",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-11T12:20:37Z",
-      "descriptionSnippet": "About ELITS ELITS Canada Inc. is part of Accelerate, within the IVER Group in Sweden. IVER Group has approximately 1,300 employees and continues to grow. Through Accelerate, we work at the forefront of technology on digitization and transformation projects for market leading customers. We help customers turn digital ambition into successful implementation through close collaboration, humility, and pride in what we deliver. About ELITS ELITS Canada Inc. is part of Accelerate, within the IVER Gro…",
-      "redirectUrl": "https://www.adzuna.ca/details/5961944161?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5954380751",
-      "title": "Frontend Developer - Angular",
-      "company": "Infoya",
-      "location": "East York, Toronto",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": 70000,
-      "salaryMax": 80000,
-      "createdAt": "2026-11-05T10:02:43Z",
-      "descriptionSnippet": "Job Description Job Description About the Job: Infoya is seeking a Frontend Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. Office Location: Toronto Employment Type: Permanent Role Type: New position – current requirement W…",
-      "redirectUrl": "https://www.adzuna.ca/details/5954380751?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
