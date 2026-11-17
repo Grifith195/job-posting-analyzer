@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T19:55:32.487Z",
+  "generatedAt": "2026-11-17T18:51:02.952Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -89,6 +89,24 @@
       "extractedKeywords": []
     },
     {
+      "id": "5969280287",
+      "title": "Frontend Developer",
+      "company": "J RAM IT Consulting",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": "contract",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-17T12:18:31Z",
+      "descriptionSnippet": "Location: Montreal, QC (Hybrid – 3 days onsite mandatory) Duration: 12 Months Contract Interview Process: Local candidates preferred. In-person interview required after the initial video round. Travel expenses will be reimbursed upon submission of valid receipts. Role Overview We are seeking an experienced UI/Angular Developer to join the TPC department. The development team is building a new enterprise application leveraging Angular, Java, and Python , focused on reporting, analytics, and fina…",
+      "redirectUrl": "https://www.adzuna.ca/details/5969280287?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Python",
+        "Reporting"
+      ]
+    },
+    {
       "id": "5953803853",
       "title": "Frontend Developer - Angular",
       "company": "INFOYA",
@@ -153,23 +171,6 @@
       "createdAt": "2026-11-11T12:20:48Z",
       "descriptionSnippet": "About ELITS ELITS Canada Inc. is part of Accelerate, within the IVER Group in Sweden. IVER Group has approximately 1,300 employees and continues to grow. Through Accelerate, we work at the forefront of technology on digitization and transformation projects for market leading customers. We help customers turn digital ambition into successful implementation through close collaboration, humility, and pride in what we deliver. About the Role ELITS Canada is looking for an experienced Angular Fronte…",
       "redirectUrl": "https://www.adzuna.ca/details/5961945111?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5961944161",
-      "title": "Angular Frontend Developer",
-      "company": "ELITS",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-11T12:20:37Z",
-      "descriptionSnippet": "About ELITS ELITS Canada Inc. is part of Accelerate, within the IVER Group in Sweden. IVER Group has approximately 1,300 employees and continues to grow. Through Accelerate, we work at the forefront of technology on digitization and transformation projects for market leading customers. We help customers turn digital ambition into successful implementation through close collaboration, humility, and pride in what we deliver. About ELITS ELITS Canada Inc. is part of Accelerate, within the IVER Gro…",
-      "redirectUrl": "https://www.adzuna.ca/details/5961944161?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
