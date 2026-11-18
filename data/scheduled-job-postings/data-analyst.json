@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:51:02.952Z",
+  "generatedAt": "2026-11-18T18:29:32.085Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -125,21 +125,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5948026872",
-      "title": "Data Analyst",
-      "company": "Artech LLC",
-      "location": "Mississauga, Peel region",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-31T08:19:17Z",
-      "descriptionSnippet": "Job Description Job Description Title: Data Analyst Location: Mississauga, Ontario Duration: 6 Months Salary Range: C$41 INC Competitive and commensurate with experience Introduction We are seeking a detail-oriented and analytical Data Analyst to support our business decisions through meaningful insights derived from data. You will be responsible for collecting, analyzing, and interpreting large datasets to identify trends and patterns, support strategic decision-making, and improve operational…",
-      "redirectUrl": "https://www.adzuna.ca/details/5948026872?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5957951454",
       "title": "Data Analyst",
       "company": "PCL Construction",
@@ -170,6 +155,21 @@
       "extractedKeywords": [
         "SQL"
       ]
+    },
+    {
+      "id": "5948026872",
+      "title": "Data Analyst",
+      "company": "Artech LLC",
+      "location": "Mississauga, Peel region",
+      "category": "Accounting & Finance Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-31T08:19:17Z",
+      "descriptionSnippet": "Job Description Job Description Title: Data Analyst \\nLocation: Mississauga, Ontario \\nDuration: 6 Months \\n\\nSalary Range: C$41 INC \\n\\n Competitive and commensurate with experience \\n\\nIntroduction\\n\\n We are seeking a detail-oriented and analytical Data Analyst to support our business decisions through meaningful insights derived from data. You will be responsible for collecting, analyzing, and interpreting large datasets to identify trends and patterns, support strategic decision-making, an…",
+      "redirectUrl": "https://www.adzuna.ca/details/5948026872?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
