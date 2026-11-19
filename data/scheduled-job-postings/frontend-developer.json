@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:29:32.085Z",
+  "generatedAt": "2026-11-19T18:43:51.957Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -7,53 +7,6 @@
     "resultsPerPage": 10
   },
   "jobs": [
-    {
-      "id": "5942783300",
-      "title": "Frontend Developer",
-      "company": "BUMP",
-      "location": "Ottawa, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-26T19:15:54Z",
-      "descriptionSnippet": "Job Description Job Title : Frontend Developer Job Type : Permanent, Full-Time Work Model : Hybrid Location : 18 Auriga Drive, Ottawa, ON Job Status : Existing Vacancy Position Summary As a Frontend Developer on our Prediction Markets team, you will help build and maintain a secure, multi-tenant prediction-market platform designed for Latin American markets. You will primarily contribute to the mobile-first customer trading application, with opportunities to work on administrative and operation…",
-      "redirectUrl": "https://www.adzuna.ca/details/5942783300?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5945995867",
-      "title": "Frontend Developer",
-      "company": "Jotform",
-      "location": "Greater Vancouver, British Columbia",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-29T13:41:55Z",
-      "descriptionSnippet": "Frontend Developer Base pay range: $100,000.00/yr - $160,000.00/yr Jotform is a San Francisco-based SaaS company with more than 35 million users worldwide. We are thriving and growing, and we’ve never needed outside funding. That’s because we like keeping things agile, independent, and fun. Jotform believes everyone should be able to create their own online forms. Our 10,000 ready‑made form templates, 100 integrations, and more than 380 widgets have made us one of the most popular online form b…",
-      "redirectUrl": "https://www.adzuna.ca/details/5945995867?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Agile"
-      ]
-    },
-    {
-      "id": "5943393615",
-      "title": "Frontend Developer",
-      "company": "BUMP",
-      "location": "Nepean, Ottawa region",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-27T08:05:10Z",
-      "descriptionSnippet": "Job Description Job Description Company Description BUMP provides secure charitable lottery and fundraising platform solutions to most recognizable professional sports foundations and well-known and distinguished not-for-profits across North America. Our Mission is to be the most valued partner to charities and not-for-profits, providing fundraising products, services, and creativity, with the goal to maximize charitable revenue. Our Vision is to be the world's leader in fundraising solutions h…",
-      "redirectUrl": "https://www.adzuna.ca/details/5943393615?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
     {
       "id": "4801408437",
       "title": "Frontend Developer",
@@ -74,39 +27,6 @@
       ]
     },
     {
-      "id": "5961945127",
-      "title": "Frontend Developer",
-      "company": "Verifran",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-11T12:20:48Z",
-      "descriptionSnippet": "Build the surfaces people actually judge us by: the assessment a franchisee talks their way through, and the intelligence card a franchisor decides on. Team Engineering Type Full-time Location Remote — anywhere with 4 hours overlap with Eastern Time Two audiences, opposite needs. A franchisee is being measured and needs the experience to feel fair and unhurried. A franchisor is deciding whether to spend a credit and needs density, evidence and speed. Both run on the same design system. You will…",
-      "redirectUrl": "https://www.adzuna.ca/details/5961945127?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5969280287",
-      "title": "Frontend Developer",
-      "company": "J RAM IT Consulting",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": "contract",
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-17T12:18:31Z",
-      "descriptionSnippet": "Location: Montreal, QC (Hybrid – 3 days onsite mandatory) Duration: 12 Months Contract Interview Process: Local candidates preferred. In-person interview required after the initial video round. Travel expenses will be reimbursed upon submission of valid receipts. Role Overview We are seeking an experienced UI/Angular Developer to join the TPC department. The development team is building a new enterprise application leveraging Angular, Java, and Python , focused on reporting, analytics, and fina…",
-      "redirectUrl": "https://www.adzuna.ca/details/5969280287?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Python",
-        "Reporting"
-      ]
-    },
-    {
       "id": "5953803853",
       "title": "Frontend Developer - Angular",
       "company": "INFOYA",
@@ -121,24 +41,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
-      ]
-    },
-    {
-      "id": "5964819389",
-      "title": "Senior Frontend Developer",
-      "company": "Jobgether",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-13T12:16:56Z",
-      "descriptionSnippet": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Frontend Developer based in Canada. As a Senior Frontend Developer, you will play a key role in building and enhancing modern, high-performance web applications used by a global audience. You will work primarily with React and TypeScript to develop new features, improve existing functionality, and deliver seamless user experiences. Your responsibilities will i…",
-      "redirectUrl": "https://www.adzuna.ca/details/5964819389?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "TypeScript"
       ]
     },
     {
@@ -160,20 +62,126 @@
       ]
     },
     {
-      "id": "5961945111",
-      "title": "Angular Frontend Developer",
-      "company": "Elits Canada Inc.",
-      "location": "Montréal, Québec",
+      "id": "5954380751",
+      "title": "Frontend Developer - Angular",
+      "company": "Infoya",
+      "location": "East York, Toronto",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": 70000,
+      "salaryMax": 80000,
+      "createdAt": "2026-11-05T10:02:43Z",
+      "descriptionSnippet": "Job Description Job Description About the Job: Infoya is seeking a Frontend Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. \\n Office Location: Toronto \\n Employment Type: Permanent \\n Role Type: New position – current requ…",
+      "redirectUrl": "https://www.adzuna.ca/details/5954380751?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Communication"
+      ]
+    },
+    {
+      "id": "5947968089",
+      "title": "UI Frontend Developer",
+      "company": "Artech LLC",
+      "location": "Kanata, Ottawa region",
       "category": "IT Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-11-11T12:20:48Z",
-      "descriptionSnippet": "About ELITS ELITS Canada Inc. is part of Accelerate, within the IVER Group in Sweden. IVER Group has approximately 1,300 employees and continues to grow. Through Accelerate, we work at the forefront of technology on digitization and transformation projects for market leading customers. We help customers turn digital ambition into successful implementation through close collaboration, humility, and pride in what we deliver. About the Role ELITS Canada is looking for an experienced Angular Fronte…",
-      "redirectUrl": "https://www.adzuna.ca/details/5961945111?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-10-31T08:01:56Z",
+      "descriptionSnippet": "Job Description Job Description Required Skills & Qualifications\\n\\n \\n Strong hands-on development experience with Angular. \\n Strong proficiency with TypeScript. \\n Solid knowledge of JavaScript, HTML, and CSS. \\n Experience integrating frontend applications with REST APIs. \\n Understanding of modern frontend development practices and component-based architecture. \\n Experience with Git, npm, and CI/CD workflows. \\n Familiarity with automated frontend testing; Playwright experience is preferr…",
+      "redirectUrl": "https://www.adzuna.ca/details/5947968089?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "Communication"
+        "TypeScript",
+        "JavaScript",
+        "Git",
+        "API",
+        "Testing"
+      ]
+    },
+    {
+      "id": "5814506136",
+      "title": "Senior Frontend Developer",
+      "company": "Tempo",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-07-24T17:59:06Z",
+      "descriptionSnippet": "With over 30,000 customers, including a third of Fortune 500 companies, Tempo is trusted by organizations across the globe to make their workflows work better. We create a suite of integrated solutions for time management, resource planning, budget management, roadmapping, program management, reporting and more. We create the tech that enables the modern team to deliver – for every step from first vision to value. Since our beginning in 2007 as a project to make a time-tracking tool to help a c…",
+      "redirectUrl": "https://www.adzuna.ca/details/5814506136?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting"
+      ]
+    },
+    {
+      "id": "5329710798",
+      "title": "Senior Frontend Developer (Logistics)",
+      "company": "Toparo",
+      "location": "Verdun, Montréal",
+      "category": "IT Jobs",
+      "contractType": "permanent",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2025-07-31T07:39:13Z",
+      "descriptionSnippet": "We demand a skilled Front-End Web Developer with mastery in React and Node.js to spearhead the development of our web applications. As an indispensable member of our engineering team, you will be responsible for constructing scalable and highly efficient web solutions that impeccably cater to our customer’s demands. This role transcends conventional web development, immersing you in the avant-garde of cloud-based technologies and empowering you to mould the architecture of our solutions leverag…",
+      "redirectUrl": "https://www.adzuna.ca/details/5329710798?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "5940411804",
+      "title": "Frontend Developer (React/Next.js)",
+      "company": "Modall",
+      "location": "Uxbridge, Durham region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 60000,
+      "salaryMax": 80000,
+      "createdAt": "2026-10-24T07:35:28Z",
+      "descriptionSnippet": "Job Description Job Description About Us\\n Modall is a software development agency based in Uxbridge, Ontario. We are a high-performance team of five, partnering with large enterprises, professional athletes, startups, and Web3 pioneers. We build MVPs, AI applications, SaaS platforms, and mobile apps that push the boundaries of modern tech. \\n Our culture is startup-driven and ambitious. The founders have been building businesses together since 2019 and work with high intensity. We are looking …",
+      "redirectUrl": "https://www.adzuna.ca/details/5940411804?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Next.js"
+      ]
+    },
+    {
+      "id": "5965572812",
+      "title": "Software Engineer II - Frontend - Developer Platform",
+      "company": "Jobgether",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-14T04:51:51Z",
+      "descriptionSnippet": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Software Engineer II – Frontend – Developer Platform based in Canada. As a Software Engineer II specializing in Frontend Developer Platforms, you will help improve the tools, infrastructure, and workflows that enable engineering teams to build and deliver high-quality web applications efficiently. You will focus on optimizing development environments, build systems, …",
+      "redirectUrl": "https://www.adzuna.ca/details/5965572812?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5956813600",
+      "title": "Junior Frontend Developer, Custom Webshop Development",
+      "company": "Xsolla",
+      "location": "Montréal, Québec",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-07T05:12:45Z",
+      "descriptionSnippet": "ABOUT YOU You will build high-performance interfaces that power our promotional tools, segmentation dashboards, and real-time operational workflows used by game studios worldwide. This role requires strong technical skills, a product mindset, and a passion for crafting fast, elegant UIs at scale. À PROPOS DE VOUS Vous bâtirez des interfaces très performantes qui alimentent nos outils promotionnels, nos tableaux de bord de segmentation et nos flux de travail opérationnels en temps réel, utilisés…",
+      "redirectUrl": "https://www.adzuna.ca/details/5956813600?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Dashboarding"
       ]
     }
   ]
