@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:43:51.957Z",
+  "generatedAt": "2026-11-20T18:04:27.550Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -140,6 +140,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5972980993",
+      "title": "Data Analyst",
+      "company": "Navitas",
+      "location": "Burnaby, Greater Vancouver",
+      "category": "Accounting & Finance Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-20T09:12:43Z",
+      "descriptionSnippet": "Job Description Job Description Since 1994, Navitas has been a respected leader in global higher education. As pioneers in the university pathway sector, we have trusted partnerships with more than 30 forward-thinking universities in Australia, New Zealand, United States, Canada, United Kingdom, The Netherlands, United Arab Emirates, Singapore, and Sri Lanka. We provide our partners with access to resources and expertise to help drive large-scale initiatives that provide tangible, lasting benef…",
+      "redirectUrl": "https://www.adzuna.ca/details/5972980993?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5948015927",
       "title": "Data Analyst",
       "company": "Epsilon Solutions LTD",
@@ -155,21 +170,6 @@
       "extractedKeywords": [
         "SQL"
       ]
-    },
-    {
-      "id": "5948026872",
-      "title": "Data Analyst",
-      "company": "Artech LLC",
-      "location": "Mississauga, Peel region",
-      "category": "Accounting & Finance Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-31T08:19:17Z",
-      "descriptionSnippet": "Job Description Job Description Title: Data Analyst \\nLocation: Mississauga, Ontario \\nDuration: 6 Months \\n\\nSalary Range: C$41 INC \\n\\n Competitive and commensurate with experience \\n\\nIntroduction\\n\\n We are seeking a detail-oriented and analytical Data Analyst to support our business decisions through meaningful insights derived from data. You will be responsible for collecting, analyzing, and interpreting large datasets to identify trends and patterns, support strategic decision-making, an…",
-      "redirectUrl": "https://www.adzuna.ca/details/5948026872?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:43:51.957Z",
+  "generatedAt": "2026-11-20T18:04:27.550Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -40,21 +40,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5962344947",
-      "title": "Product Manager",
-      "company": "Altrom Auto Group",
-      "location": "Scarborough, Toronto",
-      "category": "Sales Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-11T20:08:44Z",
-      "descriptionSnippet": "Job Description Under the direction of the Team Leader, the Product Manager is responsible for developing, implementing, and maintaining product line strategies that support and strengthen the Altrom store network and its customers. This role focuses on optimizing product assortment, building and managing supplier relationships, and enhancing our overall buying and selling position. The successful candidate will conduct ongoing market analysis, assess competitive activity, identify new opportun…",
-      "redirectUrl": "https://www.adzuna.ca/details/5962344947?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5962344926",
       "title": "Product Manager",
       "company": "Altrom Auto Group",
@@ -81,6 +66,21 @@
       "createdAt": "2026-11-11T20:08:44Z",
       "descriptionSnippet": "Job Description Under the direction of the Team Leader, the Product Manager is responsible for developing, implementing, and maintaining product line strategies that support and strengthen the Altrom store network and its customers. This role focuses on optimizing product assortment, building and managing supplier relationships, and enhancing our overall buying and selling position. The successful candidate will conduct ongoing market analysis, assess competitive activity, identify new opportun…",
       "redirectUrl": "https://www.adzuna.ca/details/5962344937?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5962344947",
+      "title": "Product Manager",
+      "company": "Altrom Auto Group",
+      "location": "Scarborough, Toronto",
+      "category": "Sales Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-11T20:08:44Z",
+      "descriptionSnippet": "Job Description Under the direction of the Team Leader, the Product Manager is responsible for developing, implementing, and maintaining product line strategies that support and strengthen the Altrom store network and its customers. This role focuses on optimizing product assortment, building and managing supplier relationships, and enhancing our overall buying and selling position. The successful candidate will conduct ongoing market analysis, assess competitive activity, identify new opportun…",
+      "redirectUrl": "https://www.adzuna.ca/details/5962344947?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
