@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T18:04:27.550Z",
+  "generatedAt": "2026-11-21T17:00:32.841Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -125,6 +125,21 @@
       "extractedKeywords": []
     },
     {
+      "id": "5972730547",
+      "title": "Data Analyst",
+      "company": "Navitas",
+      "location": "Belcarra, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 60000,
+      "salaryMax": 70000,
+      "createdAt": "2026-11-20T05:02:30Z",
+      "descriptionSnippet": "Since 1994, Navitas has been a respected leader in global higher education. As pioneers in the university pathway sector, we have trusted partnerships with more than 30 forward-thinking universities in Australia, New Zealand, United States, Canada, United Kingdom, The Netherlands, United Arab Emirates, Singapore, and Sri Lanka. We provide our partners with access to resources and expertise to help drive large-scale initiatives that provide tangible, lasting benefits to students, faculty, staff,…",
+      "redirectUrl": "https://www.adzuna.ca/details/5972730547?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5957951454",
       "title": "Data Analyst",
       "company": "PCL Construction",
@@ -153,23 +168,6 @@
       "redirectUrl": "https://www.adzuna.ca/details/5972980993?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
-    },
-    {
-      "id": "5948015927",
-      "title": "Data Analyst",
-      "company": "Epsilon Solutions LTD",
-      "location": "Toronto, Ontario",
-      "category": "Accounting & Finance Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-31T08:15:16Z",
-      "descriptionSnippet": "Job Description Job Description \\n\\n \\n \\n Role Name:\\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n Data Analyst \\n \\n \\n \\n \\n \\n \\n Location:\\n Toronto 4 days a week on site F2F interview required\\n \\n \\n JOB DESCRIPTION:\\n \\n \\n \\n \\n \\n Must have \\n 6 years of Business domain experience as a Data Analyst experience of client facing products \\n \\n Strong SQL in relation and nonrelational database environment \\n \\n Ability to analyze business requirement current state to produce IT requirements \\n \\n…",
-      "redirectUrl": "https://www.adzuna.ca/details/5948015927?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "SQL"
-      ]
     }
   ]
 }
