@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:00:32.841Z",
+  "generatedAt": "2026-11-22T17:28:19.155Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -135,21 +135,6 @@
       ]
     },
     {
-      "id": "5965572812",
-      "title": "Software Engineer II - Frontend - Developer Platform",
-      "company": "Jobgether",
-      "location": "Canada",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-11-14T04:51:51Z",
-      "descriptionSnippet": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Software Engineer II – Frontend – Developer Platform based in Canada. As a Software Engineer II specializing in Frontend Developer Platforms, you will help improve the tools, infrastructure, and workflows that enable engineering teams to build and deliver high-quality web applications efficiently. You will focus on optimizing development environments, build systems, …",
-      "redirectUrl": "https://www.adzuna.ca/details/5965572812?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5956813600",
       "title": "Junior Frontend Developer, Custom Webshop Development",
       "company": "Xsolla",
@@ -178,6 +163,21 @@
       "createdAt": "2026-09-26T04:59:39Z",
       "descriptionSnippet": "At OneSpan , we specialize in digital identity and anti-fraud solutions that create exceptional and secure experiences. En tant que développeur front-end senior , vous jouerez un rôle clé dans la conception et la mise en œuvre des expériences Web qui sous-tendent les produits d’OneSpan en matière de contrats numériques et de signature électronique. Vous assumerez la responsabilité technique d’initiatives front-end complexes, contribuerez à définir l’architecture de l’interface utilisateur et le…",
       "redirectUrl": "https://www.adzuna.ca/details/5899464591?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5940436728",
+      "title": "Développeur(euse) frontend senior - Senior Frontend Developer",
+      "company": "OneSpan",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-10-24T07:48:00Z",
+      "descriptionSnippet": "Job Description Job Description:\\n\\n At OneSpan, we specialize in digital identity and anti-fraud solutions that create exceptional and secure experiences.\\n\\nEn tant que développeur front-end senior, vous jouerez un rôle clé dans la conception et la mise en œuvre des expériences Web qui sous-tendent les produits d'OneSpan en matière de contrats numériques et de signature électronique. Vous assumerez la responsabilité technique d'initiatives front-end complexes, contribuerez à définir l'archite…",
+      "redirectUrl": "https://www.adzuna.ca/details/5940436728?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     }
