@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:28:19.155Z",
+  "generatedAt": "2026-11-23T21:47:34.239Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -99,6 +99,21 @@
       ]
     },
     {
+      "id": "5974913910",
+      "title": "Lead, Frontend Developer",
+      "company": "Medcan",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 85122,
+      "salaryMax": 117043,
+      "createdAt": "2026-11-22T05:06:20Z",
+      "descriptionSnippet": "Are you passionate about helping people live their healthiest lives? Do you thrive in a dynamic, supportive environment where your contributions truly matter? If so, Medcan is the place for you! This job is for a current vacancy. About the Role Medcan is seeking a highly skilled Lead Front-End Developer to own the development, performance, and continuous evolution of Medcan.com and our digital experience platform. This is a hands-on technical role for an experienced developer who wants to build…",
+      "redirectUrl": "https://www.adzuna.ca/details/5974913910?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5329710798",
       "title": "Senior Frontend Developer (Logistics)",
       "company": "Toparo",
@@ -114,24 +129,6 @@
       "extractedKeywords": [
         "React",
         "Node.js"
-      ]
-    },
-    {
-      "id": "5940411804",
-      "title": "Frontend Developer (React/Next.js)",
-      "company": "Modall",
-      "location": "Uxbridge, Durham region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 60000,
-      "salaryMax": 80000,
-      "createdAt": "2026-10-24T07:35:28Z",
-      "descriptionSnippet": "Job Description Job Description About Us\\n Modall is a software development agency based in Uxbridge, Ontario. We are a high-performance team of five, partnering with large enterprises, professional athletes, startups, and Web3 pioneers. We build MVPs, AI applications, SaaS platforms, and mobile apps that push the boundaries of modern tech. \\n Our culture is startup-driven and ambitious. The founders have been building businesses together since 2019 and work with high intensity. We are looking …",
-      "redirectUrl": "https://www.adzuna.ca/details/5940411804?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "Next.js"
       ]
     },
     {
@@ -167,19 +164,23 @@
       "extractedKeywords": []
     },
     {
-      "id": "5940436728",
-      "title": "Développeur(euse) frontend senior - Senior Frontend Developer",
-      "company": "OneSpan",
-      "location": "Montréal, Québec",
+      "id": "5907688840",
+      "title": "Frontend Software Developer",
+      "company": "Corpay",
+      "location": "Toronto, Ontario",
       "category": "IT Jobs",
       "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-24T07:48:00Z",
-      "descriptionSnippet": "Job Description Job Description:\\n\\n At OneSpan, we specialize in digital identity and anti-fraud solutions that create exceptional and secure experiences.\\n\\nEn tant que développeur front-end senior, vous jouerez un rôle clé dans la conception et la mise en œuvre des expériences Web qui sous-tendent les produits d'OneSpan en matière de contrats numériques et de signature électronique. Vous assumerez la responsabilité technique d'initiatives front-end complexes, contribuerez à définir l'archite…",
-      "redirectUrl": "https://www.adzuna.ca/details/5940436728?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": 110000,
+      "salaryMax": 130000,
+      "createdAt": "2026-10-02T04:34:15Z",
+      "descriptionSnippet": "Frontend Software Developer What We Need Corpay is currently looking to hire a Frontend Software Developer within our Cross-Border division. This position falls under our Corporate Payments line of business and is located in Toronto, ON. In an agile team, you will build and modernize React and TypeScript interfaces for cross-border payments, foreign exchange, accounts, and risk management. You will improve the usability, accessibility, reliability, and maintainability of an established applicat…",
+      "redirectUrl": "https://www.adzuna.ca/details/5907688840?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
-      "extractedKeywords": []
+      "extractedKeywords": [
+        "React",
+        "TypeScript",
+        "Agile"
+      ]
     }
   ]
 }
