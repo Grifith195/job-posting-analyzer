@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T21:47:34.239Z",
+  "generatedAt": "2026-11-24T20:25:22.189Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -114,6 +114,27 @@
       "extractedKeywords": []
     },
     {
+      "id": "5977438252",
+      "title": "Senior Frontend Developer (ReactJs)",
+      "company": "Infinity Solutions",
+      "location": "Ontario, Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-24T13:55:25Z",
+      "descriptionSnippet": "SeniorFrontendDeveloper Location: Brampton, ON Job Type: Full Time / Contract Smmary Looking for a Sr. Front-End Developer with strong expertise in Angular, TypeScript, Micro Frontends, REST APIs, GraphQL, Azure DevOps, Docker, and Kubernetes. Experience with enterprise-scale applications, SSO integrations, and cloud-native development is highly preferred. Required Skills Angular 15 (Angular 19 Preferred), TypeScript, JavaScript, RxJS, Angular Signals, Angular Material, Micro Frontends, Module …",
+      "redirectUrl": "https://www.adzuna.ca/details/5977438252?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "TypeScript",
+        "JavaScript",
+        "Azure",
+        "Docker",
+        "API"
+      ]
+    },
+    {
       "id": "5329710798",
       "title": "Senior Frontend Developer (Logistics)",
       "company": "Toparo",
@@ -132,6 +153,24 @@
       ]
     },
     {
+      "id": "5976170859",
+      "title": "Frontend Developer (React/Next.js)",
+      "company": "Modall",
+      "location": "Uxbridge, Durham region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 60000,
+      "salaryMax": 80000,
+      "createdAt": "2026-11-23T09:11:56Z",
+      "descriptionSnippet": "Job Description Job Description About Us\\n Modall is a software development agency based in Uxbridge, Ontario. We are a high-performance team of five, partnering with large enterprises, professional athletes, startups, and Web3 pioneers. We build MVPs, AI applications, SaaS platforms, and mobile apps that push the boundaries of modern tech. \\n Our culture is startup-driven and ambitious. The founders have been building businesses together since 2019 and work with high intensity. We are looking …",
+      "redirectUrl": "https://www.adzuna.ca/details/5976170859?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "React",
+        "Next.js"
+      ]
+    },
+    {
       "id": "5956813600",
       "title": "Junior Frontend Developer, Custom Webshop Development",
       "company": "Xsolla",
@@ -146,40 +185,6 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Dashboarding"
-      ]
-    },
-    {
-      "id": "5899464591",
-      "title": "Développeur(euse) frontend senior - Senior Frontend Developer",
-      "company": "OneSpan",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-26T04:59:39Z",
-      "descriptionSnippet": "At OneSpan , we specialize in digital identity and anti-fraud solutions that create exceptional and secure experiences. En tant que développeur front-end senior , vous jouerez un rôle clé dans la conception et la mise en œuvre des expériences Web qui sous-tendent les produits d’OneSpan en matière de contrats numériques et de signature électronique. Vous assumerez la responsabilité technique d’initiatives front-end complexes, contribuerez à définir l’architecture de l’interface utilisateur et le…",
-      "redirectUrl": "https://www.adzuna.ca/details/5899464591?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5907688840",
-      "title": "Frontend Software Developer",
-      "company": "Corpay",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 110000,
-      "salaryMax": 130000,
-      "createdAt": "2026-10-02T04:34:15Z",
-      "descriptionSnippet": "Frontend Software Developer What We Need Corpay is currently looking to hire a Frontend Software Developer within our Cross-Border division. This position falls under our Corporate Payments line of business and is located in Toronto, ON. In an agile team, you will build and modernize React and TypeScript interfaces for cross-border payments, foreign exchange, accounts, and risk management. You will improve the usability, accessibility, reliability, and maintainability of an established applicat…",
-      "redirectUrl": "https://www.adzuna.ca/details/5907688840?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "React",
-        "TypeScript",
-        "Agile"
       ]
     }
   ]

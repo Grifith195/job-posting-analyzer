@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T21:47:34.239Z",
+  "generatedAt": "2026-11-24T20:25:22.189Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -38,21 +38,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5880783553",
-      "title": "Product Manager",
-      "company": "Mircom Group of Companies",
-      "location": "Concord, York region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-09-12T04:48:30Z",
-      "descriptionSnippet": "Product Manager Founded in 1991, the Mircom Group of Companies is North America’s largest independent designer, manufacturer and distributor of intelligent building and life safety solutions. Reaching customers in over 100 countries worldwide, our portfolio includes: fire detection & alarm, communications & security, mass notification, nurse call, and building automation & smart technologies. Mircom’s mission is to save lives and protect property by providing a line-up of innovative and advance…",
-      "redirectUrl": "https://www.adzuna.ca/details/5880783553?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5852232546",
       "title": "Product Manager",
       "company": "BinSentry",
@@ -68,32 +53,17 @@
       "extractedKeywords": []
     },
     {
-      "id": "5960418057",
+      "id": "5932128939",
       "title": "Product Manager",
-      "company": "Mircom Group of Companies",
-      "location": "Vaughan, York region",
+      "company": "Linedata",
+      "location": "Toronto, Ontario",
       "category": "Accounting & Finance Jobs",
       "contractType": null,
       "salaryMin": null,
       "salaryMax": null,
-      "createdAt": "2026-11-10T09:19:17Z",
-      "descriptionSnippet": "Job Description Job Description \\n Product Manager \\n \\n \\n Founded in 1991, the Mircom Group of Companies is North America’s largest independent designer, manufacturer and distributor of intelligent building and life safety solutions. Reaching customers in over 100 countries worldwide, our portfolio includes: fire detection & alarm, communications & security, mass notification, nurse call, and building automation & smart technologies. \\n Mircom’s mission is to save lives and protect property b…",
-      "redirectUrl": "https://www.adzuna.ca/details/5960418057?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5941386910",
-      "title": "Product Manager",
-      "company": "BinSentry",
-      "location": "Kitchener, Waterloo region",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 110000,
-      "salaryMax": 110000,
-      "createdAt": "2026-10-25T07:25:02Z",
-      "descriptionSnippet": "Job Description Job Description About BinSentry \\n \\n BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-…",
-      "redirectUrl": "https://www.adzuna.ca/details/5941386910?utm_medium=api&utm_source=3ebb75f8",
+      "createdAt": "2026-10-17T07:38:31Z",
+      "descriptionSnippet": "Job Description Job Description Linedata is seeking an experienced Product Manager who combines direct commercial banking or lending experience with strategic product management expertise . \\n The ideal candidate began their career working in commercial lending, credit analysis, underwriting, loan origination, or credit risk within a bank or lending institution before transitioning into a Product Management role within financial technology. \\n We are looking for a commercially minded Product Ma…",
+      "redirectUrl": "https://www.adzuna.ca/details/5932128939?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -163,6 +133,42 @@
       "source": "Adzuna",
       "extractedKeywords": [
         "Communication"
+      ]
+    },
+    {
+      "id": "5974910253",
+      "title": "Product Manager",
+      "company": "CGI",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 95000,
+      "salaryMax": 145000,
+      "createdAt": "2026-11-22T05:04:29Z",
+      "descriptionSnippet": "Position Description: We are seeking a senior product professional to manage and evolve insurance data products, support product strategy and growth, identify new opportunities, and monitor customer, market, and industry needs. This individual contributor role combines hands-on product management with strategic planning and stakeholder engagement across customers, business, operations, and technology teams. This role is hybrid and requires you to be at our downtown Toronto and/or client office …",
+      "redirectUrl": "https://www.adzuna.ca/details/5974910253?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management",
+        "Product Strategy"
+      ]
+    },
+    {
+      "id": "5939030962",
+      "title": "Product Manager",
+      "company": "HTS",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 130000,
+      "salaryMax": 160000,
+      "createdAt": "2026-10-23T04:52:06Z",
+      "descriptionSnippet": "Job Mandate The Product Manager reports to the Director, Business Solutions, who, as Product Owner, sets product vision, strategy, and priorities. As a trusted advisor to the Product Owner, the Product Manager helps shape KORE’s AI and application strategy and translates it into product goals, roadmaps, and a prioritized backlog. The primary focus of the role is building KORE’s enterprise AI platform from the ground up – integrating third-party large language models (LLMs), business application…",
+      "redirectUrl": "https://www.adzuna.ca/details/5939030962?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Reporting",
+        "Roadmapping"
       ]
     }
   ]
