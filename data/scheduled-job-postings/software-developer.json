@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:25:22.189Z",
+  "generatedAt": "2026-11-25T19:39:32.741Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -18,7 +18,7 @@
       "salaryMax": null,
       "createdAt": "2026-11-22T08:48:20Z",
       "descriptionSnippet": "Job Description Job Description JMT Consultants Inc. \\n Winnipeg (In office) / Remote (Consideration for the right candidate) \\n Full-Time Permanent Position \\n \\n JMT Consultants is a North American-based global leader specializing in steel and concrete design solutions. Services include pre-construction modeling, structural design support, steel and concrete detailing, connection and stair engineering, panel book detailing, estimate modeling, and BIM management. \\n \\n Join our dynamic and rap…",
-      "redirectUrl": "https://www.adzuna.ca/land/ad/5975116741?se=CCqZLEXo8RGi1apkMwkphA&utm_medium=api&utm_source=3ebb75f8&v=3DB64E67A4274A54236109870F803FE3EE1A9A7E",
+      "redirectUrl": "https://www.adzuna.ca/land/ad/5975116741?se=ZEBP8Afp8RGDs_AlBR7DqA&utm_medium=api&utm_source=3ebb75f8&v=3DB64E67A4274A54236109870F803FE3EE1A9A7E",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -55,21 +55,6 @@
       ]
     },
     {
-      "id": "5912751511",
-      "title": "Software Developer",
-      "company": "Botpress Technologies Inc.",
-      "location": "Montréal, Québec",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-10-05T12:58:35Z",
-      "descriptionSnippet": "Help redefine customer support for the AI era. Most companies are running support on ticketing systems built in 2007, with AI bolted on as an afterthought. Botpress is the enterprise-grade AI agent platform for customer support — built the other way around. As the 3rd fastest-growing B2B AI start-up worldwide , we're displacing legacy platforms like Zendesk at scale — across industries, regions, and thousands of companies worldwide. The work ahead is ambitious. The opportunity is rare. We take …",
-      "redirectUrl": "https://www.adzuna.ca/details/5912751511?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5972002717",
       "title": "Software Developer",
       "company": "Hirematic Talent Solutions",
@@ -81,21 +66,6 @@
       "createdAt": "2026-11-19T13:53:36Z",
       "descriptionSnippet": "Software Developer Senior Location: Toronto, Ontario Job Type: Contract Rate: $471 per day Contract Duration: 281281 Days Work Arrangement: 5 days onsite Must have: Exceptional knowledge of Oracle E-Business table structure related to AP, IBY, PO, AR, GL, and FND etc. Previous development experience in major Oracle EBS R12.2 on customizations and extensions. Description Provide data extracts and analysis to assist business analysis and decision making. Assist in business solution design to ensu…",
       "redirectUrl": "https://www.adzuna.ca/details/5972002717?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5975923690",
-      "title": "Software Developer",
-      "company": "Turing",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 416000,
-      "salaryMax": 624000,
-      "createdAt": "2026-11-23T03:29:30Z",
-      "descriptionSnippet": "About Us: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in software engineering, logical reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise …",
-      "redirectUrl": "https://www.adzuna.ca/details/5975923690?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -160,6 +130,40 @@
       "redirectUrl": "https://www.adzuna.ca/details/5948019587?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
+    },
+    {
+      "id": "5955450466",
+      "title": "Software Developer",
+      "company": "Societ Inc.",
+      "location": "Toronto, Ontario",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-06T03:58:01Z",
+      "descriptionSnippet": "Software Developer Build software that helps nonprofits do meaningful work. At Societ, we create software for nonprofit organizations. We’re looking for an experienced Software Developer who enjoys solving complex problems, building useful features, and helping keep products dependable in production. You’ll contribute across the development lifecycle, from understanding what clients need to designing, building, testing, and releasing solutions. You’ll work across our technology stack, take owne…",
+      "redirectUrl": "https://www.adzuna.ca/details/5955450466?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
+      ]
+    },
+    {
+      "id": "5954292140",
+      "title": "Software Developer",
+      "company": "Societ Inc.",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-05T08:17:11Z",
+      "descriptionSnippet": "Job Description Job Description Software Developer \\n Build software that helps nonprofits do meaningful work. \\n At Societ, we create software for nonprofit organizations. We’re looking for an experienced Software Developer who enjoys solving complex problems, building useful features, and helping keep products dependable in production. \\n You’ll contribute across the development lifecycle, from understanding what clients need to designing, building, testing, and releasing solutions. You’ll wo…",
+      "redirectUrl": "https://www.adzuna.ca/details/5954292140?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Testing"
+      ]
     }
   ]
 }

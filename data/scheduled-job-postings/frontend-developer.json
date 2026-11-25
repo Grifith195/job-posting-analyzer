@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:25:22.189Z",
+  "generatedAt": "2026-11-25T19:39:32.741Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -24,40 +24,6 @@
         "React",
         "API",
         "Stakeholder Management"
-      ]
-    },
-    {
-      "id": "5953803853",
-      "title": "Frontend Developer - Angular",
-      "company": "INFOYA",
-      "location": "East York, Toronto",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": 70000,
-      "salaryMax": 80000,
-      "createdAt": "2026-11-04T23:21:56Z",
-      "descriptionSnippet": "About the Job: Infoya is seeking a Frontend Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. Office Location: Toronto Employment Type: Permanent Role Type: New position – current requirement Work Arrangement: Hybrid (2 days …",
-      "redirectUrl": "https://www.adzuna.ca/details/5953803853?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
-      ]
-    },
-    {
-      "id": "5954380751",
-      "title": "Frontend Developer - Angular",
-      "company": "Infoya",
-      "location": "East York, Toronto",
-      "category": "IT Jobs",
-      "contractType": "permanent",
-      "salaryMin": 70000,
-      "salaryMax": 80000,
-      "createdAt": "2026-11-05T10:02:43Z",
-      "descriptionSnippet": "Job Description Job Description About the Job: Infoya is seeking a Frontend Developer with deep Angular expertise to own frontend features from design through delivery. You will work independently, guide other developers through code reviews and troubleshooting, and collaborate with architects, business analysts, quality analysts, and project managers to deliver accessible, reliable applications. \\n Office Location: Toronto \\n Employment Type: Permanent \\n Role Type: New position – current requ…",
-      "redirectUrl": "https://www.adzuna.ca/details/5954380751?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
       ]
     },
     {
@@ -186,6 +152,36 @@
       "extractedKeywords": [
         "Dashboarding"
       ]
+    },
+    {
+      "id": "5899464591",
+      "title": "Développeur(euse) frontend senior - Senior Frontend Developer",
+      "company": "OneSpan",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-09-26T04:59:39Z",
+      "descriptionSnippet": "At OneSpan , we specialize in digital identity and anti-fraud solutions that create exceptional and secure experiences. En tant que développeur front-end senior , vous jouerez un rôle clé dans la conception et la mise en œuvre des expériences Web qui sous-tendent les produits d’OneSpan en matière de contrats numériques et de signature électronique. Vous assumerez la responsabilité technique d’initiatives front-end complexes, contribuerez à définir l’architecture de l’interface utilisateur et le…",
+      "redirectUrl": "https://www.adzuna.ca/details/5899464591?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5976168829",
+      "title": "Développeur(euse) frontend senior - Senior Frontend Developer",
+      "company": "OneSpan",
+      "location": "Montréal, Québec",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-23T09:09:30Z",
+      "descriptionSnippet": "Job Description Job Description:\\n\\n At OneSpan, we specialize in digital identity and anti-fraud solutions that create exceptional and secure experiences.\\n\\nEn tant que développeur front-end senior, vous jouerez un rôle clé dans la conception et la mise en œuvre des expériences Web qui sous-tendent les produits d'OneSpan en matière de contrats numériques et de signature électronique. Vous assumerez la responsabilité technique d'initiatives front-end complexes, contribuerez à définir l'archite…",
+      "redirectUrl": "https://www.adzuna.ca/details/5976168829?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
