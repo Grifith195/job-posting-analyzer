@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:39:32.741Z",
+  "generatedAt": "2026-11-26T19:19:50.774Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -38,21 +38,6 @@
       "extractedKeywords": []
     },
     {
-      "id": "5852232546",
-      "title": "Product Manager",
-      "company": "BinSentry",
-      "location": "Kitchener, Waterloo region",
-      "category": "Engineering Jobs",
-      "contractType": null,
-      "salaryMin": 110000,
-      "salaryMax": 130000,
-      "createdAt": "2026-08-22T04:18:41Z",
-      "descriptionSnippet": "About BinSentry BinSentry is an extremely fast-growing ag-tech company started here in KW. BinSentry is focused on providing solutions for the agriculture supply chain that help increase efficiency, reduce costs, and enhance profitability. As a leader in the use of artificial intelligence, BinSentry offers technology solutions that pair best-in-class optical sensors with user-friendly software to provide our customers with enhanced forecasting and decision-making capabilities. With our technolo…",
-      "redirectUrl": "https://www.adzuna.ca/details/5852232546?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5932128939",
       "title": "Product Manager",
       "company": "Linedata",
@@ -62,7 +47,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "createdAt": "2026-10-17T07:38:31Z",
-      "descriptionSnippet": "Job Description Job Description Linedata is seeking an experienced Product Manager who combines direct commercial banking or lending experience with strategic product management expertise . \\n The ideal candidate began their career working in commercial lending, credit analysis, underwriting, loan origination, or credit risk within a bank or lending institution before transitioning into a Product Management role within financial technology. \\n We are looking for a commercially minded Product Ma…",
+      "descriptionSnippet": "Job Description Job Description Linedata is seeking an experienced Product Manager who combines direct commercial banking or lending experience with strategic product management expertise. \\n The ideal candidate began their career working in commercial lending, credit analysis, underwriting, loan origination, or credit risk within a bank or lending institution before transitioning into a Product Management role within financial technology. \\n We are looking for a commercially minded Product Man…",
       "redirectUrl": "https://www.adzuna.ca/details/5932128939?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
@@ -169,6 +154,23 @@
       "extractedKeywords": [
         "Reporting",
         "Roadmapping"
+      ]
+    },
+    {
+      "id": "5967607441",
+      "title": "Product Manager",
+      "company": "Altea Recruiting",
+      "location": "Canada",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 95000,
+      "salaryMax": 135000,
+      "createdAt": "2026-11-16T04:49:02Z",
+      "descriptionSnippet": "About the Role As a Product Manager, you will be responsible for defining, prioritizing, and delivering product initiatives that align with business goals and user needs. You will work closely with cross-functional teams to guide products through the full lifecycle, from discovery and planning to launch and iteration. This role is suited for professionals who are strategic, analytical, and comfortable balancing business, user, and technical considerations. Your Responsibilities • Define product…",
+      "redirectUrl": "https://www.adzuna.ca/details/5967607441?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": [
+        "Stakeholder Management"
       ]
     }
   ]
