@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T19:19:50.774Z",
+  "generatedAt": "2026-11-27T19:14:02.946Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -19,38 +19,6 @@
       "createdAt": "2026-11-13T17:27:24Z",
       "descriptionSnippet": "Zaber is seeking a fast-learning and innovative Software Developer to write code that interacts with the physical world. This role involves tackling a range of challenging projects, including design, implementation, and project management. You’ll join our responsive and supportive software team, which engineers solutions for controlling robotics and motion control devices. The scope of our work includes both internal automation projects and customer-facing software. You’ll work in a caring and …",
       "redirectUrl": "https://www.adzuna.ca/details/5964989406?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
-      "id": "5970699337",
-      "title": "Software Developer",
-      "company": "Hirematic Talent Solutions",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 117000,
-      "salaryMax": 122460,
-      "createdAt": "2026-11-18T13:55:50Z",
-      "descriptionSnippet": "Software Developer CRM Senior Location: Toronto, Ontario Job Type: Contract Rate: $471 per day Contract Duration: 221 221 Days Work Arrangement: 5 Days Onsite Must Have: Minimum 7 years of software development and enterprise application delivery experience. Minimum 5 years of experience implementing Dynamics 365 and Power Platform solutions and Azure solution design Working knowledge of Dynamics interoperability, integration and capability with other Microsoft cloud technologies Working knowle…",
-      "redirectUrl": "https://www.adzuna.ca/details/5970699337?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Azure"
-      ]
-    },
-    {
-      "id": "5972002717",
-      "title": "Software Developer",
-      "company": "Hirematic Talent Solutions",
-      "location": "Toronto, Ontario",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 117000,
-      "salaryMax": 122200,
-      "createdAt": "2026-11-19T13:53:36Z",
-      "descriptionSnippet": "Software Developer Senior Location: Toronto, Ontario Job Type: Contract Rate: $471 per day Contract Duration: 281281 Days Work Arrangement: 5 days onsite Must have: Exceptional knowledge of Oracle E-Business table structure related to AP, IBY, PO, AR, GL, and FND etc. Previous development experience in major Oracle EBS R12.2 on customizations and extensions. Description Provide data extracts and analysis to assist business analysis and decision making. Assist in business solution design to ensu…",
-      "redirectUrl": "https://www.adzuna.ca/details/5972002717?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": []
     },
@@ -119,6 +87,21 @@
       ]
     },
     {
+      "id": "5862013778",
+      "title": "Software Developer",
+      "company": "GeoSpectrum Technologies, Inc",
+      "location": "Port Coquitlam, Greater Vancouver",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 80000,
+      "salaryMax": 130000,
+      "createdAt": "2026-08-30T04:26:10Z",
+      "descriptionSnippet": "International Submarine Engineering Location: Port Coquitlam, BC Workplace: Onsite About Us For over 50 years, International Submarine Engineering (ISE) has been a world leader in the production of manned and unmanned underwater vehicles. ISE offers a workplace where you will have an opportunity to contribute to cutting-edge technology from concept to delivery. We design, engineer and manufacture state-of-the-art subsea vehicles. Simply put - we make cool and innovative technology. We place gre…",
+      "redirectUrl": "https://www.adzuna.ca/details/5862013778?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
       "id": "5954292140",
       "title": "Software Developer",
       "company": "Societ Inc.",
@@ -136,21 +119,6 @@
       ]
     },
     {
-      "id": "5862013778",
-      "title": "Software Developer",
-      "company": "GeoSpectrum Technologies, Inc",
-      "location": "Port Coquitlam, Greater Vancouver",
-      "category": "IT Jobs",
-      "contractType": null,
-      "salaryMin": 80000,
-      "salaryMax": 130000,
-      "createdAt": "2026-08-30T04:26:10Z",
-      "descriptionSnippet": "International Submarine Engineering Location: Port Coquitlam, BC Workplace: Onsite About Us For over 50 years, International Submarine Engineering (ISE) has been a world leader in the production of manned and unmanned underwater vehicles. ISE offers a workplace where you will have an opportunity to contribute to cutting-edge technology from concept to delivery. We design, engineer and manufacture state-of-the-art subsea vehicles. Simply put - we make cool and innovative technology. We place gre…",
-      "redirectUrl": "https://www.adzuna.ca/details/5862013778?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": []
-    },
-    {
       "id": "5964636473",
       "title": "Software Developer",
       "company": "Prolim Global",
@@ -166,6 +134,36 @@
       "extractedKeywords": [
         "Python"
       ]
+    },
+    {
+      "id": "5978199783",
+      "title": "Software Developer",
+      "company": "University of British Columbia",
+      "location": "Greater Vancouver, British Columbia",
+      "category": "Engineering Jobs",
+      "contractType": null,
+      "salaryMin": 79580,
+      "salaryMax": 114399,
+      "createdAt": "2026-11-25T05:09:41Z",
+      "descriptionSnippet": "Job Title Software Developer Job Category M&P - AAPS Job Profile AAPS Salaried - Information Systems and Technology, Level B Job Family Group Staff - Non Union Department Prisman Research Lab Otolaryngology | Department of Surgery | Faculty of Medicine Compensation Range $6,631.67 - $9,533.25 CAD Monthly The Compensation Range is the span between the minimum and maximum base salary for a position. The midpoint of the range is approximately halfway between the minimum and the maximum and represe…",
+      "redirectUrl": "https://www.adzuna.ca/details/5978199783?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
+    },
+    {
+      "id": "5978432014",
+      "title": "Software Developer",
+      "company": "MSCP Heat Management Solutions",
+      "location": "Sherwood Park, Edmonton region",
+      "category": "IT Jobs",
+      "contractType": null,
+      "salaryMin": 100000,
+      "salaryMax": 110000,
+      "createdAt": "2026-11-25T09:10:08Z",
+      "descriptionSnippet": "Job Description Job Description:\\n\\nSoftware Developer Salary: $100,000–$110,000 CAD annually Responsibilities The Software Developer will be responsible for the design, development, implementation, integration, maintenance, and continuous improvement of software applications, artificial intelligence (AI) capabilities, intelligent automation solutions, and digital technologies that support MSCP's operational, manufacturing, engineering, project management, and administrative functions. The role…",
+      "redirectUrl": "https://www.adzuna.ca/details/5978432014?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }

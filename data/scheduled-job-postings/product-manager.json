@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T19:19:50.774Z",
+  "generatedAt": "2026-11-27T19:14:02.946Z",
   "source": "Adzuna",
   "country": "ca",
   "query": {
@@ -68,20 +68,20 @@
       "extractedKeywords": []
     },
     {
-      "id": "5830601802",
+      "id": "5846356689",
       "title": "Product Manager",
-      "company": "Upshop",
-      "location": "Mississauga, Peel region",
-      "category": "IT Jobs",
+      "company": "IPG",
+      "location": "Truro, Colchester",
+      "category": "Sales Jobs",
       "contractType": null,
-      "salaryMin": 100000,
-      "salaryMax": 130000,
-      "createdAt": "2026-08-06T11:10:52Z",
-      "descriptionSnippet": "Product Manager Role Overview Upshop is seeking a Product Manager responsible for helping define, build, and deliver product capabilities within Upshop’s retail operations platform. This role will partner closely with engineering, design, data, and customer-facing teams to develop solutions that help grocery retailers improve operational efficiency, reduce waste, and drive profitability. The Product Manager will work directly with customers and internal stakeholders to understand operational ch…",
-      "redirectUrl": "https://www.adzuna.ca/details/5830601802?utm_medium=api&utm_source=3ebb75f8",
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-08-18T04:23:40Z",
+      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
+      "redirectUrl": "https://www.adzuna.ca/details/5846356689?utm_medium=api&utm_source=3ebb75f8",
       "source": "Adzuna",
       "extractedKeywords": [
-        "Stakeholder Management"
+        "Communication"
       ]
     },
     {
@@ -101,23 +101,6 @@
         "Testing",
         "Stakeholder Management",
         "Roadmapping"
-      ]
-    },
-    {
-      "id": "5846356689",
-      "title": "Product Manager",
-      "company": "IPG",
-      "location": "Truro, Colchester",
-      "category": "Sales Jobs",
-      "contractType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "createdAt": "2026-08-18T04:23:40Z",
-      "descriptionSnippet": "Position Description Title: Product Manager Department: Product Management Immediate Supervisor: VP Product Management and Customer Experience Status: Exempt Position Purpose: Lead the growth and success of an assigned product line by developing market-driven strategies, identifying new opportunities, and advancing product innovation. Through strong collaboration and customer engagement, this role helps drive sustainable revenue growth and long-term market leadership. Principal Accountabilities…",
-      "redirectUrl": "https://www.adzuna.ca/details/5846356689?utm_medium=api&utm_source=3ebb75f8",
-      "source": "Adzuna",
-      "extractedKeywords": [
-        "Communication"
       ]
     },
     {
@@ -172,6 +155,21 @@
       "extractedKeywords": [
         "Stakeholder Management"
       ]
+    },
+    {
+      "id": "5975095870",
+      "title": "Product Manager",
+      "company": "Zortech Solutions",
+      "location": "Toronto, Ontario",
+      "category": "Accounting & Finance Jobs",
+      "contractType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "createdAt": "2026-11-22T08:26:45Z",
+      "descriptionSnippet": "Job Description Job Description Title – Product Manager \\nlocation – Toronto, ON \\nRate - $90/HR \\nSubmission Last Date – 2nd May, 2025, 4pm EST \\n\\n \\n\\n \\n\\n Description \\n\\n Responsibilities: Responsible for the product planning and execution throughout the product lifecycle, including: Gathering and prioritizing product and customer requirements Defining the product vision Ensuring that the product supports the com \\n\\n Skills \\n\\n Experience and Skill Set Requirements \\n\\n Key Responsibili…",
+      "redirectUrl": "https://www.adzuna.ca/details/5975095870?utm_medium=api&utm_source=3ebb75f8",
+      "source": "Adzuna",
+      "extractedKeywords": []
     }
   ]
 }
